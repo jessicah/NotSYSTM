@@ -1,0 +1,1380 @@
+{
+  "uid": "QuGI5I",
+  "name": "June 28-29 - SBT GRVL",
+  "description": "Prepare for the 2025 Steamboat Gravel Event",
+  "stepTitle": "SBT Route Options",
+  "stepDescription": "Are you riding or racing?",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "be60mK",
+      "name": "Ride (Green, Red \u0026 Blue Courses)",
+      "description": "12 week training plan",
+      "stepTitle": "Saturday Courses",
+      "stepDescription": "Which course are you riding?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "rnAYGt",
+          "name": "Green Course",
+          "description": "12 week training plan",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "HjnoyH",
+              "name": "Low Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "DbLUzy",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "kZaCfF",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "Muw1naBsIA",
+                          "name": "2025 SBT GRVL - Green Course - Low Volume - 2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "Muw1naBsIA",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "rSj9d2",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "5EjMyQfCZm",
+                          "name": "2025 SBT GRVL - Green Course - Low Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "5EjMyQfCZm",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "yJtZxj",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "7b3tQZ",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "hJ16tI7OQ8",
+                          "name": "2025 SBT GRVL - Green Course - Low Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "hJ16tI7OQ8",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "Nrq09F",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "2rtEyOI06v",
+                          "name": "2025 SBT GRVL - Green Course - Low Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "2rtEyOI06v",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "sQEOjk",
+              "name": "Moderate Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "WkOO4o",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "mdGisJ",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "6mUIREGyn6",
+                          "name": "2025 SBT GRVL - Green Course - Moderate Volume - 2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "6mUIREGyn6",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "V4kfFS",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "iLeBsH06Al",
+                          "name": "2025 SBT GRVL - Green Course - Moderate Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "iLeBsH06Al",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "QtnEhA",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "iFFmy6",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "YwJ5A5BLyL",
+                          "name": "2025 SBT GRVL - Green Course - Moderate Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "YwJ5A5BLyL",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "335x4U",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Green Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "Ouuae5AWwP",
+                          "name": "2025 SBT GRVL - Green Course - Moderate Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "Ouuae5AWwP",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "FxoKzd",
+          "name": "Red Course",
+          "description": "12 week training plan",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "okrPHD",
+              "name": "Low Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "z2s7rW",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "NY5uv7",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "0ClYXOepiM",
+                          "name": "2025 SBT GRVL - Red Course - Low Volume - 2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "0ClYXOepiM",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "JqW17P",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "7BJvTRP43L",
+                          "name": "2025 SBT GRVL - Red Course - Low Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "7BJvTRP43L",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "eXMoj4",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ntdZL7",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "EoKVg4iBYM",
+                          "name": "2025 SBT GRVL - Red Course - Low Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "EoKVg4iBYM",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "BmoMrd",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "8nNJ0O9OJs",
+                          "name": "2025 SBT GRVL - Red Course - Low Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "8nNJ0O9OJs",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "gA5bFb",
+              "name": "Moderate Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ABzTBx",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "A7K77l",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "CHlC14oANP",
+                          "name": "2025 SBT GRVL - Red Course - Moderate Volume - 2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "CHlC14oANP",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "cqKOQB",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "EIrzO7eTyq",
+                          "name": "2025 SBT GRVL - Red Course - Moderate Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "EIrzO7eTyq",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "Oi0S2j",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8dg2kR",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "2S9eI4xjVI",
+                          "name": "2025 SBT GRVL - Red Course - Moderate Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "2S9eI4xjVI",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "mh3Jah",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Red Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "6v1gWBXS1s",
+                          "name": "2025 SBT GRVL - Red Course - Moderate Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "6v1gWBXS1s",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "vliN6Y",
+          "name": "Blue Course",
+          "description": "12 week training plan",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "tReZqf",
+              "name": "Moderate Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "oEnQE0",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "B7dOoj",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "DP282lGsqV",
+                          "name": "2025 SBT GRVL - Blue Course - Moderate Volume - 2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "DP282lGsqV",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "cSWWEv",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "RGsQWaAtJE",
+                          "name": "2025 SBT GRVL - Blue Course - Moderate Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "RGsQWaAtJE",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "ElFDJ6",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "gpZPgZ",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "acyLByg8dX",
+                          "name": "2025 SBT GRVL - Blue Course - Moderate Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "acyLByg8dX",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "R7y3kW",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "WWbMcYaIGq",
+                          "name": "2025 SBT GRVL - Blue Course - Moderate Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "WWbMcYaIGq",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "Ej66X5",
+              "name": "High Volume",
+              "description": "12 week training plan",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "iMeBn5",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "JvSbdm",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "bClxHUSnbO",
+                          "name": "2025 SBT GRVL - Blue Course - High Volume -  2:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "bClxHUSnbO",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "Fv3Dgo",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "QzwGOBVJuD",
+                          "name": "2025 SBT GRVL - Blue Course - High Volume - 2:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "QzwGOBVJuD",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "dKTi0X",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "iiDeGu",
+                      "name": "Yes",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "9rZ8Ka4zQb",
+                          "name": "2025 SBT GRVL - Blue Course - High Volume - 3:1 - Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "9rZ8Ka4zQb",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "OPR0K8",
+                      "name": "No",
+                      "description": "Would you like to incorporate Strength Training into your plan? ",
+                      "stepTitle": "SBT Blue Course",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "5t3PlELaP1",
+                          "name": "2025 SBT GRVL - Blue Course - High Volume - 3:1",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "5t3PlELaP1",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "O7I3xt",
+      "name": "Race (Black Course)",
+      "description": "12 week training plan",
+      "stepTitle": "Sunday Course",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Xb9aMy",
+          "name": "Moderate Volume",
+          "description": "12 week training plan",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Dw90vS",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "XK5Qcg",
+                  "name": "Yes",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1FQuTuns26",
+                      "name": "2025 SBT GRVL - Black Course - Moderate Volume - 2:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "1FQuTuns26",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "GV0TtW",
+                  "name": "No",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "H3PYbKJwdb",
+                      "name": "2025 SBT GRVL - Black Course - Moderate Volume - 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "H3PYbKJwdb",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "GGnnGd",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Pj9fEg",
+                  "name": "Yes",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ificqKrIZB",
+                      "name": "2025 SBT GRVL - Black Course - Moderate Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ificqKrIZB",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "J6Rd9a",
+                  "name": "No",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "hvkxWMFNNe",
+                      "name": "2025 SBT GRVL - Black Course - Moderate Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "hvkxWMFNNe",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "nJnYrY",
+          "name": "High Volume",
+          "description": "12 week training plan",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "k7AxL1",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "gVkY2P",
+                  "name": "Yes",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HvmLdplh7D",
+                      "name": "2025 SBT GRVL - Black Course - High Volume - 2:1 - Strength - 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "HvmLdplh7D",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "elTCLn",
+                  "name": "No",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "R4BczHPEUE",
+                      "name": "2025 SBT GRVL - Black Course - High Volume - 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "R4BczHPEUE",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "0q87kn",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "JcIYNg",
+                  "name": "Yes",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "rTlmOGjmNL",
+                      "name": "2025 SBT GRVL - Black Course - High Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "rTlmOGjmNL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "OEjJez",
+                  "name": "No",
+                  "description": "Would you like to incorporate Strength Training into your plan? ",
+                  "stepTitle": "SBT GRVL Black Route",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "L3BmJv8MwU",
+                      "name": "2025 SBT GRVL - Black Course - High Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "L3BmJv8MwU",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

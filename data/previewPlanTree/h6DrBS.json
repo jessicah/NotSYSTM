@@ -1,0 +1,30 @@
+{
+  "uid": "h6DrBS",
+  "name": "High Volume",
+  "description": "4-7 hours per week ",
+  "stepTitle": "The Wahooligan Tour Prep Plan",
+  "stepDescription": "The Wahooligan Tour Prep Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "NzdRsBNtxA",
+      "name": "TWT25 High Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "NzdRsBNtxA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

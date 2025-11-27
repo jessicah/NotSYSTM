@@ -1,0 +1,814 @@
+{
+  "uid": "PtKDod",
+  "name": "Cross-training Add-ons",
+  "description": null,
+  "stepTitle": null,
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "0xou3MiEnL",
+      "name": "MTP - 3:1 - 16 week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "0xou3MiEnL",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "81QyyuF6pB",
+      "name": "MTP - 2:1 - 16 week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "81QyyuF6pB",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "fL7WFXso0K",
+      "name": "Off-Road Strength: Level 1 - 3:1 (12 wk)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fL7WFXso0K",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "e2klPKaPLR",
+      "name": "Yoga Intermediate 12wk 3:1 event  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "e2klPKaPLR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ESfTi9K8B5",
+      "name": "Yoga Advanced 12wk 3:1 event ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ESfTi9K8B5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "a5JqtfWX5F",
+      "name": "Yoga Advanced 12wk 2:1 event  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "a5JqtfWX5F",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "QXSGQLpJr3",
+      "name": "Yoga Intermediate 12wk 2:1 event ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QXSGQLpJr3",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "zG3A4wGGeV",
+      "name": "Yoga Beginner 12wk 2:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zG3A4wGGeV",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Kh4dnqBX7d",
+      "name": "Yoga Intermediate 12wk 2:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Kh4dnqBX7d",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "O64OTwCYEd",
+      "name": "Yoga Advanced 12wk 2:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "O64OTwCYEd",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "lKOMdOccvn",
+      "name": "Yoga Intermediate 12wk 3:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "lKOMdOccvn",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "wDMxA2cDF6",
+      "name": "Yoga Advanced 12wk 3:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "wDMxA2cDF6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "fZ3mQBfdBt",
+      "name": "Yoga Beginner 12wk 3:1 event - for strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fZ3mQBfdBt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WE5z6WmpqA",
+      "name": "Yoga Beginner 12wk 2:1 event  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WE5z6WmpqA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KQ45Iffowa",
+      "name": "Yoga - Multisport - Advanced - 3:1 - STR (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KQ45Iffowa",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Q8JmkwnHeA",
+      "name": "Yoga - Multisport - Intermediate - 3:1 - STR (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Q8JmkwnHeA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "D5dkcAhz8g",
+      "name": "Yoga - Multisport - Advanced - 3:1 (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "D5dkcAhz8g",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "8DxPYQUr02",
+      "name": "Yoga - Multisport - Intermediate - 2:1 - STR (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8DxPYQUr02",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KmvzCGpgdk",
+      "name": "Yoga - Multisport - Advanced - 2:1 - STR (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KmvzCGpgdk",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "qMZZPPwrjm",
+      "name": "Yoga - Multisport - Intermediate - 3:1 (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "qMZZPPwrjm",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "iflhGW5Lk1",
+      "name": "Yoga - Multisport - Intermediate - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "iflhGW5Lk1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WKnoMzbpWH",
+      "name": "Yoga - Multisport - Advanced - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WKnoMzbpWH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "InRDwanwsH",
+      "name": "Yoga - Multisport - Advanced - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "InRDwanwsH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "z82EOe1IGO",
+      "name": "Yoga - Multisport - Beginner - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "z82EOe1IGO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "F9nmdwaAm7",
+      "name": "Yoga - Intermediate - 4wk - 3:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "F9nmdwaAm7",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "vSxqlx7Wpv",
+      "name": "Yoga - Beginner - 12wk 3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "vSxqlx7Wpv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "hpJ0NS3LiF",
+      "name": "Yoga - Advanced - 12wk - 2:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "hpJ0NS3LiF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jkGc4OIpEz",
+      "name": "Yoga - Intermediate - 12wk - 3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "jkGc4OIpEz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "3JSWzGjfvK",
+      "name": "Yoga - Advanced - 12wk - 3:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "3JSWzGjfvK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "TxNDxjKshR",
+      "name": "Yoga - Advanced - 3wk - 2:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "TxNDxjKshR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "OlsNmWNH7z",
+      "name": "Yoga - Advanced - 4wk - 3:1   ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "OlsNmWNH7z",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "b4pgx85x9X",
+      "name": "Yoga - Beginner - 4wk - 3:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "b4pgx85x9X",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "8Bglia",
+      "name": "Yoga - Multisport - Beginner - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Rnym3DaQdZ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "5hYijZ",
+      "name": "Yoga - Multisport - Intermediate - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9FHlN8m1D2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "mrZdlRPBNQ",
+      "name": "Yoga - Multisport - Beginner - 2:1 (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "mrZdlRPBNQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WsKpKGaaMx",
+      "name": "Yoga - Multisport - Beginner - 3:1 (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WsKpKGaaMx",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "PyUMDYY6UY",
+      "name": "Yoga - Multisport - Beginner - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "PyUMDYY6UY",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "RSG2rwxT4Y",
+      "name": "Yoga - Multisport - Intermediate - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "RSG2rwxT4Y",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jp4SYkpCcf",
+      "name": "Yoga - Multisport - Advanced - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "jp4SYkpCcf",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ItimifA9BW",
+      "name": "Yoga - Multisport - Intermediate - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ItimifA9BW",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WR0hSgPuUr",
+      "name": "Yoga - Multisport - Beginner - 2:1 - STR (16 week) ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WR0hSgPuUr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "YCF6pVS9vG",
+      "name": "Yoga - Multisport - Beginner - 3:1 - STR",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "YCF6pVS9vG",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "tMRvI61BPc",
+      "name": "Yoga - Multisport - Intermediate - 3:1- STR",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "tMRvI61BPc",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "0X6cXSN2EY",
+      "name": "Yoga - Multisport - Advanced - 3:1 - STR",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "0X6cXSN2EY",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "uN72yAHkAD",
+      "name": "Yoga - Multisport - Beginner - 3:1 - STR (16 week)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "uN72yAHkAD",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "b2VuZcuCZC",
+      "name": "Yoga Beginner 6wk 2:1 event   ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "b2VuZcuCZC",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KTAAA4d4Xi",
+      "name": "Yoga Advanced 6wk 2:1 event  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KTAAA4d4Xi",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "CpPlu8ugrb",
+      "name": "Yoga Intermediate - 2:1 - 6 week ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "CpPlu8ugrb",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "rYODqdB7v2",
+      "name": "ToS Prep - Yoga Beginner ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "rYODqdB7v2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "RIdjesLuvr",
+      "name": "ToS Prep - Yoga Advanced ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "RIdjesLuvr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

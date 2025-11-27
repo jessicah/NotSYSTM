@@ -1,0 +1,30 @@
+{
+  "uid": "nT4Yne",
+  "name": "UCI World Cycling Center",
+  "description": "Train with the UCI",
+  "stepTitle": "A Week With",
+  "stepDescription": "A Week With UCI World Cycling Center",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GSpDW86vBO",
+      "name": "A Week With UCI World Cycling Center (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "GSpDW86vBO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "uid": "svIMn7",
+  "name": "Moderate",
+  "description": "4-7 hours per week",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "1W0jt3",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "a3sUVh",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": "All Purpose",
+          "stepDescription": "All Purpose - Moderate Volume - 3:1 - with Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "SZ0bNj",
+              "name": "All Purpose - Moderate Volume - 3:1 - with Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "T8cWfPwDeO",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "rotJ6B",
+          "name": "No",
+          "description": null,
+          "stepTitle": "All Purpose",
+          "stepDescription": "All Purpose - Moderate Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "psRAJf",
+              "name": "All Purpose - Moderate Volume - 3:1  ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "NoVHC5Gizz",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "LlSMWa",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "fNrwjY",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": "All Purpose",
+          "stepDescription": "All Purpose - Moderate Volume - 2:1 - with Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "dBOj32",
+              "name": "All Purpose - Moderate Volume - 2:1 - with Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "uSWEXdx0xd",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "zsmxq0",
+          "name": "No",
+          "description": null,
+          "stepTitle": "All Purpose",
+          "stepDescription": "All Purpose - Moderate Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "xb9kOz",
+              "name": "All Purpose - Moderate Volume - 2:1 ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "DWCcEQZN5c",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

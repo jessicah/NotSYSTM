@@ -1,0 +1,30 @@
+{
+  "uid": "xxnAY5",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Cyclocross",
+  "stepDescription": "Low Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VWNQ6H",
+      "name": "Off-Road CX: In-Season 2:1 Low Volume w/Strength (Sat Race)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "jG2FE8zF9Q",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "uid": "nhrsv2",
+  "name": "Marathon",
+  "description": "Medium-distance cross country racing: 25-80mi / 40-140km.",
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "OM5uwV",
+      "name": "Low",
+      "description": "2-6 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "fP6C0r",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "2P0Lx0",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Low Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "1DFW2CAufa",
+                  "name": "MTB Marathon Event 3:1 Low Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "1DFW2CAufa",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "bKJ22j",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Low Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "CHsLOdQCS0",
+                  "name": "MTB Marathon - Event - Low Volume - 3:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "CHsLOdQCS0",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "UuZMkK",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "suDfLa",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Low Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "UHMtju10pL",
+                  "name": "MTB Marathon - Event - Low Volume - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "UHMtju10pL",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "kyKKju",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Low Volume - 2:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PlZF8F",
+                  "name": "MTB Marathon Event 2:1 Low Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "HtBUbdxzT1",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "W9lNOv",
+      "name": "Moderate",
+      "description": "4-10 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ffb8pI",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "gNKIGA",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Moderate Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "u9OLFAcfIn",
+                  "name": "MTB Marathon Event 3:1 Med Volume ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "u9OLFAcfIn",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "CsuEGl",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - Moderate Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "jz4njZrIXI",
+                  "name": "MTB Marathon - Event - Med Volume - 3:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "jz4njZrIXI",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "WXDkkl",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "1QvxqD",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": " Event - Moderate Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ihoxLBekqs",
+                  "name": "MTB Marathon Event 2:1 Medium Volume w/Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "ihoxLBekqs",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "VrBgpM",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB ",
+              "stepDescription": "Event - Moderate Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "H3QbqaTMWe",
+                  "name": "MTB Marathon Event 2:1 Medium Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "H3QbqaTMWe",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "0LiyLY",
+      "name": "High",
+      "description": "10-15 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "j9TNQp",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "XnQDaM",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - High Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "yQqjx6IPP0",
+                  "name": "MTB Marathon Event 3:1 High Volume w/Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "yQqjx6IPP0",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "RNZrXR",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - High Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "74c3671I85",
+                  "name": "MTB Marathon Event 3:1 Medium Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "74c3671I85",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "mPtCMH",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "oU0tS6",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - High Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ZMz69L7cjW",
+                  "name": "MTB Marathon Event 2:1 High Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "ZMz69L7cjW",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "eJRY8d",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Marathon MTB",
+              "stepDescription": "Event - High Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "wYSFvuTijb",
+                  "name": "MTB Marathon Event 2:1 High Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "wYSFvuTijb",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

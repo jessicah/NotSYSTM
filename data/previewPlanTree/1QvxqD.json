@@ -1,0 +1,30 @@
+{
+  "uid": "1QvxqD",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Marathon MTB",
+  "stepDescription": " Event - Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ihoxLBekqs",
+      "name": "MTB Marathon Event 2:1 Medium Volume w/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ihoxLBekqs",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

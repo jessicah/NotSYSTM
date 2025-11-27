@@ -1,0 +1,40 @@
+{
+  "uid": "G6LFqV",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Duration",
+  "stepDescription": "How many weeks of prep time do you have?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Bjgi4L",
+      "name": "9 Weeks",
+      "description": null,
+      "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "rZyPkw",
+      "name": "12 Weeks",
+      "description": null,
+      "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

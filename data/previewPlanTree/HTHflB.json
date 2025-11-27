@@ -1,0 +1,162 @@
+{
+  "uid": "HTHflB",
+  "name": "Moderate",
+  "description": "5-7 hours / week ",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "oERlB6",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "oJO2M7",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": "Century",
+          "stepDescription": "Century - Moderate Volume - 3:1 - with Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "euAP4E2Ylp",
+              "name": "Century - Moderate Volume - 3:1 - with Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "euAP4E2Ylp",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "d6wWEN",
+          "name": "No",
+          "description": null,
+          "stepTitle": "Century",
+          "stepDescription": "Moderate Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "r26V9KJCen",
+              "name": "Century - Moderate Volume - 3:1 ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "r26V9KJCen",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "n5G1B3",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Ugy70n",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": "Century",
+          "stepDescription": "Century - Moderate Volume - 2:1 - with Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "AlWBZv97tO",
+              "name": "Century - Moderate Volume - 2:1 - with Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "AlWBZv97tO",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "epD2fA",
+          "name": "No",
+          "description": null,
+          "stepTitle": "Century",
+          "stepDescription": "Century - Moderate Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "W8vT9a05CX",
+              "name": "Century -2:1 - Moderate Volume ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "W8vT9a05CX",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

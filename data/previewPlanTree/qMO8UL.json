@@ -1,0 +1,240 @@
+{
+  "uid": "qMO8UL",
+  "name": "Focal Events 2026 (UK)",
+  "description": "Focal Events 2026",
+  "stepTitle": "Focal Events 2026",
+  "stepDescription": "Focal Events 2026 (Dirty Reiver, Gravel Rocks, Dalby Grit \u0026 Frontier 300)",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "H5aZA7",
+      "name": "Winter Foundation Training",
+      "description": "Winter Foundation Training",
+      "stepTitle": "Winter Foundation Training",
+      "stepDescription": "Winter Foundation Training",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GRfrv9",
+          "name": "2:1 Progression",
+          "description": "16 week training plan starting October 27",
+          "stepTitle": "2:1 Progression",
+          "stepDescription": "",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "xnrBA2dA8f",
+              "name": "Dirty Reiver Essential Cycling 2:1 Full (Wks 1-24)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "xnrBA2dA8f",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "58Uee9",
+          "name": "3:1 Progression",
+          "description": "16 week training plan starting October 27",
+          "stepTitle": "3:1 Progression",
+          "stepDescription": "",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "YxomKmUY05",
+              "name": "Dirty Reiver Essential Cycling 3:1 Block 6 (Wks 21-24)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "YxomKmUY05",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "ablFM1",
+      "name": "April 25 - Dirty Reiver UK",
+      "description": "Dirty Reiver, Kielder Forest, UK",
+      "stepTitle": "Route Options",
+      "stepDescription": "Which course are you riding?",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "SMsLbq",
+          "name": "200km",
+          "description": "12 week training plan starting February 2",
+          "stepTitle": "200km",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "zebjOkWDfr",
+              "name": "DR 200k 2024",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "zebjOkWDfr",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "InSO0yGUbQ",
+              "name": "Dirty Reiver 200k 2026",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "InSO0yGUbQ",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "uGS2P8",
+          "name": "130km ",
+          "description": "12 week training plan starting February 2",
+          "stepTitle": "130km",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "bpoX4Y9q1H",
+              "name": "DR 130k 2024",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "bpoX4Y9q1H",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "E09UM7wqxg",
+              "name": "Dirty Reiver 130k 2026",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "E09UM7wqxg",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "ytK4TR",
+          "name": "65km",
+          "description": "12 week training plan starting February 2",
+          "stepTitle": "65km",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "tpcLR2fHCw",
+              "name": "DR 60k 2024",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "tpcLR2fHCw",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "BJkYg8qpME",
+              "name": "Dirty Reiver 65k 2026",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "BJkYg8qpME",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

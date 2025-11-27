@@ -1,0 +1,373 @@
+{
+  "previewPlan": [
+    {
+      "id": "6kHg9SR4Ft",
+      "name": "TWT24 Wahooligan Route",
+      "weakness": "NoWeakness",
+      "grouping": "Wahooligan Route",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Here it is! The official Wahooligan route for the 2024 Wahooligan Tour. \n\nThanks again for taking part in the Tour and helping us reach our goal of raising $200,000 for the [Davis Phinney Foundation](https://davisphinneyfoundation.org/). If you haven\u0027t registered for the Tour yet or started your fundraising, click [HERE](http://dpf.convio.net/site/TR?fr_id=1300\u0026pg=entry).\n",
+      "planDescription": "Wahooligan Route 2024",
+      "fixedEndDate": "2024-03-02",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2023-10-17T23:38:45.598Z",
+      "updatedAt": "2024-01-16T04:05:46.037Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Best Way Is Blended (Mash-Up)",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this mash-up, the steady tempo climb from _The Way Out_ gets your aerobic system working nicely, just enough to ensure you are firing on all cylinders for the Pain Shakes from _Blender,_ which is one of the best sets of efforts for both Anaerobic Capacity (AC) and Maximal Aerobic Power (MAP). Ending the session with a race simulation from _The Best Thing in the World_ challenges your body\u0027s ability to recover at an effort that is not much below threshold. This has the effect of challenging your AC, MAP, and FTP all in one fell swoop.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0619444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 85,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "jxxldexVPC",
+              "contentId": "AGjGG6r8eW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Fundraising Tips",
+              "style": null,
+              "compatibility": null,
+              "description": "Don\u2019t forget to register to ride the tour, all your fundraising goes towards a great cause: https://www.wahoofitness.com/the-wahooligan-tour\n",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour Down Under 4 ",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured Rider:** Nicole Frain, National Champion of Australia \uD83E\uDD47\n\n**Event:** Santos Tour Down Under Festival of Cycling - Criterium \uD83C\uDDE6\uD83C\uDDFA\n\n**Mission** - \u0022Surprise the Field\u0022: Here we are at the final event in the Santos Tour Down Under Festival of Cycling. Located on the flat, fast roads of downtown Adelaide, South Australia this ~45 minute criterium promises to be fast, fun and downright hectic. You\u2019re on board, of course, with Australian National Road Champion Nicole Frain, experiencing exactly what Nicole did and riding exactly as she did, but according to your own power profile. While criteriums aren\u2019t Nicole\u2019s favorite terrain, she\u2019s up for the challenge and is looking for an opportunity to surprise the field and perhaps slip away for the win. Can she \u2013 can you! - do it?\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9536111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 3,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 61,
+                "intensityFactor": 0.8
+              },
+              "workoutId": "TICi4GlZXX",
+              "contentId": "FOUNTAirGn",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Catalunya: Girona to P\u00FAbol",
+              "style": null,
+              "compatibility": 100,
+              "description": "More pro cyclists live in Girona, Spain than probably any other town in the world. So it totally makes sense that you and Mike Cotty touch down here and go for an epic ride, right?\n\n\u200B\n\nStarting from the famous Pont de Pedra in this cycling Mecca, Mike will make sure you challenge yourselves on one of the most popular climbs in the region (and one that many a pro has tested their form on over the years). At 11km in length, the climb of Els-Angels offers the perfect platform for a solid session, so after we\u2019ve warmed up our legs and the road starts to rise we\u2019ll hit the early slopes at around 80% of FTP and slowly build towards threshold by the summit. That will take about around 30 minutes and you\u0027ll take a moment to catch your breath on the decent before rounding out this 25km day with 3 x 60-second high cadence drills on the way over to P\u00FAbol.\n\n\u200B\n\nStay focussed, hit your numbers and we\u2019ll even have a cold one waiting for you at the finish! Now let\u2019s get after it!\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2967788329175010456)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0069444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 3,
+                  "map": 1,
+                  "ftp": 5
+                },
+                "tss": 43,
+                "intensityFactor": 0.68
+              },
+              "workoutId": "CYnVLDRxn1",
+              "contentId": "mP2JmFCvv5",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cash Register",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5380555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "HSb6Gc8uIZ",
+              "contentId": "6LnpmGMTMG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 227,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Model",
+              "style": null,
+              "compatibility": 100,
+              "description": "They say that beauty is in the eye of the beholder. And through the bleeding eyes of Sufferlandrians, what could possibly be more beautiful than the sharp, saw-tooth profile of the workout you see before you? Full of gorgeous, shapely, shimmering blocks of yellow Maximal Aerobic Power (MAP) efforts interspersed with mercifully brief and slightly inadequate recoveries, it\u0027s a real stunner.\n\n\u200B\n\nBut you know what\u0027s even better looking than this alluring workout? You (after you\u0027ve completed the workout, that is). Originally designed by our Head of Sports Science, Neal Henderson, for his professional athletes, The Model is a beautiful portrait of MAP brutality. It\u0027s one of those sessions that you think you can\u0027t finish, but always somehow do. It will leave you breathless, feeling all tingly, a bit confused and lying in a blubbering heap. It\u0027s a look. It will also deliver a nice boost to your fitness that always looks and feels good.\n\n\u200B\n\nA true love letter to the beauty of professional cycling, The Model features a banging soundtrack and thrilling footage from both the men\u0027s and women\u0027s pelotons. With its eclectic design, effects, and graphics, you\u0027ll find yourself unable to tear your eyes away from the action on screen (assuming you can lift them from your stem).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9844444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 86,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "WQk9TYaUhj",
+              "contentId": "NkctG9Onu1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 214,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "# Italian Lakes: Lugano (November Groundwork Challenge)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nLugano Cycling with Michael Cotty - Swiss Cadence\n\n\u200B\n\nWelcome to Lake Lugano, Switzerland, for a dynamic cycling adventure. Climb high above the lake, alternating cadence on a challenging 20-minute ascent, followed by a sprint and a scenic descent. Explore Lugano\u0027s cultural treasures and historic villages along the way. Totaling 22 km with 482m elevation gain and max 10% grade.\n\n\u200B\n\nThe repeated bouts of low cadence during the long sustained threshold effort will help build your muscular endurance before emptying the tank on the final short climb as an all out effort battling fatigue!\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7796864556)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8491666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 3,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 59,
+                "intensityFactor": 0.83
+              },
+              "workoutId": "Byy7yvnGAG",
+              "contentId": "mfNgQ3oeny",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "I. Boswell 5: The Creemee Ride",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u0027s been great to show you around Siloside, Vermont. Now Ian wants to introduce you to his friends. Actually, he wants you to help him drop his friends. So jump on your bike, head down to the regular Creemee ride, and show the Siloside locals what you\u0027re made of on this rolling, rambling ride through the Vermont countryside. Ice cream is on Boz.\n\n\u200B\n\n_Do this on: Day 5 of the 7-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.3777777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 117,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "r4xl7AQmzt",
+              "contentId": "Z7YmyFhTBA",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Event",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "More about the Davis Phinney Foundation:",
+              "style": null,
+              "compatibility": null,
+              "description": "Fundraising isn\u2019t just about raising funds.  It\u2019s a great way to raise awareness and you never know who needs to hear the message that it is possible to live well today.  More than 10 million people worldwide are living with Parkinson\u2019s.  Give someone the gift of hope and wellness with an introduction to the Davis Phinney Foundation at dpf.org.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

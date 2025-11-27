@@ -1,0 +1,74 @@
+{
+  "uid": "qVSXaM",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5spfMD",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "MTB Enduro",
+      "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "JTq8DAMAKq",
+          "name": "Off Road MTB Enduro Season Prep Low Volume 3:1 Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "JTq8DAMAKq",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "YbDWCx",
+      "name": "No",
+      "description": null,
+      "stepTitle": "MTB Enduro",
+      "stepDescription": "Season Prep - Low Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PE8GycZw8u",
+          "name": "Off Road MTB Enduro Season Prep Low Volume 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PE8GycZw8u",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": "TjIVi4zE6x",
+  "name": "Onboarding Climb Stronger",
+  "weakness": "NoWeakness",
+  "grouping": "Climb Stronger",
+  "category": "",
+  "subcategory": "None",
+  "description": "Welcome to SYSTM, we have hand picked these workouts for you to showcase the variety of what the platform has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the Wahoo X library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy)\n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ)\n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ)\n",
+  "planDescription": "Onboarding Plan",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2023-04-17T20:21:11.081Z",
+  "updatedAt": "2024-08-30T11:38:37.399Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Event",
+      "rank": 210,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Welcome to SYSTM!",
+          "style": null,
+          "compatibility": 100,
+          "description": "Welcome, we have hand picked these workouts for you to showcase the variety of what SYSTM has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy) \n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ) \n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ) \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "wfIciOSiEy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Classic Climbs of France: Col de la Couillole",
+          "style": null,
+          "compatibility": 100,
+          "description": "The Col de la Couillole is an iconic climb and has been the stage for many great cycling achievements! This workout combines intense bursts with sustained efforts, mirroring the race-winning strategy and determination required for this exhilarating 16 km challenge, all with one goal in mind: victory!\n\n\u200B\n\nWe will begin the climb with a full-gas sprint at your maximum aerobic power (MAP) into the first 20 seconds of the climb. After this explosive start, we will settle into a sustained effort just below your threshold for the majority of the climb. With 2 km to go, we will start turning the screw and push the pace up whilst maintaining a controlled effort before the final surge all the way to the summit, ensuring a strong finish to claim the win.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11526469574)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.22,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 86,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "tQyTqxqyIQ",
+          "contentId": "35ccXN58Uv",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 215,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "P. Gaimon 3: Short KOM Training Session",
+          "style": null,
+          "compatibility": 100,
+          "description": "As part of his \u2018Worst Retirement Ever,\u2019 Phil made a name for himself by sniping Strava KOMs around the world. But if you\u2019re going to travel around globe stealing crowns from some of the world\u2019s fastest climbers, you need to bring your A-game.\n\n\u200B\n\nIn this short, 35-minute workout, Phil takes you through a warm-up on the famous Pacific Coast Highway before climbing into two short, maximal efforts on the way up Dekker Canyon. You\u2019ll be in the hurt box, but be sure to pay attention as Phil drops his top tips for KOM / QOM segment success.\n\n\u200B\n\nIn between efforts, Phil keeps you entertained with stories about his Cookie Fondo, life in LA, a tour of his garage, a face lick from his dog and his personal recommendation for the best cold-pressed juice in town.\n\n\u200B\n\n_Do this on: Day 3 of the 5-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5986111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 5,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.78
+          },
+          "workoutId": "rTp6HTUgAS",
+          "contentId": "H4PzHKpiwc",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Into the Rift",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film: To simply finish the Atlas Mountain Race means navigating 1,200 kilometres of the most rugged and remote roads in Morocco. To win requires riding almost non-stop, night and day, for days on end. It\u0027s a combination of strength and sleep deprivation that only a few riders in the world can manage. Alone, unsupported and loaded down with supplies, each competitor must constantly battle mechanicals, heat exhaustion and saddle sores to get to the finish. There is no prize, no money, simply the satisfaction that comes from pushing oneself to the limit while exploring the forgotten corners of a beautiful country. With support from PEdALED, Canyon, Fizik and the race crew led by organiser and route creator Nelson Trees, filmmaker Brady Lawrence followed the race documenting everything from a brutal 80 kilometre walk through the high desert with a broken bike, to one racer\u2019s simple joy at realising they\u2019ll soon eat their first warm meal in days. Featuring the sport\u2019s biggest names and first-time, ultra- distance racers alike, the film gets up close to the kind of people crazy enough to take on this epic challenge. Capturing the human drama set against an otherworldly landscape, Into the Rift is an in-depth look at a true cycling adventure.\n\n\u200B\n\n\uD83D\uDEB4Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6758333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 24,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "uQlw32nSxL",
+          "contentId": "HeWcOMBKuU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Classic Climbs of France: Alpe d\u0027Huez",
+          "style": null,
+          "compatibility": 100,
+          "description": "Join Mike Cotty and EF-Oatly-Cannondale rider Noemi R\u00FCegg for a reconnaissance ride and sustained effort workout up the iconic Alpe d\u0027Huez. This session begins with a steady warm-up around Bourg d\u0027Oisans before navigating the famous 21 hairpin bends of this epic climb. As the gradient intensifies, settle into a sustainable threshold pace, simulating race conditions and allowing for occasional standing efforts on steeper sections. Throughout the climb, integrate strategic surges to mimic attack responses and maintain high power outputs. The goal is to balance endurance and power, capturing the essence of this legendary ascent while refining your climbing technique and stamina under the guidance of elite athletes.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11727807011)\n\n\u200B\n\n_Your Hosts:_\n\n_Noemi came to bike racing through her family, when she was 13, she finished her first cyclocross race and was hooked. She turned professional on the road as a 19-year-old, leaving her full-time job caring for disabled people in a home. She is the 2024 Swiss national champion but her heart belongs to the classics. Noemi loves a punchy course, the more chaotic, the better. She is not afraid to be aggressive in the peloton and loves the excitement and energy of a hectic race._\n\n\u200B\n\n_There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0880555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 87,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "znNjMNHCNz",
+          "contentId": "LsyWVH795L",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Event",
+      "rank": 211,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "What\u0027s Next?",
+          "style": null,
+          "compatibility": 100,
+          "description": "We hope you enjoyed these workouts and spend more time with us on SYSTM.\n\n\u200B\n\nThe Sports Science team uses 4DP to make each workout a customized and unique experience which is most beneficial to you. To make sure you are training with the most accurate targets and to ensure the best results, we highly recommend taking the Half Monty or Full Frontal fitness assessment. Here is a plan to help you take the test: [\u002B\u002Bhttps://wahoosystm.com/CyclingFitnessTestPrep\u002B\u002B](https://wahoosystm.com/CyclingFitnessTestPrep)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "5v7pVWbwe5",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

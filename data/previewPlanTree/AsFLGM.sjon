@@ -1,0 +1,30 @@
+{
+  "uid": "AsFLGM",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "USAT Long Distance",
+  "stepDescription": "Season Prep - Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "nBfVIdlWzL",
+      "name": "Duathlon USAT Long Distance - Season Prep - Moderate Volume  - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nBfVIdlWzL",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "KEXRxF",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Intro to Triathlon",
+  "stepDescription": "Season Prep - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "7twTvF",
+      "name": "SYSTM Intro to Triathlon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nBdSe8w3Zz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

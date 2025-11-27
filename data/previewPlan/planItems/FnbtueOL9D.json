@@ -1,0 +1,276 @@
+{
+  "id": "FnbtueOL9D",
+  "name": "Onboarding Allrounder",
+  "weakness": "NoWeakness",
+  "grouping": "Wahoo X All Rounder",
+  "category": "",
+  "subcategory": "None",
+  "description": "Welcome to Wahoo X, we have hand picked these workouts for you to showcase the variety of what SYSTM has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the Wahoo X library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy)\n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ)\n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ)\n",
+  "planDescription": "Onboarding Plan",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2023-04-17T20:29:39.046Z",
+  "updatedAt": "2024-05-14T14:13:03.811Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Event",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Welcome to SYSTM!",
+          "style": null,
+          "compatibility": 100,
+          "description": "Welcome, we have hand picked these workouts for you to showcase the variety of what SYSTM has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy) \n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ) \n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ) \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "wfIciOSiEy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Ruta Chingaza",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2020): In February, legendary ultra-endurance cyclist Lael Wilcox, Joe Cruz, and filmmaker Rugile Kaladyte traveled to the Colombian capital, in partnership with Conservation International, Wahoo, and Bikepacking.com to launch the Bikepacking for Conservation Program. The project was designed to explore and scout a bikepacking route that would connect the bustling metropolis of Bogota, Colombia with rural communities and the Chingaza National Park. The resulting route \u2014 Ruta Chingaza \u2014 will help cyclists connect to nature and better understand the ecosystems upon which life and livelihoods in this area depend.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. Intensity is low, with power remaining at or below 50% of FTP (2.5 on a scale from 1 to 10) with heart rate targets entirely in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5752777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 12,
+            "intensityFactor": 0.46
+          },
+          "workoutId": "5jKjnMyGq3",
+          "contentId": "8O9dFBGSA4",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Gran Canaria: Pico de las Nieves",
+          "style": null,
+          "compatibility": 100,
+          "description": "From the picturesque village of Tejeda today we\u2019re heading to Pico de las Nieves for an unforgettable ride and workout to the summit of the island at 1,949m above sea level and the highest point on the island! After sampling Tejeda\u2019s famous almond and dark chocolate cookies it\u2019s time to hit the road for a block of 4 x 4 min low cadence with 1 min high cadence drills. Taking a moment to let that cookie settle and get back in the green we\u2019ll follow this up with a short 3 min 30 second low cadence effort before our next block of low cadence / high cadence repeats, this time for 2 minute / 1 minute intervals. With the summit tantalisingly close and as the effort starts to take its toll we\u2019re going to have to really focus on the road ahead as we build our effort towards Pico de las Nieves where by the summit we can well and truly say that we\u2019ve conquered Gran Canaria!\n\n\u200B\n\nThis workout focusses on cadence work which helps with muscular endurance making it an efficient threshold session working at a variety of cadence targets.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8764050850)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.08,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 71,
+            "intensityFactor": 0.81
+          },
+          "workoutId": "ZXpYX4hAT2",
+          "contentId": "948tit9v2k",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 202,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Giro d\u0027Italia 1",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Featured Rider:** Attila Valter\n\n**Event:** Giro d\u0027Italia\n\n**Mission:** It\u0027s the final stage of your first Grand Tour. For the past three weeks, you\u0027ve battled your way across Italy. What better way to finish than leaving it all on the road in a final, short time trial. It\u0027s you against the clock in the race of truth.\n\n\u200B\n\n**About ProRides**\n\nIf you\u2019ve ever dreamed of being a professional cyclist, now\u2019s your chance. The SYSTM ProRide series allows you to experience what it\u2019s like to be in the biggest bike races in the world, thanks to the SYSTM 4DP\u00AE platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5855555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 48,
+            "intensityFactor": 0.91
+          },
+          "workoutId": "kkz9n3J5WK",
+          "contentId": "8wAD0BpZSy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 203,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Catalunya: Costa Brava Coastline",
+          "style": null,
+          "compatibility": 100,
+          "description": "Today we\u2019re going to be riding one of the most incredible roads of Spain\u0027s Catalan region, going from St Feliu de Gu\u00EDxols over to Tossa de Mar and hugging the Costa Brava coastline the whole way. Continually undulating we\u2019ll hit each of the eight rolling climbs hard, working at low cadence with high intensity to build strength. Mike will keep you focused on good form, though, and make sure you keep the power down on all the way over each summit.\n\n\u200B\n\nIt wouldn\u0027t be an On Location ride, though, if we didn\u0027t have a look at the scenic attractions along the way, though, so get ready for craggy rocks, turquoise clear waters, and a few opportunities to delve into the Costa Brava\u2019s finest as we find out more about the region along this 21km route.\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2967787441439728434)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8119444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 4
+            },
+            "tss": 69,
+            "intensityFactor": 0.87
+          },
+          "workoutId": "XDIff4OU0E",
+          "contentId": "CPfatYSGH6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Event",
+      "rank": 205,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "What\u0027s Next?",
+          "style": null,
+          "compatibility": 100,
+          "description": "We hope you enjoyed these workouts and spend more time with us on SYSTM.\n\n\u200B\n\nThe Sports Science team uses 4DP to make each workout a customized and unique experience which is most beneficial to you. To make sure you are training with the most accurate targets and to ensure the best results, we highly recommend taking the Half Monty or Full Frontal fitness assessment. Here is a plan to help you take the test: [\u002B\u002Bhttps://wahoosystm.com/CyclingFitnessTestPrep\u002B\u002B](https://wahoosystm.com/CyclingFitnessTestPrep)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "5v7pVWbwe5",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

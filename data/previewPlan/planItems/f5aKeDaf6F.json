@@ -1,0 +1,606 @@
+{
+  "id": "f5aKeDaf6F",
+  "name": "Advanced Yoga - 4 Sessions/week",
+  "weakness": "NoWeakness",
+  "grouping": "Expert Yoga - 4 Sessions/Week",
+  "category": "None",
+  "subcategory": "None",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "Advanced",
+  "type": "Yoga",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-08-19T14:08:39.457Z",
+  "updatedAt": "2024-12-31T16:24:38.082Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 1,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Full Body Mobility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to improve the range of motion throughout the body, focusing on the spine, shoulders, and hips. It combines twists, side bends, and balance poses to enhance total body flexibility and agility.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24083333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "1A5SZjoK2N",
+          "contentId": "vywgYX3qoY",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Improving Posture",
+          "style": null,
+          "compatibility": 100,
+          "description": "Most cyclists suffer from rounded shoulders and a curved spine as a result of hours spent in the riding position. This series will release tension in your upper back and get you standing up straight and powerful again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "YFsFjgUaRo",
+          "contentId": "b4ZSSXIaIi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Peak Pose Wheel",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence builds towards the advanced backbend, Wheel pose. To prepare for this pose, the routine focuses on mobilizing the spine and shoulders and opening up the fronts of the hips. It is best practiced when fully warmed up, with careful attention to the lower back and only moving within safe ranges of motion. For those who can practice Wheel safely, it serves as an excellent counterpose to common postures from cycling or sitting at a desk, potentially alleviating lower back, upper back, and shoulder pain. For those not yet ready for Wheel, the other poses in this sequence are also effective for addressing muscular imbalances.\n\n\u200B\n\nThe objectives are to increase spinal and shoulder mobility, stretch the abs, chest, and fronts of the shoulders, open up the hip flexors, activate the glutes, and help alleviate lower and upper back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Supported Bridge\n- Thunderbolt\u2014Shoulder Rolls\n- Kneeling Cat-Cow\n- Puppy\n- Downward Facing Dog\n- Cobra\n- Low Lunge with Shoulder Opener\n- Bridge\n- Wheel\n- Windscreen Wipers\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24222222222222223,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "qF5u72AZDi",
+          "contentId": "ic0P68rH6C",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Yoga for Travel",
+          "style": null,
+          "compatibility": 100,
+          "description": "If you\u0027re traveling and will be off your bike for some time, you might feel that all is lost. But we\u0027ve created a routine for travelers to keep you balanced, loose, and strong. Do this daily while on the road so you\u0027ll be in top condition when you can get back home.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2411111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "BWAK7Wr4Lr",
+          "contentId": "2CCiMrbROD",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Core Stability",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Intermediate sequence, we stabilize the spine, ribs and pelvis; strengthen the deep abdominals, obliques and lower back; and activate the glutes to improve balance, help to prevent and alleviate lower back pain and enhance athletic performance. It\u0027s a great session to do in the morning or pre-workout.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "IqHLA2DmZW",
+          "contentId": "dCNowateOm",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "The One For Your Hips",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "dgMZ96oEct",
+          "contentId": "3m7Kj2oYyG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Balance and Agility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Maintaining effective cycling form when you\u0027re under pressure requires substantial balance, coordination, agility, and core strength. This series will develop those capabilities so you can put down the power when it really matters.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "ZidZ9JbiZ9",
+          "contentId": "HaefDVYuNo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Super Easy Stretch Routine II",
+          "style": null,
+          "compatibility": 100,
+          "description": "You\u0027ve just finished a difficult training session. You probably just want to curl up in a ball, but to make sure your body stays limber and flexible this sequence will stretch you out and open you up. You\u0027ll be ready to hit it again in no time.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23916666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "DDk1BF12pl",
+          "contentId": "x3DCCIYEnV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Balance \u0026 Mobility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This balance sequence is excellent for training balance and proprioception, while also improving overall mobility, particularly in the spine and hips. It provides a challenging workout for the quads and glutes, making it a great choice for the morning or before a workout.\n\n\u200B\n\nThe objectives include improving balance, proprioception, and body awareness; strengthening the knees, quads, and glutes; opening up the hips and chest; enhancing mobility in the spine; boosting focus and concentration; and practicing diaphragmatic, nasal breathing.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- High Lunge with Chest Opener\n- Flying Lunge\n- Warrior 3 with Chest Opener\n- Chair Pose Twists\n- Revolved Side Angle\n- Awkward Pose\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "1eA1ddZHlX",
+          "contentId": "6qiszCL911",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Chest Opener",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to open up the chest and improve mobility in the spine and shoulders. It includes stretches for the forearms, shoulders, chest, hip flexors, hamstrings, and calves. The poses are particularly effective for alleviating pain between the shoulder blades. This sequence is ideal as a post-workout routine, especially after working the chest or engaging in activities that involve a closed-chest posture. It is also beneficial after a day spent hunched over a computer.\n\n\u200B\n\nThe objectives are to open up the chest, enhance mobility in the spine and shoulders, stretch the forearms, shoulders, chest, hip flexors, calves, and hamstrings, and help alleviate pain between the shoulders.\n\n\u200B\n\n**Poses in this session:**\n\n- Cat\u2013Cow with Forearm Stretch\n- Puppy\n- Half-Twisted Scorpion\n- Downward Dog\n- Low Lunge with Chest Opener\n- Kneeling Cat-Cow\n- Camel\n- Wide-Knee Child\u2019s Pose\n- Reclining Butterfly (on blocks)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "4Kd9h3DqQu",
+          "contentId": "g2TGqzUsuJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Openers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Seeing gains from the _Hip Openers_ session? This series will build on those gains, further loosening overworked and inflexible muscles in and around the hip joints.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "11G7tWXywV",
+          "contentId": "F17BkzPCQP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Scapular Stability",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner / Intermediate sequence, we stabilize the muscles that support your shoulder blades, activate the posterior chain, strengthen the core and stretch the chest and fronts of the shoulders. This helps reduce your risk of neck and shoulder injury, alleviate neck and interscapular pain, and improve your posture. It\u0027s a great session to do in the morning or before a workout.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "NEaY75G6lw",
+          "contentId": "9UrTKGZKVy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Off Balance",
+          "style": null,
+          "compatibility": 100,
+          "description": "This balance sequence starts with engaging one-legged standing postures that strengthen the feet, ankles, hips, and glutes, and concludes with a challenging Side Plank series aimed at strengthening the hips, abs, and obliques. It is an excellent routine to practice in the morning or before a workout.\n\n\u200B\n\nThe objectives are to improve balance, proprioception, and body awareness; strengthen the feet, ankles, hips, glutes, core, arms, and shoulders; enhance focus and concentration; and practice diaphragmatic, nasal breathing.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Tiptoes\n- Sidebending-Tree\n- Knee Hugs\n- Dancer\n- Side Plank Variations\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "nedH20El7u",
+          "contentId": "e8kFg4D1jb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Mobilize and Activate",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get out of your habitual movement patterns and get ready to take on the day with this activation session. You\u0027ll flow through a series of standing yoga poses to simultaneously challenge your strength, flexibility, and range of motion, leaving you feeling energized.\n\n\n\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "rMUOJd9xoe",
+          "contentId": "fNDMdroP16",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Core Strengtheners I",
+          "style": null,
+          "compatibility": 100,
+          "description": "The power to to put watts to the pedals comes not just from your legs, but from your core. When your core is strong and stable, you can generate more power, more efficiently. You\u0027ll also suffer less back pain. With those goals in mind, this sequence strengthens the abs, obliques, and lower back.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25222222222222224,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "wu6ygmHzXa",
+          "contentId": "DZBCT270rn",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Side Bends",
+          "style": null,
+          "compatibility": 100,
+          "description": "If you\u0027re pushing yourself hard, it\u0027s likely you\u0027re getting stiff and sore all over. Side bends are one of my favorite ways to deal with general soreness. They\u0027re also perfect for cyclists who typically suffer from poor lateral flexibility.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "PvHKAMB04y",
+          "contentId": "uxHo78097o",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

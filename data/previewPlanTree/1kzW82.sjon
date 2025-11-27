@@ -1,0 +1,53 @@
+{
+  "uid": "1kzW82",
+  "name": "Enthusiast ",
+  "description": "You have recently completed intermediate yoga sessions",
+  "stepTitle": "Sessions per week",
+  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Jfd6j9",
+      "name": "1-2",
+      "description": null,
+      "stepTitle": "12 week yoga plan 1-2/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Dgjx3W",
+      "name": "2-4",
+      "description": null,
+      "stepTitle": "12 week yoga plan 2-4/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Jd0QgP",
+      "name": "4-6",
+      "description": null,
+      "stepTitle": "12 week yoga plan 4-6/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

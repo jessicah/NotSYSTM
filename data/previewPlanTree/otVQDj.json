@@ -1,0 +1,74 @@
+{
+  "uid": "otVQDj",
+  "name": "3:1",
+  "description": "Three weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "sDJGxo",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Event - High Volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "XDDwNuKqxO",
+          "name": "Duathlon USAT Long Distance - Event - High Volume  - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "XDDwNuKqxO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "BXgOf7",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Event - High Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "0GlRQGyZyi",
+          "name": "Duathlon USAT Long Distance - Event - High Volume  - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0GlRQGyZyi",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

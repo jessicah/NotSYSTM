@@ -1,0 +1,30 @@
+{
+  "uid": "w5PrI5",
+  "name": "5",
+  "description": null,
+  "stepTitle": "Strength Level 5",
+  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "BGjCJ72RSh",
+      "name": "Road Strength: Level 5 - 2:1 -12 wks stand alone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BGjCJ72RSh",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

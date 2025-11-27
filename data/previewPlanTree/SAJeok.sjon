@@ -1,0 +1,30 @@
+{
+  "uid": "SAJeok",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Sub-60 Gravel",
+  "stepDescription": "Moderate Volume - 2:1 - strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "r2UBhM4VvB",
+      "name": "Gravel 40-62 mile 2:1 Medium Volume w/Str 2 x wk",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "r2UBhM4VvB",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

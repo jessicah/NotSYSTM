@@ -1,0 +1,30 @@
+{
+  "uid": "MMxrla",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "Sprint",
+  "stepDescription": "Event - High Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "2VO9FW22FE",
+      "name": "Sprint Duathlon - Event - High Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2VO9FW22FE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

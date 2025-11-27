@@ -1,0 +1,30 @@
+{
+  "uid": "67hOOD",
+  "name": "July 20 - Gran Fondo Asheville",
+  "description": "Gran Fondo Asheville",
+  "stepTitle": "Gran Fondo Asheville",
+  "stepDescription": "6 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "yiuhScOSTW",
+      "name": "GFNS 2025 - Gran Fondo Asheville 7/20/25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yiuhScOSTW",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

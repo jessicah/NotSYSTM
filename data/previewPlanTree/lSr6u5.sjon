@@ -1,0 +1,94 @@
+{
+  "uid": "lSr6u5",
+  "name": "High",
+  "description": null,
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VAZuAF",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "KQVX4k",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "STAUwL",
+          "name": "No",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "2GCfeU",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "rCLAyo",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "dwJgKp",
+          "name": "No",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "previewPlan": [
+    {
+      "id": "kkcnJlThgV",
+      "name": "TWT Route 2023",
+      "weakness": "NoWeakness",
+      "grouping": "Wahooligan Route",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Here it is! The official route for the Wahooligan Tour 2023.\n\nThanks again for taking part in the Tour and helping us reach our goal of raising $350,000 for the [Davis Phinney Foundation](https://davisphinneyfoundation.org/). If you haven\u0027t registered for the Tour yet or started your fundraising, click [HERE](http://dpf.convio.net/site/TR?fr_id=1300\u0026pg=entry).\n",
+      "planDescription": "Here it is! The official route for the Wahooligan Tour 2023.",
+      "fixedEndDate": "2023-03-18",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2023-01-26T20:25:08.841Z",
+      "updatedAt": "2025-05-19T16:08:14.001Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 5,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Make sure you have registered to ride the Tour",
+              "style": null,
+              "compatibility": null,
+              "description": "Thanks again for your fundraising efforts for the Davis Phinney Foundation and their work to help people with Parkinson\u0027s live better today:\nhttp://dpf.convio.net/site/TR?fr_id=1300\u0026pg=entry",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cash Register",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5380555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "HSb6Gc8uIZ",
+              "contentId": "6LnpmGMTMG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Rue The Day",
+              "style": null,
+              "compatibility": 100,
+              "description": "Those who have completed SUF icons like Blender, Mini Blender or the Chores will be familiar with the 40-seconds-hard/20-seconds-easy variety of Pain Shakes that Rue the Day delivers in three enticing courses. While the first few efforts in each set will feel \u0022easy,\u0022 since these blocks are stretched out to 8-minutes in length, you\u0027ll be deep into the red by the end of each set.\n\n\u200B\n\nWhile the efforts aren\u0027t continuous, they are long enough that you accumulate plenty of time near your VO2max, which is the goal of any MAP workout. Each 8-minute set gives you more than five minutes at 90% or higher of your 5-minute peak power. By the end, you\u0027re looking at 16 minutes of accumulated MAP efforts, so get ready to say \u0027Hello, Pain!\u0027\n\nAlong the way, we\u0027ll give you some interesting mental tips on how to prepare for, and better manage, the discomfort (to put it mildly) that comes with such intense efforts. In the end, you\u0027ll be both a faster and a mentally stronger cyclist.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[Demystifying VO2 and VO2MAX](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/it-takes-vo2-to-tango-demystifying-vo2-and-vo2max)\u0027 and \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7580555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 2
+                },
+                "tss": 57,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "1uKA4J5DIs",
+              "contentId": "VBEbqmsmYl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Attacker",
+              "style": null,
+              "compatibility": 100,
+              "description": "Being able to finish strong comes from properly pacing your efforts and preparing to finish strong. This session is all about improving those abilities. For just over 50 minutes, you\u0027ll tackle five different 6-minute long, progressive efforts that start just below FTP and finish well above it for the final minute.\n\n\u200B\n\nThe real challenge of this workout is the limited 1-minute recovery sections between each effort. You\u2019ll want to savor every second of those short recoveries. This workout will help improve your FTP and improve your ability to recover while pushing just under your threshold for the first half of each effort. You\u2019ll also learn to manage your pacing and put out power above your threshold after holding steady just below that breakpoint.\n\n\u200B\n\nRiders with sustained weakness will benefit greatly from this workout, as will anyone looking to push up their FTP.\n\n_Attacker_ is quite similar to the SUF workout, _Defender._ However, the efforts within each interval are 2-minutes shorter, and instead of starting harder and backing off like in _Defender,_ the efforts in this session start controlled and keep squeezing harder and harder until the end.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8825,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 63,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "2RCUXLPFVH",
+              "contentId": "k0MlcITKGW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 2: Rabbit Mountain",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u0027s your first day joining Neal for a ride, so he\u0027s taking you out with a few of his friends -- Jeff, Julie, and Heather -- for a series of four, 10-minute repeats on the infamous Rabbit Mountain. And while the road might repeat, the efforts won\u0027t as Neal\u0027s come up with a different approach for each one.\n\n\u200B\n\nIn between the efforts, you\u0027ll learn that Neal is a bit of a collector -- at least when it comes to cycling stuff. He shows you his personal bike collection (he really takes N\u002B1 to the next level), lets you dig around in his wardrobe, and even takes you down to the wine cellar for a look at some pretty special bottles.\n\n\u200B\n\n**When to ride: Do this on day 1 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.2219444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 3,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 103,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "pb4AHZ3Dko",
+              "contentId": "cGdqvcrlGl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Portugal: Nazar\u00E9 to Foz do Arelho",
+              "style": null,
+              "compatibility": 100,
+              "description": "Starting off at Nazar\u00E9, the legendary big wave surf capital of the world, today we\u2019re going to be focussing on our cadence and good form to build strength and efficiency. On each of the climbs, we\u2019re going to keep the cadence low, while on each descent we\u2019re going to up our cadence and get the legs spinning, maintaining a relaxed posture and breathing, finishing up after 28km at the stunning Foz do Arelho beach. Along the way we\u2019ll check out some of the highlights of the area, including the beautiful fortified village of Obidos with its famous cherry liquor, now we\u2019re talking!\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/3017721732329529928)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.96,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 52,
+                "intensityFactor": 0.73
+              },
+              "workoutId": "rNLaDAGzhQ",
+              "contentId": "VZIUofmiGW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": "Cycling",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour de Suisse Women 2",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider: **Clara KOPPENBURG of Germany\n\n**Event: **Tour de Suisse Women\n\n\u200B\n\nAfter the racing in Vaduz as part of the Tour de Suisse Women, the peloton leaves Liechtenstein and heads towards Chur, the oldest town in Switzerland. With the riders having ridden 96 kilometers over some tough climbs already, you\u0027ll join the action on-board with Cofidis Professional Clara Koppenburg with less than 28 kilometers to go. The final climb of the day up to St Luzisteig is coming up. Be ready for plenty of attacks before you get there and a high pace once on the slopes. You have all to play for in this stage. Can you pull it off?\n\n\u200B\n\n**About ProRides**\n\n_Here\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there._\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9077777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 134,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "sbfGA201Wo",
+              "contentId": "tBEu9LdjEy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "UCI Centre 4: Road",
+              "style": null,
+              "compatibility": 100,
+              "description": "Yesterday was a pretty tough session on the Velodrome. So let\u0027s get some fresh air and head out with the UCI [World Cycling Centre Women\u0027s Team](https://www.uci.org/article/uci-world-cycling-centre-wcc-team-already-rubbing-shoulders-with-the-worlds/42DE3MewXH6qWfqvxaC9op). With riders from South Africa, Eritrea, Argentina, Japan, Colombia \u0026 Belarus, and with a coach from Spain, [Cristina San Emeterio](https://www.uci.org/article/introducing-cristina-san-emeterio-the-new-wcc-team-coach/7bTthBndY5j7vyXrZ3n3R4), you\u0027re in for quite a multicultural experience.\n\n\u200B\n\nAnd a fast one. This team isn\u0027t messing around as they take you out for a team time trial up the infamous climb of Torgon, a true proving ground for WCC athletes. After a short break, you\u0027ll get to do a race simulation with the team up the final climb of the day -- can you stay with their South African climbing ace?\n\n\u200B\n\nAlong the way, you\u0027ll get a behind-the-scenes look at what it\u0027s like to live at the WCC, learn more about these very special riders, take a tour of the Mechanic\u0027s Service Course, and get plenty of insight and coaching from Cristina as she steers the team to ever greater success.\n\n\u200B\n\n**About the workout: **We\u0027re hitting nearly all the energy systems today in this long session. You\u0027ll get a nice FTP push from the team time trial as you gradually ratchet up the intensity and really squeeze things near the top. In the race simulation, you\u0027ll dig into those MAP reserves as you follow moves and try to make your mark. The long descent (as well as the warm-up) provides some additional aerobic volume.\n\n\u200B\n\n_Schedule for A Week with the World Cycling Centre:_\n\n_Day 1/7: Introduction_\n\n_Day 2/7: Tour_\n\n_Day 3/7: Velodrome_\n\n_**Day 4/7: Road**_\n\n_Day 5/7: Off_\n\n_Day 6/7: BMX_\n\n_Day 7/7: Mountain Bike_\n\n\u200B\n\n_The Union Cycliste Internationale (UCI) is the governing body for world cycling. In 2002, the _[_UCI World Cycling Centre_](https://www.uci.org/uci-wcc/5LpWb6Az76H9o9eyfzLweN)_ (WCC) was opened in Aigle, Switzerland to give promising athletes from developing nations a better chance to realize their dreams. Today, the elite training facility - an impressive building on the banks of the Rhone River at the Eastern edge of Lake Geneva - supports more than 100 riders a year across BMX Racing \u0026 Freestyle, Road, Track, and Mountain Bike. The A Week With the UCI World Cycling Centre series workouts give you a never-before-seen behind-the-scenes experience of what it\u0027s like to live and train at this exclusive centre._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.4575,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 140,
+                "intensityFactor": 0.96
+              },
+              "workoutId": "komBihdemF",
+              "contentId": "uXDmbon4O2",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": null,
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "The Wahooligan Tour Celebration",
+              "style": null,
+              "compatibility": 100,
+              "description": "Congratulations on completing the Wahooligan Tour!\n\nComplete this Recovery session to unlock your badge.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.05138888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 1,
+                "intensityFactor": 0.39
+              },
+              "workoutId": "J9sH3ZdqmW",
+              "contentId": "ZEkB8ZnTaf",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "To Get To The Other Side",
+              "style": null,
+              "compatibility": null,
+              "description": "Head over to RGT and load up the To Get To The Other Side structured workout and make your way up the Stelvio climb. We will also be hosting some group rides for this stage in the events section.\n\n(We would love you to come and experience RGT with us and close out the Tour in some group rides. However if you would like to complete the Tour just on SYSTM, you can Ride the To Get To The Other Side workout there and still get your Wahooligan Tour 2023 Badge.)",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

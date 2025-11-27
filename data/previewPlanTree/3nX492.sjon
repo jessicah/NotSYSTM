@@ -1,0 +1,74 @@
+{
+  "uid": "3nX492",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "NWSFGb",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "eSports ",
+      "stepDescription": "eSports - High Volume - 2:1 - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "xfn70VxRSa",
+          "name": "eSports: - high volume - 2:1 - with Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "xfn70VxRSa",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "zwTjc9",
+      "name": "No",
+      "description": null,
+      "stepTitle": "eSports",
+      "stepDescription": "eSports - 2:1 - High Volume",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "1wRwXe",
+          "name": "eSports - High Volume - 2:1 - final",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "dej5Esxpn8",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

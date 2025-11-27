@@ -1,0 +1,532 @@
+{
+  "uid": "r024LA",
+  "name": "100 mi / 160km \u002B",
+  "description": "Epic mountain bikes rides and races.",
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "HUckdg",
+      "name": "Low",
+      "description": "2-6 hrs per week",
+      "stepTitle": "Progression ",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "vZbEiM",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "MyBhif",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - Low Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "CdmgmU4wpU",
+                  "name": "MTB 100 mile Event 3:1 Low Volume w/Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "CdmgmU4wpU",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "40oHof",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB 100 Mile",
+              "stepDescription": "Event - Low Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "g2OKZHdsyd",
+                  "name": "MTB 100 mile Event 3:1 Low Volume ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "g2OKZHdsyd",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "FRZWsf",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "1yNJQK",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile",
+              "stepDescription": "Event - Low Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "jaa7pM8pJD",
+                  "name": "MTB 100 mile Event 2:1 Moderate Volume with Strength (clone from low volume)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "jaa7pM8pJD",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "s5X4Af",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB 100 Mile",
+              "stepDescription": "Event - Low Volume - 2:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "6xCA6ytovj",
+                  "name": "MTB 100 mile 2:1 Low Volume ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "6xCA6ytovj",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "CvbA1j",
+      "name": "Moderate",
+      "description": "4-10 hrs per week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "OdYocB",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "4wY0ge",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile",
+              "stepDescription": "Event - Moderate Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "hBbApTkNb4",
+                  "name": "MTB 100 mile Event 3:1 Medium Volume  ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "hBbApTkNb4",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "NCr3UP",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - Moderate Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "XejayeC6J6",
+                  "name": "MTB 100 mile Event 3:1 Medium Volume",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "XejayeC6J6",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "o21WtO",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "nACTsn",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - Moderate Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "gC8siBkw4g",
+                  "name": "MTB 100 mile - Event - Medium Volume - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "gC8siBkw4g",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "Jy6ZNa",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - Moderate Volume - 2:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "R0o2TJ",
+                  "name": "MTB 100 mile 2:1 Medium Volume ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "51cdSEOt64",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "pFvRBo",
+      "name": "High",
+      "description": "6-12 hrs per week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "4UufC4",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "B8rGxp",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - High Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "8x8RDQOEHp",
+                  "name": "MTB 100 mile Event 3:1 Medium Volume ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "8x8RDQOEHp",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "uSbj9X",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - High Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "P9BSNeME4w",
+                  "name": "MTB 100 mile Event 3:1 High Volume B",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "P9BSNeME4w",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "0lNTd8",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "7zzUaf",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": "MTB 100 Mile ",
+              "stepDescription": "Event - High Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "UXgGM7PsPO",
+                  "name": "MTB 100 mile - Event - High Volume - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "UXgGM7PsPO",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "CdOpmhx9V7",
+                  "name": "2023 MTB 100 mile - Event - High Volume - 2:1 - 18 wks - Strength ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "CdOpmhx9V7",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "8cnoHY9Aoj",
+                  "name": "MTB 100 mile - Event - High Volume - 2:1 - 16 wks 2023 FTGU",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "8cnoHY9Aoj",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "vGgXXU",
+              "name": "No",
+              "description": null,
+              "stepTitle": "Mile MTB 100",
+              "stepDescription": "Event - High Volume - 2:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "0F1L7X1t56",
+                  "name": "MTB 100 mile Event 2:1 High Volume (clone from strength plan)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "0F1L7X1t56",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

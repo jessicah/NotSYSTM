@@ -1,0 +1,94 @@
+{
+  "uid": "uF9jvB",
+  "name": "Low",
+  "description": null,
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VXQzWK",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PC1Yw0",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "MWQnal",
+          "name": "No",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "Mb7ppx",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "iOmLeR",
+          "name": "Yes",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "V1PwcT",
+          "name": "No",
+          "description": null,
+          "stepTitle": "MTB Marathon",
+          "stepDescription": " Season Prep - Low Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

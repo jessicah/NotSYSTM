@@ -1,0 +1,74 @@
+{
+  "uid": "Vlx5aR",
+  "name": "2:1",
+  "description": "Two weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "jXrnZE",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Event - Moderate Volume - 2:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "lOrQi8G4eO",
+          "name": "Duathlon USAT Long Distance - Event - Moderate Volume  - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "lOrQi8G4eO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "6M9SDN",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Event - Moderate Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "t29KshU5sI",
+          "name": "Duathlon USAT Long Distance - Event - Moderate Volume  - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "t29KshU5sI",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

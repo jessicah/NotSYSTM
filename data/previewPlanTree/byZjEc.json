@@ -1,0 +1,30 @@
+{
+  "uid": "byZjEc",
+  "name": "5",
+  "description": null,
+  "stepTitle": "Upper Body Level 5",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "OXepnHlWRv",
+      "name": "Special Focus Upper Body Level 5",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "OXepnHlWRv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

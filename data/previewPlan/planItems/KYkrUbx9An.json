@@ -1,0 +1,428 @@
+{
+  "id": "KYkrUbx9An",
+  "name": "The Great French Challenge",
+  "weakness": "NoWeakness",
+  "grouping": "The Great French Challenge",
+  "category": "",
+  "subcategory": "None",
+  "description": "Here is the training plan to help you complete all the workouts to achieve the _**The Great French Challenge 2022**_ badge.\n\nIf you feel like you cannot commit to the suggested schedule though, feel free to use our new drag and drop feature to move these workouts to days that fit with your schedule.\n\n\u200B\n\nFor more info about this challenge, click here to see our HelpCenter article:\n\n[**The Great French Challenge**](https://wahoofitness.zendesk.com/hc/en-us/articles/5953117869074)\n",
+  "planDescription": "Badge Plan",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2022-06-30T13:46:47.068Z",
+  "updatedAt": "2025-11-13T11:14:27.047Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Event",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "More information about The Great French Challenge",
+          "style": null,
+          "compatibility": null,
+          "description": "https://wahoofitness.zendesk.com/hc/en-us/articles/5953117869074",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": null,
+          "plannedDuration": null,
+          "durationType": null,
+          "metrics": null,
+          "workoutId": null,
+          "contentId": null,
+          "notes": "\u200B\n",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 202,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "AC: 6 x 45s",
+          "style": null,
+          "compatibility": 100,
+          "description": "There\u0027s no getting around the fact that this is a profoundly unpleasant session that will leave your legs feeling like jelly. This session is similar to The Trick, with a few differences. On the plus side, all of the efforts are 15-seconds shorter than those in The Trick. To make up for this, we added two more intervals to this session, bringing the total to 6. That means by the end of this session you will have plowed through 4.5-minutes of AC work.\n\nThis workout is one of the few sessions that we do NOT recommend you complete in ERG mode if you are on a smart trainer. The goal is to hold onto the highest power you can for the full 45-seconds. Inevitably in the later sets, your power will dip before you reach the end of the interval. What we want is for you to complete every effort having given everything for 45-seconds. We don\u0027t want ERG mode grinding you to a halt because you cannot maintain the (ridiculously) high power targets. Even if you drop down below FTP in the final 10-seconds of these efforts, as long as you are going flat out, you are doing it correctly.\n\nJust take this session one interval at a time, and focus on giving your all for this one effort. You can worry about the others when you get to them. If you finish this session without swearing, then you didn\u0027t go hard enough!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE -- 50% of FTP -- HR \u003C70\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C70\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C70\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C90\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 9 -- 120% of FTP -- HR \u003E105\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 10 -- 200% of FTP -- HR \u003E105\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 6\n\nRest Between Sets: 5 minutes 15 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\nInterval Repeats Per Set: N/A\n\n**Interval**\n\nEffort: 45 seconds @ RPE 9.5 -- 150% of FTP -- HR \u003E105\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n4 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 5,
+              "nm": 2,
+              "map": 2,
+              "ftp": 1
+            },
+            "tss": 61,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "rLJWul8fjz",
+          "contentId": "lsGTR48cBt",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 203,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Amazing Chase",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2021): Ultra-endurance cyclist Jack Thompson set out to ride the 2021 Tour de France route as fast as he could. 3,552km divided over 21 stages, his goal was to chase down the PRO peloton on his way to Paris. What would it take? What was realistic? What was possible? Follow Jack\u0027s journey as he battles the elements, the vagaries of the route, and intense mental and physical fatigue to arrive at the Champs-\u00C9lys\u00E9es in Paris.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session, which is a very low-intensity ride. It\u0027s so easy that your power remains at or below 50% of FTP or an RPE less than 2.5, and your heart rate stays in zone 1 the entire time. The intensity and cadence targets will vary throughout this session to keep it interesting (But not so interesting that you can\u0027t pay attention to the film).\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5625,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 13,
+            "intensityFactor": 0.48
+          },
+          "workoutId": "F4fcz7iSVj",
+          "contentId": "9wrwFnZxsd",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Med. Coast: Nice to Menton",
+          "style": null,
+          "compatibility": 100,
+          "description": "We\u2019re on the C\u00F4te d\u2019Azur, home to many a pro rider, for a great 39-kilometer adventure that traverses the historic cliff roads from Nice to Menton. After a gradual warm-up, we\u2019ll ramp things up on the famous Col d\u2019Eze with 7 minutes at sub-threshold, followed by 7 minutes at threshold, adding to the intensity each minute to the top. We\u2019ll then take a breather as we learn more about the region\u2014from its rich history and the ancient chateau at Roquebrune to the uber glam of Monaco\u2014before getting stuck back into our second and third threshold intervals. Well, if we\u2019re gonna visit the home of the pros then we need to hit it hard. Let\u2019s go!\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/4033910402)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.4358333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 85,
+            "intensityFactor": 0.77
+          },
+          "workoutId": "zBBtWGbqcD",
+          "contentId": "xnWxrUQpAs",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Cycling",
+      "rank": 205,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Costa Blanca: Puerto de Tudons",
+          "style": null,
+          "compatibility": 100,
+          "description": "This session is a variation on over-unders, designed to elevate your MAP (maximal aerobic power) while keeping your cardiovascular system under constant strain. You\u0027ll alternate between hard MAP intervals and \u201Crecoveries\u201D that are still above endurance level \u2014 forcing your heart rate and respiration to stay elevated throughout.\n\n\u200B\n\nSet on the consistent, climb-friendly terrain of Port de Tudons, this workout encourages rhythm and control, with a focus on maintaining high cadence to emphasize cardio over muscular strain. The structure builds your ability to sustain high power outputs under stress, improving your breakaway potential and fatigue resistance without requiring extended time at VO\u2082 Max power.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/14035782507)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0183333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 5,
+              "ftp": 5
+            },
+            "tss": 75,
+            "intensityFactor": 0.88
+          },
+          "workoutId": "2pd4pKh1zE",
+          "contentId": "sx2F4VUMLJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "type": "Cycling",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Wolfpack Insider: France",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2020): Deceuninck \u2013This documentary chronicles the journey of Deceuninck\u2013Quick-Step during the 2019 Tour de France. Go behind the scenes with one of the world\u0027s most successful PRO teams as they navigate the ups and downs of cycling\u0027s biggest race.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9297222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 36,
+            "intensityFactor": 0.64
+          },
+          "workoutId": "xQEOoaSGSx",
+          "contentId": "FH5Q8pd4Ab",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "type": "Cycling",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Clobber",
+          "style": null,
+          "compatibility": 100,
+          "description": "The 3x25-minute sub-threshold workout is one of the most classic interval sessions out there, so prepare for a trip to the northern Painlands for this FTP-builder. The reason the 3x25 sub-threshold workout is so popular is that it is easy to follow, helps teach good pacing, and gives you a great threshold training stimulus.\n\n\u200B\n\nIn this case, you\u0027re looking at three, (roughly) 25-minute blocks at around 90% of your FTP, an effort we refer to as \u0022Sub-Threshold\u0022. Many refer to this intensity as \u0022Sweet-Spot\u0022, but we prefer Sub-Threshold, as the real key is to never let your power creep above your FTP. Staying just below threshold ensures that your effort remains at an intensity you know your body can handle but that is close to what would not be sustainable.\n\n\u200B\n\nThe only way you\u0027re going to make it through three of these efforts is if you pace yourself properly. Everyone feels just fine for the first 5 minutes of the first effort, and are often tempted to go harder. Don\u0027t be that person. More often than not, that person blows up spectacularly in the second interval, unable to finish the session. Or they have to ride that second interval at lower power, turning it into a Tempo session, which is not the goal.\n\n\u200B\n\nGetting a sense of how these efforts \u0022bite\u0022 towards the end is vital to learning how to pace yourself over longer steady-state efforts; whether that\u0027s a time trial, local climb, breakaway, triathlon, or even a good old fitness test. In each of those cases, the pacing is key. Learning how your perceived effort can steadily climb even though your power remains unchanged is critical to good pacing.\n\n\u200B\n\nSo how do you know if you are doing this one right? As we said, the first 5 minutes should feel relatively easy. Around that 5-minute mark, your heart rate should stop climbing, and settle into 2-5% below your Lactate Threshold Heart Rate (LTHR). If your heart rate is climbing for the entire effort and goes above your LTHR, then you are going too hard.\n\nIf you hit the 10-minute mark, your legs feel fine, and your heart rate is still in Zone 3, then you aren\u0027t going hard enough.\n\nIf you\u0027ve never done a session like this before, you can consider only doing the first 20-minute effort, or even sticking to just the first 15 minutes of each effort. There\u0027s no shame in building up to this full session, so don\u0027t be afraid to pause and fast forward as needed.\n\n\u200B\n\nNailing this session is really about getting in tune with your body and understanding what the edge between a sustainable and an unsustainable effort feels like. Not being able to complete this workout is fairly common, so don\u0027t beat yourself up if you can\u0027t make it through the first few times. As long as you come away from this session with a better understanding of how to pace longer efforts, you\u0027ve improved as an athlete.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.7722222222222221,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 117,
+            "intensityFactor": 0.81
+          },
+          "workoutId": "2z5P3w619N",
+          "contentId": "JpDMHRZtaB",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "type": "Cycling",
+      "rank": 208,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "P. Gaimon 3: Short KOM Training Session",
+          "style": null,
+          "compatibility": 100,
+          "description": "As part of his \u2018Worst Retirement Ever,\u2019 Phil made a name for himself by sniping Strava KOMs around the world. But if you\u2019re going to travel around globe stealing crowns from some of the world\u2019s fastest climbers, you need to bring your A-game.\n\n\u200B\n\nIn this short, 35-minute workout, Phil takes you through a warm-up on the famous Pacific Coast Highway before climbing into two short, maximal efforts on the way up Dekker Canyon. You\u2019ll be in the hurt box, but be sure to pay attention as Phil drops his top tips for KOM / QOM segment success.\n\n\u200B\n\nIn between efforts, Phil keeps you entertained with stories about his Cookie Fondo, life in LA, a tour of his garage, a face lick from his dog and his personal recommendation for the best cold-pressed juice in town.\n\n\u200B\n\n_Do this on: Day 3 of the 5-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5986111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 5,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.78
+          },
+          "workoutId": "rTp6HTUgAS",
+          "contentId": "H4PzHKpiwc",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "type": "Cycling",
+      "rank": 209,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Classic Climbs of France: Col de Braus",
+          "style": null,
+          "compatibility": 100,
+          "description": "The Col de Braus workout focuses on maintaining a consistent tempo while responding to varied efforts, mimicking real race scenarios. This dynamic training session designed to build endurance and power with a series of specific tempo and surge efforts starts out with a steady tempo pace. At the 2 km mark, we will engage in a 90-second effort as if responding to a breakaway, then return to a strong threshold pace as the profile dips. Throughout the ride, the focus will be on maintaining a high tempo, incorporating ten 3-minute efforts with 30-second out-of-the-saddle bursts.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11556448551)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7655555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 54,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "sBGUedHkDF",
+          "contentId": "kvTBuJ24UT",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "type": "Cycling",
+      "rank": 210,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Med. Coast: Massif de l\u0027Esterel",
+          "style": null,
+          "compatibility": 100,
+          "description": "This 34-kilometer ride is split into two distinct parts. As we depart the village of Mandelieu-la-Napoule and hug the Mediterranean coastline, we\u2019ll kick things off with a series of cadence pyramids. Although these in an of themselves may not feel overly taxing, as we head inland the fun really starts as Mike guides you through a series of threshold efforts with bursts on the striking red roads of l\u2019Est\u00E9rel, all the way to the summit of the Col Notre Dame. As we delve deeper into the many highlights of the area\u2014from the historic villages that line the coast to the ritz and glitz of Cannes\u2014we\u2019re definitely going to be working up a sweat here. Luckily, we\u0027ll be finishing up with a visit to the famous Galimard perfumery. So take a deep breath and get ready to come out of this workout smelling like a rose.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/4034551251)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.4319444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 2,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 76,
+            "intensityFactor": 0.75
+          },
+          "workoutId": "O0xv6eB8ZK",
+          "contentId": "xtVWZFFpuC",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

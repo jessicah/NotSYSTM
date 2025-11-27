@@ -1,0 +1,164 @@
+{
+  "uid": "vQYdqR",
+  "name": "2:1",
+  "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+  "stepTitle": "Level",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "bmWyCR",
+      "name": "1",
+      "description": null,
+      "stepTitle": "Strength Level 1",
+      "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "QXdKtqkY9T",
+          "name": "MultiSport - Strength - 12wk - 2:1 - Level 1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "QXdKtqkY9T",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "JPej6P",
+      "name": "2",
+      "description": null,
+      "stepTitle": "Strength Level 2",
+      "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone MultiSport - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "0RD3PFhAxT",
+          "name": "MultiSport - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0RD3PFhAxT",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "COWHCH",
+      "name": "3",
+      "description": null,
+      "stepTitle": "Strength Level 3",
+      "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "F8Lv31I5Cj",
+          "name": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "F8Lv31I5Cj",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "hF1qqD",
+      "name": "4",
+      "description": null,
+      "stepTitle": "Strength Level 4",
+      "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "DPyhXAa79e",
+          "name": "MultiSport - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "DPyhXAa79e",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "bjAkr6",
+      "name": "5",
+      "description": null,
+      "stepTitle": "Strength Level 5",
+      "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "gJIwFdHn5G",
+          "name": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "gJIwFdHn5G",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

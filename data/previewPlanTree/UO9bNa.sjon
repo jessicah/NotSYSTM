@@ -1,0 +1,1810 @@
+{
+  "uid": "UO9bNa",
+  "name": "Season Prep",
+  "description": "12 week plans - do you have an A race that is more than 13 weeks away?",
+  "stepTitle": "Discipline",
+  "stepDescription": "What best describes your main focus for training",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "DbI2t3",
+      "name": "Enduro",
+      "description": "For those who like to earn the turns",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Ab7caY",
+          "name": "Low",
+          "description": "2-6 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "qVSXaM",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "5spfMD",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "JTq8DAMAKq",
+                      "name": "Off Road MTB Enduro Season Prep Low Volume 3:1 Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "JTq8DAMAKq",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "YbDWCx",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "PE8GycZw8u",
+                      "name": "Off Road MTB Enduro Season Prep Low Volume 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "PE8GycZw8u",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "2fP6Ij",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "O9tcvQ",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "LNtD99",
+                      "name": "Off Road MTB Enduro Season Prep Low Volume 2:1 w/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "R0V7JnTGRQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "r80PXf",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Low Volume - 2:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "RB9zmBoBUD",
+                      "name": "Off Road MTB Enduro Season Prep Low Volume 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "RB9zmBoBUD",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "5U2OhW",
+          "name": "Moderate",
+          "description": "4-10 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "jeETZ0",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "7717Ya",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Moderate Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "47qQamNC0g",
+                      "name": "Off Road MTB Enduro - Season Prep - Moderate Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "47qQamNC0g",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Lw4rlf",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "7wTvCpeFct",
+                      "name": "Off Road MTB Enduro Season Prep Moderate Volume 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "7wTvCpeFct",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "XEvAeL",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "MXWL0b",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": " Season Prep - Moderate Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "4Wfnoni1Aq",
+                      "name": "Off Road MTB Enduro Season Prep Moderate Volume 2:1 Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "4Wfnoni1Aq",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "MklmPh",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "WTMBFzS8rk",
+                      "name": "Off Road MTB Enduro Season Prep Moderate Volume 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "WTMBFzS8rk",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "gPHMdO",
+          "name": "High",
+          "description": "10-15 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "dHfYLV",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "kkhI54",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "mlFMsnux2c",
+                      "name": "Off Road MTB Enduro - Season Prep - High Volume - 3:1 - Strength (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "mlFMsnux2c",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "N2Ybdm",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - High Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "pLueqoncbM",
+                      "name": "Off Road MTB Enduro - Season Prep - High Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "pLueqoncbM",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "E6AQsN",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "fqb1F8",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - High Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Z7G5645TQE",
+                      "name": "Off Road MTB Enduro Season Prep High Volume 2:1 Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Z7G5645TQE",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Wu3bGC",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Enduro",
+                  "stepDescription": "Season Prep - High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "rvTdyHn4kE",
+                      "name": "Off Road MTB Enduro Season Prep High Volume 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "rvTdyHn4kE",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "eljaeV",
+      "name": "XC",
+      "description": "Traditional cross country racing; 20-40 km",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "uF9jvB",
+          "name": "Low",
+          "description": null,
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VXQzWK",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PC1Yw0",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "MWQnal",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "Mb7ppx",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "iOmLeR",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "V1PwcT",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": " Season Prep - Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "pVzdfn",
+          "name": "Moderate",
+          "description": null,
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "qYAt7R",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "TP8zcf",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "K18mr8",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "hzviPo",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "iJcfnX",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "c0gHZi",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "lSr6u5",
+          "name": "High",
+          "description": null,
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VAZuAF",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "KQVX4k",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "STAUwL",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "2GCfeU",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": false,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "rCLAyo",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "dwJgKp",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "BWCFNI",
+      "name": "Marathon",
+      "description": "Medium distance cross country racing; 40-160 km",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "4xkZ7Y",
+          "name": "Low",
+          "description": "2-6 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "YPysOX",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "MJG9F5",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": " Season Prep - Low Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "sBih3A9sV4",
+                      "name": "MTB Marathon - Season Prep - 3:1 - Low Volume - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "sBih3A9sV4",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "CANFcb",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "plVL9fEOo2",
+                      "name": "MTB Marathon - Season Prep - 3:1 - Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "plVL9fEOo2",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "u13fRN",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "NNSIcW",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": " Season Prep - Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "hDB14JkR27",
+                      "name": "MTB Marathon - Season Prep - 2:1 - Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "hDB14JkR27",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "b6Y9Jd",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Eyo32o",
+                      "name": "MTB Marathon - Season Prep - 2:1 - Low Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "NQ1sLD1HTz",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "7SP80u",
+          "name": "Moderate",
+          "description": "4-10 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "pLWrkd",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "irIkrP",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": " Season Prep - 3:1 - Moderate Volume - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "TJJz2v35j5",
+                      "name": "MTB Marathon - Season Prep - 3:1 - Med Volume - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "TJJz2v35j5",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ouvXpi",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "SG2C5XrgkN",
+                      "name": "MTB Marathon - Season Prep - 3:1 - Med Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "SG2C5XrgkN",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "MgHg4j",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "I63HhJ",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - Moderate Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "3U2hGjSMTl",
+                      "name": "MTB Marathon - Season Prep - 2:1 - Med Volume - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "3U2hGjSMTl",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "U4N5DX",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ryLKJKfYN0",
+                      "name": "MTB Marathon - Season Prep - 2:1 - Med Volume  (in progress)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ryLKJKfYN0",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "ptZ8DV",
+          "name": "High",
+          "description": "10-15 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "S9UZjJ",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PvIWRv",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "XRvdBlReW5",
+                      "name": "MTB Marathon - Season Prep - 3:1 - High Volume - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "XRvdBlReW5",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "YeTYnD",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - High Volume - 3:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "KSYiowSgmR",
+                      "name": "MTB Marathon - Season Prep - 3:1 - High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "KSYiowSgmR",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "HvG5JK",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "8IK3n7",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": " Season Prep - High Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "AGwfEZCJzc",
+                      "name": "MTB Marathon - Season Prep - 2:1 - High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "AGwfEZCJzc",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "wcc6nF",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB Marathon",
+                  "stepDescription": "Season Prep - High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Oq1dPH4kl5",
+                      "name": "MTB Marathon - Season Prep - 2:1 - High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Oq1dPH4kl5",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "YqTpj7",
+      "name": "100 Mile",
+      "description": "Epic mountain rides and races",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "lCxSPO",
+          "name": "Low",
+          "description": "2-6 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "V8ZdtS",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "a2g28M",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1JyrrHJDrH",
+                      "name": "MTB 100 mile - Season Prep - Low Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "1JyrrHJDrH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "hLBIBk",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 Mile",
+                  "stepDescription": "Season Prep - Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "6i9cRRoxfL",
+                      "name": "MTB 100 mile - Season Prep - Low Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "6i9cRRoxfL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "GN2W19",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "qdD6SK",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1FoPJBIXfg",
+                      "name": "MTB 100 mile Event 2:1 Low Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "1FoPJBIXfg",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "t1aWaz",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 Mile",
+                  "stepDescription": "Season Prep - Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "66ABBvl0Ma",
+                      "name": "MTB 100 mile - Season Prep - Low Volume - 2:1 (strength clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "66ABBvl0Ma",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "swzmDL",
+          "name": "Moderate",
+          "description": "4-10 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "bgBzJt",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "BwIqS6",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 Mile",
+                  "stepDescription": "Season Prep - Moderate Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BzfFdktcaM",
+                      "name": "MTB 100 mile - Season Prep - Med Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "BzfFdktcaM",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "bMmwNB",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 Mile ",
+                  "stepDescription": "Season Prep - Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "tMT2WdQu8Q",
+                      "name": "MTB 100 mile - Season Prep - Med Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "tMT2WdQu8Q",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "FSqF9S",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "qfy1Dd",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - Moderate Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "UGRFHTVnhA",
+                      "name": "MTB 100 mile - Season Prep - Med Volume - 2:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "UGRFHTVnhA",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "6oy9ib",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BI3ksYhPWS",
+                      "name": "MTB 100 mile - Season Prep - Med Volume - 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "BI3ksYhPWS",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "dKavcf",
+          "name": "High",
+          "description": "10-15 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "zbzIt0",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "2pNobe",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "UZ6u829eJb",
+                      "name": "MTB 100 mile - Season Prep - High Volume - 3:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "UZ6u829eJb",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "njuE24",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile",
+                  "stepDescription": "Season Prep - High Volume - 3:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "fwghDXNVZM",
+                      "name": "MTB 100 mile - Season Prep - High Volume - 3:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "fwghDXNVZM",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "5ioGXj",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "cyR5HR",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "MTB 100 mile ",
+                  "stepDescription": "Season Prep - High Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "DUxIDR6xX1",
+                      "name": "MTB 100 mile - Season Prep - High Volume - 2:1 - Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "DUxIDR6xX1",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "AmWmPA",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "MTB 100 Mile",
+                  "stepDescription": "Season Prep - High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "xTk91r3Msr",
+                      "name": "MTB 100 mile - Season Prep - High Volume - 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "xTk91r3Msr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

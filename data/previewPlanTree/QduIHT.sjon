@@ -1,0 +1,30 @@
+{
+  "uid": "QduIHT",
+  "name": "June 22 - Dragon Ride UK",
+  "description": "Dragon Ride, Port Talbot, UK",
+  "stepTitle": "Dragon Ride, Port Talbot, UK",
+  "stepDescription": "12 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "TYFWmSkVYo",
+      "name": "2025 - Dragon Ride 6/22/25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "TYFWmSkVYo",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

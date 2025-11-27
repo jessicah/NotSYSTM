@@ -1,0 +1,30 @@
+{
+  "uid": "hFLuVA",
+  "name": "Early Season Training Plan",
+  "description": "This is an early training block starting March 6",
+  "stepTitle": "SBT Early Season Training Plan",
+  "stepDescription": "This is an early training block starting March 6",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "UBRLUD",
+      "name": "RFRJ 10 Week General",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zU5gopRKFT",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid": "aVRdWV",
+  "name": "Excited to improve",
+  "description": "You haven\u0027t yet mastered any intermediate yoga sessions",
+  "stepTitle": "Sessions per week",
+  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "S9xHKP",
+      "name": "1-2",
+      "description": null,
+      "stepTitle": "3-month yoga build up plan 1-2/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ijT1oZ",
+      "name": "2-3",
+      "description": "",
+      "stepTitle": "3-month yoga build up plan 23/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Z3dN1h",
+      "name": "3-5",
+      "description": "",
+      "stepTitle": "3-month yoga build up plan 3-5/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "m4IbFF",
+  "name": "No",
+  "description": "Does not include strength",
+  "stepTitle": "Sprint Distance ",
+  "stepDescription": "Sprint Distance - High Volume  - 2:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GmnzlB",
+      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/High Volume/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "pvt8virEk5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "YxhqBa",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "dxGkGO",
+      "name": "Yes",
+      "description": "Would you like to incorporate Strength Training into your plan? ",
+      "stepTitle": "SBT GRVL Blue Route",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "oZswUWkaI7",
+          "name": "2023 SBT GRVL - Blue Course - Moderate Volume - 3:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "oZswUWkaI7",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "ZYHMGqX89M",
+          "name": "2024 SBT GRVL - Blue Course - Moderate Volume - 3:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ZYHMGqX89M",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "qQLKRU",
+      "name": "No",
+      "description": "Would you like to incorporate Strength Training into your plan? ",
+      "stepTitle": "SBT GRVL Blue Route",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "TE5SUA22R8",
+          "name": "2023 SBT GRVL - Blue Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "TE5SUA22R8",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "MPLEKkTN9n",
+          "name": "2024 SBT GRVL - Blue Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "MPLEKkTN9n",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

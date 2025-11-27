@@ -1,0 +1,30 @@
+{
+  "uid": "sSY2kd",
+  "name": "No",
+  "description": null,
+  "stepTitle": "200 Mile Gravel",
+  "stepDescription": "200 Mile Gravel - High Volume - 3:1 ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "aDUYFQUnyy",
+      "name": "Gravel 200 mile 3:1 High Volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "aDUYFQUnyy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

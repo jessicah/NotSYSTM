@@ -1,0 +1,30 @@
+{
+  "uid": "TpBGLB",
+  "name": "Level 4",
+  "description": null,
+  "stepTitle": "Running Strength Level 4",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "XILCfn7DNc",
+      "name": "Run Strength: Level 4 - 12 wks 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "XILCfn7DNc",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

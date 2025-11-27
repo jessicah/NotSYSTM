@@ -1,0 +1,30 @@
+{
+  "uid": "YARkK7",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Lower Body Level 3",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ZAYKM7024s",
+      "name": "Special Focus Lower Body Level 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ZAYKM7024s",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

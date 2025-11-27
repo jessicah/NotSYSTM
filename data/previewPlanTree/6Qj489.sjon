@@ -1,0 +1,74 @@
+{
+  "uid": "6Qj489",
+  "name": "Rapha Queenstage",
+  "description": "8 week training plan for FAR rides with over 1500m Elevation",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "8sInhE",
+      "name": "No",
+      "description": null,
+      "stepTitle": "Rapha Hilly",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "0j0dU1oEEd",
+          "name": "RAPHA HILLY",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0j0dU1oEEd",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "t9yhK9",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "Rapha Hilly",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Nn09DeHc1j",
+          "name": "RAPHA HILLY (no strength)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Nn09DeHc1j",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

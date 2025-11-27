@@ -1,0 +1,104 @@
+{
+  "uid": "YTDpEY",
+  "name": "Etape Caledonia",
+  "description": "Discover Scotland - May 14th",
+  "stepTitle": "Distance",
+  "stepDescription": "Which distance are you registered for?",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "uPIvYu",
+      "name": "40 Mile",
+      "description": null,
+      "stepTitle": "Etape Caledonia 40",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "S1QApXlco6",
+          "name": "Etape Caledonia 40",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "S1QApXlco6",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "Q9AmDQ",
+      "name": "55 Mile",
+      "description": null,
+      "stepTitle": "Etape Caledonia 55",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "hyy4FqBAVs",
+          "name": "Etape Caledonia 55",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "hyy4FqBAVs",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "kcM0Xh",
+      "name": "85 Mile",
+      "description": null,
+      "stepTitle": "Etape Caledonia 85",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "qfphoFmDVE",
+          "name": "Etape Caledonia 85",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "qfphoFmDVE",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

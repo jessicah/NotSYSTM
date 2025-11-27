@@ -1,0 +1,74 @@
+{
+  "uid": "dei6Iz",
+  "name": "Intro to Triathlon",
+  "description": "First timers plan",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "3sxKvI",
+      "name": "Yes",
+      "description": "Includes the appropriate amount of strength training",
+      "stepTitle": "Tri Intro",
+      "stepDescription": " Intro to Triathlon - 2:1 - Event Prep - strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "bmAUI7CGyB",
+          "name": "SYSTM Intro to Triathlon/2:1/Event/Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "bmAUI7CGyB",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "BbpYsR",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Tri Intro ",
+      "stepDescription": "Intro to Triathlon - 2:1 - Event Prep",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FEcNjD",
+          "name": "SYSTM Intro to Triathlon/2:1/Event",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "2cHUnS3uIp",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

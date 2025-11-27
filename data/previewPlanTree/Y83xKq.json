@@ -1,0 +1,46 @@
+{
+  "uid": "Y83xKq",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Half Distance",
+  "stepDescription": "Half Distance - Moderate Volume  - 2:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "S7MZGCA8VL",
+      "name": "SYSTM Half Distance Triathlon Plan/Mod Volume /2:1/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "S7MZGCA8VL",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "EHgiNcr5Ao",
+      "name": "Half Marathon - Intermediate ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "EHgiNcr5Ao",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "uid": "hxHaGc",
+  "name": "Goal ",
+  "description": "",
+  "stepTitle": "What are you training for?",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "8naHd8",
+      "name": "Building Miles",
+      "description": null,
+      "stepTitle": "What is your current weekly mileage?",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "hLnRvr",
+          "name": "0 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "mPaK8G",
+              "name": "Mileage Builder 1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "LBfbMPKOpK",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "ZmGL9GcmcW",
+              "name": "Mileage Builder (run/walks",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ZmGL9GcmcW",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "1S9kZy",
+          "name": "1-7",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "owHQYW",
+          "name": "8-15",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Cgl837",
+          "name": "16-23",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "QFlzA9",
+          "name": "24\u002B",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

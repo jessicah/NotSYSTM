@@ -1,0 +1,30 @@
+{
+  "uid": "fqb1F8",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB Enduro",
+  "stepDescription": "Season Prep - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Z7G5645TQE",
+      "name": "Off Road MTB Enduro Season Prep High Volume 2:1 Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Z7G5645TQE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

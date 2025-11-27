@@ -1,0 +1,30 @@
+{
+  "uid": "z0MA1Z",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "USAT Long Distance",
+  "stepDescription": "Season Prep - High Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "YDQOLWx7Mo",
+      "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "YDQOLWx7Mo",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

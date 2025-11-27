@@ -1,0 +1,74 @@
+{
+  "uid": "geO6BQ",
+  "name": "2:1",
+  "description": "Two weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Ejw60F",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "Long Distance",
+      "stepDescription": "Event - High Volume - 2:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "KLHLt0GT4E",
+          "name": "Duathlon - Long Distance - Event - High Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "KLHLt0GT4E",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "IKXa5B",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Long Distance",
+      "stepDescription": "Event - High Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "M5mymHtm5O",
+          "name": "Duathlon - Long Distance - Event - High Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "M5mymHtm5O",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

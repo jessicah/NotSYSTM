@@ -1,0 +1,834 @@
+{
+  "uid": "4uxbuD",
+  "name": "Targeted Body Area",
+  "description": "You\u0027d like to focus on a more specific body area ",
+  "stepTitle": "Area",
+  "stepDescription": "You\u0027d like to focus on a more specific body region ",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "YfUomj",
+      "name": "Upper Body ",
+      "description": "As the name suggests this plan is focused on upper body strength but will challenge your core too!",
+      "stepTitle": "Level",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "DygQVo",
+          "name": "1",
+          "description": null,
+          "stepTitle": "Upper Body Level 1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "qhIL8iwTKl",
+              "name": "Special Focus Upper Body Level 1  (clone)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "qhIL8iwTKl",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "bvtbIN",
+          "name": "2",
+          "description": null,
+          "stepTitle": "Upper Body Level 2",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "QRY8yRwmvx",
+              "name": "Special Focus Upper Body Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "QRY8yRwmvx",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "IKNFnJ",
+          "name": "3",
+          "description": null,
+          "stepTitle": "Upper Body Level 3",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Eum2V2GkE2",
+              "name": "Special Focus Upper Body Level 3",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "Eum2V2GkE2",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "hYigkw",
+          "name": "4",
+          "description": null,
+          "stepTitle": "Upper Body Level 4",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ilchiWj5Lv",
+              "name": "Special Focus Upper Body Level 4",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ilchiWj5Lv",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "byZjEc",
+          "name": "5",
+          "description": null,
+          "stepTitle": "Upper Body Level 5",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "OXepnHlWRv",
+              "name": "Special Focus Upper Body Level 5",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "OXepnHlWRv",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "rONQOX",
+      "name": "Lower Body ",
+      "description": "Your legs need an extra challenge? Start here. Don\u0027t be fooled just because you don\u0027t have weights.",
+      "stepTitle": "Level",
+      "stepDescription": "",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GApFTu",
+          "name": "1",
+          "description": "",
+          "stepTitle": "Lower Body Level 1",
+          "stepDescription": "Level 1 Lower body",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Tx5sMZYUSL",
+              "name": "Special Focus Lower Body Level 1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "Tx5sMZYUSL",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "QDBw4c",
+          "name": "2",
+          "description": null,
+          "stepTitle": "Lower Body Level 2",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "HuMMQodY2a",
+              "name": "Special Focus Lower Body Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "HuMMQodY2a",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "YARkK7",
+          "name": "3",
+          "description": null,
+          "stepTitle": "Lower Body Level 3",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ZAYKM7024s",
+              "name": "Special Focus Lower Body Level 3",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ZAYKM7024s",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "LBoK6Y",
+          "name": "4",
+          "description": null,
+          "stepTitle": "Lower Body Level 4",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "JwjIPRfUwA",
+              "name": "Special Focus Lower Body Level 4",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "JwjIPRfUwA",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "rOap9g",
+          "name": "5",
+          "description": null,
+          "stepTitle": "Lower Body Level 5",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "8ZrVtkg7Pa",
+              "name": "Special Focus Lower Body Level 5",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "8ZrVtkg7Pa",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "s9L5fs",
+      "name": "Core",
+      "description": "Runner, Swimmer, Cyclist or all of the above, this core focus will bump up your game regardless.",
+      "stepTitle": "Level",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Kf6BfK",
+          "name": "1",
+          "description": null,
+          "stepTitle": "Core Level 1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "qxGdx8dsQ3",
+              "name": "Special Focus: Core Level 1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "qxGdx8dsQ3",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "uDY3E7",
+          "name": "2",
+          "description": null,
+          "stepTitle": "Core Level 2",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "3sdgilyCyH",
+              "name": "Special Focus: Core Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "3sdgilyCyH",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "m7hwZv",
+          "name": "3",
+          "description": null,
+          "stepTitle": "Core Level 3",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "bnWGWhcdoR",
+              "name": "Special Focus: Core Level 3",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "bnWGWhcdoR",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "X3XFPx",
+          "name": "4",
+          "description": null,
+          "stepTitle": "Core Level 4",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "CqOuONydya",
+              "name": "Special Focus: Core Level 4",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "CqOuONydya",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "cy3sC4",
+          "name": "5",
+          "description": null,
+          "stepTitle": "Core Level 5",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "lWxN7V9Bcx",
+              "name": "Special Focus: Core Level 5",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "lWxN7V9Bcx",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "eWnu2O",
+      "name": "Dynamic",
+      "description": "The perfect plan if you want to challenge your nervous system, improve coordination, and add explosiveness to your routine. A must for trail runners and mountain bikers alike.",
+      "stepTitle": "Level",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "mM8VqP",
+          "name": "1",
+          "description": null,
+          "stepTitle": "Dynamic Level 1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "5WW6GTfAay",
+              "name": "Special Focus: Dynamic Level 1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "5WW6GTfAay",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "EeZth4",
+          "name": "2",
+          "description": null,
+          "stepTitle": "Dynamic Level 2",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "OYiYsJZgi0",
+              "name": "Special Focus: Dynamic Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "OYiYsJZgi0",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "ZfxoQM",
+          "name": "3",
+          "description": null,
+          "stepTitle": "Dynamic Level 3",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "FodxhZMzVr",
+              "name": "Special Focus: Dynamic Level 3",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "FodxhZMzVr",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "xkHJbJ",
+          "name": "4",
+          "description": null,
+          "stepTitle": "Dynamic Level 4",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "vEcKHC96RN",
+              "name": "Special Focus: Dynamic Level 4",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "vEcKHC96RN",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "O6ftUq",
+          "name": "5",
+          "description": null,
+          "stepTitle": "Dynamic Level 5",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "cA1ilhcWZs",
+              "name": "Special Focus: Dynamic Level 5",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "cA1ilhcWZs",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "yyQxUT",
+      "name": "Posterior Chain",
+      "description": "Look no further for a strong and integrated back side, from calves to glutes to shoulders.",
+      "stepTitle": "Level",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "dsHIfc",
+          "name": "1",
+          "description": null,
+          "stepTitle": "Posterior Chain Level 1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "agVjWYhhAO",
+              "name": "Special Focus: Post Chain Level 1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "agVjWYhhAO",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "HyhDaI",
+          "name": "2",
+          "description": null,
+          "stepTitle": "Posterior Chain Level 2",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Rguw6kDGz1",
+              "name": "Special Focus: Post Chain Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "Rguw6kDGz1",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "n05Ro8",
+          "name": "3",
+          "description": null,
+          "stepTitle": "Posterior Chain Level 3",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ZQIBdCCDMJ",
+              "name": "Special Focus: Post Chain Level 3",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ZQIBdCCDMJ",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "soCDcG",
+          "name": "4",
+          "description": null,
+          "stepTitle": "Posterior Chain Level 4",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "HILG8pg5Vl",
+              "name": "Special Focus: Post Chain Level 4",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "HILG8pg5Vl",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "0W7Psv",
+          "name": "5",
+          "description": null,
+          "stepTitle": "Posterior Chain Level 5",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "z8kskqp5YV",
+              "name": "Special Focus: Post Chain Level 5",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "z8kskqp5YV",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

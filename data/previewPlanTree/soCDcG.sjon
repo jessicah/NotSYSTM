@@ -1,0 +1,30 @@
+{
+  "uid": "soCDcG",
+  "name": "4",
+  "description": null,
+  "stepTitle": "Posterior Chain Level 4",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "HILG8pg5Vl",
+      "name": "Special Focus: Post Chain Level 4",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "HILG8pg5Vl",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

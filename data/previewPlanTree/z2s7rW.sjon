@@ -1,0 +1,74 @@
+{
+  "uid": "z2s7rW",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "NY5uv7",
+      "name": "Yes",
+      "description": "Would you like to incorporate Strength Training into your plan? ",
+      "stepTitle": "SBT Red Course",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "0ClYXOepiM",
+          "name": "2025 SBT GRVL - Red Course - Low Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0ClYXOepiM",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "JqW17P",
+      "name": "No",
+      "description": "Would you like to incorporate Strength Training into your plan? ",
+      "stepTitle": "SBT Red Course",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "7BJvTRP43L",
+          "name": "2025 SBT GRVL - Red Course - Low Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "7BJvTRP43L",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

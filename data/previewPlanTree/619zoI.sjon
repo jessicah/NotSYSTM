@@ -1,0 +1,135 @@
+{
+  "uid": "619zoI",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Duration",
+  "stepDescription": "How many weeks are you ready to commit to your new habit? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GcBinT",
+      "name": "6 Weeks",
+      "description": "",
+      "stepTitle": "New Routine",
+      "stepDescription": "6-Weeks",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Adxvn8",
+          "name": "Habit Forming 6 weeks",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "pPjoB1uNCc",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "U7z9Qv",
+      "name": "6 Weeks - New ",
+      "description": null,
+      "stepTitle": "6 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "4egjCm",
+      "name": "9 Weeks",
+      "description": null,
+      "stepTitle": "9 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "Dw5rOI",
+      "name": "12 Weeks",
+      "description": null,
+      "stepTitle": "12 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "Xt2A3h",
+      "name": "15 weeks",
+      "description": null,
+      "stepTitle": "15 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "BM9Iy4",
+      "name": "18 Weeks ",
+      "description": null,
+      "stepTitle": "18 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "5RH3Nd",
+      "name": "21 Weeks",
+      "description": null,
+      "stepTitle": "21 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "TzhZ2z",
+      "name": "24 Weeks",
+      "description": null,
+      "stepTitle": "24 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,5770 @@
+{
+  "uid": "unmapped",
+  "name": "Unmapped Plans",
+  "description": "ADMIN ONLY",
+  "stepTitle": null,
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Wv5kSkfKb5",
+      "name": "8 week strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Wv5kSkfKb5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "hFLuVA",
+      "name": "Early Season Training Plan",
+      "description": "This is an early training block starting March 6",
+      "stepTitle": "SBT Early Season Training Plan",
+      "stepDescription": "This is an early training block starting March 6",
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "UBRLUD",
+          "name": "RFRJ 10 Week General",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "zU5gopRKFT",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "LWg1mT",
+      "name": "RFRJ ",
+      "description": "Ride For Racial Justice SBT GRVL 9 Week Prep Plan",
+      "stepTitle": "RFRJ 9 Week Prep Plan ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "CvFvc5",
+      "name": "SBT 23",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3FlSLf3C1t",
+          "name": "2023 SBT GRVL - Green Course - Low Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "3FlSLf3C1t",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "cm1luZEtJX",
+          "name": "2023 SBT GRVL - Blue Course - High Volume - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "cm1luZEtJX",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "FoWc1kVBHb",
+          "name": "2023 SBT GRVL - Black Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "FoWc1kVBHb",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "pUE6Yn0ozu",
+          "name": "2023 SBT GRVL - Black Course - Moderate Volume - 2:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "pUE6Yn0ozu",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "XVZe0BvymH",
+          "name": "2023 SBT GRVL - Black Course - Moderate Volume - 2:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "XVZe0BvymH",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "ARZkF2Oueb",
+          "name": "2024 SBT GRVL - Black Course - High Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ARZkF2Oueb",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "uApIaaS36s",
+          "name": "2023 SBT GRVL - Black Course - High Volume - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "uApIaaS36s",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "2rPT5Bklhv",
+      "name": "2024 SBT GRVL - Black Course - Moderate Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2rPT5Bklhv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "pGBmuY7gny",
+      "name": "TWT High Volume  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "pGBmuY7gny",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "dvKHGS869s",
+      "name": "TWT Moderate Volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dvKHGS869s",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "tuomvf",
+      "name": "ToW 2024 Prep Plan Moderate Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Efw5Lsb190",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jpBOAz",
+      "name": "TWT Low Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "rUJijohbOr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "MV0rlBsQ6R",
+      "name": "Dirty R 60k",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "MV0rlBsQ6R",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "04tPW8gYtD",
+      "name": "Dirty R 100",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "04tPW8gYtD",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "cQD7MI",
+      "name": "Dirty Reiver - 200k ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "wo5cSHLaCW",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Ru0VpK6yrr",
+      "name": "Dirty R 200k ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Ru0VpK6yrr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "AATH8T",
+      "name": "Izu Trail",
+      "description": "Compliment your running training with our strength, mobility and yoga workouts",
+      "stepTitle": "How many sessions would you like per week?",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3MbToY",
+          "name": "3 Sessions / Week",
+          "description": "3 Sessions / Week",
+          "stepTitle": "3 Sessions / Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "iJwVuoDR8T",
+              "name": "Izu Trail 3/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "iJwVuoDR8T",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "BIyK86",
+          "name": "5 Sessions / Week",
+          "description": "5 Sessions / Week",
+          "stepTitle": "5 Sessions / Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ps0BjDSC5U",
+              "name": "Izu Trail 5/week (clone)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ps0BjDSC5U",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "ug8m90",
+      "name": "Mobility Assessment ",
+      "description": null,
+      "stepTitle": "Cervical Score",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "nyFgVW",
+          "name": "0-1",
+          "description": null,
+          "stepTitle": "Shoulder Score",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "h80xtJ",
+              "name": "0-1",
+              "description": null,
+              "stepTitle": "Hip Score",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "XJXx7v",
+                  "name": "0-1",
+                  "description": null,
+                  "stepTitle": "Low Back/ Hamstring Score",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "B1gw5Z",
+                      "name": "0-1",
+                      "description": null,
+                      "stepTitle": "Foot and Ankle Score",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "LSYyBx",
+                          "name": "0-1",
+                          "description": null,
+                          "stepTitle": "Duration ",
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": null,
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": [
+                            {
+                              "uid": "tHT8CAzOir",
+                              "name": "L-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "tHT8CAzOir",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "kPohgh",
+                              "name": "6 Wk. Custom Mobility Plan (L-L-L-L-L)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "MKb16Wf2fX",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "tavaBYyitJ",
+                              "name": "6 Wk. Custom Mobility Plan (L-L-L-L-L) (3 each sample)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "tavaBYyitJ",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "swM8KNuEnl",
+                              "name": "6 Wk. Custom Mobility Plan (Cv-L,Sh-L,-LB-L,-Ft-L) (Max 2 per day)-3 each week sample) (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "swM8KNuEnl",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "Bd5omXGLsl",
+                              "name": "6 Wk. Custom Mobility Plan (Cv-L,Sh-L,-LB-H,-Ft-L) (Max 2 per day)-3 each week sample) (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "Bd5omXGLsl",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "Jwf30uOQQI",
+                              "name": "L-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "Jwf30uOQQI",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "v43MY86rAl",
+                              "name": "L-L-L-H-L-10 6 Wk. Custom Mobility Plan",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "v43MY86rAl",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "iSGrRD7Atq",
+                              "name": "L-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "iSGrRD7Atq",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "Q6GastvHxV",
+                              "name": "L-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "Q6GastvHxV",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "UsfnqjNh5M",
+                              "name": "L-L-L-L-H-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "UsfnqjNh5M",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "YO17LHl6ZP",
+                              "name": "L-L-L-L-H-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "YO17LHl6ZP",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "kb2eY9tBkG",
+                              "name": "L-H-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "kb2eY9tBkG",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "stXtgXyauM",
+                              "name": "H-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "stXtgXyauM",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "O98uss1EdP",
+                              "name": "L-L-L-H-L-10 6 Wk. Custom Mobility Plan (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "O98uss1EdP",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "dE1apup2KQ",
+                              "name": "L-L-L-H-L-10 6 Wk. Custom Mobility Plan (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "dE1apup2KQ",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "0xilrAWgEG",
+                              "name": "L-L-L-H-L-10 6 Wk. Custom Mobility Plan (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "0xilrAWgEG",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "gKnAQ3YR7I",
+                              "name": "L-H-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "gKnAQ3YR7I",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "REsy7spOkW",
+                              "name": "H-L-L-L-L-10 6 Wk. Custom Mobility Plan  (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "REsy7spOkW",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "DLZejKiqqy",
+                              "name": "H-L-H-L-L-10 6 Wk. Custom Mobility Plan (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "DLZejKiqqy",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "LY7xoL2oGA",
+                              "name": "L-L-H-H-H-10 6 Wk. Custom Mobility Plan",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "LY7xoL2oGA",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "uid": "TgGlbH",
+                          "name": "2-3",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": null,
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "CtbxWi",
+                      "name": "2-3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "uid": "CqzXBk",
+                  "name": "2-3",
+                  "description": null,
+                  "stepTitle": "Low Back/ Hamstring Score",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "XfRQqm",
+              "name": "2-3",
+              "description": null,
+              "stepTitle": "Hip Score",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "RYyLpo",
+          "name": "2-3",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "xV4fRi",
+      "name": "Old SBT",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "IIi9Yr",
+          "name": "SBT GRVL - Black Course - High Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "srUeIRf3A2",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Gs8r6E",
+          "name": "SBT GRVL - Black Course - High Volume - 2:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "p2G6cl8mCk",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "YmMVDN",
+          "name": "SBT GRVL - Black Course - High Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "pySLuM75QA",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "5yvp0QZukR",
+          "name": "SBT GRVL - Black Course - High Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5yvp0QZukR",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "jmPGfyZHM0",
+          "name": "SBT GRVL - Black Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "jmPGfyZHM0",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "nhecnCVeB7",
+          "name": "SBT GRVL - Black Course - Moderate Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "nhecnCVeB7",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "EfkHOa",
+          "name": "SBT GRVL - Black Course - Moderate Volume - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "xP50Fe1dxB",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "oVdfpYoQsY",
+          "name": "SBT GRVL - Black Course - Moderate Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "oVdfpYoQsY",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Bzsay5",
+          "name": "SBT GRVL - Blue Course - High Volume - 3:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "MF5HO5wuP1",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "shlvrGHGdm",
+          "name": "SBT GRVL - Blue Course - High Volume - 3:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "shlvrGHGdm",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "yEDOHtJYYT",
+          "name": "100 Mile Gravel - High Volume - 2:1 (SBT)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "yEDOHtJYYT",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "0JsIhwvqwo",
+          "name": "SBT GRVL - Blue Course - 2:1 - High Volume - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0JsIhwvqwo",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "6iJ8sF",
+          "name": "SBT GRVL - Blue Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Agpor16SLG",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "PXyCJAFsNH",
+          "name": "SBT GRVL - Blue Course - Moderate Volume - 3:1 - Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PXyCJAFsNH",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "xhV1Vk",
+          "name": "SBT GRVL - Blue Course - Moderate Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "J8D4gR7s6v",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "joGDUDuJ3j",
+          "name": "SBT GRVL - Blue Course - Moderate Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "joGDUDuJ3j",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "jC4v2fOMYz",
+          "name": "SBT GRVL - Red Course - Moderate Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "jC4v2fOMYz",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "XQfrkjHLK1",
+          "name": "SBT GRVL - Red Course - Moderate Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "XQfrkjHLK1",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "jvKsPO",
+          "name": "SBT GRVL - Red Course - Moderate Volume - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5N3DuUTCHP",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Zx26by",
+          "name": "SBT GRVL - Red Course - Moderate Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "4XJfEKcrMD",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "8ezoPtdjM6",
+          "name": "SBT GRVL - Red Course - Low Volume - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "8ezoPtdjM6",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "4o8YJz",
+          "name": "SBT GRVL - Red Course - Low Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PQoFyZIAp5",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "e0uRyoC0VM",
+          "name": "SBT GRVL - Red Course - Low Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "e0uRyoC0VM",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "FrfUMk7D2y",
+          "name": "SBT GRVL - Red Course - Low Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "FrfUMk7D2y",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "flH0tQXsb7",
+          "name": "SBT GRVL - Green Course - Moderate Volume - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "flH0tQXsb7",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "hENwRK",
+          "name": "SBT GRVL - Green Course - Moderate Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "gul6HVPKmC",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "9en1jW",
+          "name": "SBT GRVL - Green Course - Moderate Volume - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "yNyxqDDgmt",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "JruvIedB0p",
+          "name": "SBT GRVL - Green Course - Moderate Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "JruvIedB0p",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "s7WytoEav4",
+          "name": "SBT GRVL - Green Course - Low Volume - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "s7WytoEav4",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "VzNbC8",
+          "name": "SBT GRVL - Green Course - Low Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Ynj6OHf4AI",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "u1WWXL",
+          "name": "SBT GRVL - Green Course - Low Volume - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "gcaQ3gSrjX",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "CPn0qeAOeM",
+          "name": "SBT GRVL - Green Coursel - Low Volume - 2:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "CPn0qeAOeM",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "0717c1",
+      "name": "Power Through the Holidays",
+      "description": "3-week plan to help get you ready to crush 2022.",
+      "stepTitle": "Power Through the Holidays",
+      "stepDescription": "3-week plan to help get you ready to crush 2022.",
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "t2zoe8",
+          "name": "Surviving the Holidays ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "bXZfCK2YxF",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "pepnCS",
+      "name": "Tour of Sufferlandria",
+      "description": "Prepare for the hardest stage race of all mythical nations",
+      "stepTitle": "What are you looking for?",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "zgGksC",
+          "name": "Prep Plans",
+          "description": "Plans designed to have you ready to crush the Tour",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time per week do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "cDMgeg",
+              "name": "Low",
+              "description": "2-4 hours",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "DZ0qQo",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": " Low Volume - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Jd639Q",
+                      "name": "ToS Prep - Low Volume - With Strength - Base Plan",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "GjRQiLv1OC",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "7IGNZX",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": " Low Volume",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "h7zXFduyiQ",
+                      "name": "ToS Prep Low Volume - Base Plan",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "h7zXFduyiQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "WnMZkK",
+              "name": "Moderate",
+              "description": "4-7 hours",
+              "stepTitle": "Strength ",
+              "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "qSLZJ6",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": "Moderate Volume - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "lvjw5kAsck",
+                      "name": "ToS Prep - Intermediate Volume - With Strength - Base Plan ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "lvjw5kAsck",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "OQxoSX",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": " Moderate Volume",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "R5PaU2",
+                      "name": "ToS Prep Outline",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Tc5nPDNcNu",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "lrYjJc",
+              "name": "High",
+              "description": "6-10 hours",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "BVyjlw",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": " High Volume - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8KruQtp6NQ",
+                      "name": "ToS Prep - High Volume - Strength - Base Plan ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8KruQtp6NQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "TrPQqV",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "ToS Prep",
+                  "stepDescription": " High Volume",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "QebkaaFw1k",
+                      "name": "ToS Prep High Volume - Base Plan  ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "QebkaaFw1k",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "72lp1H",
+          "name": "ToS Route",
+          "description": "Add the stages to your calendar ",
+          "stepTitle": "Route Option",
+          "stepDescription": "Make the most of your own Tour Adventure ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "NqyXyt",
+          "name": "Post-Tour-Testing",
+          "description": "Plans to help you recover and see all of your ToS fitness gains ",
+          "stepTitle": "Fatigue Level ",
+          "stepDescription": "How fatigued are you at the end of the Tour?",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "2D93n0",
+              "name": "Exhausted ",
+              "description": null,
+              "stepTitle": "Post Tos Plan",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "xx4Jti",
+                  "name": "2022 Post ToS - Very Fatigued ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "aBrHBGWNFI",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "AWVNM8",
+              "name": "Moderately Fatigued ",
+              "description": null,
+              "stepTitle": "Post Tos Plan",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ctgNYLpxz2",
+                  "name": "2022 Post ToS - Tired",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "ctgNYLpxz2",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "q0jvJ3",
+              "name": "Feeling Fresh",
+              "description": null,
+              "stepTitle": "Post Tos Plan",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "12bb7Dw1MP",
+                  "name": "2022 Post ToS - Fresh",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "12bb7Dw1MP",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "7ACEvL",
+      "name": "SUF Legacy Plans",
+      "description": "A time capsule to 4 of the most popular Sufferfest Plans",
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "I4dKaw",
+      "name": "Fitness",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "toGQJh",
+      "name": "Everesting",
+      "description": "Reach the summit by accumulating 8,849 meters of climbing.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3hFnAe",
+          "name": "Medium",
+          "description": "5-8 hours per week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "MYvf3o",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Duration",
+              "stepDescription": "How many weeks of prep time do you have?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "O0Pe69",
+                  "name": "8 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - Medium Volume - 3:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "IUOOsg",
+                  "name": "12 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - Medium Volume - 3:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "uid": "G6LFqV",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Duration",
+              "stepDescription": "How many weeks of prep time do you have?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Bjgi4L",
+                  "name": "9 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "rZyPkw",
+                  "name": "12 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "uz5DXq",
+          "name": "High",
+          "description": "7-12 hours per week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "B25dWQ",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Duration",
+              "stepDescription": "How many weeks of prep time do you have?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "xyoF3q",
+                  "name": "8 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - High Volume - 3:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "4Y6Agf",
+                  "name": "12 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - High Volume - 3:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "hb7bBx",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Duration",
+              "stepDescription": "How many weeks of prep time do you have?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "mCuLBx",
+                  "name": "9 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - High Volume - 2:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "CylpjC",
+                  "name": "12 Weeks",
+                  "description": null,
+                  "stepTitle": "Everesting Prep - High Volume - 2:1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "Ir0Bsd",
+      "name": "SYSTM Sprint Triathlon Plan/2:1/High Volume/Season Prep/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "pFWpWdtqVg",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "VhLeHj",
+      "name": "All Purpose - Moderate Volume - 2:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Ti656GYlZv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "IY2GlI9wQE",
+      "name": "In Season Criterium - Low Volume - 3:1 w/ Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "IY2GlI9wQE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "XNkI40zYoE",
+      "name": "Off Road MTB Enduro Season Prep Low Volume 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "XNkI40zYoE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "mdOfsAlHEY",
+      "name": "MTB 100 mile Event 2:1 High Volume (clone/edit from 3:1)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "mdOfsAlHEY",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "oXoiy1",
+      "name": "During Race Season (cross) ",
+      "description": "Designed to accommodate races during plan.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "WNag9J",
+          "name": "Season Prep",
+          "description": "Get ready for the upcoming CX race season.",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "vWnaB1",
+              "name": "Low",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "JD34K1",
+                  "name": "Off Road CX - 12 wk Season Prep - Low Vol 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "OpoWuA6osR",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "vr3tkP",
+              "name": "Medium",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "bIDnRR",
+              "name": "High",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "wOS4AM",
+      "name": "Mountainous (Fondo)",
+      "description": "Head for the hills.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "VacIKJ",
+          "name": "Flat",
+          "description": "Drive the train on flat to rolling terrain.",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "uNkvOR",
+              "name": "Medium Volume",
+              "description": "5-9 hours / week",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            },
+            {
+              "uid": "BgoAeq",
+              "name": "High Volume",
+              "description": "7-14 hours / week",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "9Yq1T5",
+      "name": "14 Day SYSTM Trial Plan ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "SeigUBzd0T",
+        "typename": null
+      },
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "PtKDod",
+      "name": "Cross-training Add-ons",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "0xou3MiEnL",
+          "name": "MTP - 3:1 - 16 week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0xou3MiEnL",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "81QyyuF6pB",
+          "name": "MTP - 2:1 - 16 week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "81QyyuF6pB",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "fL7WFXso0K",
+          "name": "Off-Road Strength: Level 1 - 3:1 (12 wk)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "fL7WFXso0K",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "e2klPKaPLR",
+          "name": "Yoga Intermediate 12wk 3:1 event  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "e2klPKaPLR",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "ESfTi9K8B5",
+          "name": "Yoga Advanced 12wk 3:1 event ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ESfTi9K8B5",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "a5JqtfWX5F",
+          "name": "Yoga Advanced 12wk 2:1 event  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "a5JqtfWX5F",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "QXSGQLpJr3",
+          "name": "Yoga Intermediate 12wk 2:1 event ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "QXSGQLpJr3",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "zG3A4wGGeV",
+          "name": "Yoga Beginner 12wk 2:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "zG3A4wGGeV",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Kh4dnqBX7d",
+          "name": "Yoga Intermediate 12wk 2:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Kh4dnqBX7d",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "O64OTwCYEd",
+          "name": "Yoga Advanced 12wk 2:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "O64OTwCYEd",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "lKOMdOccvn",
+          "name": "Yoga Intermediate 12wk 3:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "lKOMdOccvn",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "wDMxA2cDF6",
+          "name": "Yoga Advanced 12wk 3:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "wDMxA2cDF6",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "fZ3mQBfdBt",
+          "name": "Yoga Beginner 12wk 3:1 event - for strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "fZ3mQBfdBt",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "WE5z6WmpqA",
+          "name": "Yoga Beginner 12wk 2:1 event  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "WE5z6WmpqA",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "KQ45Iffowa",
+          "name": "Yoga - Multisport - Advanced - 3:1 - STR (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "KQ45Iffowa",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Q8JmkwnHeA",
+          "name": "Yoga - Multisport - Intermediate - 3:1 - STR (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Q8JmkwnHeA",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "D5dkcAhz8g",
+          "name": "Yoga - Multisport - Advanced - 3:1 (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "D5dkcAhz8g",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "8DxPYQUr02",
+          "name": "Yoga - Multisport - Intermediate - 2:1 - STR (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "8DxPYQUr02",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "KmvzCGpgdk",
+          "name": "Yoga - Multisport - Advanced - 2:1 - STR (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "KmvzCGpgdk",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "qMZZPPwrjm",
+          "name": "Yoga - Multisport - Intermediate - 3:1 (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "qMZZPPwrjm",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "iflhGW5Lk1",
+          "name": "Yoga - Multisport - Intermediate - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "iflhGW5Lk1",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "WKnoMzbpWH",
+          "name": "Yoga - Multisport - Advanced - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "WKnoMzbpWH",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "InRDwanwsH",
+          "name": "Yoga - Multisport - Advanced - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "InRDwanwsH",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "z82EOe1IGO",
+          "name": "Yoga - Multisport - Beginner - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "z82EOe1IGO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "F9nmdwaAm7",
+          "name": "Yoga - Intermediate - 4wk - 3:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "F9nmdwaAm7",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "vSxqlx7Wpv",
+          "name": "Yoga - Beginner - 12wk 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "vSxqlx7Wpv",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "hpJ0NS3LiF",
+          "name": "Yoga - Advanced - 12wk - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "hpJ0NS3LiF",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "jkGc4OIpEz",
+          "name": "Yoga - Intermediate - 12wk - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "jkGc4OIpEz",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "3JSWzGjfvK",
+          "name": "Yoga - Advanced - 12wk - 3:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "3JSWzGjfvK",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "TxNDxjKshR",
+          "name": "Yoga - Advanced - 3wk - 2:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "TxNDxjKshR",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "OlsNmWNH7z",
+          "name": "Yoga - Advanced - 4wk - 3:1   ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "OlsNmWNH7z",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "b4pgx85x9X",
+          "name": "Yoga - Beginner - 4wk - 3:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "b4pgx85x9X",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "8Bglia",
+          "name": "Yoga - Multisport - Beginner - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Rnym3DaQdZ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "5hYijZ",
+          "name": "Yoga - Multisport - Intermediate - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "9FHlN8m1D2",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "mrZdlRPBNQ",
+          "name": "Yoga - Multisport - Beginner - 2:1 (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "mrZdlRPBNQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "WsKpKGaaMx",
+          "name": "Yoga - Multisport - Beginner - 3:1 (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "WsKpKGaaMx",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "PyUMDYY6UY",
+          "name": "Yoga - Multisport - Beginner - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PyUMDYY6UY",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "RSG2rwxT4Y",
+          "name": "Yoga - Multisport - Intermediate - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "RSG2rwxT4Y",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "jp4SYkpCcf",
+          "name": "Yoga - Multisport - Advanced - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "jp4SYkpCcf",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "ItimifA9BW",
+          "name": "Yoga - Multisport - Intermediate - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ItimifA9BW",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "WR0hSgPuUr",
+          "name": "Yoga - Multisport - Beginner - 2:1 - STR (16 week) ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "WR0hSgPuUr",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "YCF6pVS9vG",
+          "name": "Yoga - Multisport - Beginner - 3:1 - STR",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "YCF6pVS9vG",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "tMRvI61BPc",
+          "name": "Yoga - Multisport - Intermediate - 3:1- STR",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "tMRvI61BPc",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "0X6cXSN2EY",
+          "name": "Yoga - Multisport - Advanced - 3:1 - STR",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0X6cXSN2EY",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "uN72yAHkAD",
+          "name": "Yoga - Multisport - Beginner - 3:1 - STR (16 week)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "uN72yAHkAD",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "b2VuZcuCZC",
+          "name": "Yoga Beginner 6wk 2:1 event   ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "b2VuZcuCZC",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "KTAAA4d4Xi",
+          "name": "Yoga Advanced 6wk 2:1 event  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "KTAAA4d4Xi",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "CpPlu8ugrb",
+          "name": "Yoga Intermediate - 2:1 - 6 week ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "CpPlu8ugrb",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "rYODqdB7v2",
+          "name": "ToS Prep - Yoga Beginner ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "rYODqdB7v2",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "RIdjesLuvr",
+          "name": "ToS Prep - Yoga Advanced ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "RIdjesLuvr",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "uIqBas",
+      "name": "Old Plan Groups/Plans",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "fNbcH3",
+          "name": "SYSTM Beta Testers Plan ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "elFERh2M1y",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "xug6CV",
+          "name": "Wahoo Challenge",
+          "description": "Join your fellow Wahooligans in our newest Wellness Challenge",
+          "stepTitle": "Which Level ",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "FpXlND",
+          "name": "the annex",
+          "description": "Enter at your own risk ",
+          "stepTitle": " Really?  I said \u0022Enter at your own Risk!\u0022",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Nz9opS",
+              "name": "I\u0027m gonna do it",
+              "description": null,
+              "stepTitle": " You\u0027re really going to do it?",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "IfPA6H",
+                  "name": "Yep, I\u0027m doing it.",
+                  "description": null,
+                  "stepTitle": " Admin only stuff beyond this point",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8jc64K",
+                      "name": "That sounds exciting!",
+                      "description": null,
+                      "stepTitle": " It\u0027s not",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "1U7FlS",
+                          "name": "I\u0027m going in!!!",
+                          "description": null,
+                          "stepTitle": "You brought this onto yourself ",
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": null,
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": [
+                            {
+                              "uid": "xWQj3p",
+                              "name": "Suzie\u0027s multisport-madness",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "WkDmlBrn7h",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "7oqJqi",
+                              "name": "adv time trial MAP",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "sSE3D6yAwG",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "tUMZN4",
+                              "name": "Adv time trial Sustained ",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "pyS8cXnfXe",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "o6SGh7",
+                              "name": "Adv time trial no weakness ",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "HrgK4jiWyK",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "7lTPC3",
+                              "name": "Adv time trial repeated ",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "g9k3MVUjnP",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "SNBhvC",
+                              "name": "Base Block Intermediate 4-week (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "8jsqhqkGji",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "b8JiV8",
+                              "name": "xxx Racing Badge (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "cPo787X63L",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "mX8fOd",
+                              "name": "Nov time trial no weakness ",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "w5TK5xwxv1",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "Zpcu1j",
+                              "name": "14 Day Trial Plan SYSTM (clone) (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "EYDW0BC5HC",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "3lRqek",
+                              "name": "14 Day Trial Plan SYSTM (clone)",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "Oyp548lBkJ",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "VRE37C",
+                              "name": "14 Day Trial Plan SYSTM",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "DJTG9DkRRj",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            },
+                            {
+                              "uid": "77Az3i",
+                              "name": "SUF MTP for SYSTM ",
+                              "description": null,
+                              "stepTitle": null,
+                              "stepDescription": null,
+                              "icon": null,
+                              "plan": {
+                                "id": "revf4r9Ldx",
+                                "typename": null
+                              },
+                              "hidden": null,
+                              "hideFitnessTestAlertMessage": null,
+                              "typename": null,
+                              "children": null
+                            }
+                          ]
+                        },
+                        {
+                          "uid": "KFqWQT",
+                          "name": "Oh, in that case I\u0027ll leave",
+                          "description": null,
+                          "stepTitle": "Thank you.  Now go do Full Frontal  ",
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": null,
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "Js1uGB",
+                      "name": "I\u0027ll stop here",
+                      "description": null,
+                      "stepTitle": "And pretend I didn\u0027t see anything",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "xXGQvu",
+                  "name": "No, I\u0027m turning back now",
+                  "description": null,
+                  "stepTitle": "Good call",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "G5mXbG",
+              "name": "I wasn\u0027t going to...",
+              "description": null,
+              "stepTitle": " Okay good",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "yFtTwH",
+          "name": "Tour of Sufferlandria",
+          "description": "A 7-Day Tour of our mythic Nation.  February 14th - 20th",
+          "stepTitle": "Are you...",
+          "stepDescription": "",
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "TeMFbP",
+              "name": "Completing It",
+              "description": null,
+              "stepTitle": "Which Version?",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": false,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "rRRNGP",
+                  "name": "Just Get Me Through It",
+                  "description": "I want each day dialed down to ensure I finish all 7",
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": false,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                },
+                {
+                  "uid": "H0FbOK",
+                  "name": "Focused ",
+                  "description": "I want the tour stages dialed into my rider profile for maximum training benefit",
+                  "stepTitle": "Focused Option",
+                  "stepDescription": "what happens here?",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": false,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                },
+                {
+                  "uid": "znA54v",
+                  "name": "Nuclear",
+                  "description": "100% all day every day ",
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": false,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "uid": "HhQJpn",
+              "name": "Training for it ",
+              "description": null,
+              "stepTitle": "Fresh Test numbers?",
+              "stepDescription": "Have you completed Full Frontal in the last 6 weeks?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "DE4xj7",
+      "name": "MTP Completed Badge",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8n0sScNpWC",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "JDNJ8o",
+      "name": "Isolation base x-Training Beginner Strength - Beginner Yoga - MTP ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9VJzTKqXIO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "w3ObN3",
+      "name": "Isolation base x-Training Intermediate Strength - Beginner Yoga - MTP ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zY7C4Q8odG",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "NqkRtD",
+      "name": "Pre-Tri Plan Test Week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "U8e4Fmevqg",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "QQU5gN",
+      "name": "SYSTM Sprint Distance Triathlon Plan/Intermediate/Designed for Strength (clone)*DEC2020 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "TEhTU1TQ4J",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WdJ4uW",
+      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Ends on race day (clone)*DEC2020 High volume *delete",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8nc1e8ID3b",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jopfkUuUfJ",
+      "name": "ALL Yoga",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "jopfkUuUfJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ZAA8O0",
+      "name": "Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "VgsM9u",
+          "name": "Road",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "TrhytQseRD",
+              "name": "Road Strength: Level 2 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "TrhytQseRD",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "M9iiHMg6d1",
+              "name": "Road Strength: Level 5 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "M9iiHMg6d1",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "8Qqd7HtMVj",
+              "name": "Road Strength: Level 4 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "8Qqd7HtMVj",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "WvAKvtq8ZT",
+              "name": "Road Strength: Level 3 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "WvAKvtq8ZT",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "pOXTrI8P9G",
+              "name": "SYSTM Strength: Off-Road: 12 wks: 2:1: Level 2",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "pOXTrI8P9G",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "97MK6s",
+          "name": "Off Road",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "IxiRHd0dsS",
+              "name": "Off-Road Strength: Level 2 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "IxiRHd0dsS",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "xfxYNt9YDn",
+              "name": "Off-Road Strength: Level 3 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "xfxYNt9YDn",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "LWGx2vG2Zh",
+              "name": "Off-Road Strength: Level 4 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "LWGx2vG2Zh",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "CP84CTxHK5",
+              "name": "Off-Road Strength: Level 5 - 3:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "CP84CTxHK5",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "jqYfpgQIUn",
+              "name": "Off-Road Non-Event Strength: Level 2 - 3:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "jqYfpgQIUn",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "l7bffAuSZi",
+              "name": "Off-Road Non-Event Strength: Level 3 - 3:1 (2 x wk / 12 wks) ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "l7bffAuSZi",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "fJPBN2wrcH",
+              "name": "Off-Road Non-Event Strength: Level 3 - 3:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "fJPBN2wrcH",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "zjd5Q5HMsJ",
+              "name": "Off-Road Non-Event Strength: Level 4 - 3:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "zjd5Q5HMsJ",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "F72eLVzjUz",
+              "name": "Off-Road Non-Event Strength: Level 1 - 3:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "F72eLVzjUz",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "wXw0BpmrZE",
+              "name": "Off-Road Strength: Level 2 - 2:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "wXw0BpmrZE",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "vCPZazmhNU",
+              "name": "Off-Road Strength: Level 1 - 2:1 (12 wk) ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "vCPZazmhNU",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "SM25nUsdoG",
+              "name": "Off-Road Strength: Level 3 - 2:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "SM25nUsdoG",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "BmXp7CUyJP",
+              "name": "Off-Road Strength: Level 4 - 2:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "BmXp7CUyJP",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "8Rq34r2Pgg",
+              "name": "Off-Road Strength: Level 5 - 2:1 (12 wk)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "8Rq34r2Pgg",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "x7v5wLgA4L",
+              "name": "Off-Road Non-Event Strength: Level 1 - 2:1 -12 wks ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "x7v5wLgA4L",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "AqbFpR1pMh",
+              "name": "Off-Road Non-Event Strength: Level 2 - 2:1 (2 x wk / 12 wks)  ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "AqbFpR1pMh",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "ipkuJni23v",
+              "name": "Off-Road Non-Event Strength: Level 3 - 2:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ipkuJni23v",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "3DlBigWT5U",
+              "name": "Off-Road Non-Event Strength: Level 4 - 2:1 (2 x wk / 12 wks)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "3DlBigWT5U",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "HdeJok",
+          "name": "MultiSport",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "CLOCLI3HXn",
+              "name": "SYSTM Strength Level 2 Multisport 2 on/1 off (non-event)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "CLOCLI3HXn",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "sk0A3B1JVB",
+      "name": "MTP - 2:1 - 8 week (GCN Feddie)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "sk0A3B1JVB",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "EzyDUD",
+      "name": "CX Season Prep 2:1 Low Volume 12 wks",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "JB3MDjePnR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Kv8lFbyj6F",
+      "name": "6wk mtp fitness kick starter",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Kv8lFbyj6F",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "cwV0lPiKnC",
+      "name": "6wk strength fitness kick starter ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "cwV0lPiKnC",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "O4fE42",
+      "name": "eSports: Sub 20-min - 2:1 - Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Zn6TCkKNnU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "QSaKYZPLwD",
+      "name": "10 week fitness kickstarter yoga",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QSaKYZPLwD",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "VK49Tud8ew",
+      "name": "10 week fitness kickstarter mtp",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "VK49Tud8ew",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "6o3l9ahGho",
+      "name": "10 week fitness kickstarter strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "6o3l9ahGho",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "pHerGz",
+      "name": "SYSTM Sprint Triathlon Plan/High Volume/3:1/Season Prep/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "0yeiRtGLM4",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "E9whIAMxlU",
+      "name": "KoS 6 week moderate volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "E9whIAMxlU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "w7vzJ9",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "pIGbMrPtfU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "VcB78k",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 4 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "13pjQ8tf5s",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "enk1WU",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "qWLkdEwzvU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "P3WgL6",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 2 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ASLt9bGAnn",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "JYd3v6",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 1 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "tOMeVhDxix",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "voeqTh",
+      "name": "KoS - 8 Week - High Volume - 3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "YYtZpNa6v2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "RnYeLy",
+      "name": "eSports - High Volume - 2:1 - final",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ee2E9MaN5F",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "lh7LaS",
+      "name": "Mountainous Century  - 2:1 - Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "J8yC6k9H1h",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KV3TdxbaC9",
+      "name": "Virtual Everesting - 8 Week - 3:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KV3TdxbaC9",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "zhskHt",
+      "name": "Badge On Location",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "bNynpu4c0C",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "g2y984",
+      "name": "Badge Pro Rides",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "lEYojPMmKb",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "OiJcfC",
+      "name": "New Year Resolution 3 week 3wk habit ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zKG67uZw9x",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "9921tI",
+      "name": "New Years resolution ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "IjIs8kB2wW",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "JC4WaTb9sI",
+      "name": "\njingers run plan 1 (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "JC4WaTb9sI",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "1ioH92",
+      "name": "\njingers run plan 1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "RK0f4Naa1t",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "cRUNv4UxdF",
+      "name": "Beginner Yoga - 2:1 - 6 week  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "cRUNv4UxdF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "54Z9G7SA2h",
+      "name": "Yoga Advanced - 2:1 - 6 week  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "54Z9G7SA2h",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "eEkTRc",
+      "name": "All Purpose - High Volume - 2:1  - 6 week ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "YXkB4uGdwJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "WqwOMXAqbr",
+      "name": "Power Through the Holidays - Yoga addon ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WqwOMXAqbr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Nm8GRJsT1Z",
+      "name": "Power Through the Holidays - MTP addon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Nm8GRJsT1Z",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ZChVYvLNiN",
+      "name": "Power Through the Holidays - Strength addon (clone attempt)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ZChVYvLNiN",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "fywmAJwlKp",
+      "name": "Tos Prep - Yoga Intermediate ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fywmAJwlKp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "S69eHZID5P",
+      "name": "ToS Prep - Strength Level 1b",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "S69eHZID5P",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Wo7TJnQY2O",
+      "name": "ToS Prep - Strength - Level 2b",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Wo7TJnQY2O",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "nqHDeo9bgX",
+      "name": "ToS Prep - Strength - Level 3b",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nqHDeo9bgX",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "BrlVC564oT",
+      "name": "2022 Post ToS - addons",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BrlVC564oT",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "eYPgqAsTbg",
+      "name": "2022 Post ToS - Yoga addon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "eYPgqAsTbg",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "c9NkkuHoFl",
+      "name": "2022 Post ToS - Mental addon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "c9NkkuHoFl",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "xjADrAMNCj",
+      "name": "2022 Post ToS - Strength addon (don\u0027t include) ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "xjADrAMNCj",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "t5I65b",
+      "name": "AWWIB",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "a9fiUmGhdr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "9rOyiP",
+      "name": "OL Mediterranean Coast",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ydQ87XhVnJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "cGu3f736Pn",
+      "name": "Strength Off Road Tri Level 5 12wk 2:1 Non-Event based ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "cGu3f736Pn",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "PuYuUKmTHi",
+      "name": "Strength Off-Road Tri Level 3 12wk 2:1 Non-Event based ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "PuYuUKmTHi",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "S7vdPcqDgt",
+      "name": "Strength - Off-Road Tri - Level 1 12wk 2:1 Non-Event based ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "S7vdPcqDgt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "sC6UB95QmE",
+      "name": "Strength - Off-Road Tri - Level 2 12wk 2:1 Event based ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "sC6UB95QmE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "GclCP6QpIT",
+      "name": "Strength Off-Road Tri Level 5 12wk 3:1 Event ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "GclCP6QpIT",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "QjUneSN9P6",
+      "name": "Strength Off-Road Tri Level 4 12wk 3:1 Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QjUneSN9P6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "XxL4AB7BZ5",
+      "name": "Strength Off-road tri level 3 12wk 3:1 Event ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "XxL4AB7BZ5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "iLfctdoai3",
+      "name": "Strength Off-Road Tri Level 2 12wk 3:1 Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "iLfctdoai3",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KHWWBp5n3z",
+      "name": "Strength Off-Road Tri Level 1 12wk 3:1 Event ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KHWWBp5n3z",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "MfiDiE",
+      "name": "GUSTO Indoor \u002B Outdoor",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dm9QuQehn2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "XewVLN",
+      "name": "SYSTM STEP Up Challenge",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "xcDZIXxQoG",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "7lKCer",
+      "name": "Indoor Only",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fu8EAqlnEd",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "GIkhSV",
+      "name": "GUSTO Indoor Only ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "inlPRGgTSF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "gmvCGk",
+      "name": "GUSTO io",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fEqD7fhkwU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "b0MTdD",
+      "name": "MTP \u002B STR \u002B Yoga",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "5ubvqzI6mK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "91WS5H",
+      "name": "MTP \u002B STR \u002B Yoga",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "V83KrTtwit",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ZcUpS7",
+      "name": "SYSTM Multisport Transition Down; short course",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "p3ZcqH4vMB",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ahm0fY",
+      "name": "SYSTM Multisport Transition Up; short course",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "M9uKohsoIp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "miXfyT",
+      "name": "SYSTM Multisport Transition Down; long course",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BC1uPIbpvb",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jxrbLm",
+      "name": "SYSTM Multisport Transition Up; long course",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "90uwfr5Mk6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "YTBGwB",
+      "name": "Century - Medium Volume - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "FkDYJyagdE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "HPYlyy",
+      "name": "Mountainous Fondo - 3:1 - High Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KMuwsX9KpV",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "TDHa5F",
+      "name": "Mountainous Fondo - 3:1 - Medium Volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "lK96zb0EPi",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jSVOu0",
+      "name": "Freddie GCN 312 Mallorca ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KNiof83qli",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "UVBVWQ",
+      "name": "10 Week - Fitness Kickstarter ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nXVBzEYuBm",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Gk3eng",
+      "name": "Power Builder Legacy Plan",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "aa0kgjEAmd",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "prKoSG",
+      "name": "Volcano * Legacy Plan ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "HEvLNjEgxD",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "4r7UsF",
+      "name": "Speed Demon * Legacy Plan",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "02AGGV4PRu",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jcfINL",
+      "name": "Couch to Crusher * Legacy",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nJAiDArtT5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "JsFbaE",
+      "name": "Mac - Test Plan",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "EVeZJ11IA1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "iXEGm7",
+      "name": "ToS Route 2022",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "OBwvXDnRhk",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "a8bPwj",
+      "name": "ToS Route 2022 Get Me Through It",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "4e8Fq3s6hR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "7fvFmF",
+      "name": "ToS Route 2022 Focused",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yGrdDGSNhJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "23aE9I",
+      "name": "6 Week - Velocity Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "4x2KAWDSyC",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "6G8CSl",
+      "name": "VeloCity Plan - 10 Mile Route ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "54gPtZc9Ty",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "qyb2ha",
+      "name": "VeloCity - 25 mile Route",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "77S3qSBSxj",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Qb6B5X",
+      "name": "VeloCity - 65 mile plan",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "i0259G0BUh",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "IfB0gJ",
+      "name": "VeloCity - 50 mile Route ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fLHh2Ab5zf",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "zRxFZt",
+      "name": "TNN Talent ID Camp #2",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Uty8MkeRMC",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "YmqQ8T",
+      "name": "TNN Talent ID Camp #1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "NaHjsYqJ0v",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "PwCR2k",
+      "name": "The Great French Challenge (NOT THIS ONE!)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "hJpN6zCKXg",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "lx9qvK",
+      "name": "not sure this is right SBT GRVL - Green Course - Moderate Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "gUfPeJuvdj",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "I3s99P1CVc",
+      "name": "6 Week MTP addon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "I3s99P1CVc",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "d9uUTI",
+      "name": "Basic Training 2:1 - 9 wks ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "SpBZbyNQYu",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "nBp3DQ",
+      "name": "TWT Route 2023",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "kkcnJlThgV",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "dnJCiXM52M",
+      "name": "MTP - 9 week addon",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dnJCiXM52M",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "0Lw9bO",
+      "name": "Mileage Build 1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "EhSS1YVg4d",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ateKyQvJoG",
+      "name": "Mileage Builder 2",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ateKyQvJoG",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "1sM955JtNK",
+      "name": "Mileage Builder 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "1sM955JtNK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "AxbBol",
+      "name": "5k Intermediate ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "PvM0c0zdIZ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "FICCHp",
+      "name": "5k Advanced ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "IodLso9jgQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "YhGti0",
+      "name": "10k Beginner",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "i7Ekn0Pen1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "1v3jFF",
+      "name": "10k Intermediate ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dEWd3EBySE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Ga3wrP",
+      "name": "10k Advanced ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zBfYpGLI5w",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "ktrnEX",
+      "name": "Half Marathon Advanced",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WWSL0hoaII",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "x4TPUi",
+      "name": "Marathon Intermediate",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "qYXUcPlvJz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "oWK1F7",
+      "name": "Marathon Advanced",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "wD4eGcTcJI",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "jGDW8N",
+      "name": "Mileage Builder 1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "sniH4xH65w",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "N0QcNm",
+      "name": "Adv 5k ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "i7N1vMlW4Z",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "JEEZtSGokt",
+      "name": "8 week strength: Level 2 (2:1)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "JEEZtSGokt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "iL9hv6ZYTw",
+      "name": "8 week strength: Level 3 (2:1)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "iL9hv6ZYTw",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "XeJQtTq8EJ",
+      "name": "8 week strength: Level 4 (2:1)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "XeJQtTq8EJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "FVLq3EFeDQ",
+      "name": "8 week strength: Level 5 (2:1)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "FVLq3EFeDQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "afYRN5S6rY",
+      "name": "No Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "afYRN5S6rY",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "KBQwlz",
+      "name": "TEst for rupert",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ODV84Lm5y1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

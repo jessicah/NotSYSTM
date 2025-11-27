@@ -1,0 +1,30 @@
+{
+  "uid": "JqMVSG",
+  "name": "Intermediate",
+  "description": "Completed a few 10Ks or maybe a half marathon? This plan focuses on improving your time and endurance.",
+  "stepTitle": "Intermediate Half Marathon",
+  "stepDescription": "12 week plan 4-5 runs per week with 1 intense run per week ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "4VzVD7rBe0",
+      "name": "Int Half  (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "4VzVD7rBe0",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

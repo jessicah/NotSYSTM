@@ -1,0 +1,2190 @@
+{
+  "uid": "El6Pph",
+  "name": "Road",
+  "description": "From crits and road races to your first century. ",
+  "stepTitle": "Target Event",
+  "stepDescription": "",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "kPVtAf",
+      "name": "Metric Century",
+      "description": "12 week plans to crush your next 100km ride.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3mNS24",
+          "name": "Low",
+          "description": "2-4 hours / week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "9qQuKZ",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "r051HJ",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Low Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "4fXsZGwaVC",
+                      "name": "Metric Century 3:1 Low Volume w/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "4fXsZGwaVC",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "RsxI23",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Low Volume - 3:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "9zO4in",
+                      "name": "Metric Century 3:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "RF1hA5kA5L",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "cftJI4",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "oCaK23",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Metric Century ",
+                  "stepDescription": "Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ADlCzr3DPQ",
+                      "name": "Road Metric Century Event 2:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ADlCzr3DPQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "7OKW8T",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Metric Century ",
+                  "stepDescription": "Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "zp0bQj",
+                      "name": "Road Metric Century Event 2:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "U8dRaFippX",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "0zKe87",
+          "name": "Moderate",
+          "description": "4-6 hours / week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "mlAAwC",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "TtADEx",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Moderate Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "W6azIxb6e4",
+                      "name": "Metric Century 3:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "W6azIxb6e4",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "czpVTF",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Moderate Volume - 3:1  ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "X8hg3DAtyo",
+                      "name": "Metric Century - Moderate Volume - 3:1  ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "X8hg3DAtyo",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "KBVjao",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "8QKcO1",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Moderate Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "e60KvHDBcL",
+                      "name": "Road Metric Century Event 2:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "e60KvHDBcL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "98WaGS",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Metric Century",
+                  "stepDescription": "Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "D0syoMcJWm",
+                      "name": "Road Metric Century Event 2:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "D0syoMcJWm",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "x0x8Kf",
+      "name": "Century ",
+      "description": "12 week plans to rush your next 100mi ride.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "HTHflB",
+          "name": "Moderate",
+          "description": "5-7 hours / week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "oERlB6",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "oJO2M7",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "Century - Moderate Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "euAP4E2Ylp",
+                      "name": "Century - Moderate Volume - 3:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "euAP4E2Ylp",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "d6wWEN",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "r26V9KJCen",
+                      "name": "Century - Moderate Volume - 3:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "r26V9KJCen",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "n5G1B3",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Ugy70n",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "Century - Moderate Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "AlWBZv97tO",
+                      "name": "Century - Moderate Volume - 2:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "AlWBZv97tO",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "epD2fA",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "Century - Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "W8vT9a05CX",
+                      "name": "Century -2:1 - Moderate Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "W8vT9a05CX",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "JPsFnU",
+          "name": "High",
+          "description": "6-8 hours / week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "kB4MT3",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PSpXWB",
+                  "name": "Yes ",
+                  "description": null,
+                  "stepTitle": "Century - High Volume - 3:1 - with Strength",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "4wFXOn6x2A",
+                      "name": "Century - High Volume - 3:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "4wFXOn6x2A",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "qEUulr",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "High Volume - 3:1  ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "B4cliEtcqv",
+                      "name": "Century - High Volume - 3:1  ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "B4cliEtcqv",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "muOie7",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "R2LNNw",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "Century - High Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "AH7pshYtma",
+                      "name": "Century -  2:1 High Volume w/Str 2x wk  (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "AH7pshYtma",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "4cp3Jc",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Century",
+                  "stepDescription": "High Volume - 2:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "rYDSPgUJ93",
+                      "name": "Century - High Volume - 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "rYDSPgUJ93",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "ZBSmZc",
+      "name": "Mountain Fondo ",
+      "description": "12 week plans to crush your next hilly or mountainous 100mi / 160km ride.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "BX65ha",
+          "name": "Low",
+          "description": "4-7 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Ro20yS",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "WEJNJX",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Mountain Fondo - Low Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "9hYlUf",
+                      "name": "Road Mountain Fondo Event 3:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "EBu9VtB232",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "edr4lm",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Mountain Fondo - Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "qO9AAbaB9E",
+                      "name": "Mountain Fondo - Low Volume - 3:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "qO9AAbaB9E",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "EDO2MI",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "0kT8L7",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "JoNgNfApAm",
+                      "name": "Road Mountainous Fondo Event 2:1 Low Volume w/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "JoNgNfApAm",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "HVP4wM",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "MJoHrwksiL",
+                      "name": "Road Mountainous Fondo Event 2:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "MJoHrwksiL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "IIbjqe",
+          "name": "Moderate",
+          "description": "5-9 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "GJ83xK",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "saMthG",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Moderate Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "TCE6kxUwng",
+                      "name": "Road Mountain Fondo Event 3:1 Med w/Str",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "TCE6kxUwng",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ACCaqt",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Mountain Fondo - Moderate Volume - 3:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "L95R4IVrvw",
+                      "name": "Road Mountain Fondo Event 3:1 Med Vol ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "L95R4IVrvw",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "fyf09m",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "3cozmb",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Moderate Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "9R7Od8uckE",
+                      "name": "Road Mountainous Fondo Event 2:1 Low Volume (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "9R7Od8uckE",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "LdqRBk",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "Moderate Volume - 2:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "KN52AgE1MT",
+                      "name": "Mountain Fondo - Moderate Volume - 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "KN52AgE1MT",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "sXHfrQ",
+          "name": "High",
+          "description": "7-14 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Lo99d9",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "kY19Y0",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "7Wk2pHreBe",
+                      "name": "Road Mountain Fondo Event 3:1 High Volume w/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "7Wk2pHreBe",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "q5DBOB",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "High Volume - 3:1 ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "gXS532llfO",
+                      "name": "Road Mountain Fondo Event 3:1 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "gXS532llfO",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "y25RfS",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "aABB5c",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo ",
+                  "stepDescription": " High Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "27rIYaMest",
+                      "name": "Road Mountainous Fondo High Volume 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "27rIYaMest",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "HuEikP",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Mountain Fondo",
+                  "stepDescription": "High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "YZfebSPhWn",
+                      "name": "Mountainous Fondo - 2:1 - High Volume (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "YZfebSPhWn",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "6LH6c4",
+      "name": "Criterium",
+      "description": "12 week plans to get your engine ready for the fast-paced action of crit racing.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "WNdBf9",
+          "name": "Low",
+          "description": "3-5 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Q65E78",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "vfzQBi",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium ",
+                  "stepDescription": "Criterium - Low Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "MWlFNJ",
+                      "name": "Criterium - 3:1 - Low Volume - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "mvtAiTHEb6",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "hzf2oQ",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1GGIDJ",
+                      "name": "Criterium - 3:1 - Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "q5lusSl5af",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "jU9aSE",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ouvnnq",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Low Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "trNuViyQMy",
+                      "name": "Criterium - 2:1 - low volume - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "trNuViyQMy",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "IVnqUx",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "0qDRsIMa3L",
+                      "name": "Criterium - 2:1 - Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "0qDRsIMa3L",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "zOPThx",
+          "name": "Moderate",
+          "description": "5-7 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "QdWP2E",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "uugipY",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Moderate Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "yhlH12UtYS",
+                      "name": "Criterium - 3:1 - Moderate Volume - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "yhlH12UtYS",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "5FpGw7",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium ",
+                  "stepDescription": "Criterium - Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Ez5yIR",
+                      "name": "Criterium - 3:1 - Moderate Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "dph8Pvj8Y0",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "VsPjkh",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "uTZABn",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Moderate Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "snrWeed1ML",
+                      "name": "Criterium - Moderate Volume - 2:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "snrWeed1ML",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "AiXHVV",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "GtUCNcyA7F",
+                      "name": "Criterium - 2:1 - Moderate Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "GtUCNcyA7F",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "0QDJmI",
+          "name": "High",
+          "description": "6-12 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Sp3mCN",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "QTqxno",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - High Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Ls0rB0upQ5",
+                      "name": "Criterium - High Volume - 3:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Ls0rB0upQ5",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "U3ZrDt",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium ",
+                  "stepDescription": "Criterium - High Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "fEXHEv",
+                      "name": "Criterium - High Volume - 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "T2lCpmQASH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "pjuB1H",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "6BTjEZ",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - High Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Ef3tzVyFTo",
+                      "name": "Criterium - High Volume - 2:1 - with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Ef3tzVyFTo",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "6AjClu",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Criterium",
+                  "stepDescription": "Criterium - High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "yW8kae6cOK",
+                      "name": "Criterium - High Volume - 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "yW8kae6cOK",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "iVnQY7",
+      "name": "Time Trial",
+      "description": "12 week plans to the race of truth: You against the clock.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ux9DUc",
+          "name": "Low",
+          "description": "2-4 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "SdGTeo",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "tCpyfi",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Low Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ozBdEkMNEn",
+                      "name": "TT Event Prep 3:1 Low Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ozBdEkMNEn",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "STHONv",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BAkAxt",
+                      "name": "TT Event Prep 3:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "TEPsEM3mUY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "PtzfH6",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "lbV6nY",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "IEZDF13jI6",
+                      "name": "TT event prep 2:1 Low Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "IEZDF13jI6",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "U2y0ii",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZDKho9",
+                      "name": "TT event prep 2:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "923DDsZjv1",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "lIVEVo",
+          "name": "Moderate",
+          "description": "5-8 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "yP9MDB",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "swF4Fo",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Time Trial - Moderate Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "B2wLmVuQw4",
+                      "name": "TT Event Prep 3:1 Medium Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "B2wLmVuQw4",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "288pTH",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "RXAkJcCEi7",
+                      "name": "TT Event Prep 3:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "RXAkJcCEi7",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "SBLODu",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ZbM0Vs",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Moderate Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "AN5uWErchr",
+                      "name": "TT event prep 2:1 Medium Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "AN5uWErchr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "xiiEvx",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BxqdCwC6dM",
+                      "name": "TT event prep 2:1 Medium Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "BxqdCwC6dM",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "wgPC6A",
+          "name": "High",
+          "description": "6-10 hours / week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "2TSnev",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "KtIFu1",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "wr7RmwevqY",
+                      "name": "TT Event Prep 3:1 High Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "wr7RmwevqY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "UUw77t",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "High Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "CnyEsSm5TG",
+                      "name": "TT Event Prep 3:1 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "CnyEsSm5TG",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "P6qZqY",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bhnSK7",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "High Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "7LWMAgO4Ec",
+                      "name": "event prep 2:1 High Volume with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "7LWMAgO4Ec",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "k4TRiU",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Time Trial",
+                  "stepDescription": "High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Pw41Vyc91q",
+                      "name": "TT event prep 2:1 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Pw41Vyc91q",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

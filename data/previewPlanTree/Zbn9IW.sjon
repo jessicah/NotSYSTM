@@ -1,0 +1,338 @@
+{
+  "uid": "Zbn9IW",
+  "name": "Long Distance",
+  "description": "16 week plans - 10 km run, 150 km bike, 30 km run",
+  "stepTitle": "Volume",
+  "stepDescription": "Total hours of cycle and run training per week",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FtCVuf",
+      "name": "Moderate",
+      "description": "10-14 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "Weekly work to rest ratio",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "D6fyRt",
+          "name": "2:1",
+          "description": "Two weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "MvIu2G",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - Moderate Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "pCQLaah6hi",
+                  "name": "Duathlon - Long Distance - Event - Moderate Volume  - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "pCQLaah6hi",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "L23SzI",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - Moderate Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "1RnrTT7U18",
+                  "name": "Duathlon - Full Distance - Event - Moderate Volume  - 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "1RnrTT7U18",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "WHkzBB",
+          "name": "3:1",
+          "description": "Three weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Z6JNHd",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - Moderate Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "BhfKfuYzTL",
+                  "name": "Duathlon - Long Distance - Event - Moderate Volume  - 3:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "BhfKfuYzTL",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "nSDgMw",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - Moderate Volume - 3:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "XKGmfFxZ19",
+                  "name": "Duathlon - Long Distance - Event - Moderate Volume  - 3:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "XKGmfFxZ19",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "cdctiE",
+      "name": "High",
+      "description": "12-20 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "Weekly work to rest ratio",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "geO6BQ",
+          "name": "2:1",
+          "description": "Two weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Ejw60F",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - High Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "KLHLt0GT4E",
+                  "name": "Duathlon - Long Distance - Event - High Volume - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "KLHLt0GT4E",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "IKXa5B",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - High Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "M5mymHtm5O",
+                  "name": "Duathlon - Long Distance - Event - High Volume - 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "M5mymHtm5O",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "jOgjnE",
+          "name": "3:1",
+          "description": "Three weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "UOraHv",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - High Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "EoqvufI9Pg",
+                  "name": "Duathlon - Long Distance - Event - High Volume - 3:1 - strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "EoqvufI9Pg",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "DDC4xO",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "Long Distance",
+              "stepDescription": "Event - High Volume - 3:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "GPf7H2JaSV",
+                  "name": "Duathlon - Long Distance - Event - High Volume - 3:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "GPf7H2JaSV",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

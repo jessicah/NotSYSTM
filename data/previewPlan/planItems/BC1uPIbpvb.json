@@ -1,0 +1,2667 @@
+{
+  "id": "BC1uPIbpvb",
+  "name": "SYSTM Multisport Transition Down; long course",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "Multisport",
+  "subcategory": "Ramp Down",
+  "description": "Transition Down is designed to help long course multisport athletes recover and reset after a demanding season of training or racing and move back to indoor training once again.  \n  \nThere are enough sport specific sessions (swim, bike and run) to maintain aerobic fitness, technique and neuromuscular connections, however, these workouts are minimized in order to shift the focus to targeted stability, mobility, and strength exercises. These areas are often the most neglected during the outdoor training and racing seasons, and need to be emphasized during the transition period to restore a healthy body.  \n",
+  "planDescription": "Helping athletes transition from outdoor to indoor training.",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Multisport",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "6 weeks",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-06-28T21:10:20.916Z",
+  "updatedAt": "2025-07-01T16:10:05.233Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Super Easy Stretch Routine I",
+          "style": null,
+          "compatibility": 100,
+          "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2513888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "ZyVk7r3dWj",
+          "contentId": "OQbPuzfX7F",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Across the Mountains",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2020): _Across the Mountains_ follows legendary cyclist Michael Cotty through two different adventures. The first, _Les Alpes_, is the story of Mike\u0027s non-stop ride from Evian-Les-Bains to Nice across the heart of the Alps: a journey of 677km with 17 mountain passes and more than 16,000 meters of climbing. The second, _The Road to Mont Blanc_, sees Mike tackle a 1,000 km non-stop journey across 21 mountains in the Dolomites, Eastern and Swiss Alps before finishing at Mont Blanc. Featuring never-before-seen footage and exclusive commentary by Mike Cotty himself.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. Intensity is low, with power remaining at or below 50% of FTP (2.5 on a scale from 1 to 10) with heart rate targets entirely in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6352777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 13,
+            "intensityFactor": 0.45
+          },
+          "workoutId": "WhCO6a7rFS",
+          "contentId": "8kavOun8lH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Running",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Endurance Brick 15",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\nBike Session\n\n\u200B\n\n**Main Effort:**\n\nInterval Duration: 15 mins\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\nExtra Volume:NA\n\n\u200B\n\n**Cool Down**\n\nNA (This is a steady Z2 run immediately after your bike session. Use this as an opportunity to practice your second transition!)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "HE2K3d4eew",
+          "contentId": "aw9CrLNISP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "30 min Continuous Swim",
+          "style": null,
+          "compatibility": 100,
+          "description": "Swim continuously in the pool for 30 minutes or 1000-1600m. Practice sighting without stopping and use the pace clock or a watch to monitor your pace throughout the swim.\n\n\u200B\n\nCount strokes every 4-6 lengths to make sure you are staying consistent.\n\n\u200B\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Total Distance**\n\n1600m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 13,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "UlnkBzz75P",
+          "contentId": "uHwHFHsbKX",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Improving Posture",
+          "style": null,
+          "compatibility": 100,
+          "description": "Most cyclists suffer from rounded shoulders and a curved spine as a result of hours spent in the riding position. This series will release tension in your upper back and get you standing up straight and powerful again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "YFsFjgUaRo",
+          "contentId": "b4ZSSXIaIi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 30",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "RCbVa2QJmE",
+          "contentId": "8My1kzRLAo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring and Calf Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "QBNTvavBD6",
+          "contentId": "4p7ig7MAZV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Laps Tasmania",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2019): Following Dustin Hollick and Rhian Slapp, two ordinary fathers with the survival skills of well-trained house pets, on a two-week journey around Tasmania with not much more than the clothes on their backs. No cash, no car, and no technology on an island at the bottom of the world.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8441666666666666,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.64
+          },
+          "workoutId": "Ru8FecVH6P",
+          "contentId": "5TddlumuOS",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Neck and Upper Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "f8BdieRHEZ",
+          "contentId": "YuKMLjzZJ6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Technique A",
+          "style": null,
+          "compatibility": 100,
+          "description": "In case you need to brush up on your other [technique definitions or drills](https://wahoosystm.com/HelpCenterSwimDrills).\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\nGood swimming technique is the key to efficient swimming. Today\u0027s session is a low intensity workout that challenges you with a series of drills designed to reinforce proper technique that will make you a more efficient, powerful and faster swimmer.\n\n\u200B\n\n**Warm-Up**\n\n200m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 25m Drill of choice\n\nThe goal of a Drill set is not to swim at any given pace, but instead focus on proper form. Choose a drill or focus on one of these key points for each 25m interval:\n\n- \\*Body position- swim on horizontal plane\n- \\*Enter in front of shoulder- preventing cross over\n- \\*Breathe early- prevent wide stroke- elbow is always widest point\n- \\*Elbow is always the highest point of the stroke\n- \\*Back of hand always faces direction of travel\n- \\*Fingers to point at the bottom of pool\n- \\*Initiate your stroke from the hips\n\nRecovery: 10 seconds rest\n\n\u200B\n\n**Activation 2**\n\nNumber of Sets: 1\n\nInterval Distance:\n\n200m Pull @ RPE 3-4 -- Z2\n\n- This set eliminates the use of your legs. It requires a buoy that you can swim with between your legs. The buoy will keep your body in the correct orientation. By removing your legs from the drill you will be required to only use your arms. This will help you focus on efficient form and making the most of each stroke!\n\nRecovery: 20 seconds rest\n\n\u200B\n\n**Main Effort**\n\nThe following should all be done at a moderate pace (RPE 2-4 -- Z1-Z2), with enough rest between that you can focus on proper form\n\nInterval 1: 150m of One Arm Freestyle drill\n\n- This is an old standby. Put your non-pulling arm out in front of your body and swim with only the opposite arm. Take some time to watch the arm that is pulling. Feel your elbow directly above your hand and that you are pulling right down the midline of your body. Split your body in half with your fingertips. Your emphasis should be on power and efficiency not on speed.\n- See how few strokes you can take to get down the pool.\n- Once you have it mastered, you can leave the non-pulling arm at your side.\n\nRecovery: 20-sec rest\n\nInterval 2: 200m of 3/4 Catch Up drill\n\n- A variation to catch-up that takes us closer to the full stroke. Another way to describe this is almost catch-up. Take a stroke with the right hand, wait until this hand is almost all the way through recovery and then start your pull with the left. This creates a very rhythmic feel, almost like skating through the water. Take your pull and ride the glide from it. When you lose speed, take your next pull. Want a good example of this? Watch Olympic replays of the Aussies, particularly Ian Thorpe. He races like this drill. Efficiency is your goal.\n\nRecovery: 20-sec rest\n\nInterval 3: 200m of Elbow-Hip-Elbow drill\n\n- A variation on side glide kick. The same goals apply balance, body roll, and head position during breathing. Start on either side with one arm extended out front, and the other at your side. With the fingers of the hand at your side, touch the elbow of your upper arm, then your hip, and then the elbow again. Now take your stroke or three strokes. Kick and glide and repeat.\n\nRecovery: 20-sec rest\n\nInterval 4: 150m of Fist Drill\n\n- Swim freestyle with your hands in fists. This is going to force you to get your forearms involved in the stroke because they have more surface area than your hands. Keep your elbow high under the water. Your forearm, from elbow to fingertips should be perpendicular to the bottom of the pool. Again, watch Ian Thorpe. You will feel like you are slipping through the water which is normal, however, the more water you feel like you are pulling the more efficient you are getting.\n\nRecovery: 20-sec rest\n\nInterval 5: 200m of Zipper Drill\n\n- This drill is done by pulling the fingers up the side of the body until they come into the armpit. The point of this is to keep a nice high elbow on recovery and to force the body to roll. Many use the Fingertip drag drill to accomplish this but we prefer this drill because the body roll essentially gives this drill a dual purpose.\n\nRecovery: 20-sec rest\n\nRepeat until full swim time is completed\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1600m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 19,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "78sRao8nrj",
+          "contentId": "JiS1UvEPGG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Cycling",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Frozen Road",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2017): From the creator: \u0022Self-shot and edited whilst cycling around the world, this film charts a winter journey into the Canadian Arctic as I completed my bike ride up the American continent. Compelled by Jack London\u2019s assertion, that \u2018any man who is a man can travel alone,\u0027 I sought an adventure of perfect solitude. Yet, as I came to realize, the harsh truths of traveling in such a formidable environment were a long way from the romantic images I\u2019d held of this land. _The Frozen Road_\u2019 is an honest reflection on my solo trip; of the wonder, terror and frustration I experienced when riding through the unforgiving emptiness of one of the world\u2019s \u2018last great wildernesses.\u0022\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. It\u0027s a very low-intensity ride, with your power remaining at or below 50% of FTP (an RPE less than 2.5 on a scale from 1 to 10) and your heart rate in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.41805555555555557,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 8,
+            "intensityFactor": 0.44
+          },
+          "workoutId": "bHz6eBsicH",
+          "contentId": "fwzyQcEcGW",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Strides \u0026 Drills",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is a technique-focused session designed to develop your agility, stability, range of motion, and foot speed. There is no focus on heart rate zones so you may choose to leave your monitor at home for these sessions. Between sets of each drill, you should jog/walk easily to fully recover between the efforts. While these efforts shouldn\u2019t be too taxing on you, the key is perfect form, so you want to be hitting each one rested enough that you can maintain great form for the duration. You should take a bit of extra rest between techniques, again to ensure you are rested and can nail the form. Before starting the workout, familiarize yourself with the format for high knees, butt kicks, skipping, carioca and strides. Find a flat track, field, or 50-100m of open space to perform this workout (football and soccer fields are great for this).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-up:**\n\nStart off with 5-10 minutes of easy jogging/walking.\n\nHigh Knees: 2-3 sets of 50m high knees.\n\nEasy jog/walk for 30-60 seconds between.\n\n- Take short strides, bringing your knees up high enough that your upper legs are parallel to the ground. Focus on achieving high knees AND quick turnover, or performing as many reps as possible in a short distance.\n\n**Butt Kicks:**\n\n2-3 sets of 50m butt kicks.\n\nEasy jog/walk for 30-60 seconds between.\n\n- This should actually look similar to a high knee drill, but with the heels coming up to touch the bottom of your butt. Take short strides while using your hamstrings to lift your heels up beneath your butt. Your knees should come up in front of your body while pulling your heels up beneath your hips, rather than keeping your quads and knees below and in line with your hips.\n\n**Skipping:**\n\n3-4 sets of 50m skipping.\n\nEasy jog/walk for 30-60 seconds between.\n\n- Focus on a high knee drive and swinging your arms at your sides like you would when running.\n\n**Carioca:**\n\n4 sets of 30m Carioca in each direction (8 total).\n\nRest for 20 seconds between direction changes (at your discretion).\n\n- For this drill, you need to face sidewise to the direction you want to go. Start off moving to the right. Bring your left knee up and across your body and put your left foot in front of your right foot. Step your right foot to the right so it is parallel with your left leg again (at this point you should be positioned in the same direction and orientation that you were at the start. Next step your left leg behind your right leg, again so it lands on the right side of your right leg. Then bring your right leg back across your body, once again ending up in the starting position. Repeat this pattern for 25-30m.\n\n**Strides:**\n\n2-3 sets of 60m; Gradually build effort from RPE 3-8.\n\nEasy jog/walk for 30-60 seconds between. These are comprised of a steady acceleration over 60-80m up to 5k pace. The goal is to increase speed after each step, so you are reaching maximum speed at the end of the 60-80m stretch. You want to focus on keeping your shoulders, neck, and jaw relaxed while maintaining strong knee drive, straight and compact arm swing, planting the feet beneath the hips, and fast turnover.\n\n\u200B\n\nHigh Knees \u002B Butt Kicks:\n\nFinish these drills with one set each of 50m high knees and butt kicks.\n\n\u200B\n\n**Cool-down:**\n\nWalk or jog for 5 minutes to cool down.\n\nIn case you need to brush up on your running [drills](https://wahoosystm.com/RunningSessionFAQ)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "TfKQjysBHT",
+          "contentId": "berlHpGqZJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Scapular Stability",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner / Intermediate sequence, we stabilize the muscles that support your shoulder blades, activate the posterior chain, strengthen the core and stretch the chest and fronts of the shoulders. This helps reduce your risk of neck and shoulder injury, alleviate neck and interscapular pain, and improve your posture. It\u0027s a great session to do in the morning or before a workout.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "NEaY75G6lw",
+          "contentId": "9UrTKGZKVy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Aerobic Swim 45",
+          "style": null,
+          "compatibility": 100,
+          "description": "This session can also be performed in open water if available. \n\n\u200B\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\nThis is a steady, low-intensity swim designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2.\n\n\u200B\n\n**Warm-Up**\n\n100m stroke of your choice @ RPE 3 -- Z2\n\nRecovery: 15 seconds rest\n\n100m Kicking @ RPE 5 -- Z3\n\nRecovery: 15 seconds rest\n\n\u200B\n\n**Main Effort**\n\nSteady swim @ RPE 3-4 -- Z2 for the duration of the workout as specified by your training plan.\n\nUse pace clock to ensure lap times are remaining consistent\n\nCount strokes every 5 laps to ensure consistency\n\nPractice your sighting at least once every 100m\n\n\u200B\n\n**Cool Down**\n\n200m Pull @ RPE 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2000m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 19,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "",
+          "contentId": "HY3ZIZSybT",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Yoga",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Core Stability",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Intermediate sequence, we stabilize the spine, ribs and pelvis; strengthen the deep abdominals, obliques and lower back; and activate the glutes to improve balance, help to prevent and alleviate lower back pain and enhance athletic performance. It\u0027s a great session to do in the morning or pre-workout.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "IqHLA2DmZW",
+          "contentId": "dCNowateOm",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Cadence Builds",
+          "style": null,
+          "compatibility": 100,
+          "description": "One of the best sessions for neuromuscular training, this drill asks you to progressively build from a cadence of 90 RPM to your MAX over 30 seconds, recover, and repeat several times. Cadence builds improve how you recruit your leg, gluteal, and core muscles throughout your pedal stroke by progressing to your maximal cadence. By reaching your highest cadence possible, you are training the \u0027on/off\u0027 switch in each muscle group to not only work faster but to have less overlap with your other muscle groups. This session trains your hamstring muscles to \u0027turn off\u0027 when your quads \u0027turn on\u0027 and vice-versa, resulting in a more efficient pedal stroke at both high and low cadences.\n\n\u200B\n\n**LEARN MORE**\n\nListen to The Knowledge podcast, by Wahoo Sports Science - The Benefits of High Cadence Training: [https://wahoosystm.com/BenefitsofHighCadence](https://wahoosystm.com/BenefitsofHighCadence)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5480555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 5,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 21,
+            "intensityFactor": 0.62
+          },
+          "workoutId": "04BfbUGDMk",
+          "contentId": "n3WrizBr1g",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "3 x (8 x 25m)",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\nNumber of Sets: 1\n\nNumber of Repeats: 6 x 100m @ RPE 3-4-- Z2, Focusing on distance per stroke\n\n20 sec rest\n\n\u200B\n\n**Activation**\n\nNumber of sets: 1\n\nNumber of Repeats: 8\n\nInterval: 50m @ RPE 3-4 -- Z2 as 25m Side-Glide-Kick drill \u002B 25m swim\n\nRecovery: 20 sec rest\n\n- Push off the wall on your side and kick for eight kicks. Keep your ear on your arm and your body straight. Make sure your knees are passing one another when you kick. Eight strokes and then take a good pull with the arm up top. Use this pull to roll you to the other side and repeat the cycle. For variation do this drill with three strokes in between. I.e. on right side with right arm up and left arm at your side. Take a pull with the right, left and right. End with your left arm up and your right arm at your side. This will help improve your body position in the water and if you keep your head on your arm when you are on your side it will help your head position when you breathe.\n\n**Main Set**\n\nNumber of Sets: 3\n\nInterval 1: 8 x 25m @ RPE 9 -- Z5\n\nRecovery: 15 sec rest\n\nInterval 2: (Between each set of 25\u0027s) 100m backstroke or breaststroke @ RPE 2 -- Z1\n\n\u200B\n\n**Cool Down**\n\n200m @ RPE 2 -- Z1, choice of strokes\n\n\u200B\n\n**Total Distance**\n\n1900m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 48,
+            "intensityFactor": 0.8
+          },
+          "workoutId": "WvQoEUwSsW",
+          "contentId": "VrhLVXBNYV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Gran Canaria: Lake Chira",
+          "style": null,
+          "compatibility": 100,
+          "description": "Our first ever On Location gravel adventure and what a ride we have in store! This one may be short but it\u2019ll have you hanging onto the edge of your saddle as we explore the Pilancones Natural Park, high up on a mountain ridge overlooking the Soria valley as we head towards Chira Lake. The goal of this ride will be to work on your good form with a slightly higher cadence than normal, keeping the legs supple and spinning. We\u2019ll gently build the effort up a 3km climb to get the heart, legs and lungs working a little harder before descending to our final destination at Chira Lake. This workout is perfect for those days when you need an easier session or want to activate the body before going deeper.\n\n\u200B\n\nThis workout focusses on a progressive build through the duration of the climb helping with your pacing skills and sustained efforts.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8773915186)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7252777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 4
+            },
+            "tss": 30,
+            "intensityFactor": 0.78
+          },
+          "workoutId": "SthLxmmVDx",
+          "contentId": "IBVTpjJaXR",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "End Of Day Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "GLN8bDnkTz",
+          "contentId": "IhB5vyASlP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Technique B",
+          "style": null,
+          "compatibility": 100,
+          "description": "Good swimming technique is the key to efficient swimming. Today\u0027s session is a low intensity workout that challenges you with a series of drills designed to reinforce proper technique that will make you a more efficient, powerful and faster swimmer.\n\n\u200B\n\nIn case you need to brush up on your other swimming [technique definitions or drills](https://wahoosystm.com/HelpCenterSwimDrills).\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm-Up**\n\n200m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 25m Drill of your choice\n\nThe goal of a Drill set is not to swim at any given pace, but instead focus on proper form. Choose a drill or focus on one of these key points for each 25m interval:\n\n- Body position- swim on horizontal plane\n- Enter in front of shoulder- preventing cross over\n- Breathe early- prevent wide stroke- elbow is always widest point\n- Elbow is always the highest point of the stroke\n- Back of hand always faces direction of travel\n- Fingers to point at the bottom of pool\n- Initiate your stroke from the hips\n\nRecovery: 10 sec rest\n\n**Activation 2**\n\nNumber of Sets: 1\n\nInterval Distance: 200m Kick @ RPE 5 -- Z3\n\n- This drill requires you to only use your legs for propulsion. Face the sky with your arms extended above your head, biceps squeezing your ears. Kick from the hips with straight legs, toes just breaking the surface of the water. When you see the flags above your head, flip onto your belly so you don\u0027t hit the wall. Make note if there are no flags at your pool before doing this drill so you can look for another sign that the wall is near.\n\nRecovery: 20-sec rest\n\n\u200B\n\n**Main Effort**\n\nThe following should all be done at a moderate pace (RPE 2-4 -- Z1-Z2), with enough rest between that you can focus on proper form\n\nInterval 1: 100m of Super Slow Drill\n\n- This should be done for 25m at a time. Slow down your stroke rate as much as possible. In fact, the point here is to see how slowly you can go without sinking. Work hard to swim with perfect form concentrating not on how much water you are pulling but rather what position your hands, body, and feet are in. This drill will help you keep your balance in the water. If you can balance going slow, you can balance going fast.\n\nRecovery: 20-sec rest\n\nInterval 2: 100m swim, incorporating the Super Slow Drill\n\nInterval 3: 150m of 3-3-3 Drill\n\n- Simply put, take three strokes with your left, three with your right, and three whole strokes (6 arm pulls). This is good for a couple of things: First, continue to work on the efficiency of the one-arm strokes. Secondly, When you switch sides, you want to work on the transfer of power from right to left. Then when you take full strokes, you can quickly get into long, efficient strokes.\n\nRecovery: 20-sec rest\n\nInterval 3: 200m of Catch Up Drill\n\n- Another old standby. Swim freestyle one arm at a time. Take a stroke with the right and touch your left arm that is out in front of the body. Then take your pull with the left hand. Be sure that you are not rushing. Get as much out of each arm stroke that you can. Remember, freestyle is not of stroke of constant propulsion. It is a pull with the left and then the right. It is important that we approach it this way.\n\nRecovery: 20 sec rest\n\nInterval 4: 200m of Side-Glide-Kick Drill\n\n- Push off the wall on your side and kick for eight kicks. Keep your ear on your arm and your body straight. Make sure your knees are passing one another when you kick. After eight kicks, take a good pull with the arm on top. Use this pull to roll you to the other side and repeat the cycle. For variation do this drill with three strokes in between. I.e. on the right side with the right arm up and the left arm at your side. Take a pull with the right, left, and then right. End with your left arm up and your right arm at your side. This will help your body position in the water and if you keep your head on your arm when you are on your side it will help your head position when you breathe.\n\nRecovery: 20-sec rest\n\nInterval 5: 200m of Corkscrew Swim\n\n- This is done by alternating one stroke of freestyle and one stroke of backstroke. This repetition makes you roll over and around from front to back repeatedly, thus \u0022corkscrewing.\u201D This is useful because most of us will want to cross our bodies when we roll from our back to our stomach. Fight this and try to take perfect midline strokes over and over.\n\nRecovery: 20-sec rest\n\nInterval 6: 200m Pull\n\n- This set eliminates the use of your legs to focus on your catch and pull. Squeeze a pull buoy between your legs to keep your hips afloat and body in the correct orientation.\n- While the back of the hand always faces the direction of travel and the elbow remains the highest point of the stroke, your leading hand spears the water and the Catch phase is initiated by obtaining a grasp on the water while reaching forward. This first phase is not about producing power, rather, it sets you up for the Pull and Push Phases. Imagine pulling yourself over a barrel. Hold as much water as possible while pulling, then pushing the water back to your thigh keeping the hand on the inside on the elbow. Your stroke should accelerate as you progress through the Pull and Push Phases. There is a subtle S formation that occurs during the phases, starting with the Pull Phase just above the shoulder and continuing through the Push Phase until your hand exits the water to begin the recovery phase. Always imagine a line dividing your body lengthwise, with your left arm staying on the left side and your right arm staying on the right side. Crossover will result in additional drag and unwanted sway in the lower body.\n\nRecovery: 20-sec rest\n\nRepeat until full swim time is completed as directed by your training plan\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1750m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 12,
+            "intensityFactor": 0.4
+          },
+          "workoutId": "oA5AlMHAEA",
+          "contentId": "een8IfBWVb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 30",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "RCbVa2QJmE",
+          "contentId": "8My1kzRLAo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Full Body 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.19555555555555557,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 5,
+            "intensityFactor": 0.49
+          },
+          "workoutId": "oysCVNFmCC",
+          "contentId": "u9SW542leT",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Chest \u0026 Shoulder Strength",
+          "style": null,
+          "compatibility": 100,
+          "description": "This yoga sequence is designed to strengthen the upper body, targeting the shoulders, chest, triceps, and core. It\u0027s an ideal routine to practice in the morning or before a workout to activate muscles throughout the body. The intensity can be increased by lifting the knees during push-ups, providing a challenge to work towards.\n\n\u200B\n\nThe objectives are to strengthen the shoulders, chest, triceps, and core, practice synchronizing breath and movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- Triceps Push-Ups\n- Plank\n- Child\n- Downward Dog\n- Puppy\n- Chest Stretch\n- Triceps Stretch\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "4tA5QEtbiJ",
+          "contentId": "qIK6s5azwj",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Aerobic Swim 60",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an easy, fun, and unstructured swim designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2.\n\n\u200B\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm-Up**\n\n100m stroke of your choice @ RPE 3 -- Z1\n\nRecovery: 15 seconds rest\n\n100m Kicking @ RPE 5 -- Z3\n\nRecovery: 15 seconds rest\n\n\u200B\n\n**Main Effort**\n\nSteady swim @ RPE 3-4 -- Z2 for the duration of the workout as specified by your training plan.\n\nUse pace clock to ensure lap times are remaining consistent.\n\nCount strokes every 5 laps to ensure that your form is not deteriorating.\n\nPractice your sighting at least once every 100m.\n\n\u200B\n\n**Cool Down**\n\n200m Pull @ RPE 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2500m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 42,
+            "intensityFactor": 0.65
+          },
+          "workoutId": "eGJNUinB1C",
+          "contentId": "t36WK6pbfA",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Flexor and Groin Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we release the hip flexors and groin and stretch the hamstrings and calves. It\u0027s a great session to do after a workout or in the evening to prevent and alleviate lower back pain.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2525,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "DyCuarVW0N",
+          "contentId": "atFlT6FCPH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Cash Register",
+          "style": null,
+          "compatibility": 100,
+          "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5380555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 4,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "HSb6Gc8uIZ",
+          "contentId": "6LnpmGMTMG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic with Pickups",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n5 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Main Effort:**\n\nNumber of Sets: 1\n\nInterval Repeats Per set: 5\n\nInterval Effort: 30 second acceleration from RPE 4-8 -- 120% of RTP up to 90% of RTP (Z2-Z4)\n\nRecovery: 4 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Extra Volume:**\n\nNA\n\n\u200B\n\n**Cool Down:**\n\nEnd your workout with 5 minutes of easy jogging (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "8Ce1ZR8iFp",
+          "contentId": "YyHYX1LzHl",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Foot \u0026 Ankle Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this restorative sequence, the focus is on mobilizing the toes, feet, and ankles, stretching the calves and hamstrings, and opening up the hips. The session begins with a calming breathing technique, followed by a simple foot massage to introduce movement from the toes up to the heel. With increased range of motion, the routine progresses to gentle, dynamic stretches for the calves, hamstrings, and hips. Since feet are often neglected and subjected to high demands from activities like running or cycling, practicing this sequence at least once a week helps to rebalance and address this issue.\n\n\u200B\n\nThe objectives are to improve mobility in the feet and ankles, stretch the calves and hamstrings, and open up the hips.\n\n\u200B\n\n**Poses in this session:**\n\n- Easy Seat\n- Box Breathing\n- Foot Massage\n- Downward Dog\n- Screaming Toe\n- Yoga Squat\n- Ankle Stretch\n- Ankle Mobilisations\n- Windscreen Wipers\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24222222222222223,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "RfCxOR2lCW",
+          "contentId": "kpBvyaQBlH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Swim Focus 1",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The Swim Focus Sessions combine fundamental core and posterior chain exercises with additional attention on shoulder stability and upper body strength. We\u2019ve also included essential lower body moves to build leg strength and full body coordination. Even though these workouts are designed for swimming, anyone looking for a full-body workout can get a boost from these sessions especially if you need a bit more upper body strength in your routine._\n\n\u200B\n\n_Sessions 1-4 follow a gradual progression with increased set times and more demanding exercise combinations. Swim Focus -Travel is designed to go with you on the road, requiring almost no equipment at all. We recommend that you start with Swim Focus 1 and master all of the movements before advancing._\n\n\u200B\n\nIn **Swim Focus 1** we introduce you to foundational moves. Master them as you\u2019ll see these exercises throughout the program. As you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for quality execution down the road. Exercises include:\n\n- Shoulder Rolls\n- Hip Hinge\n- Standing Knee lift\n- Diagonal Straight Arm Raise\n- External Shoulder Rotation w/band\n- Fire Hydrant\n- Low Plank with Lat Pull w/band\n- Back Extension\n- Narrow Pushup\n- Streamline Lunge Front Alt.\n- Swim Strokes w/Band\n- Split Stance Hip Hinges\n- 45\u00B0 Reverse Fly w/ Reps\n- 90\u00B0 Reverse Fly w/ Reps\n- Wide Pushup\n- Kick on Side\n- Oblique Leg Lifts\n- Pushup w/ Rotation\n- Low Plank w/ Toe Tap\n- Frog Stretch\n- Pigeon Stretch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.30694444444444446,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "2Q3KD8UGmn",
+          "contentId": "EwzPSFBtSd",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "# Getting Away With It (November Groundwork Challenge)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nWouldn\u0027t it be great if you could leave work to go for a ride? Even for an hour? Well, now\u0027s your chance. _Getting Away With It_ gets you out of the office and onto the roads of the French Pyrenees with your guide Michael Cotty of The Col Collective.\n\n\u200B\n\nThis is a great session to add toward the end of a training block. The shorter duration, sub-threshold efforts are fantastic for getting some extra FTP building while you are in a fatigued state. Extra emphasis on cadence stresses your nervous system, making your body more efficient at higher and lower RPMs while improving your form. The Neuromuscular training you get from this session is fantastic, so while your power never exceeds threshold, your body will learn to bring more energy to the pedals at all intensities.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.74,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 4
+            },
+            "tss": 45,
+            "intensityFactor": 0.78
+          },
+          "workoutId": "ZF95hVWWkr",
+          "contentId": "P2T4sgv1yX",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "The One For Your Hips",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "dgMZ96oEct",
+          "contentId": "3m7Kj2oYyG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 45",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 45 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "tvV3J76Z7l",
+          "contentId": "yvcdSYNPIG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Technique C",
+          "style": null,
+          "compatibility": 100,
+          "description": "In case you need to brush up on your swimming [technique definitions or drills](https://wahoosystm.com/HelpCenterSwimDrills).\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\nGood swimming technique is the key to efficient swimming. Today\u0027s session is a low intensity workout that challenges you with a series of drills designed to reinforce proper technique that will make you a more efficient, powerful and faster swimmer.\n\n\u200B\n\n**Warm-Up**\n\n200m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 25m Drill of your choice\n\nThe goal of a Drill set is not to swim at any given pace, but instead focus on proper form. Choose a drill or focus on one of these key points for each 25m interval:\n\n- \\*Body position- swim on horizontal plane\n- \\*Enter in front of shoulder- preventing cross over\n- \\*Breathe early- prevent wide stroke- elbow is always widest point\n- \\*Elbow is always the highest point of the stroke\n- \\*Back of hand always faces direction of travel\n- \\*Fingers to point at the bottom of pool\n- \\*Initiate your stroke from the hips\n\nRecovery: 10-sec rest\n\n\u200B\n\n**Activation 2**\n\nNumber of Sets: 1\n\nInterval Distance: 100m kick @ RPE 3-4 -- Z2\n\n- This drill requires you to only use your legs for propulsion. Face the sky with your arms extended above your head, biceps squeezing your ears. Kick from the hips with straight legs, toes just breaking the surface of the water. When you see the flags above your head, flip onto your belly so you don\u0027t hit the wall. Make note if there are no flags at your pool before doing this drill so you can look for another sign that the wall is near.\n\nRecovery: 20-sec rest\n\n\u200B\n\n**Activation 3**\n\nNumber of Sets: 1\n\nInterval Distance: 100m Pull @ RPE 3-4 -- Z2\n\n- This set eliminates the use of your legs to focus on your catch and pull. Squeeze a pull buoy between your legs to keep your hips afloat and body in the correct orientation.\n- While the back of the hand always faces the direction of travel and the elbow remains the highest point of the stroke, your leading hand spears the water and the Catch phase is initiated by obtaining a grasp on the water while reaching forward. This first phase is not about producing power, rather, it sets you up for the Pull and Push Phases. Imagine pulling yourself over a barrel. Hold as much water as possible while pulling, then pushing the water back to your thigh keeping the hand on the inside on the elbow. Your stroke should accelerate as you progress through the Pull and Push Phases. There is a subtle S formation that occurs during the phases, starting with the Pull Phase just above the shoulder and continuing through the Push Phase until your hand exits the water to begin the recovery phase. Always imagine a line dividing your body lengthwise, with your left arm staying on the left side and your right arm staying on the right side. Crossover will result in additional drag and unwanted sway in the lower body.\n\nRecovery: 20-sec rest\n\n\u200B\n\n**Main Set**\n\nComplete at least six of the drills that you struggle the most with. Aim for 150-200m of each one. The only way to get better is to work on your weaknesses! So be honest with yourself and pick the drills you have the hardest time with.\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2000m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 19,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "q9IFGbUPp4",
+          "contentId": "Uq1DR3Zohq",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Recovery Run",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.2
+          },
+          "workoutId": "NSFBYpA28h",
+          "contentId": "ixGIERsp4a",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Full Body 01",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nThis is the first routine in the Full Body series. It introduces the most basic versions of moves that make up the majority of this program. Some of these moves may seem very basic but we encourage you to focus on perfect form and execution during these early levels so that when we turn up the heat you have things nailed. As you\u0027ll see, all the exercises at the lower levels will progress in a similar fashion going forward. We\u0027re building strength, but also fine-tuning your nervous system. As the program progresses you\u0027ll be asked to complete more difficult variations on each foundational move.\n\n\u200B\n\nAs with all the strength training routines, it helps if you\u2019ve done a warm-up before getting started. That can be one of your favorite yoga routines, riding your bike on the trainer for 5-10 minutes, or doing a personal stretching routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Goblet Squat\n- Single-Leg Squat\n- Backward Lunge\n- Hip Hinge with Reach\n- Hip Bridge with Reps\n- Push-Up on Knees\n- Back Extension\n- Quadruped with Leg Lifts\n- Plank with Leg Lifts\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.20916666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 5,
+            "intensityFactor": 0.49
+          },
+          "workoutId": "QZ177ROg7C",
+          "contentId": "pqcw0IeBqc",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Thoracic Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve thoracic and shoulder mobility, open up the chest and stretch the lats, shoulders, triceps, calves, and hamstrings to improve posture, facilitate better breathing and help to alleviate upper back, interscapular, and neck pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25305555555555553,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "7FPfLK1ush",
+          "contentId": "AOYWfGpB6z",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Swimming",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "Technique A",
+          "style": null,
+          "compatibility": 100,
+          "description": "In case you need to brush up on your other [technique definitions or drills](https://wahoosystm.com/HelpCenterSwimDrills).\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\nGood swimming technique is the key to efficient swimming. Today\u0027s session is a low intensity workout that challenges you with a series of drills designed to reinforce proper technique that will make you a more efficient, powerful and faster swimmer.\n\n\u200B\n\n**Warm-Up**\n\n200m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 25m Drill of choice\n\nThe goal of a Drill set is not to swim at any given pace, but instead focus on proper form. Choose a drill or focus on one of these key points for each 25m interval:\n\n- \\*Body position- swim on horizontal plane\n- \\*Enter in front of shoulder- preventing cross over\n- \\*Breathe early- prevent wide stroke- elbow is always widest point\n- \\*Elbow is always the highest point of the stroke\n- \\*Back of hand always faces direction of travel\n- \\*Fingers to point at the bottom of pool\n- \\*Initiate your stroke from the hips\n\nRecovery: 10 seconds rest\n\n\u200B\n\n**Activation 2**\n\nNumber of Sets: 1\n\nInterval Distance:\n\n200m Pull @ RPE 3-4 -- Z2\n\n- This set eliminates the use of your legs. It requires a buoy that you can swim with between your legs. The buoy will keep your body in the correct orientation. By removing your legs from the drill you will be required to only use your arms. This will help you focus on efficient form and making the most of each stroke!\n\nRecovery: 20 seconds rest\n\n\u200B\n\n**Main Effort**\n\nThe following should all be done at a moderate pace (RPE 2-4 -- Z1-Z2), with enough rest between that you can focus on proper form\n\nInterval 1: 150m of One Arm Freestyle drill\n\n- This is an old standby. Put your non-pulling arm out in front of your body and swim with only the opposite arm. Take some time to watch the arm that is pulling. Feel your elbow directly above your hand and that you are pulling right down the midline of your body. Split your body in half with your fingertips. Your emphasis should be on power and efficiency not on speed.\n- See how few strokes you can take to get down the pool.\n- Once you have it mastered, you can leave the non-pulling arm at your side.\n\nRecovery: 20-sec rest\n\nInterval 2: 200m of 3/4 Catch Up drill\n\n- A variation to catch-up that takes us closer to the full stroke. Another way to describe this is almost catch-up. Take a stroke with the right hand, wait until this hand is almost all the way through recovery and then start your pull with the left. This creates a very rhythmic feel, almost like skating through the water. Take your pull and ride the glide from it. When you lose speed, take your next pull. Want a good example of this? Watch Olympic replays of the Aussies, particularly Ian Thorpe. He races like this drill. Efficiency is your goal.\n\nRecovery: 20-sec rest\n\nInterval 3: 200m of Elbow-Hip-Elbow drill\n\n- A variation on side glide kick. The same goals apply balance, body roll, and head position during breathing. Start on either side with one arm extended out front, and the other at your side. With the fingers of the hand at your side, touch the elbow of your upper arm, then your hip, and then the elbow again. Now take your stroke or three strokes. Kick and glide and repeat.\n\nRecovery: 20-sec rest\n\nInterval 4: 150m of Fist Drill\n\n- Swim freestyle with your hands in fists. This is going to force you to get your forearms involved in the stroke because they have more surface area than your hands. Keep your elbow high under the water. Your forearm, from elbow to fingertips should be perpendicular to the bottom of the pool. Again, watch Ian Thorpe. You will feel like you are slipping through the water which is normal, however, the more water you feel like you are pulling the more efficient you are getting.\n\nRecovery: 20-sec rest\n\nInterval 5: 200m of Zipper Drill\n\n- This drill is done by pulling the fingers up the side of the body until they come into the armpit. The point of this is to keep a nice high elbow on recovery and to force the body to roll. Many use the Fingertip drag drill to accomplish this but we prefer this drill because the body roll essentially gives this drill a dual purpose.\n\nRecovery: 20-sec rest\n\nRepeat until full swim time is completed\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1600m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 19,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "78sRao8nrj",
+          "contentId": "JiS1UvEPGG",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Ruta Chingaza",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2020): In February, legendary ultra-endurance cyclist Lael Wilcox, Joe Cruz, and filmmaker Rugile Kaladyte traveled to the Colombian capital, in partnership with Conservation International, Wahoo, and Bikepacking.com to launch the Bikepacking for Conservation Program. The project was designed to explore and scout a bikepacking route that would connect the bustling metropolis of Bogota, Colombia with rural communities and the Chingaza National Park. The resulting route \u2014 Ruta Chingaza \u2014 will help cyclists connect to nature and better understand the ecosystems upon which life and livelihoods in this area depend.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. Intensity is low, with power remaining at or below 50% of FTP (2.5 on a scale from 1 to 10) with heart rate targets entirely in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5752777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 12,
+            "intensityFactor": 0.46
+          },
+          "workoutId": "5jKjnMyGq3",
+          "contentId": "8O9dFBGSA4",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "type": "Yoga",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Balance and Agility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Maintaining effective cycling form when you\u0027re under pressure requires substantial balance, coordination, agility, and core strength. This series will develop those capabilities so you can put down the power when it really matters.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "ZidZ9JbiZ9",
+          "contentId": "HaefDVYuNo",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "3 x 200",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\n300m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 2\n\nInterval Distance: 75m kick @ RPE 5 -- Z3\n\nRecovery: 10s rest\n\n**Activation 2**\n\nNumber of Sets: 3\n\nInterval Distance: 50m Build @ RPE 5-7 -- Z3-Z4a\n\nRecovery: 40s rest\n\n\u200B\n\n**Main Effort**\n\n200m Starting @ RPE 5-- Z3 increasing to RPE 8.5 -- Z5 over full distance\n\nRecovery: 90 seconds rest\n\n200m @ RPE 8.5 -- Z5\n\nRecovery: 90 seconds rest\n\n200m Starting @ RPE 7 --Z4a increasing to RPE 8.5 -- Z5 over full distance\n\nRecovery: 60 seconds rest\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1400m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "QQgb78go9N",
+          "contentId": "BYL71YXXTH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Recovery Session A",
+          "style": null,
+          "compatibility": 100,
+          "description": "These recovery sessions are easy enough that you get the rest you need, but work you hard enough that your body continues to adapt to the new demands you place on it. You might see these sessions as too short and too easy to be beneficial, but just like a proper recovery spin, active recovery is infinitely better than doing nothing at all. Given how short this session is, we strongly recommend also doing a Yoga Session in the app first. Something like Mobilize and Activate, Balance and Agility, or Full Body Mobilization.\n\n\u200B\n\n**Exercises Included**\n\n- Kneeling Hip Drive with Hands Up\n- Kneeling Hip Drive with Hands to Side\n- High Plank\n- Plank\n- Hip Bridge\n- Bent Leg Tip at the Hip\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands to Side\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.1527777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 4,
+            "intensityFactor": 0.49
+          },
+          "workoutId": "nMQ6N6Z53n",
+          "contentId": "4uE2aDnuo6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Yoga",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Morning Yoga Routine",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25305555555555553,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "3dSiDxhXEJ",
+          "contentId": "4dDcfXlQIK",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 30",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "RCbVa2QJmE",
+          "contentId": "8My1kzRLAo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Full Circle",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2021): From filmmaker / ultra-endurance cyclist Mike Cotty:\n\n\u200B\n\n\u0022For many of us, cycling serves as a means of self-exploration\u2014bridging gaps between the past, present and future. The blend between mind and body, working together to overcome hard moments\u2014be it physical, mental or emotional\u2014and how we learn to cope in our own mind is essential in being able to process the past, be true to ourselves in the present, and create moments of inner peace in the future.\n\n\u200B\n\nA decade after crossing the French Pyr\u00E9n\u00E9es non-stop on a ride that would act as a catalyst for change, I wanted to share this story for the first time. To give an insight into the deeper meaning behind some of the mountain challenges you may have seen me undertake over the years, I felt now was the time to head back to my mountains, return to source, and embrace the unknown.\n\n\u200B\n\nOvercoming the mountains of our mind, from escapism to reconnection. 10 years, 10 cols and 10,000 meters of climbing. This is my story of going Full Circle.\n\n\u200B\n\nThank you for watching. I truly hope there is something in this video that can help you in your own journey.\n\n\u200B\n\nPeace,\n\nMike Cotty\u0022\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session, which is a very low-intensity ride. It\u0027s so easy that your power remains at or below 50% of FTP or an RPE less than 2.5, and your heart rate stays in zone 1 the entire time. The intensity and cadence targets will vary throughout this session to keep it interesting (But not so interesting that you can\u0027t pay attention to the film).\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3675,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 8,
+            "intensityFactor": 0.48
+          },
+          "workoutId": "UqXDIVqe0v",
+          "contentId": "BXI1FC1oHr",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Full Body 04",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time. We recommend you warm up before starting this routine._\n\n\u200B\n\nBy now, you should be well on your way to mastering the foundation moves with perfect form. So let\u2019s mix things up a bit and add further variations in order to keep challenging you. We\u0027ll also increase the duration of a few sets since your endurance has increased already.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Fast Lateral Lunges with Knees Up\n- Single-Leg Squat with Reach\n- Forward Lunge\n- Lateral Lunge with Opposite Hand\n- Lateral Lunge with Same Hand\n- Squat with Wide Stance\n- Hip Hinge with Opposite Reach\n- Plank with Alternate Arm Reach\n- Quadruped with Arm Raise\n- Side Plank with Hip Raise\n- Side Plank with Hip Drop\n- Frog Crunch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2791666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 7,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "ot8xwadBPC",
+          "contentId": "3sMaUSWtBL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 60",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 60 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "zddJD9fu8z",
+          "contentId": "WEhIpACFzU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring and Calf Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "QBNTvavBD6",
+          "contentId": "4p7ig7MAZV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Neck and Upper Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "f8BdieRHEZ",
+          "contentId": "YuKMLjzZJ6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "London-Edinburgh-London",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2016): London Edinburgh London follows a group of cyclists from around the world on a remarkable feat of endurance. Join their ride up the length of Britain - from London to Edinburgh and back again - in under five days. Traveling over 1400km, a continuous distance far further than most of them had ever ridden before, our unlikely and eccentric heroes are not only tested physically but face the mental challenge, \u0022can I push myself further? Can I go one more day?\u0022.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9088888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 32,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "u3Zi4ltMFp",
+          "contentId": "9SXTIEdocd",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Swim Focus 2",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The Swim Focus Sessions combine fundamental core and posterior chain exercises with additional attention on shoulder stability and upper body strength. We\u2019ve also included essential lower body moves to build leg strength and full body coordination. Even though these workouts are designed for swimming, anyone looking for a full-body workout can get a boost from these sessions especially if you need a bit more upper body strength in your routine._\n\n\u200B\n\n_Sessions 1-4 follow a gradual progression with increased set times and more demanding exercise combinations. Swim Focus -Travel is designed to go with you on the road, requiring almost no equipment at all. We recommend that you start with Swim Focus 1 and master all of the movements before advancing._\n\n\u200B\n\nIn Swim Focus 2 we add variations to the foundational moves from Swim Focus 1 (you\u2019ve mastered them, right?). The modifications will challenge you, as will the increased duration of a few sets -- such as the push ups -- so you can complete a few more reps. Exercises include:\n\n- Shoulder Rolls\n- Hip Hinge\n- Standing Knee w/hold\n- Diagonal Straight Arm Raise w/band\n- External Rotation w/band\n- Low Side Plank w/abduction\n- Low Plank with Lat Pull\n- Prone Opposite Arm and Leg Raises\n- Narrow Pushup\n- Streamline Lunge\n- Swim Strokes w/Band\n- Split Stance Hip Hinges\n- 45\u00B0 Reverse Fly w/ Reps\n- 90\u00B0 Reverse Fly w/ Reps\n- Wide Pushup\n- Kick on Side\n- Oblique Leg Lifts\n- Pushup w/ Rotation\n- Low Plank w/ Toe Taps alternating\n- Frog Stretch\n- Pigeon Stretch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.35944444444444446,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 20,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "CBYFUpOIem",
+          "contentId": "xPHiZB0Y13",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Tempo/FTP Progressive Build",
+          "style": null,
+          "compatibility": 100,
+          "description": "This 32-minute long session is about increasing the intensity of your effort in a two steps forward, one step back approach. You can use this session to build your sustained endurance, or even use it as a long warm-up with relatively gradual increase in intensity to get ready for something even harder. Any way you ride this workout, you\u0027ll be building great endurance capacity!\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 38,
+            "intensityFactor": 0.84
+          },
+          "workoutId": "eMiDZPrp9d",
+          "contentId": "Lft9eRpHlY",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "type": "Cycling",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Igniter",
+          "style": null,
+          "compatibility": 100,
+          "description": "A highly tuned machine needs its engine warmed up in order to produce the most power as efficiently as possible. Igniter is based on the highly successful warm-up session developed by British Cycling and used by Team Sky as part of their \u0027marginal gains\u0027 program. You\u0027ll go through a series of progressive efforts before hitting a couple of high-intensity/high-cadence sprints. You\u0027ll emerge ready to CRUSH EVERYTHING BEFORE YOU! This workout is perfect before major events, in conjunction with our Extra Shot workout, or to extend your regular session.\n\n\u200B\n\n**LEARN MORE**\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.34444444444444444,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 18,
+            "intensityFactor": 0.72
+          },
+          "workoutId": "SGds3SC613",
+          "contentId": "UXI3fmF5Hx",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Balance \u0026 Mobility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This balance sequence is excellent for training balance and proprioception, while also improving overall mobility, particularly in the spine and hips. It provides a challenging workout for the quads and glutes, making it a great choice for the morning or before a workout.\n\n\u200B\n\nThe objectives include improving balance, proprioception, and body awareness; strengthening the knees, quads, and glutes; opening up the hips and chest; enhancing mobility in the spine; boosting focus and concentration; and practicing diaphragmatic, nasal breathing.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- High Lunge with Chest Opener\n- Flying Lunge\n- Warrior 3 with Chest Opener\n- Chair Pose Twists\n- Revolved Side Angle\n- Awkward Pose\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "1eA1ddZHlX",
+          "contentId": "6qiszCL911",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Strides \u0026 Drills",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is a technique-focused session designed to develop your agility, stability, range of motion, and foot speed. There is no focus on heart rate zones so you may choose to leave your monitor at home for these sessions. Between sets of each drill, you should jog/walk easily to fully recover between the efforts. While these efforts shouldn\u2019t be too taxing on you, the key is perfect form, so you want to be hitting each one rested enough that you can maintain great form for the duration. You should take a bit of extra rest between techniques, again to ensure you are rested and can nail the form. Before starting the workout, familiarize yourself with the format for high knees, butt kicks, skipping, carioca and strides. Find a flat track, field, or 50-100m of open space to perform this workout (football and soccer fields are great for this).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-up:**\n\nStart off with 5-10 minutes of easy jogging/walking.\n\nHigh Knees: 2-3 sets of 50m high knees.\n\nEasy jog/walk for 30-60 seconds between.\n\n- Take short strides, bringing your knees up high enough that your upper legs are parallel to the ground. Focus on achieving high knees AND quick turnover, or performing as many reps as possible in a short distance.\n\n**Butt Kicks:**\n\n2-3 sets of 50m butt kicks.\n\nEasy jog/walk for 30-60 seconds between.\n\n- This should actually look similar to a high knee drill, but with the heels coming up to touch the bottom of your butt. Take short strides while using your hamstrings to lift your heels up beneath your butt. Your knees should come up in front of your body while pulling your heels up beneath your hips, rather than keeping your quads and knees below and in line with your hips.\n\n**Skipping:**\n\n3-4 sets of 50m skipping.\n\nEasy jog/walk for 30-60 seconds between.\n\n- Focus on a high knee drive and swinging your arms at your sides like you would when running.\n\n**Carioca:**\n\n4 sets of 30m Carioca in each direction (8 total).\n\nRest for 20 seconds between direction changes (at your discretion).\n\n- For this drill, you need to face sidewise to the direction you want to go. Start off moving to the right. Bring your left knee up and across your body and put your left foot in front of your right foot. Step your right foot to the right so it is parallel with your left leg again (at this point you should be positioned in the same direction and orientation that you were at the start. Next step your left leg behind your right leg, again so it lands on the right side of your right leg. Then bring your right leg back across your body, once again ending up in the starting position. Repeat this pattern for 25-30m.\n\n**Strides:**\n\n2-3 sets of 60m; Gradually build effort from RPE 3-8.\n\nEasy jog/walk for 30-60 seconds between. These are comprised of a steady acceleration over 60-80m up to 5k pace. The goal is to increase speed after each step, so you are reaching maximum speed at the end of the 60-80m stretch. You want to focus on keeping your shoulders, neck, and jaw relaxed while maintaining strong knee drive, straight and compact arm swing, planting the feet beneath the hips, and fast turnover.\n\n\u200B\n\nHigh Knees \u002B Butt Kicks:\n\nFinish these drills with one set each of 50m high knees and butt kicks.\n\n\u200B\n\n**Cool-down:**\n\nWalk or jog for 5 minutes to cool down.\n\nIn case you need to brush up on your running [drills](https://wahoosystm.com/RunningSessionFAQ)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "TfKQjysBHT",
+          "contentId": "berlHpGqZJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Strength",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Recovery Session B",
+          "style": null,
+          "compatibility": 100,
+          "description": "This session is designed to keep your body familiar with the basic movements of strength training without adding any extra fatigue to your system. This keeps your body adapted while allowing it to fully recover. To make the most out of your strength gains, you need to balance the hard work with adequate recovery. Given how short this session is, we strongly recommend completing a supplementary Yoga Session after this video. Something like Improving Posture, Shake Off the Day or Recovery Booster would be perfect.\n\n\u200B\n\n**Exercises Included**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- High Plank to Pigeon Pose\n- Plank with Leg Lifts\n- Hip Bridge with Reps\n- Fast Lateral Lunges with Knees Up\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands Side to Side\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.15416666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 4,
+            "intensityFactor": 0.49
+          },
+          "workoutId": "4y8mNDongj",
+          "contentId": "c3M0tQQKmK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Recovery Run",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.2
+          },
+          "workoutId": "NSFBYpA28h",
+          "contentId": "ixGIERsp4a",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6011111111111112,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 20,
+            "intensityFactor": 0.62
+          },
+          "workoutId": "rUrrfvb8ii",
+          "contentId": "p6E2zIaYNZ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "type": "Swimming",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "Swimming",
+          "name": "10 x 75 Descending",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warmup:**\n\n400m @ RPE 3 -- Z2\n\n15s rest\n\n100m kick on side @ RPE 4 -- Z2 (change sides each 25m)\n\n15s rest\n\n4 x 50m (drill 25m \u002B swim 25m) @ RPE 3 -- Z2\n\n15s rest\n\n\u200B\n\n**Activation**\n\n4 x 50m, build RPE 3 -- Z2 building to RPE 9 -- Z5\n\nRecovery: 20s between each\n\n\u200B\n\n**Main Effort**\n\n6 x 75m @ RPE 5 -- Z3 (10 sec rest)\n\n3 x 75m @ RPE 7 -- Z4a (20 sec rest)\n\n1 x 75m @ RPE 10 -- Z6 all out! (30 sec rest)\n\n\u200B\n\n**Cool down**\n\n100m @ RPE 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1750m\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 54,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "",
+          "contentId": "DfQjYs5UcY",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 30",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "RCbVa2QJmE",
+          "contentId": "8My1kzRLAo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Primers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7252777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 42,
+            "intensityFactor": 0.76
+          },
+          "workoutId": "ZH40tnQwpo",
+          "contentId": "J4Qiw1pvbL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "type": "Yoga",
+      "rank": 100,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Mobilize and Activate",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get out of your habitual movement patterns and get ready to take on the day with this activation session. You\u0027ll flow through a series of standing yoga poses to simultaneously challenge your strength, flexibility, and range of motion, leaving you feeling energized.\n\n\n\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "rMUOJd9xoe",
+          "contentId": "fNDMdroP16",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Half Monty (Ramp Test)",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Half Monty: The Easy One.**\n\n\u200B\n\nWe recommend this fitness test for:\n\n- Newer riders\n- Athletes with limited experience pacing maximal efforts / fitness testing.\n- Those who are mid-plan or who just want to get a sense of where their fitness is.\n\nThe _Half Monty_ 4DP fitness test is the most accurate and complete ramp test available. While it\u0027s not as comprehensive or as accurate as our main fitness test, _Full Frontal_, it\u0027s far more approachable and easier to pace for new riders. It also doesn\u0027t require any special preparation. You just need to feel relatively fresh.\n\n\u200B\n\nBased on more than a year of research (and after dozens of lab tests and thousands of online tests) and using sophisticated analysis of power and heart rate data, _Half Monty_ is far more accurate and comprehensive than standard ramp tests.\n\n\u200B\n\nIt also tells you more about who you are as an athlete. _Half Monty_ provides you with your FTP, Maximal Aerobic Power (MAP), and Cycling Threshold Heart Rate (cTHR), all of which we use to personalize your workout targets.\n\n\u200B\n\nIf you\u0027re still using the 4DP estimates when you set up your account, _Half Monty_ will also refine your AC and NM estimates (but will not do so if you\u0027ve done _Full Frontal_ or manually adjusted your estimates). If you want fully accurate AC and NM, as well as your Rider Type, Strengths, Weaknesses, and training plans adjusted to those Strengths and Weaknesses, you\u0027ll need to expose yourself to the _Full Frontal_ 4DP fitness test.\n\n\u200B\n\nReady to climb the ramp? You\u0027ll need the following before you start:\n\n- A heart rate monitor if you want the most accurate results. Don\u0027t have one? Order one [HERE](https://wahoofitness.com/devices)\n- Some kind of power device connected (trainer, power meter, virtual power, etc.)\n- Be ready to pay close attention to the instructions in the workout\n- Be sure your profile is complete and up-to-date (Profile \u003E About You). Accurate information helps us make our calculations\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9666666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 5,
+              "ftp": 3
+            },
+            "tss": 71,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "0SmbqUIZZo",
+          "contentId": "OIJSfIrGTL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hips and Hamstrings",
+          "style": null,
+          "compatibility": 100,
+          "description": "This routine is designed to open up the hips\u2014the hip flexors, rotators, and glutes\u2014and stretch the hamstrings. The session guides you through a series of lunges and finishes with Lizard and Pigeon pose. You can practice it in the morning, before or after a ride. Experiment to see what works best for you.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23805555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "uHWcKoFx7e",
+          "contentId": "GJP5mghoHP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Recovery Run",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.2
+          },
+          "workoutId": "NSFBYpA28h",
+          "contentId": "ixGIERsp4a",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

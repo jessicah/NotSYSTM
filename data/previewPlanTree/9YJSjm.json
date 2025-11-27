@@ -1,0 +1,30 @@
+{
+  "uid": "9YJSjm",
+  "name": "12 weeks",
+  "description": "One short session per day for 12 wks. This is the perfect addition to a 12 wk cycling plan.",
+  "stepTitle": "Mobility \u0026 Stability 12 week - Daily",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ApkTABYpHz",
+      "name": "Mobility \u0026 Stability - 12 week-7x week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ApkTABYpHz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

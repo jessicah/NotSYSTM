@@ -1,0 +1,466 @@
+{
+  "previewPlan": [
+    {
+      "id": "LBfbMPKOpK",
+      "name": "Mileage Builder 1",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Building up from 1-7 miles \n",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2025-01-13T22:37:29.259Z",
+      "updatedAt": "2025-01-13T22:47:54.713Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RunWalk 10 ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RunWalk 10",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(1:1) 14  ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(1:1) 14  ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(1:1) 14  ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(2:1) 15  ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RunWalk 10",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RunWalk 10",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(1:1) 20   ",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(2:1) 21",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(2:1) 21",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(3:1) 16",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(2:1) 21",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(3:1) 16",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(3:1) 24",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(2:1) 30",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 38,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "Recovery Run",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3333333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 1,
+                "intensityFactor": 0.2
+              },
+              "workoutId": "NSFBYpA28h",
+              "contentId": "ixGIERsp4a",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Run-Walk(3:1) 32",
+              "style": null,
+              "compatibility": null,
+              "description": "",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

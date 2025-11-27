@@ -1,0 +1,74 @@
+{
+  "uid": "V8ZdtS",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "a2g28M",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "MTB 100 mile",
+      "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "1JyrrHJDrH",
+          "name": "MTB 100 mile - Season Prep - Low Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "1JyrrHJDrH",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "hLBIBk",
+      "name": "No",
+      "description": null,
+      "stepTitle": "MTB 100 Mile",
+      "stepDescription": "Season Prep - Low Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "6i9cRRoxfL",
+          "name": "MTB 100 mile - Season Prep - Low Volume - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "6i9cRRoxfL",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

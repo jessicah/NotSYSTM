@@ -1,0 +1,685 @@
+{
+  "uid": "AZWMKu",
+  "name": "Yoga",
+  "description": "Build strength, flexibility, and balance while helping speed recovery.",
+  "stepTitle": "Yoga Experience ",
+  "stepDescription": "",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "An7b61",
+      "name": "Excited to improve",
+      "description": null,
+      "stepTitle": "Sessions per week",
+      "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "JbiZNK",
+          "name": "2 Sessions/Week",
+          "description": "About 30 minutes per week",
+          "stepTitle": "Novice Yoga - 2 sessions per week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "eYoof7",
+              "name": "Beginner Yoga - 2 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "qyEHtYpkzR",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "7K6Udf",
+          "name": "4 Sessions/Week",
+          "description": "About 1 hour per week",
+          "stepTitle": "Novice Yoga - 4 sessions per week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "5I1njN60Pn",
+              "name": "Beginner Yoga - 4 Sessions/week (clone)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "5I1njN60Pn",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "hTlDaP",
+          "name": "7 Sessions/Week",
+          "description": "About 2 hours per week",
+          "stepTitle": "Novice Yoga - 7 sessions per week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "j0OEBSGMZy",
+              "name": "Beginner Yoga - 6-7 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "j0OEBSGMZy",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "z1XLtY",
+      "name": "Enthusiast",
+      "description": null,
+      "stepTitle": "Sessions per week",
+      "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "hGhdpY",
+          "name": "2 Sessions/Week",
+          "description": "About 30 minutes per week",
+          "stepTitle": "Intermediate Yoga - 2 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VrQmCWGPXw",
+              "name": "Intermediate Yoga - 2 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "VrQmCWGPXw",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "EuSY7e",
+          "name": "4 Sessions/Week",
+          "description": "About 1 hour per week",
+          "stepTitle": "Intermediate Yoga - 4 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "aLDBXQxE9S",
+              "name": "Intermediate Yoga - 7 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "aLDBXQxE9S",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "BxWoEr",
+          "name": "7 Sessions/Week",
+          "description": "About 2 hours per week",
+          "stepTitle": "Intermediate Yoga - 7 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "BJsHKtp85y",
+              "name": "Intermediate Yoga - 4 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "BJsHKtp85y",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "u5k7tw",
+      "name": "Expert",
+      "description": null,
+      "stepTitle": "Sessions per week",
+      "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "7rrFPn",
+          "name": "2 Sessions/Week",
+          "description": "About 30 minutes per week",
+          "stepTitle": "Expert Yoga - 2 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ELhPlLLynu",
+              "name": "Advanced Yoga - 2 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ELhPlLLynu",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "QNfJzj",
+          "name": "4 Sessions/Week",
+          "description": "About 1 hour per week",
+          "stepTitle": "Expert Yoga - 4 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "f5aKeDaf6F",
+              "name": "Advanced Yoga - 4 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "f5aKeDaf6F",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "0GaVFy",
+          "name": "7 Sessions/Week",
+          "description": "About 2 hours per week",
+          "stepTitle": "Expert Yoga - 7 Sessions/Week",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "z4aV8ziwYP",
+              "name": "Advanced Yoga - 7 Sessions/week",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "z4aV8ziwYP",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "6bqrkm",
+      "name": "8 weeks",
+      "description": null,
+      "stepTitle": "Recent Yoga Experience ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FfiWe4",
+          "name": "12 weeks ",
+          "description": null,
+          "stepTitle": "Recent Yoga Experience ",
+          "stepDescription": "How would you describe your yoga ability?",
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "aVRdWV",
+              "name": "Excited to improve",
+              "description": "You haven\u0027t yet mastered any intermediate yoga sessions",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "S9xHKP",
+                  "name": "1-2",
+                  "description": null,
+                  "stepTitle": "3-month yoga build up plan 1-2/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "ijT1oZ",
+                  "name": "2-3",
+                  "description": "",
+                  "stepTitle": "3-month yoga build up plan 23/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "Z3dN1h",
+                  "name": "3-5",
+                  "description": "",
+                  "stepTitle": "3-month yoga build up plan 3-5/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "1kzW82",
+              "name": "Enthusiast ",
+              "description": "You have recently completed intermediate yoga sessions",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Jfd6j9",
+                  "name": "1-2",
+                  "description": null,
+                  "stepTitle": "12 week yoga plan 1-2/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "Dgjx3W",
+                  "name": "2-4",
+                  "description": null,
+                  "stepTitle": "12 week yoga plan 2-4/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "Jd0QgP",
+                  "name": "4-6",
+                  "description": null,
+                  "stepTitle": "12 week yoga plan 4-6/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "T8Xt8L",
+              "name": "Expert ",
+              "description": "You have recently completed advanced yoga sessions ",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "zDkKsi",
+                  "name": "2-3",
+                  "description": null,
+                  "stepTitle": "12 week Expert Yoga Plan 1-2/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "9cpI8m",
+                  "name": "3-5",
+                  "description": null,
+                  "stepTitle": "12 week Expert Yoga Plan 2-4/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "GJmECX",
+                  "name": "5-7",
+                  "description": null,
+                  "stepTitle": "12 week Expert Yoga Plan 4-6/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "JxmkI3",
+          "name": "4 weeks",
+          "description": "",
+          "stepTitle": "What duration of plan are you looking for?",
+          "stepDescription": "",
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "7nCBky",
+          "name": "Expert",
+          "description": "You have recently completed advanced yoga sessions ",
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "lWsWUn",
+              "name": "2-3",
+              "description": null,
+              "stepTitle": "8 week Expert Yoga Plan 2-3/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "GYc1h3",
+              "name": "3-5",
+              "description": null,
+              "stepTitle": "8 week Expert Yoga Plan 3-5/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "lDvust",
+              "name": "5-7",
+              "description": null,
+              "stepTitle": "8 week Expert Yoga Plan 5-7/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "PxmjEz",
+          "name": "Excited to improve",
+          "description": "You haven\u0027t yet mastered any intermediate yoga sessions",
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ZnrzWt",
+              "name": "1-2",
+              "description": null,
+              "stepTitle": "8 week yoga build up plan 1-2/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "KHAOcP",
+              "name": "2-3",
+              "description": null,
+              "stepTitle": "8 week yoga build up plan 2-3/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "xqtdIW",
+              "name": "3-5",
+              "description": null,
+              "stepTitle": "8 week yoga build up plan 3-5/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "8QDA2j",
+          "name": "Enthusiast",
+          "description": "You have recently completed intermediate yoga sessions",
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "mULSl7",
+              "name": "1-2",
+              "description": null,
+              "stepTitle": "8 week yoga plan 1-2/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "L3yCIv",
+              "name": "2-4",
+              "description": null,
+              "stepTitle": "8 week yoga plan 2-4/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "psak44",
+              "name": "4-6",
+              "description": null,
+              "stepTitle": "8 week yoga plan 4-6/wk",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

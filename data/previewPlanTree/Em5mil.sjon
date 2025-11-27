@@ -1,0 +1,30 @@
+{
+  "uid": "Em5mil",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Sprint Distance ",
+  "stepDescription": "Sprint Distance - Low Volume  - 3:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Yz1al90C8a",
+      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Low Volume/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Yz1al90C8a",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

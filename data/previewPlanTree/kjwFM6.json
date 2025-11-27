@@ -1,0 +1,164 @@
+{
+  "uid": "kjwFM6",
+  "name": "2:1",
+  "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+  "stepTitle": "Level",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "51cFqU",
+      "name": "1",
+      "description": null,
+      "stepTitle": "Strength Level 1",
+      "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "kEH0AAjpkY",
+          "name": "Dirt Strength: Level 1 - 2:1 -12 wks stand alone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "kEH0AAjpkY",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "NlGsVB",
+      "name": "2",
+      "description": null,
+      "stepTitle": "Strength Level 2",
+      "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "eqgSpyLYCr",
+          "name": "Dirt Strength: Level 2 - 2:1 -12 wks stand alone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "eqgSpyLYCr",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "8uJnaA",
+      "name": "3",
+      "description": null,
+      "stepTitle": "Strength Level 3",
+      "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ZkDXa6AhkL",
+          "name": "Dirt Strength: Level 3 - 2:1 -12 wks stand alone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ZkDXa6AhkL",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "ZXR1FZ",
+      "name": "4",
+      "description": null,
+      "stepTitle": "Strength Level 4",
+      "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "5ZdS4El2JK",
+          "name": "Dirt Strength: Level 4 - 2:1 -12 wks stand alone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5ZdS4El2JK",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "Q9zhUl",
+      "name": "5",
+      "description": null,
+      "stepTitle": "Strength Level 5",
+      "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "kKtDUxA3dm",
+          "name": "Dirt Strength: Level 5 - 2:1 -12 wks stand alone ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "kKtDUxA3dm",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

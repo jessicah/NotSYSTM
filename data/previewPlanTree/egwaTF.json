@@ -1,0 +1,74 @@
+{
+  "uid": "egwaTF",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "LkwzoP",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "Cyclocross",
+      "stepDescription": "Cyclocross - Moderate Volume - 2:1 - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "CT8RJ3kqAS",
+          "name": "Off-Road CX: In-Season 2:1 Med Volume w/Strength (Sun Race)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "CT8RJ3kqAS",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "y7J9pR",
+      "name": "No",
+      "description": null,
+      "stepTitle": "Cyclocross",
+      "stepDescription": "Moderate Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PfYI8LDP7f",
+          "name": "Off-Road CX: In-Season 2:1 Medium Volume (Sat Race)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PfYI8LDP7f",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

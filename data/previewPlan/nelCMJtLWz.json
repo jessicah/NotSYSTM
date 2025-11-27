@@ -1,0 +1,726 @@
+{
+  "previewPlan": [
+    {
+      "id": "nelCMJtLWz",
+      "name": "Go Beyond FTP: Tempo",
+      "weakness": "NoWeakness",
+      "grouping": "Go Beyond FTP",
+      "category": "Special Focus",
+      "subcategory": "4 week block",
+      "description": "**Unlock your full potential to TEMPO:**\n\n\u200B\n\nBuild your stamina for sustained high-intensity efforts in long climbs and **TEMPO** by boosting your maximal aerobic power.\n",
+      "planDescription": "Go Beyond FTP",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2024-08-08T14:12:04.195Z",
+      "updatedAt": "2025-05-19T16:55:06.385Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 211,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Joyride",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is all about Max Aerobic Power (MAP), also known as VO2 max training. MAP refers to the maximum rate of oxygen delivery and uptake by your body and is an important metric in the world of endurance sports. During this 30-minute session, you\u2019ll be doing five MAP targeted intervals. The first is 3 minutes long, and each successive interval gets 30 seconds shorter until you end with a final effort of \u201Cjust\u201D 60 seconds. The structure of each interval varies to keep you on your toes, some with increases in power, some with decreases.\n\n\u200B\n\nThe cadence targets for this session are generally going to be a little higher than \u201Ccomfortable\u201D for most people \u2013 and for a very specific reason. We want to maximize the cardiovascular stress of this session rather than loading up your muscular system. But don\u2019t worry, you\u2019ll still feel it in your muscles \u2013 likely all of them.\n\n\u200B\n\nTo keep the total stress of this shorter session fairly high, you\u2019re going to have _just enough_ recovery between each effort, but nothing extra \u2013 so don\u2019t let the short duration fool you into thinking this is going to be easy. On the contrary, you might find this to be one of the more challenging\u2014and productive\u2014sessions in our library. Now, go out there and get that stage win!\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4955555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 41,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "chHELM8JKk",
+              "contentId": "VzRlM4hvkg",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP Progression 1: 2 Sets 8 x 30/15",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the first of a series of workouts designed to help you accumulate time at MAP. In simple terms, this session is a classic tabata style workout where the \u0027work\u0027 interval is twice the length of the \u0027recovery\u0027 intervals. As the first in this MAP progression series you have 2 sets of 8 intervals that are 30 seconds long with 15 seconds of recovery in between.\n\n\u200B\n\nThis workout is a great intro into higher intensity sessions and should get your heart rate up but not overload you.\n\nHow will this session progress with future NoVids? Each new session will add more repeats, or more sets or both. By the 5th level you\u0027ll be up to 3 sets of 14 repeats.\n\n\u200B\n\nFind out more about how to apply these sessions to your training [here](https://wahoox.forum.wahoofitness.com/t/new-novids-in-systm/22251).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 39,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "UgiLCQOv2r",
+              "contentId": "V3UCQWUItH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 214,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Rookie",
+              "style": null,
+              "compatibility": 100,
+              "description": "These race simulations steadily get harder and harder as the workout progresses, so don\u2019t be too keen to increase the intensity after the first 10-minute effort if it felt \u201Ctoo easy.\u201D Just wait. The pain will come.\n\n\u200B\n\nDuring each interval, you\u0027ll be ducking and diving right under and over threshold, forcing your body to churn through all the metabolites you\u0027re producing (that\u0027s the nasty stuff that the Painsuckers love so much). This is one of the best ways to improve your FTP without really overloading your system with too much training stress.\n\n\u200B\n\nThe final two intervals allow you to really charge over your threshold to unleash whatever power you have left in your legs. These two all-out bursts of power, in addition to the constant surges above threshold, means this session works your Anaerobic Capacity more than some of the other FTP-focused sessions.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8816666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 75,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "iPO62IOLa3",
+              "contentId": "54dYn0oExU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Strength",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "71DLIFZYsf",
+              "contentId": "3rHx3ISEtw",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Custom",
+          "rank": 213,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": " [BETA] Understanding 4DP pt.2: Anaerobic Capacity -AC (The Knowledge Podcast)",
+              "style": null,
+              "compatibility": 100,
+              "description": "[**Beta Feedback Thread**](https://forum.wahooligan.com/t/the-knowledge-workouts-beta/24072)\n\n\u200B\n\nIf you\u2019ve done the 1-minute test at the end of our 4DP fitness test, Full Frontal, you know what digging deep into your Anaerobic Capacity feels like. And you can think of your Anaerobic Capacity \u2014 your ability to attack, surge, close gaps\u2026and do those things over and over \u2014 like a battery. The bigger it is, and the faster you can recharge it, the faster and more powerful you will be. Neal and Mac explain what AC is about, why you need more of it, and which of the sessions in SYSTM will help you get it.\n\n\u200B\n\nThe Knowledge podcast by Wahoo is a science-based podcast focused on providing training information for endurance athletes. Hosted by sports scientists, it delves into various training topics, offering actionable insights and key takeaways.\n\n[**Find out more**](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.305,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 13,
+                "intensityFactor": 0.65
+              },
+              "workoutId": "kW3LD7DPtW",
+              "contentId": "ICoEKwHCrj",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 212,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Provence: Dentelles de Montmirail",
+              "style": null,
+              "compatibility": 100,
+              "description": "It might only be 16k long, but there\u0027s a lot packed in. Starting in the wine town of Beaumes-de-Venise, you\u0027ll head out on a rolling route that just demands a high effort and lots of little sprints. A solid Vo2 effort late in the ride makes this a fantastic workout, but it\u0027s the local culture and scenery that will really captivate you. From charming old villages, the smell of fresh bread, sing-a-longs, amazing caves, and vineyards you\u0027ll hardly have time to think about how hard you\u0027re working.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3929264625)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6683333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 49,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "4AWtnJR2Db",
+              "contentId": "ZBlMHfux3D",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP Progression 2: 2 Sets 11 x 30/15",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the second of a series of workouts designed to help you accumulate time at MAP. In simple terms, this session is a classic tabata style workout where the \u0027work\u0027 interval is twice the length of the \u0027recovery\u0027 intervals. As the second in this MAP progression series you have 2 sets of 11 intervals that are 30 seconds long with 15 seconds of recovery in between.\n\n\u200B\n\nThis workout is a great intro into higher intensity sessions and should get your heart rate up but not overload you.\n\nHow will this session progress with future NoVids? Each new session will add more repeats, or more sets or both. By the 5th level you\u0027ll be up to 3 sets of 14 repeats.\n\n\u200B\n\nFind out more about how to apply these sessions to your training [here](https://wahoox.forum.wahoofitness.com/t/new-novids-in-systm/22251).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.575,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 47,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "SS3wxweFoD",
+              "contentId": "IGHWvBXsFc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Cycling",
+          "rank": 209,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Nine Hammers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Sometimes you\u0027re the hammer. Sometimes you\u0027re the nail. And sometimes, you\u0027re getting both hammered and nailed. With a series of nine different intervals, all at or above threshold, this is one of the best Maximal Aerobic Power / VO2 sessions in The Sufferfest library. It isn\u2019t just the total amount of time spent above threshold, though.\n\n\u200B\n\nThis workout takes the training stress up a notch by giving you barely enough time to recover from the previous hammer before the next one falls. This ensures your Anaerobic Capacity gets a little boost as well.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9702777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 80,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "3QDoncjr5A",
+              "contentId": "TBn7DwOwEc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "type": "Strength",
+          "rank": 101,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nTo do this, we\u2019ll take you through a variety of contraction types: eccentric (lengthening), concentric (shortening), and isometric (holding a position). The result? Improved core strength, stability, and endurance. You\u0027ll find exercises that carry over into other areas of your body, but all of the moves have a significant impact on your core. Level 1 is ideal for very beginners. Even then, you may find some of these moves challenging if you have never attempted them. That\u2019s ok, take your time and pause the video if you need. Soon you\u2019ll be on your way to mastering your core potential. In addition to a mat, you\u0027ll need some open wall space for this routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Downward Dog\n- Quadruped T-Spine Rotation\n- Back Extension w/ opp arm \u0026 leg raise\n- Hamstring Hip Bridge\n- Oblique Leg Lifts\n- Quadruped w/ alternating arm raise\n- Quad w/ leg raises\n- Low Side Plank w/ toe-tap front/back\n- High Side Plank w/ Hold\n- Quad Toes w/ Alternate Arm Raise\n- Quadruped Pull In \u0026 Hold\n- Quadruped Push Out \u0026 Hold\n- Bird Dogs\n- Back Extension with Hold\n- Child\u0027s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.22,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 8,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "9UAvBgShTs",
+              "contentId": "olCJUDMFaS",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Cycling",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Revolver",
+              "style": null,
+              "compatibility": 100,
+              "description": "The simple idea of going hard for one minute and then easy for one minute, and then repeating, has been around since whatever evil genius realized that intervals were the best way to train. There is a reason this simple session has stuck around: it works.\n\n\u200B\n\n30 seconds into a high-intensity effort, enough of your anaerobic energy sources have been depleted that your body shifts to producing that power aerobically. Follow that effort with only 60 seconds of recovery, and your body hasn\u2019t fully replenished those anaerobic stores, meaning it will have to produce that power aerobically after just 25 seconds.\n\n\u200B\n\nWith a total of just 15 (cough, cough) efforts, you will have not only forced your body to replenish its Anaerobic Capacity (AC) over and over, but you\u0027ve just spent several minutes producing lots of power with lots of oxygen. That combination ensures this session hits both your Maximal Aerobic Power (MAP) and AC with just the right stress they need to start increasing.\n\n\u200B\n\n_Revolver has recently been remastered (Aug \u002722) to include all new footage and music. The workout has a longer warm-up than previous editions._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8208333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 1
+                },
+                "tss": 63,
+                "intensityFactor": 0.93
+              },
+              "workoutId": "3e8ekr1Ff9",
+              "contentId": "xjx8cV9fzM",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "type": "Cycling",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP Progression 3: 3 Sets 8 x 30/15",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the third of a series of workouts designed to help you accumulate time at MAP. In simple terms, this session is a classic tabata style workout where the \u0027work\u0027 interval is twice the length of the \u0027recovery\u0027 intervals. As the third in this MAP progression series you have 3 sets of 8 intervals that are 30 seconds long with 15 seconds of recovery in between.\n\n\u200B\n\nHow will this session progress with future NoVids? Each new session will add more repeats, or more sets or both. By the 5th level you\u0027ll be up to 3 sets of 14 repeats.\n\n\u200B\n\nFind out more about how to apply these sessions to your training [here](https://wahoox.forum.wahoofitness.com/t/new-novids-in-systm/22251).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 57,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "CDBQittEG7",
+              "contentId": "suhOApVXlr",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tasmania: Cygnet Coast Road",
+              "style": null,
+              "compatibility": 100,
+              "description": "The setting might be one of stunning tranquility, but this workout certainly isn\u0027t. We\u0027re down in far, far Southern Tasmania for a ride along one of the most stunning - but little known - roads in the region. Starting in the hamlet of Cradoc, we head south along the peninsula to the village of Cygnet. It\u0027s a rolling road with countless little \u0027kickers\u0027 that we\u0027re going to hit at maximum intensity in order to simulate a race or hard group ride. Along the way, we\u0027ll pop in to visit some of the most interesting characters who call this area home: a winemaker, an artist, and the founder of a famous cooking school.\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2927502558987635926)\n\n\u200B\n\n_About your host: Who better to show you around Tasmania than Nicole Frain? Raised in the north of the island, and currently living just outside Hobart, Nicole knows all the best places to spend your time on and off the bike. Known for her aggressive racing, the Parkhotel-Valkenberg professional won the 2022 Australian Elite Road Race Championship with a late attack and also finished second overall at the 2022 Tour Down Under. Good luck staying with her as she takes you through these workouts!_\n\n\u200B\n\nFeatured in this video:\n\n[Farmhouse Kitchen](https://www.thefarmhousekitchen-tas.com/)\n\n[Sailor Seeks Horse](https://sailorseekshorse.com.au/)\n\n[Matt Calvert](https://mattcalvert.com.au/)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 2
+                },
+                "tss": 67,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "70cUUDSGmd",
+              "contentId": "GrPqtWYuEp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "type": "Yoga",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Basic Yoga Poses",
+              "style": null,
+              "compatibility": 100,
+              "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "epMe0rWKe3",
+              "contentId": "qxs6YvzsoQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cadence Builds",
+              "style": null,
+              "compatibility": 100,
+              "description": "One of the best sessions for neuromuscular training, this drill asks you to progressively build from a cadence of 90 RPM to your MAX over 30 seconds, recover, and repeat several times. Cadence builds improve how you recruit your leg, gluteal, and core muscles throughout your pedal stroke by progressing to your maximal cadence. By reaching your highest cadence possible, you are training the \u0027on/off\u0027 switch in each muscle group to not only work faster but to have less overlap with your other muscle groups. This session trains your hamstring muscles to \u0027turn off\u0027 when your quads \u0027turn on\u0027 and vice-versa, resulting in a more efficient pedal stroke at both high and low cadences.\n\n\u200B\n\n**LEARN MORE**\n\nListen to The Knowledge podcast, by Wahoo Sports Science - The Benefits of High Cadence Training: [https://wahoosystm.com/BenefitsofHighCadence](https://wahoosystm.com/BenefitsofHighCadence)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5480555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 5,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 21,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "04BfbUGDMk",
+              "contentId": "n3WrizBr1g",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Adventure For All 2023",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2023): As one of Wahoo\u0027s close partners, Adventure For All\u0027s mission is to guide individuals with exceptionalities through life-changing adventures while creating innovative educational practices that ignite a shift in societal belief systems.Together we will guide individuals with exceptionalities through life-changing adventures while creating innovative educational practices that ignite a shift in societal belief systems.\n\n\u200B\n\n**Experience the Adirondacks:**\n\nJoin four exceptional athletes in the Adirondack mountains on the adventure of a lifetime. These athletes challenge themselves, conquer fears, and demonstrate their ability to overcome obstacles, proving to themselves and the world they can achieve anything.\n\n\u200B\n\n**Finish:**\n\nWitness Riley, a remarkable young man with Autism and Tourette\u0027s, as he pedals beyond expectations to conquer the challenging 31\u002B mile Big Sugar gravel bike race. This isn\u0027t just a story about cycling; it\u0027s a journey of courage, hope, and the shattering barriers. With the unwavering support of his mom and the dedicated team at Adventure For All, Riley\u0027s adventure redefines what\u0027s possible, turning every pedal stroke into a victory for him and everyone who believed in his endless potential.\n\n\u200B\n\n[**Find out more about Adventure For All**](https://adventureforall.org/)\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5466666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 23,
+                "intensityFactor": 0.65
+              },
+              "workoutId": "V5zohITfhI",
+              "contentId": "UhvP0tN6z6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": "Cycling",
+          "rank": 215,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Scratches",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2023): Scratches is not a film about ending a race, as much as it is about the start of it all\u2014the origin of cycling adventures for someone like Manu. This journey, in many ways, parallels the experiences of numerous individuals. Why do we need this kind of riding? Why do we crave this adventure? Rather than providing a generic answer, the film delves into Manu\u2019s relationship with cycling as a tool for freedom, exploration, meditation, and perhaps even therapy in some ways. The film unfolds in the Kirghiz mountains during the Silk Road Mountain Race in 2023, where Manu crashed and had to scratch. It then retraces its steps back in time and travels to other lands. Initially, the film was intended to be a video race recap, but it evolved into a love letter to freedom and movement. Eventually, it underwent another transformation, and Scratches is the result of a constantly evolving process in that regard.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.44555555555555554,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "cCkd6xctvk",
+              "contentId": "eEENMLaVkY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "type": "Strength",
+          "rank": 102,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "WNyRspyeha",
+              "contentId": "WSQ9YJ4yRy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

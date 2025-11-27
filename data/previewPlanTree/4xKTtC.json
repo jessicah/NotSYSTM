@@ -1,0 +1,74 @@
+{
+  "uid": "4xKTtC",
+  "name": "Mental",
+  "description": "Learn practical techniques to improve focus, set clear goals, and build a positive mindset.",
+  "stepTitle": "What are you looking for from your MT Plan?",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FW120H",
+      "name": "Complete Program",
+      "description": "The complete 10 week program as described in the MTP booklet",
+      "stepTitle": "Complete Mental Training Program ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "moKiHe",
+          "name": "MTP Full 10wk Plan - Booklet Plan",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Oz3y1f5YGZ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "DkxSvQ",
+      "name": "Event week Prep",
+      "description": "Just the event week prep session (for those who have previously completed all/most of the full program)",
+      "stepTitle": "Event Week Mental Training Sessions",
+      "stepDescription": "Get ready to crush!",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GyKoe6",
+          "name": "MTP Event Week ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "M9rE29CNNO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

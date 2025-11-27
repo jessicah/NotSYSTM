@@ -1,0 +1,1938 @@
+{
+  "id": "cRUNv4UxdF",
+  "name": "Beginner Yoga - 2:1 - 6 week  ",
+  "weakness": "NoWeakness",
+  "grouping": "Yoga",
+  "category": "AddOn",
+  "subcategory": "Beginner",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "Beginner",
+  "type": "Yoga",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": true,
+  "createdAt": "2021-12-01T17:31:26.012Z",
+  "updatedAt": "2024-12-31T16:08:25.705Z",
+  "version": "1.0.1",
+  "isAddOn": true,
+  "deleted": true,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 2,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "The One For Your Hips",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "dgMZ96oEct",
+          "contentId": "3m7Kj2oYyG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down I",
+          "style": null,
+          "compatibility": 100,
+          "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.051111111111111114,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 2,
+            "intensityFactor": 0.58
+          },
+          "workoutId": "hLcXP2jPr0",
+          "contentId": "rWHO846mKb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "End Of Day Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "GLN8bDnkTz",
+          "contentId": "IhB5vyASlP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OCJMECWC8T",
+          "contentId": "7SzgfoU2XU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down I",
+          "style": null,
+          "compatibility": 100,
+          "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.051111111111111114,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 2,
+            "intensityFactor": 0.58
+          },
+          "workoutId": "hLcXP2jPr0",
+          "contentId": "rWHO846mKb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring and Calf Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "QBNTvavBD6",
+          "contentId": "4p7ig7MAZV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down I",
+          "style": null,
+          "compatibility": 100,
+          "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.051111111111111114,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 2,
+            "intensityFactor": 0.58
+          },
+          "workoutId": "hLcXP2jPr0",
+          "contentId": "rWHO846mKb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Core Strengtheners I",
+          "style": null,
+          "compatibility": 100,
+          "description": "The power to to put watts to the pedals comes not just from your legs, but from your core. When your core is strong and stable, you can generate more power, more efficiently. You\u0027ll also suffer less back pain. With those goals in mind, this sequence strengthens the abs, obliques, and lower back.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25222222222222224,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "wu6ygmHzXa",
+          "contentId": "DZBCT270rn",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "The One For Your Hips",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24194444444444443,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "dgMZ96oEct",
+          "contentId": "3m7Kj2oYyG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Super Easy Stretch Routine II",
+          "style": null,
+          "compatibility": 100,
+          "description": "You\u0027ve just finished a difficult training session. You probably just want to curl up in a ball, but to make sure your body stays limber and flexible this sequence will stretch you out and open you up. You\u0027ll be ready to hit it again in no time.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23916666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "DDk1BF12pl",
+          "contentId": "x3DCCIYEnV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 47,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring and Calf Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "QBNTvavBD6",
+          "contentId": "4p7ig7MAZV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OCJMECWC8T",
+          "contentId": "7SzgfoU2XU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 55,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down II",
+          "style": null,
+          "compatibility": 100,
+          "description": "In 4-7-8 Breath your exhalations are twice as long as your inhalations. It\u0027s a therapeutic breathing technique that can help to reduce discomfort and calm your nervous system, especially when you\u0027re under pressure.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "n3edcqrK03",
+          "contentId": "zDGFFQHI8U",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 57,
+      "type": "Yoga",
+      "rank": 51,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Mobilize and Activate",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get out of your habitual movement patterns and get ready to take on the day with this activation session. You\u0027ll flow through a series of standing yoga poses to simultaneously challenge your strength, flexibility, and range of motion, leaving you feeling energized.\n\n\n\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "rMUOJd9xoe",
+          "contentId": "fNDMdroP16",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 60,
+      "type": "Yoga",
+      "rank": 152,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Upper Body Strength",
+          "style": null,
+          "compatibility": 100,
+          "description": "Those things you use to type and lift up your coffee cup? Yeah, those could be a bit stronger. So it\u0027s time to build strength in your upper body\u2014in the hands, wrists, arms, shoulders, chest, and core. It is based around Sun Salutation, a yoga sequence that builds strength, increases power, and improves endurance.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23694444444444446,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 23,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "VrTYkSB6ha",
+          "contentId": "ND4771Nnfe",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "type": "Yoga",
+      "rank": 150,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "type": "Yoga",
+      "rank": 303,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Side Bends",
+          "style": null,
+          "compatibility": 100,
+          "description": "If you\u0027re pushing yourself hard, it\u0027s likely you\u0027re getting stiff and sore all over. Side bends are one of my favorite ways to deal with general soreness. They\u0027re also perfect for cyclists who typically suffer from poor lateral flexibility.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "PvHKAMB04y",
+          "contentId": "uxHo78097o",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down II",
+          "style": null,
+          "compatibility": 100,
+          "description": "In 4-7-8 Breath your exhalations are twice as long as your inhalations. It\u0027s a therapeutic breathing technique that can help to reduce discomfort and calm your nervous system, especially when you\u0027re under pressure.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "n3edcqrK03",
+          "contentId": "zDGFFQHI8U",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "End Of Day Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "GLN8bDnkTz",
+          "contentId": "IhB5vyASlP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Openers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Seeing gains from the _Hip Openers_ session? This series will build on those gains, further loosening overworked and inflexible muscles in and around the hip joints.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "11G7tWXywV",
+          "contentId": "F17BkzPCQP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 72,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Super Easy Stretch Routine II",
+          "style": null,
+          "compatibility": 100,
+          "description": "You\u0027ve just finished a difficult training session. You probably just want to curl up in a ball, but to make sure your body stays limber and flexible this sequence will stretch you out and open you up. You\u0027ll be ready to hit it again in no time.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23916666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "DDk1BF12pl",
+          "contentId": "x3DCCIYEnV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 73,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 75,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OCJMECWC8T",
+          "contentId": "7SzgfoU2XU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Yoga for Travel",
+          "style": null,
+          "compatibility": 100,
+          "description": "If you\u0027re traveling and will be off your bike for some time, you might feel that all is lost. But we\u0027ve created a routine for travelers to keep you balanced, loose, and strong. Do this daily while on the road so you\u0027ll be in top condition when you can get back home.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2411111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "BWAK7Wr4Lr",
+          "contentId": "2CCiMrbROD",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down I",
+          "style": null,
+          "compatibility": 100,
+          "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.051111111111111114,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 2,
+            "intensityFactor": 0.58
+          },
+          "workoutId": "hLcXP2jPr0",
+          "contentId": "rWHO846mKb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 81,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "type": "Yoga",
+      "rank": 151,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "End Of Day Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "GLN8bDnkTz",
+          "contentId": "IhB5vyASlP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Mobilize and Activate",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get out of your habitual movement patterns and get ready to take on the day with this activation session. You\u0027ll flow through a series of standing yoga poses to simultaneously challenge your strength, flexibility, and range of motion, leaving you feeling energized.\n\n\n\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "rMUOJd9xoe",
+          "contentId": "fNDMdroP16",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hips and Hamstrings",
+          "style": null,
+          "compatibility": 100,
+          "description": "This routine is designed to open up the hips\u2014the hip flexors, rotators, and glutes\u2014and stretch the hamstrings. The session guides you through a series of lunges and finishes with Lizard and Pigeon pose. You can practice it in the morning, before or after a ride. Experiment to see what works best for you.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23805555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "uHWcKoFx7e",
+          "contentId": "GJP5mghoHP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 58,
+      "type": "Yoga",
+      "rank": 303,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip and Pelvis Stability",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Intermediate sequence, we strengthen the hips through their full range of motion and stabilize the pelvis to improve balance and reduce your risk of knee, IT band, and lower back injury. It\u0027s a great session to do in the morning or before a workout.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "9qYB2TlA5D",
+          "contentId": "qH1nUmABjc",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

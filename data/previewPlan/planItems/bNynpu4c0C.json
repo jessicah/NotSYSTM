@@ -1,0 +1,399 @@
+{
+  "id": "bNynpu4c0C",
+  "name": "Badge On Location",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "None",
+  "subcategory": "None",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": true,
+  "createdAt": "2021-09-29T19:13:04.865Z",
+  "updatedAt": "2023-09-12T17:10:35.07Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "French Pyrenees: Cirque de Gavarnie",
+          "style": null,
+          "compatibility": 100,
+          "description": "This ride finds you in the French Pyrenees to ride the gently climbing valley road up to the world-famous Cirque de Gavarnie. Starting in Luz-Saint-Sauveur, you\u0027ll work your way up the road with a series of low cadence strength work, some threshold work, and then a series of over/under efforts. As you ride, Mike will show you around the Bridge of Napolean III, the famous regional spit cakes, a river full of grain mills, and maybe even a bottle or two of the local craft beer.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3831540078)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8561111111111112,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 57,
+            "intensityFactor": 0.83
+          },
+          "workoutId": "gqo6m2o5Wb",
+          "contentId": "ClNYAUok1y",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Provence: Luberon",
+          "style": null,
+          "compatibility": 100,
+          "description": "If those are the Luberon mountains, we must be in Provence, France. Starting in the village of Roussillon, today\u0027s ride takes you some stunning scenery -- if you\u0027re able to notice through the series of short(ish), but intense, intervals. To take your mind off the effort, Mike gives you a geology lesson, shows you how the local energy bars are made, tells a rather gruesome love story, walks you down some rather narrow village paths, and explains what a \u0027dog drowning boat\u0027 is.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3914666714)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9161111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 5,
+              "ftp": 3
+            },
+            "tss": 82,
+            "intensityFactor": 0.95
+          },
+          "workoutId": "pjgMARxNf6",
+          "contentId": "9wDXB5eg9I",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "French Pyrenees: Cirque du Litor",
+          "style": null,
+          "compatibility": 100,
+          "description": "The Cirque du Litor is one of the absolute highlights of the French Pyrenees. This ride starts at the top of the Col du Soulour and, after a short downhill, steadily climbs up to the legendary Col d\u0027Aubisque. And, like the climb itself, we\u0027ll gradually increase the effort on the way up until we\u0027re at our limit by the top. Along the way, you\u0027ll try some world-class Pan au Chocolat, keep your eye out for eagles, dive into the local mining history, and relive an epic moment in Tour de France history.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3778593533)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5238888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 4
+            },
+            "tss": 33,
+            "intensityFactor": 0.81
+          },
+          "workoutId": "gNx2FQGTcV",
+          "contentId": "SjTO6Y0ANo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Galicia: Corcubi\u00F3n to Fisterra",
+          "style": null,
+          "compatibility": 100,
+          "description": "Welcome to Corcubi\u00F3n, a gorgeous seaside town in Galicia, Spain. This is where we\u2019ll start our 17k, 38mins ride along the coast while completing some over/unders, tempo and a tough little threshold level finish that\u2019s been used in the Vuelta d\u2019Espana. Along the way, your host, Michael Cotty, will take you through lush forests, over gravel roads and into the history and mythology of this ancient region. Be ready for some wind, some great stories and more than a few incredible views.\n\n\u200B\n\nIf you\u0027re looking for variety, this workout has got plenty of it and is a lovely little MAP builder as well as a solid session to improve your FTP.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7402424420)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6397222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 3
+            },
+            "tss": 41,
+            "intensityFactor": 0.84
+          },
+          "workoutId": "np2vQmVrBo",
+          "contentId": "qsTDVWJNud",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "French Pyrenees: Lac de Cap de Long",
+          "style": null,
+          "compatibility": 100,
+          "description": "Set in the heart of the Hautes-Pyr\u00E9n\u00E9es, this ride starts at Saint-Lary-Soulon and explores the sensational Route de Lac, finishing at the 2,160m summit of Lac de Cap de Long. The 22km climb is long, so we break it up into three sections for you. First, you\u0027ll have a nice long warm-up to ride into the village of Fabian. Once the proper climb starts, you\u0027ll ramp it up to a range between 70-90% threshold and hold it there. Toward the end, you\u0027ll start to work hard and finish off with an all-out assault on the summit. Along the way, you\u0027ll find out how the local wool is processed, how a network of ancient towers protected the region, why one house is covered in flowers, and what happened to all the local brown bears.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3778259865)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.4283333333333332,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 4
+            },
+            "tss": 84,
+            "intensityFactor": 0.79
+          },
+          "workoutId": "BWPONQigtv",
+          "contentId": "aYxjOzhSw1",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "French Pyrenees: Les Baronnies",
+          "style": null,
+          "compatibility": 100,
+          "description": "Covered with a web of tiny roads and small villages, the countless hills of Les Baronnies in the French Pyrenees is the setting for this On Location ride. During the 19.4k ride, you\u0027ll hit three climbs, including the \u0027corkscrew,\u0027 as you follow Mike through a set of intervals around threshold. Along the way, you\u0027ll visit a medieval dungeon tower, learn how 19th-century sawmills worked, drop in on a thermal bath and find out what the local monks make up during their free time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3785311489)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7027777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 48,
+            "intensityFactor": 0.84
+          },
+          "workoutId": "Wy0HeHpz7N",
+          "contentId": "FsowgwOQFz",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Galicia: Corcubi\u00F3n to Fisterra",
+          "style": null,
+          "compatibility": 100,
+          "description": "Welcome to Corcubi\u00F3n, a gorgeous seaside town in Galicia, Spain. This is where we\u2019ll start our 17k, 38mins ride along the coast while completing some over/unders, tempo and a tough little threshold level finish that\u2019s been used in the Vuelta d\u2019Espana. Along the way, your host, Michael Cotty, will take you through lush forests, over gravel roads and into the history and mythology of this ancient region. Be ready for some wind, some great stories and more than a few incredible views.\n\n\u200B\n\nIf you\u0027re looking for variety, this workout has got plenty of it and is a lovely little MAP builder as well as a solid session to improve your FTP.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7402424420)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6397222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 3
+            },
+            "tss": 41,
+            "intensityFactor": 0.84
+          },
+          "workoutId": "np2vQmVrBo",
+          "contentId": "qsTDVWJNud",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Provence: Alpilles",
+          "style": null,
+          "compatibility": 100,
+          "description": "Set in a gorgeous area of Provence, France, the Alpilles is a hilly area nestled beneath the shadow of Mt. Ventoux. This 33k ride takes you through olive groves, vineyards, and ancient Roman ruins as you bang out a structured workout based on two sets of over/unders and a final round of big sprints. Woven in there are a few high-cadence drills to really get those neuromuscular signals humming.\n\n\u200B\n\nAlong the way, Mike will explain how the Alpilles mountains were formed, you\u0027ll visit one of Vincent Van Gough\u0027s favorite retreats, find out why windmills never took off in such a windy region, and pop into a local olive oil maker to taste test some of their best.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3924836189)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.093611111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 3,
+              "map": 1,
+              "ftp": 4
+            },
+            "tss": 77,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "ILin4uPWUn",
+          "contentId": "2bndLNwWAX",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Provence: Gorges de la Nesque",
+          "style": null,
+          "compatibility": 100,
+          "description": "We\u0027re in Provence, France for a stunning 24k ride - and workout - along the Gorges de la Nesque. As you learn all about the local lavender, craft beer, how to make nougat, and why there are all those holes in the ground, Mike will take you through a series of sub-threshold cadence changes and big sprints before cooling down on the run-in to Monieux.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3930255146)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9080555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 2,
+              "ftp": 4
+            },
+            "tss": 56,
+            "intensityFactor": 0.79
+          },
+          "workoutId": "0z9fi8rlKE",
+          "contentId": "wjFNEGiSCO",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

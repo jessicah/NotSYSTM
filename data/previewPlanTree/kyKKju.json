@@ -1,0 +1,30 @@
+{
+  "uid": "kyKKju",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Marathon MTB",
+  "stepDescription": "Event - Low Volume - 2:1 ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "PlZF8F",
+      "name": "MTB Marathon Event 2:1 Low Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "HtBUbdxzT1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

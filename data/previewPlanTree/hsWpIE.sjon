@@ -1,0 +1,134 @@
+{
+  "uid": "hsWpIE",
+  "name": "5k",
+  "description": "",
+  "stepTitle": "What is your experience with the marathon distance?",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "86gXf7",
+      "name": "New/my first 5k ",
+      "description": "Never done a 5K before? This plan is designed to help you complete the distance.",
+      "stepTitle": "First 5K",
+      "stepDescription": "8 week plan 2-3 run per week ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "5kqTzQ",
+          "name": "5k Beginner ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "xGgxH7ehpo",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "0jidmu",
+      "name": "Beginner",
+      "description": "You\u2019ve run a 5K before but are still new to running. Build consistency and confidence.",
+      "stepTitle": "Beginner 5k",
+      "stepDescription": "12 week plan 3 runs per week ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PKXk9Z",
+          "name": "Couch to 5k",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "lLO7t2oHKl",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "gP52e9",
+      "name": "Intermediate",
+      "description": "Completed a few 5Ks? This plan focuses on improving your time and endurance.",
+      "stepTitle": "Intermediate 5k",
+      "stepDescription": "12 week plan 3 runs per week with 1 intense run per week ",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "7gS3J0FHZb",
+          "name": "Int 5k ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "7gS3J0FHZb",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "OV8l74",
+      "name": "Advanced",
+      "description": "Experienced runner? Push your limits and achieve peak performance.",
+      "stepTitle": "Advanced 5k",
+      "stepDescription": "12 week plan 3 runs per week with 1-3 intense runs per week ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "5OSHAFUqMN",
+          "name": "Adv 5k  (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5OSHAFUqMN",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

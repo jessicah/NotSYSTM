@@ -1,0 +1,30 @@
+{
+  "uid": "gP52e9",
+  "name": "Intermediate",
+  "description": "Completed a few 5Ks? This plan focuses on improving your time and endurance.",
+  "stepTitle": "Intermediate 5k",
+  "stepDescription": "12 week plan 3 runs per week with 1 intense run per week ",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "7gS3J0FHZb",
+      "name": "Int 5k ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "7gS3J0FHZb",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "Q9AmDQ",
+  "name": "55 Mile",
+  "description": null,
+  "stepTitle": "Etape Caledonia 55",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "hyy4FqBAVs",
+      "name": "Etape Caledonia 55",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "hyy4FqBAVs",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

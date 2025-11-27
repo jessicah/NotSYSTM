@@ -1,0 +1,74 @@
+{
+  "uid": "Ex6PXd",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "SB8EEy",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "All Purpose",
+      "stepDescription": "All Purpose - High Volume - 2:1 - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "87QOuoRFAQ",
+          "name": "All Purpose - High Volume - 2:1 - with Strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "87QOuoRFAQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "ld0gFl",
+      "name": "No",
+      "description": null,
+      "stepTitle": "All Purpose",
+      "stepDescription": "All Purpose - High Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "WyWcjYOsXI",
+          "name": "All Purpose - High Volume - 2:1  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "WyWcjYOsXI",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

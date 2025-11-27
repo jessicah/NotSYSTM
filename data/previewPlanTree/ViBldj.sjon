@@ -1,0 +1,194 @@
+{
+  "uid": "ViBldj",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Select which block you would like to apply",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "JSsIpN",
+      "name": "Block 1 (Weeks 1-4)",
+      "description": "",
+      "stepTitle": "Block 1 (Weeks 1-4)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "RMUPRHefMu",
+          "name": "Basic Training 3:1 - 8 wks",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "RMUPRHefMu",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "VfTJSJ",
+      "name": "Block 2 (Weeks 5-8)",
+      "description": "",
+      "stepTitle": "Block 2 (Weeks 5-8)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "UxkgcwotDU",
+          "name": "Basic Training 3:1 - 8 wks  (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "UxkgcwotDU",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "1rnPjR",
+      "name": "Block 3 (Weeks 8-12)",
+      "description": "",
+      "stepTitle": "Block 3 (Weeks 8-12)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "NWn63UancZ",
+          "name": "Basic Training 3:1 - 12 wks ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "NWn63UancZ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "8dVZMt",
+      "name": "Block 4 (Weeks 13-16)",
+      "description": "",
+      "stepTitle": "Block 4 (Weeks 13-16)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "JsitiQ0Gep",
+          "name": "Basic Training 3:1 - 16 wks ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "JsitiQ0Gep",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "NI1BNF",
+      "name": "Block 5 (Weeks 17-20)",
+      "description": "",
+      "stepTitle": "Block 5 (Weeks 17-20)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GFWqp2EgoQ",
+          "name": "Basic Training 3:1 - 21 wks ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "GFWqp2EgoQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "S2dLPu",
+      "name": "Block 6 (Weeks 21-24)",
+      "description": "",
+      "stepTitle": "Block 6 (Weeks 21-24)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Xintc6ZPrr",
+          "name": "Basic Training 3:1 - 24wks (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Xintc6ZPrr",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

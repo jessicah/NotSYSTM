@@ -1,0 +1,74 @@
+{
+  "uid": "NSUBdU",
+  "name": "Season - Transitions",
+  "description": "6 week plans - Dial down from this season or ramp it up to get ready for the next one.",
+  "stepTitle": "Up or Down",
+  "stepDescription": "For the next 6 weeks you want to:",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "tHSOBP",
+      "name": "Dial it Down ",
+      "description": "Post-season plans to help you recharge and reset.",
+      "stepTitle": "Transition",
+      "stepDescription": "Transition Plan - Dial it Down",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "vaU8Qr",
+          "name": "SYSTM Cycling - Transition Down ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "vGCcxdX9bO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "yIirwi",
+      "name": "Ramp it Up",
+      "description": "Designed to get you back into structured training.",
+      "stepTitle": "Transition Plan",
+      "stepDescription": "Transition Plan - Ramp it Up",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "v0PeUE",
+          "name": "SYSTM Cycling - Transition Up  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "v4pIoFMa4j",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

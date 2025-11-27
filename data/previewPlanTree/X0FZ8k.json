@@ -1,0 +1,2442 @@
+{
+  "uid": "X0FZ8k",
+  "name": "Race Prep",
+  "description": "When you have a race coming up in the next 12 weeks (16 weeks for a Full Distance Triathlon).",
+  "stepTitle": "Distance",
+  "stepDescription": "What distance is your event?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "DPh6dc",
+      "name": "Sprint Distance",
+      "description": "12 week plans - swim 750m, bike 20k, run 5k",
+      "stepTitle": "Volume",
+      "stepDescription": "Total hours of training per week across all three sports",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "dei6Iz",
+          "name": "Intro to Triathlon",
+          "description": "First timers plan",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "3sxKvI",
+              "name": "Yes",
+              "description": "Includes the appropriate amount of strength training",
+              "stepTitle": "Tri Intro",
+              "stepDescription": " Intro to Triathlon - 2:1 - Event Prep - strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bmAUI7CGyB",
+                  "name": "SYSTM Intro to Triathlon/2:1/Event/Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "bmAUI7CGyB",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "BbpYsR",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "Tri Intro ",
+              "stepDescription": "Intro to Triathlon - 2:1 - Event Prep",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "FEcNjD",
+                  "name": "SYSTM Intro to Triathlon/2:1/Event",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "2cHUnS3uIp",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "EcBCGo",
+          "name": "Low",
+          "description": "4-8 hours per week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "AAt8JQ",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bfKQRP",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Low Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "3sch7I",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "rWFFOoKUBb",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "SgW786",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Low Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "McVy76RzxJ",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/Low Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "McVy76RzxJ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "0MfxAc",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "nMaYXL",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance",
+                  "stepDescription": "Sprint Distance - Low Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "cwvS6k",
+                      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Ends on race day (clone)*DEC2020 Low volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "yeZIW1NNhY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Em5mil",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Low Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Yz1al90C8a",
+                      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Low Volume/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Yz1al90C8a",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "dUzOCJ",
+          "name": "Moderate ",
+          "description": "8-10 hours per week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "fwPHg5",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "NVNUsh",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Moderate Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "AWRaNh",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Med Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "2lEGomMgtG",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "akZEk8",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Moderate Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "cFx5SXVsOb",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Mod Volume/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "cFx5SXVsOb",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "eVt8LG",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "e4kOr9",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance",
+                  "stepDescription": "Sprint Distance - Moderate Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HuSiqeH0iH",
+                      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Ends on race day (clone)*DEC2020 Medium volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "HuSiqeH0iH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "UA8HWO",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - Moderate Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8CQGRkmxul",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/Moderate volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8CQGRkmxul",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "pVPelP",
+          "name": "High",
+          "description": "10-12 hours per week ",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "judBWZ",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "zSimwD",
+                  "name": "Yes",
+                  "description": " Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - High Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8oSa2h",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 High Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "A7CE40wGjj",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "m4IbFF",
+                  "name": "No",
+                  "description": "Does not include strength",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - High Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "GmnzlB",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/2:1/High Volume/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "pvt8virEk5",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "lHt2e0",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "9iafXT",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - High Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "G6Ue1vMzD4",
+                      "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Ends on race day (clone)*DEC2020 High volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "G6Ue1vMzD4",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "xTVLib",
+                  "name": "No",
+                  "description": "Does not include strength",
+                  "stepTitle": "Sprint Distance ",
+                  "stepDescription": "Sprint Distance - High Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "wJwQzmam4r",
+                      "name": "SYSTM Sprint Distance Triathlon Plan/High volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "wJwQzmam4r",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "1Zf7xf",
+      "name": "Olympic Distance",
+      "description": "12 week plans - swim 1.5km, bike 40km, run 10km",
+      "stepTitle": "Volume",
+      "stepDescription": "Total hours of training per week across all three sports",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "as8g9t",
+          "name": "Low",
+          "description": "4-8 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "aXNBeH",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "0vOSL5",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Low Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "IFGSQffSXN",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "IFGSQffSXN",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "3g7NbL",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Low Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "pkleEF0Rru",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/Low Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "pkleEF0Rru",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "ZLoQew",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week ",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "jd9PRR",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Low Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": false,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "hXntRIvw9K",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "hXntRIvw9K",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "o2OLRB",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Low Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1tIPfHYSBt",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/Low Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "1tIPfHYSBt",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "pa6KNy",
+          "name": "Moderate",
+          "description": "8-10 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Yy5xxg",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "s0RMvQ",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Moderate Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "7SWSUbi4kG",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Med Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "7SWSUbi4kG",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "t0BNHo",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Moderate Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "G69Yg9LU20",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/Mod Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "G69Yg9LU20",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "GcnmZ2",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "gMBA4j",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Moderate Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8ADy8lO0GZ",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Med Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8ADy8lO0GZ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "IHbxhi",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - Moderate Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "tvHguzQliQ",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/Mod Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "tvHguzQliQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "x0jd0b",
+          "name": "High",
+          "description": "10-12 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "FHTfXC",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "qpCGKP",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - High Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "VGUAPxoGQr",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "VGUAPxoGQr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "nNnQpv",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - High Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "kcgURBafXr",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/High Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "kcgURBafXr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "D1crFs",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "im54U1",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - High Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "xCMM0X",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/High Volume/3:1/Event with Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "uJ1x2jvWFL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "0wy07K",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Olympic Distance",
+                  "stepDescription": "Olympic Distance - High Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "vhLx64V0pN",
+                      "name": "SYSTM Olympic Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "vhLx64V0pN",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "3XGGK5",
+      "name": "Off-Road Triathlon",
+      "description": "12 week plans - swim 1.5km, mountain bike 30km, trail run 10km ",
+      "stepTitle": "Volume",
+      "stepDescription": "Total hours of training per week across all three sports",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3BJ97Q",
+          "name": "Low",
+          "description": "4-8 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "2O70cM",
+              "name": "2:1",
+              "description": "Two hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PxPuWZ",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": " Low Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "mfy5vu7VD3",
+                      "name": "SYSTM Xterra Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "mfy5vu7VD3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "eff5Kr",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Low Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "s2pALZk9ZD",
+                      "name": "SYSTM Off-Road Triathlon Plan/Low Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "s2pALZk9ZD",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "ZvYIfX",
+              "name": "3:1",
+              "description": "Three hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Whd57J",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Low Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "o319aXdJFM",
+                      "name": "SYSTM Xterra Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Low Volume (in progress)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "o319aXdJFM",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "7SZBp3",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Low Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "D2ZBwlTfA3",
+                      "name": "SYSTM Off-Road Triathlon Plan/Low Volume/3:1/Event (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "D2ZBwlTfA3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "uaOQeb",
+          "name": "Moderate",
+          "description": "8-10 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "34wXUg",
+              "name": "2:1",
+              "description": "Two hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "UbE4ay",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Moderate Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "35yvrHq3aX",
+                      "name": "SYSTM Off-Road Triathlon Plan/Mod Volume/2:1/Event/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "35yvrHq3aX",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Eoz8u9",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Moderate Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "dJrteLe0yJ",
+                      "name": "SYSTM Xterra Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Mod Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "dJrteLe0yJ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "Se0u6l",
+              "name": "3:1",
+              "description": "Three hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "xqVXL3",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": " Moderate Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8hz5ImgkTO",
+                      "name": "SYSTM Xterra Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Mod Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8hz5ImgkTO",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ZSgt0T",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "Moderate Volume - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "vKUNwto4vE",
+                      "name": "SYSTM Off-Road Triathlon Plan/Mod Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "vKUNwto4vE",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "rqOOpI",
+          "name": "High",
+          "description": "10-12 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "64N8Z5",
+              "name": "2:1",
+              "description": "Two hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "i615YH",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": " High Volume  - 2:1 - Event Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "juJUfaT6Lu",
+                      "name": "SYSTM Xterra Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Mod Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "juJUfaT6Lu",
+                        "typename": null
+                      },
+                      "hidden": false,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ciBH3G",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": " High Volume  - 2:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "P3FDM26pIK",
+                      "name": "SYSTM Off-Road Triathlon Plan/High Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "P3FDM26pIK",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "kIq39n",
+              "name": "3:1",
+              "description": "Three hard weeks followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "fPCFgS",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": "High Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "g8TwyblkEs",
+                      "name": "SYSTM Xterra Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 High Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "g8TwyblkEs",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "FJQ7z0",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Off-Road Triathlon",
+                  "stepDescription": " High Volume  - 3:1 - Event",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "E7qy64r6OF",
+                      "name": "SYSTM Off-Road Triathlon Plan/3:1/High Volume/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "E7qy64r6OF",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "nn8Gln",
+      "name": "Half Distance",
+      "description": "12 week plans - swim 1.9km, bike 90km, run 21.1km ",
+      "stepTitle": "Volume",
+      "stepDescription": "Total hours of training per week across all three sports",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "RZ0G3V",
+          "name": "Low",
+          "description": "5-9 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "WI2t12",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week ",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "dgkApB",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance ",
+                  "stepDescription": "Half Distance - Low Volume  -2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "zJq6VCviok",
+                      "name": "SYSTM Half Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Low Volume ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "zJq6VCviok",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "hDaV8d",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Low Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "nyoGM4Setf",
+                      "name": "SYSTM Half Distance Triathlon Plan/Low Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "nyoGM4Setf",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "8SrVsH",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bBN7dO",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Low Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "u3BqWK7TQa",
+                      "name": "SYSTM Half Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "u3BqWK7TQa",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Kij8GZ",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Low Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "gNZp7YFiU3",
+                      "name": "SYSTM Half Distance Triathlon Plan/Low Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "gNZp7YFiU3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "NJUbr5",
+          "name": "Moderate",
+          "description": "7-11 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "dhKRoL",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "lPuUzO",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Moderate Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ATzUkwNLn7",
+                      "name": "SYSTM Half Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ATzUkwNLn7",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Y83xKq",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Moderate Volume  - 2:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "S7MZGCA8VL",
+                      "name": "SYSTM Half Distance Triathlon Plan/Mod Volume /2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "S7MZGCA8VL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "EHgiNcr5Ao",
+                      "name": "Half Marathon - Intermediate ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "EHgiNcr5Ao",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "dZgGwS",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "F6dxhJ",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Moderate Volume - 3:1 - Event Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "E218BuY2fZ",
+                      "name": "SYSTM Half Distance Triathlon Plan/Mod Volume/3:1/Event/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "E218BuY2fZ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "jyPK0i",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - Moderate Volume  - 3:1 - Event  Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "6MgROsGTQK",
+                      "name": "SYSTM Half Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Mod Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "6MgROsGTQK",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "8lIDVQ",
+          "name": "High",
+          "description": "8-14 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "GDgMWN",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "72gn4d",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - High Volume  - 2:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "cAsM7l",
+                      "name": "SYSTM Half Distance Triathlon Plan/High Volume/2:1/Event/Strength",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "YsskEsD0vg",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "I2bbMS",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - High Volume  - 2:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "OwJ9MW2Om7",
+                      "name": "SYSTM Half Distance Triathlon Plan/High Volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "OwJ9MW2Om7",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "E5Hm1j",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "uy8UFj",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "Half Distance - High Volume  - 3:1 - Event  Prep - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HDOCPNHkuq",
+                      "name": "SYSTM Half Distance Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 High Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "HDOCPNHkuq",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "9By147",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Half Distance",
+                  "stepDescription": "High Volume  - 3:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8p5j9SzpFs",
+                      "name": "SYSTM Half Distance Triathlon Plan/High Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8p5j9SzpFs",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "WIghY1",
+      "name": "Full Distance (16-wk plan)",
+      "description": "16 week plans - swim 3.8km, bike 180.2km, run 42.2km",
+      "stepTitle": "Volume",
+      "stepDescription": "Total hours of training per week across all three sports",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "WXOjYT",
+          "name": "Moderate",
+          "description": "6-12 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "BZycME",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "HWXTwc",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - Moderate Volume  - 2:1 - Event  Prep - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "9PJJAo",
+                      "name": "SYSTM Full Distance Triathlon Plan/2:1/Ends on Race Day (clone)*DEC2020 Mod volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Awjl4qvhND",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "jZCKgD",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - Moderate Volume  - 2:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "2m3MVxnAP4",
+                      "name": "SYSTM Full Distance Triathlon Plan/Mod volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "2m3MVxnAP4",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "d8t5RU",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "g2oHgU",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - Moderate volume - 3:1 - Event Prep - strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "tPT5GhA4n6",
+                      "name": "SYSTM Full Distance Triathlon Plan/3:1/Ends on Race Day (clone)*DEC2020 Mod volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "tPT5GhA4n6",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "rDE6TC",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - Moderate volume - 3:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "KdhYRc2Gvz",
+                      "name": "SYSTM Full Distance Triathlon Plan/Mod volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "KdhYRc2Gvz",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "WIDD7v",
+          "name": "High",
+          "description": "12-20 hours/week",
+          "stepTitle": "Progression",
+          "stepDescription": "Weekly work to rest ratio",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "JaoNpz",
+              "name": "2:1",
+              "description": "Two weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bfoPc4",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - High Volume  - 2:1 - Event  Prep - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "xcdDJlxDK3",
+                      "name": "SYSTM Full Distance Triathlon Plan/2:1/Ends on Race Day (clone)*DEC2020 High volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "xcdDJlxDK3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "cyEaQW",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - High Volume  - 2:1 - Event Prep",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "cmC6go",
+                      "name": "SYSTM Full Distance Triathlon Plan/High volume/2:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "FOLkKY3huY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "uyLIep",
+              "name": "3:1",
+              "description": "Three weeks hard followed by 1 rest week",
+              "stepTitle": "Strength",
+              "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "J56Fyi",
+                  "name": "Yes",
+                  "description": "Includes the appropriate amount of strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Full Distance - High Volume  - 3:1 - Event  Prep - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "taSb3X",
+                      "name": "SYSTM Full Distance Triathlon Plan/3:1/High volume/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "AZCwDeB1EY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "vnyb0Q",
+                  "name": "No",
+                  "description": "Does not include strength training",
+                  "stepTitle": "Full Distance",
+                  "stepDescription": "Event - High Volume  - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "rkaP00",
+                      "name": "SYSTM Full Distance Triathlon Plan/High Volume/3:1/Event",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "OOM0oLQiAj",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

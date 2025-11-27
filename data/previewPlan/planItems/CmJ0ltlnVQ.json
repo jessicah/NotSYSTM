@@ -1,0 +1,276 @@
+{
+  "id": "CmJ0ltlnVQ",
+  "name": "Pre-Duathlon Plan Test Week",
+  "weakness": "NoWeakness",
+  "grouping": "Test Week",
+  "category": "None",
+  "subcategory": "None",
+  "description": "#### Duathlon Test Week\n\nThis is a stand-alone test week that is meant to be performed before beginning any of the duathlon training plans. Performing this test week before beginning your plan allows you to train with the most up to date metrics, while giving you more training time within your 12 week plan!\n\nApply this test week to your calendar to finish immediately before your duathlon plan begins. The first week of your training plan accounts for this testing with slightly reduced volume and intensity levels.\n",
+  "planDescription": "Duathlon Test Week",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Multisport",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-10-29T02:34:40.275Z",
+  "updatedAt": "2025-07-01T16:09:18.881Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6011111111111112,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 20,
+            "intensityFactor": 0.62
+          },
+          "workoutId": "rUrrfvb8ii",
+          "contentId": "p6E2zIaYNZ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Primers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7252777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 42,
+            "intensityFactor": 0.76
+          },
+          "workoutId": "ZH40tnQwpo",
+          "contentId": "J4Qiw1pvbL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Full Frontal (4DP Assessment)",
+          "style": null,
+          "compatibility": 100,
+          "description": "Full Frontal: The Complete One.\n\nWe recommend the Full Frontal 4DP fitness assessment for:\n\n- Experienced riders.\n- Athletes with experience pacing maximal efforts / fitness testing.\n- Those about to start\u2014or who have just finished\u2014a training plan.\n\nThis is our full 4DP fitness test and is the only test that exposes every aspect of your unique physiology in a single hour. Developed by Head of Wahoo Sports Science Coach Neal Henderson, Full Frontal uses the same lab-verified testing protocol that Coach Neal has used at the highest level for over a decade with professional and amateur athletes.\n\n\u200B\n\nThis test will provide you with a complete Four-Dimensional Power profile, identify your Rider Type, and tell you exactly what aspects of your fitness you need to focus on to become a more complete cyclist. More importantly, SYSTM will then use your results to set personalized power targets for all of your workouts based on your unique profile, resulting in the most precise, effective workouts available. Your results will also be used to tailor all of your training plans.\n\n\u200B\n\nWe recommend re-testing with Full Frontal every 8-12 weeks or as prescribed by your training plan.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9819444444444444,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 5,
+              "nm": 5,
+              "map": 5,
+              "ftp": 5
+            },
+            "tss": 83,
+            "intensityFactor": 0.92
+          },
+          "workoutId": "dRcyg09t6K",
+          "contentId": "XFMPELnuFo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Running",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Recovery Run",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.2
+          },
+          "workoutId": "NSFBYpA28h",
+          "contentId": "ixGIERsp4a",
+          "notes": "This can be, but is not meant to be a brick run. This is just a shake out to help flush some blood through the legs to help you recover faster.  \n",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Running Primers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Just like the Primers Cycling Video, this session is about getting your body prepped and ready to run your absolute best tomorrow. That means you either have a fitness test, race, or another intense intense workout tomorrow, so make sure to cool down properly and re-fuel after this session!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 3-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets 1\n\nRest Between Sets NA\n\nInterval Repeats Per set 4\n\nInterval Effort: 60sec Accelerations from RPE 4 up to RPE 8 --120% of RTP to 90-100% RTP -- HR 90\u002B % (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.4166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 2,
+              "ftp": 3
+            },
+            "tss": 30,
+            "intensityFactor": 0.8
+          },
+          "workoutId": "476GAGt6Bh",
+          "contentId": "GhzMC58ORp",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "5K Pace Test",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n5 minute build from RPE 2 to RPE 4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Accelerations**\n\nNumber of Sets 2\n\nRest Between Sets 60-90 seconds\n\nInterval Effort: 90sec Accelerations from RPE 4 up to RPE 7 (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n**Activation 2: Strides**\n\nNumber of Sets 4-6\n\nRest Between Sets: 1 min\n\nInterval Distance: 80m build\n\nInterval Effort: Gradual increase @ RPE 3-8 (Z2 building to Z4)\n\nRecovery: 30\u002B seconds @ RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\n5K Test If you aren\u2019t sure what pace you can sustain keep the RPE around 7 for the first 1500m, then build from that pace or keep it steady. Take note of your 1K splits to see if you are fading or building by the end. Record your time for the full 5k and average heart rate for the last 20 minutes. To calculate your running Lactate Threshold Heart Rate (LTHR), subtract 10bpm from the average HR of your last 20 minutes and add 15sec to your average kilometer splits to determine Running Threshold Pace (RTP).\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 81,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "bav8jnu7Mk",
+          "contentId": "Rq8gN9uEwh",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

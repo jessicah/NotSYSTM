@@ -1,0 +1,30 @@
+{
+  "uid": "3Vo3uc",
+  "name": "No",
+  "description": "Does not include triathlon specific strength training",
+  "stepTitle": "Full Distance",
+  "stepDescription": "Full Distance - High Volume  - 3:1 - Season Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "uNiOnT82br",
+      "name": "SYSTM Full Distance Triathlon Plan/3:1/High Volume/Season Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "uNiOnT82br",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

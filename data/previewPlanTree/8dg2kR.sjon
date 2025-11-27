@@ -1,0 +1,30 @@
+{
+  "uid": "8dg2kR",
+  "name": "Yes",
+  "description": "Would you like to incorporate Strength Training into your plan? ",
+  "stepTitle": "SBT Red Course",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "2S9eI4xjVI",
+      "name": "2025 SBT GRVL - Red Course - Moderate Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2S9eI4xjVI",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

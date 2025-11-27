@@ -1,0 +1,30 @@
+{
+  "uid": "QJhRct",
+  "name": "SYSTM Monthly Challenge",
+  "description": "December: End Game",
+  "stepTitle": "December: End Game",
+  "stepDescription": "December: End Game",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Z47EWm",
+      "name": "Wahoo X GRVL Challenge (June 2024 )",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "kb2gdaUZDw",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

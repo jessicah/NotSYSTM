@@ -1,0 +1,74 @@
+{
+  "uid": "wbyeKL",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "SAJeok",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "Sub-60 Gravel",
+      "stepDescription": "Moderate Volume - 2:1 - strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "r2UBhM4VvB",
+          "name": "Gravel 40-62 mile 2:1 Medium Volume w/Str 2 x wk",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "r2UBhM4VvB",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "lHhels",
+      "name": "No",
+      "description": null,
+      "stepTitle": "Sub-60 Gravel",
+      "stepDescription": "Medium Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FOkc68",
+          "name": "Off Road Gravel Medium Volume",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "OGIWeckSKl",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

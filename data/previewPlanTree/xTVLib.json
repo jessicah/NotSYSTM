@@ -1,0 +1,30 @@
+{
+  "uid": "xTVLib",
+  "name": "No",
+  "description": "Does not include strength",
+  "stepTitle": "Sprint Distance ",
+  "stepDescription": "Sprint Distance - High Volume  - 3:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "wJwQzmam4r",
+      "name": "SYSTM Sprint Distance Triathlon Plan/High volume/3:1/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "wJwQzmam4r",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

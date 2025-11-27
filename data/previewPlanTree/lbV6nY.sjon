@@ -1,0 +1,30 @@
+{
+  "uid": "lbV6nY",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Time Trial",
+  "stepDescription": "Low Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "IEZDF13jI6",
+      "name": "TT event prep 2:1 Low Volume with Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "IEZDF13jI6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "8ss0QH",
+  "name": "Wahoo X Monthly Challenge",
+  "description": "June: Foundation First",
+  "stepTitle": "June: Foundation First",
+  "stepDescription": "June: Foundation First",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "fOgQaf",
+      "name": "Wahoo X July-August Challenge: Proven in the Peloton",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ElH7Kq2BKv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid": "htSstO",
+  "name": "3:1",
+  "description": "Three weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "oDnrVk",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Season Prep - High Volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "jpeLkZNOZW",
+          "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "jpeLkZNOZW",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "z0MA1Z",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "USAT Long Distance",
+      "stepDescription": "Season Prep - High Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "YDQOLWx7Mo",
+          "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 3:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "YDQOLWx7Mo",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

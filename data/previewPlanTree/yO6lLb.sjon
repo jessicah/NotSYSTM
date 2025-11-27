@@ -1,0 +1,30 @@
+{
+  "uid": "yO6lLb",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": "Season Prep - Low Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "bCyEHDwsct",
+      "name": "SYSTM Xterra Triathlon Plan/Low Volume/2:1/Season Prep/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "bCyEHDwsct",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

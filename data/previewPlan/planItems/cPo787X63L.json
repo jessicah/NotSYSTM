@@ -1,0 +1,481 @@
+{
+  "id": "cPo787X63L",
+  "name": "xxx Racing Badge (clone)",
+  "weakness": "NoWeakness",
+  "grouping": "You brought this onto yourself ",
+  "category": "Badge Collector",
+  "subcategory": "Racing",
+  "description": "# This plan contains:\n * Every Cycling Workout required to get the \u0022All Racing\u0022 Badge",
+  "planDescription": "Fill Up That Trophy Case",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2020-11-06T23:43:40.16Z",
+  "updatedAt": "2024-08-30T11:32:27.499Z",
+  "version": "1.0.1",
+  "isAddOn": null,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Giro d\u0027Italia 1",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Featured Rider:** Attila Valter\n\n**Event:** Giro d\u0027Italia\n\n**Mission:** It\u0027s the final stage of your first Grand Tour. For the past three weeks, you\u0027ve battled your way across Italy. What better way to finish than leaving it all on the road in a final, short time trial. It\u0027s you against the clock in the race of truth.\n\n\u200B\n\n**About ProRides**\n\nIf you\u2019ve ever dreamed of being a professional cyclist, now\u2019s your chance. The SYSTM ProRide series allows you to experience what it\u2019s like to be in the biggest bike races in the world, thanks to the SYSTM 4DP\u00AE platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5855555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 48,
+            "intensityFactor": 0.91
+          },
+          "workoutId": "kkz9n3J5WK",
+          "contentId": "8wAD0BpZSy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Cash Register",
+          "style": null,
+          "compatibility": 100,
+          "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5380555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 4,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "HSb6Gc8uIZ",
+          "contentId": "6LnpmGMTMG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 202,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Gran Canaria: Serenity",
+          "style": null,
+          "compatibility": 100,
+          "description": "Starting at the islands iconic rainbow rocks at Los Azulejos de Veneguera in this session we tackle one of the most stunning climbs on the whole island, known locally as \u201CSerenity\u201D. We\u2019ll be breaking this 10km climb down into three distinct sections, kicking off with a block of 6 x 50 second high tempo efforts with a 10 second burst out of the saddle before taking a swift breather before getting back on it. As we climb through the pine forest we\u2019ll switch things up a touch, alternating between low and high cadence for 30 seconds at a time for around 7 minutes. We\u2019ll then revert back to our 50 second high tempo with 10 second burst out of the saddle efforts before we build up our effort to the summit. This is going to be a challenging workout so make sure you\u2019re ready and whatever you do don\u2019t forget to take a moment to look at the views!!\n\n\u200B\n\nThis workout combines multiple different interval types that focus on improving threshold power via over-under style efforts along with low cadence work for your muscular endurance. The first and last climbs also fire up your whole energy systems with some sprints to the summit.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8735613403)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9230555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 2,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 62,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "keD5MA4ABE",
+          "contentId": "sXC2D7jqYs",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 202,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Model",
+          "style": null,
+          "compatibility": 100,
+          "description": "They say that beauty is in the eye of the beholder. And through the bleeding eyes of Sufferlandrians, what could possibly be more beautiful than the sharp, saw-tooth profile of the workout you see before you? Full of gorgeous, shapely, shimmering blocks of yellow Maximal Aerobic Power (MAP) efforts interspersed with mercifully brief and slightly inadequate recoveries, it\u0027s a real stunner.\n\n\u200B\n\nBut you know what\u0027s even better looking than this alluring workout? You (after you\u0027ve completed the workout, that is). Originally designed by our Head of Sports Science, Neal Henderson, for his professional athletes, The Model is a beautiful portrait of MAP brutality. It\u0027s one of those sessions that you think you can\u0027t finish, but always somehow do. It will leave you breathless, feeling all tingly, a bit confused and lying in a blubbering heap. It\u0027s a look. It will also deliver a nice boost to your fitness that always looks and feels good.\n\n\u200B\n\nA true love letter to the beauty of professional cycling, The Model features a banging soundtrack and thrilling footage from both the men\u0027s and women\u0027s pelotons. With its eclectic design, effects, and graphics, you\u0027ll find yourself unable to tear your eyes away from the action on screen (assuming you can lift them from your stem).\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9844444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 5,
+              "ftp": 5
+            },
+            "tss": 86,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "WQk9TYaUhj",
+          "contentId": "NkctG9Onu1",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Fight Club",
+          "style": null,
+          "compatibility": 100,
+          "description": "A full remastering of one of our earliest sessions (the original is still available to those of you who are Knights of Sufferlandria), Fight Club is scrappy, messy, and unpredictable. Like a real bike race, you\u0027re working hard to stay with the leaders while fending off attacks and doing your best to make the race by attacking as well.\n\n\u200B\n\nWith significant time spent at power well above your threshold, this is a solid session to improve your Anaerobic Capacity. The fact that all those surges take place during sustained efforts right around threshold makes this one of the most difficult (yet beneficial) workouts in The Sufferfest Library. Repeated surges followed by sustained riding near your threshold stress your body\u0027s ability to clear metabolites (like lactate) and your mental ability to \u201Cdeal\u201D with the extreme discomfort all those metabolites cause. You\u0027re going to come out of this one a bit battered but a lot stronger for it.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9272222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 1,
+              "map": 3,
+              "ftp": 4
+            },
+            "tss": 80,
+            "intensityFactor": 0.93
+          },
+          "workoutId": "C0q3WCPXm2",
+          "contentId": "tJpZlAA0hq",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Rookie",
+          "style": null,
+          "compatibility": 100,
+          "description": "These race simulations steadily get harder and harder as the workout progresses, so don\u2019t be too keen to increase the intensity after the first 10-minute effort if it felt \u201Ctoo easy.\u201D Just wait. The pain will come.\n\n\u200B\n\nDuring each interval, you\u0027ll be ducking and diving right under and over threshold, forcing your body to churn through all the metabolites you\u0027re producing (that\u0027s the nasty stuff that the Painsuckers love so much). This is one of the best ways to improve your FTP without really overloading your system with too much training stress.\n\n\u200B\n\nThe final two intervals allow you to really charge over your threshold to unleash whatever power you have left in your legs. These two all-out bursts of power, in addition to the constant surges above threshold, means this session works your Anaerobic Capacity more than some of the other FTP-focused sessions.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8816666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 75,
+            "intensityFactor": 0.92
+          },
+          "workoutId": "iPO62IOLa3",
+          "contentId": "54dYn0oExU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Galicia: Camarinas to Muxia",
+          "style": null,
+          "compatibility": 100,
+          "description": "It\u2019s time for a wild coastal adventure with your host, Michael Cotty, across some of the stunning undulating roads of Galica, Spain. You\u2019ll start at a historic lighthouse on the \u2018Coast of Death\u2019 before working your way deep into the rugged landscape that defines this region. The road will guide your workout, with big efforts up every hill and a chance to take it a bit easier on the descents. It\u2019s not all hard work, though, Mike takes the time to show you around the fishing marina, where to find the \u2018hunger herb\u2019 and some of the sights around our finishing village, Muxia.\n\n\u200B\n\nThis is a great session for anyone who wants to get in a bit of sprint/anaerobic capacity efforts while laying down some solid aerobic time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7392408454)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.1294444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 2,
+              "map": 2,
+              "ftp": 3
+            },
+            "tss": 91,
+            "intensityFactor": 0.92
+          },
+          "workoutId": "qRN0Ywpez8",
+          "contentId": "k0ZyP1kZrU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Tour Down Under 1 ",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Featured Rider:** Nicole Frain, National Champion of Australia \uD83E\uDD47\n\n**Event:** Santos Tour Down Under Festival of Cycling - Stage 1 \uD83C\uDDE6\uD83C\uDDFA\n\n**Mission:** \u0022Finish at the Front\u0022: Nicole Frain, newly crowned Australian Road Champion, and her Roxsolt/SRAM team have arrived at the Festival of Cycling in South Australia with the goal of a top overall result and, perhaps, a stage win. The goal on this first stage from Tanunda to Williamstown is to make a mark on the race and, ideally, get on the podium. You\u2019ll join the race with 58 kilometers to go and experience all the thrilling action exactly as Nicole did \u2013 but relative to your own fitness level.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.725,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 2,
+              "map": 4,
+              "ftp": 4
+            },
+            "tss": 115,
+            "intensityFactor": 0.83
+          },
+          "workoutId": "XB6GdOFfnn",
+          "contentId": "vC3OEPVa6z",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Classic Climbs of France: Col de Braus",
+          "style": null,
+          "compatibility": 100,
+          "description": "The Col de Braus workout focuses on maintaining a consistent tempo while responding to varied efforts, mimicking real race scenarios. This dynamic training session designed to build endurance and power with a series of specific tempo and surge efforts starts out with a steady tempo pace. At the 2 km mark, we will engage in a 90-second effort as if responding to a breakaway, then return to a strong threshold pace as the profile dips. Throughout the ride, the focus will be on maintaining a high tempo, incorporating ten 3-minute efforts with 30-second out-of-the-saddle bursts.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11556448551)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7655555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 54,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "sBGUedHkDF",
+          "contentId": "kvTBuJ24UT",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Omnium",
+          "style": null,
+          "compatibility": 100,
+          "description": "Do you know what we love about you? Your versatility. You can Suffer anywhere, anytime, and in any way. That\u0027s why Grunter von Agony, Sufferlandrian Team Director, is sending you to compete in The Omnium at the UCI World Track Championships. Over the course of 50 minutes, you\u0027ll do battle in the six different races.\n\n\u200B\n\nNo two intervals in this workout are the same, with each one working slightly different Neuromuscular (NM), Anaerobic Capacity (AC), and Maximal Aerobic Power (MAP) variations. No need for FTP here, friends. It\u0027s the perfect session to improve top-end power without having to do a ton of repetitive efforts.\n\n\u200B\n\nThe Scratch Race and Flying Lap have an easy enough lead-in that you get to put your max sprint to the full test. Add in the standing starts for the Individual Pursuit and Kilo, and you give your NM a real run-through. The repeated surges of the Elimination Race, the all-out nature of the Kilo, and the massive efforts you have to make in the points race really test your powers of recovery while working your AC all the way to the max.\n\n\u200B\n\nSince the efforts come in quick succession, and with most being over four minutes in length, your cardiovascular system never catches a real break, ensuring your MAP doesn\u2019t get left out of the equation.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7888888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 5,
+              "nm": 3,
+              "map": 5,
+              "ftp": 2
+            },
+            "tss": 68,
+            "intensityFactor": 0.93
+          },
+          "workoutId": "ZBJBTvvtfe",
+          "contentId": "e0fpoQCSWR",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "No Place Like Home",
+          "style": null,
+          "compatibility": 100,
+          "description": "Have you been riding, but not riding too hard? Have you been putting in lots of easy and endurance rides but not much intensity? Are you ready to bring intervals back into your routine, but not quite prepared to face up to a session like _Nine Hammers_ or _The Shovel_? Then this is the session for you.\n\n\u200B\n\nIf you love _Recharger_ then you\u0027re going to tough love_ No Place Like Home_ - the perfect re-introduction to a little bit of hard work. It will wake up your legs, lungs and mind, reminding them what it means to dig deep but without really working too hard or for too long. The workout is expertly designed by Wahoo\u0027s Head of Sports Science, Sir Neal Henderson, as a gradual step back into Suffering when self-doubt has taken hold of you and motivation may be low. While you\u2019re riding it, you\u0027ll soon realize that you\u0027re stronger than you think and that you _can_ work hard. You\u0027ll also realize that you really shouldn\u0027t have ever left Sufferlandria -- Border Control takes these things very seriously.\n\n\u200B\n\nAnd when the session is finished? A wave of endorphins kicks in - and if you\u2019ve done it right, you\u0027ll feel a sense of elation and a little sting in the legs that reminds you why you were born to Suffer and why there truly is..._No Place Like Home._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 2,
+              "map": 2,
+              "ftp": 3
+            },
+            "tss": 32,
+            "intensityFactor": 0.73
+          },
+          "workoutId": "NXGSRUT17P",
+          "contentId": "IrlX0KRudI",
+          "notes": "Four Dimensional Power Focus:\nNM: \u272D\u272D\u2729\u2729\u2729\nAC: \u272D\u272D\u272D\u272D\u2729\nMAP: \u272D\u272D\u272D\u2729\u2729\nFTP: \u272D\u272D\u2729\u2729\u2729\n\nSUF Idol is almost like a miniature Shovel. So, while some might call it a trowel\u2026we call it a high-quality micro interval session and while Attackers will tend to love it, those who are strong in sustained efforts may find this session a bit more...challenging. The action-packed 30-minutes includes 16 big efforts varying from 10, 20, and 30 seconds and with less that a minute of recovery between each. Together, this will hit your AC and MAP power hard all the while helping boost your FTP since the recovery periods are so short. It\u0027s the perfect session to help you break up a block of steady FTP training, or to use in preparation for a criterium, track race, draft legal triathlon, or cyclocross race. Because the targets are all well above FTP, it\u2019s best to come into this session relatively well rested and motivated.",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

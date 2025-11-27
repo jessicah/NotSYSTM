@@ -1,0 +1,30 @@
+{
+  "uid": "YUVyMU",
+  "name": "Yes",
+  "description": "Would you like to incorporate Strength Training into your plan? ",
+  "stepTitle": "SBT GRVL Black Route",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ajqEgkNpz3",
+      "name": "2023 SBT GRVL - Black Course - Moderate Volume - 3:1 - Strength ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ajqEgkNpz3",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

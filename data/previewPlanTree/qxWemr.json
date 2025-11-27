@@ -1,0 +1,236 @@
+{
+  "uid": "qxWemr",
+  "name": "Base",
+  "description": null,
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9HZwAV",
+      "name": "Low",
+      "description": "2-4 hours per week",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "vTJI3F",
+          "name": "2:1",
+          "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "Base Block - Low Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "3K3yfI",
+              "name": "Base Block 3-week SYSTM",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "JuSYgsAlxt",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "ajbuIB",
+          "name": "3:1",
+          "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "Base Block - Low Volume  - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "6nnG50",
+              "name": "Base Block 4-week SYSTM - Low",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "vtxs1e240D",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "K33ug4",
+      "name": "Moderate",
+      "description": "4-6 hours per week ",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Q9AYxq",
+          "name": "3:1",
+          "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "Base Block - Moderate Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "kkBqnPEpn4",
+              "name": "Building Block-Base-Medium-3:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "kkBqnPEpn4",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "fGna2t",
+          "name": "2:1",
+          "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "Base Block - Moderate Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "6atoVP",
+              "name": "Building Block-Base-Medium-2:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "20o1lyyK3e",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "jcU0Tv",
+      "name": "High",
+      "description": "6-8 hours per week ",
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "bgqzaZ",
+          "name": "3:1",
+          "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "High Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "uOvDUcZDYi",
+              "name": "Building Block-Base-High-3:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "uOvDUcZDYi",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "O74nOY",
+          "name": "2:1",
+          "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+          "stepTitle": "Base Block",
+          "stepDescription": "High Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "4nQKbObKVl",
+              "name": "Building Block-Base-High-2:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "4nQKbObKVl",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

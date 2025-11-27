@@ -1,0 +1,164 @@
+{
+  "uid": "RjTEdz",
+  "name": "A Week With",
+  "description": "Spend 1 week training with these famous (and infamous) Wahooligans.",
+  "stepTitle": "Who do you want to spend a week with?",
+  "stepDescription": "",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "nT4Yne",
+      "name": "UCI World Cycling Center",
+      "description": "Train with the UCI",
+      "stepTitle": "A Week With",
+      "stepDescription": "A Week With UCI World Cycling Center",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GSpDW86vBO",
+          "name": "A Week With UCI World Cycling Center (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "GSpDW86vBO",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "lGczs0",
+      "name": "Phil Gaimon",
+      "description": "Hit the hills around LA with former WorldTour rider and current cookie aficionado Phil Gaimon",
+      "stepTitle": "A Week With",
+      "stepDescription": "A Week With Phil Gaimon",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "XKQeZW",
+          "name": "AWW Phil G",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "31GRWs2hJv",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "gWy0t4",
+      "name": "Emily Batty ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "eN9tUMFU1V",
+          "name": "AWW Phil G (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "eN9tUMFU1V",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "zgyhku",
+      "name": "Neal Henderson",
+      "description": "Explore Boulder, Colorado with Head of Wahoo Sports Science and coach to the pros.",
+      "stepTitle": "A Week With",
+      "stepDescription": "A Week With Neal Henderson",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "uK7Ff7",
+          "name": "AWWNH",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "M1I0zQZhf6",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "tuO6NE",
+      "name": "Ian Boswell",
+      "description": "See how former Grand Tour Rider turned gravel champion sharpens his form. ",
+      "stepTitle": "A Week With ",
+      "stepDescription": "A Week With Ian Boswell",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GlufFb",
+          "name": "A Week With Ian Boswell",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "0zHl62ZEwJ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

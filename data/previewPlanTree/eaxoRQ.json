@@ -1,0 +1,30 @@
+{
+  "uid": "eaxoRQ",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "100 Mile Gravel",
+  "stepDescription": "High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "iC2TzHdTyW",
+      "name": "Gravel 100 mile 2:1 High Volume w/Str 2x wk (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "iC2TzHdTyW",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

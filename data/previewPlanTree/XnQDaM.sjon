@@ -1,0 +1,30 @@
+{
+  "uid": "XnQDaM",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Marathon MTB",
+  "stepDescription": "Event - High Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "yQqjx6IPP0",
+      "name": "MTB Marathon Event 3:1 High Volume w/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yQqjx6IPP0",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

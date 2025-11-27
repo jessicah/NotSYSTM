@@ -1,0 +1,30 @@
+{
+  "uid": "8SDigw",
+  "name": "Moderate Volume",
+  "description": "3-5 hours per week ",
+  "stepTitle": "The Wahooligan Tour Prep Plan",
+  "stepDescription": "The Wahooligan Tour Prep Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "mIFnyiFrVF",
+      "name": "TWT25 Moderate Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "mIFnyiFrVF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

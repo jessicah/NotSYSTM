@@ -1,0 +1,1141 @@
+{
+  "previewPlan": [
+    {
+      "id": "RHCm1Z6j1r",
+      "name": "Run Strength: Level 5 - 12 wks 3:1",
+      "weakness": "NoWeakness",
+      "grouping": "Running Strength Level 5",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### Run Strength: Level 5 - 12 wks 3:1\n\nThis strength training plan is optimized for runners to reduce the risk of injury and improve performance. Our Running strength plans are built with progressive workouts that include a focus on the lower body, dynamic movement, and core work in addition to supplementary movements for the upper body.\n",
+      "planDescription": "Run Strength: Level 5 - 12 wks 3:1 ",
+      "fixedEndDate": "",
+      "level": "Level 5",
+      "type": "Strength",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2022-04-04T13:18:09.875Z",
+      "updatedAt": "2022-04-04T13:19:56.816Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "Run Strength: Level 5 - 12 wks 3:1 "
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Strength",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Run Focus 4",
+              "style": null,
+              "compatibility": 100,
+              "description": "The SYSTM Run Focus series of strength training sessions are designed specifically for runners to help improve performance and reduce the risk of injury. Each session offers a progressive set of integrated exercises that includes a focus on the lower body, posterior chain, and core, in addition to supplementary movements for the upper body.\n\n\u200B\n\nIn Run Focus 4 you\u0027ll complete the foundational moves with longer, more challenging combinations to help improve your dynamic stability and muscular endurance. We also added strength exercises that incorporate a mobility component, particularly at the hips. Since you\u0027ve already mastered the basics, focus on completing every repetition with perfect form, full range of motion, and controlled timing.\n\n\u200B\n\n**Included Exercises:**\n\n- Squat Wide Stance Hands Forward\n- Single-Leg Hip Hinge w/ Rotation\n- Squat w/ Hands Behind Head\n- Recoil Hamstring Stretch\n- Standing Hip Drive\n- Step Overs\n- Alternating-Step Under\n- Foot Circles\n- Single-Leg Hip Bridge\n- Fire Hydrant\n- Backward Lunge with Shoulder Press\n- Backward Shoulder Rolls\n- Single-Leg Squat to press w/ Same Arm\n- Single-Leg Heel Raise\n- Overhead Squat w/stick\n- Split Stance Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Inchworm\n- Single-Leg Hop to Hold\n- Downward Dog\n- Frog Crunch\n- Side Plank Hold\n- Bicycle Crunch\n- High Plank w/ Opposite arm \u0026 Leg raise\n- Runner Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3525,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "SakMHiubhN",
+              "contentId": "dA2taKRUE5",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Strength",
+          "rank": 101,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Strength",
+          "rank": 102,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 05",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nThis level will really test your neuromuscular coordination and muscular power. We\u2019ll do that through a tough mix of controlled, static holds as well as explosive, dynamic jumps. You may find yourself cardiovascularly challenged, which is great! Push yourself with quality movements and then recover with the mobility activities.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Runners Stretch\n- Around the Clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Deep Squat w/Arms Crossed\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Pogo Jumps\n- Single-Leg Hip Rotations\n- Scissor Jumps Alternating From Hold\n- Backward Shoulder Rolls\n- Low Skip In Place\n- Squat and Hold to Jump\n- Chin Tucks Reps\n- Tempo Squat \u0026 Hold to Jump\n- Forward Shoulder Rolls\n- Reverse Wood Chop with Band\n- Single-Leg Hops - Continuous - Box\n- Cervical Side Bend\n- Single leg Lateral Hop to Hold\n- Inchworm From Plank\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.38166666666666665,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "f1kDVuDcik",
+              "contentId": "ijWxCuagDl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Strength",
+          "rank": 103,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nAre you excited for Lower Body Focus 3?!? This session is all about compound movements. In a single exercise, you will be activating both your lower and upper body and challenging your strength and stability. Be ready to concentrate on balance in one interval and then propel yourself off the ground in another. The constant change of focus is similar to a race scenario where you must be ready for various external variables. Go for it!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Tip Toe Walk\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Deep Squat w/Arms Crossed\n- Alternating-Step Under\n- Step Overs\n- Hip Hinges\n- Hamstring Hip Bridge\n- Stand from Kneeling - Alternating\n- Seated Ankle Dorsiflexion\n- Single leg squat to press w/ Same Arm\n- Split Squats\n- Side Lunge w/ Knee Lift \u0026 Opposite Arm Press\n- Scissor Jumps\n- Side Lunge to Knee Lift w/ Hold\n- Back Extensions with Arms Overhead\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3422222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "y14u3M844Z",
+              "contentId": "JCDqRqUQuB",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Strength",
+          "rank": 106,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 10",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nThis routine marks a big step up in duration -- including nearly 8 minutes of core work. That\u0027s right, you can have the strongest legs in the world, but without a solid core, you won\u2019t be able to put down the power efficiently. As we continue to increase your leg strength, we need to make sure your core endurance improves as well.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands Side to Side\n- Bent Leg Tip at the Hip\n- Reverse Lunge with Hands Over Head\n- Backward Lunge\n- Lateral Lunge with Extended Hands\n- Single-Leg Squat with Hands Forward\n- Single-Leg Squat with Hands Forward \u002B Shoulder Press\n- Goblet Squat\n- Bulgarian Squat\n- Hip Hinge with Reach\n- Hip Hinge with Shoulder Press\n- Push-Up with Wide Hands\n- Hip Bridge with Hands in Air \u002B Reps\n- Single-Leg Hip Bridge\n- Back Extension\n- Back Extension with Arm Arcs\n- Quadruped with Arm Raise \u002B Leg Lifts\n- Plank with Leg Lifts \u002B Sliding\n- High Plank with Leg Lifts\n- Side Plank with Hip Raise\n- Side Plank with Hip Drop\n- Half Twists\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.43222222222222223,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 11,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "iLR2e1mxQf",
+              "contentId": "gu2vQFFvEB",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Strength",
+          "rank": 107,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 06",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nIt is time for Dynamic Focus 6! Maybe you\u2019re a cyclist, runner, swimmer, or multisport athlete who wants the ability to surge harder and faster. Maybe you\u2019re an outdoor enthusiast who wants to feel more confident in your element. In either case, this sequence is ideal for you. The exercise order will challenge you with a power push immediately followed by a unilateral task. No need to be discouraged if the first time through is difficult - sticking with it will produce results.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- Around the Clock Heel \u0026 Toe Taps\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Split Stance Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Low Skip In Place\n- Forward Shoulder Rolls\n- Single-Leg Hip Rotations\n- Pogo Jumps\n- Backward Shoulder Rolls\n- Tempo Squat \u0026 Hold to Jump\n- Chin Tucks Reps\n- Scissor Jumps Alternating from Hold\n- Single-Leg Hops\n- Cervical Side Bend\n- Squat Jump Repeats\n- Squat and Hold to Jump\n- Single leg Lateral Hop to Hold\n- Single-Leg Hop forward-Backward-Hold\n- High Side Plank w/ Bottom Knee Lift\n- Oblique Leg Lifts\n- Runners Stretch\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4152777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "vA63CJQ8pJ",
+              "contentId": "zIPBKzxLYy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Custom",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Custom",
+              "name": "Recovery Week",
+              "style": null,
+              "compatibility": 100,
+              "description": "Take it easy this week! Prioritize recovery and nutrition to ensure that your body is prepared to take on your next training block.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "RcTmd40GN9",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "type": "Strength",
+          "rank": 104,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Run Focus 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "The SYSTM Run Focus series of strength training sessions are designed specifically for runners to help improve performance and reduce the risk of injury. Each session offers a progressive set of integrated exercises that includes a focus on the lower body, posterior chain and core, in addition to supplementary movements for the upper body.\n\n\u200B\n\nIn this first routine in the sequence, we\u0027ll introduce you to some basic foundational movement patterns that will help improve your running by enhancing lower body and core stability as well as strength. The exercises are simple and the interval durations are short. Utilize the full duration of the session to focus on quality technique using the full range of motion. As the program progresses you\u0027ll complete more variations for longer periods, so dial in that good form now.\n\n\u200B\n\n**Included Exercises:**\n\n- Squat Wide Stance Hands Forward\n- Single leg Hip Hinge\n- Squat w/ Hands Behind Head\n- Recoil Hamstring Stretch\n- Kneeling Hip Drive Hands Up\n- Kneeling Hips Side to Side\n- Foot Circles\n- Backward Lunge Arms on Hips\n- Backward Shoulder Rolls\n- Deep Squat w/Arms Crossed\n- Single Leg Heel Raise\n- Hip Hinge-Hands on Head\n- Side Lunge to Knee Lift w/ Hold\n- Frog Crunch\n- Oblique Leg Lifts\n- Bird Dog\n- Pigeon Stretch\n- Runner Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.23027777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 6,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "df4vOWStsm",
+              "contentId": "6Ar3CfOwWp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "type": "Strength",
+          "rank": 105,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 8,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "QTI1uVYXsK",
+              "contentId": "6nW3Fl2zvK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "type": "Strength",
+          "rank": 108,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe want to develop the power required for sprinting and surges. So it\u2019s about time we truly challenge your strength endurance with some explosive movements followed by combinations of multi-directional exercises - and we\u2019ll make the recoveries short. You\u2019ll have to stay focused to keep your movements clean. We\u2019ll mix in a few core and upper body moves to give your legs a break only to come back and hit them again. We know you\u2019re up for the challenge so, let\u2019s do it!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single-Leg Hip Rotations\n- Alternating-Step Under\n- Step Overs\n- Reverse Wood Chop with Band\n- Deep Squat w/Arms Crossed\n- Seated Ankle Dorsiflexion\n- Back Extension w/ opposite arm \u0026 leg raise\n- Hamstring Hip Bridge\n- Scissor Jumps\n- Bulgarian Lunge\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- 90\u00B0 Reverse Fly w/ Reps\n- High Side Plank w/ toe taps\n- V ups\n- Runners Stretch-Alternating\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.41,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "XyiIPX4JJM",
+              "contentId": "DmRrVdpHNu",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "type": "Strength",
+          "rank": 109,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "type": "Strength",
+          "rank": 112,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Run Focus 5",
+              "style": null,
+              "compatibility": 100,
+              "description": "The SYSTM Run Focus series of strength training sessions are designed specifically for runners to help improve performance and reduce the risk of injury. Each session offers a progressive set of integrated exercises that includes a focus on the lower body, posterior chain, and core, in addition to supplementary movements for the upper body.\n\n\u200B\n\nThis final session in the series is designed to target all the components critical for success in running: strength, endurance, stability, mobility, and flexibility. This session targets common areas of weakness for runners caused by the repetitive motion that occurs in a single plane when running. You should now have the confidence to perform each repetition with quality for the entire interval duration. Focus, push through the temporary fatigue, and you\u0027ll come out of the session stronger, more stable, and more flexible.\n\n\u200B\n\n**Included Exercises:**\n\n- Squat Wide Stance Hands Forward\n- Single-Leg Hip Hinge w/ Rotation\n- Squat w/ Hands Behind Head\n- Recoil Hamstring Stretch\n- Standing Hip Drive Hands Up\n- Step Overs\n- Alternating-Step Under\n- Foot Circles\n- Single-Leg Hip Bridge w/ Rotation\n- Fire Hydrant\n- Single-Leg squat to press\n- Backward Shoulder Rolls\n- Single-Leg Heel Raise\n- Tempo Squat\n- Tempo Split stance Hip Hinge\n- Side Lunge w/ Knee Lift \u0026 Opposite Arm Press\n- Inchworm\n- Single-Leg Hop to Hold\n- Downward Dog\n- Frog Crunch\n- High Side Plank Hold\n- Bicycle Crunch\n- High Plank w/ Opposite Arm \u0026 Leg Raise\n- Pigeon Stretch\n- Runner Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3844444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 10,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "93TNi5XSho",
+              "contentId": "05cAWDOrUC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Strength",
+          "rank": 124,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 12",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nWell done getting to this point! Clearly, you can handle a lot -- so things are going to get pretty heavy from here on out as we increase the difficulty of the moves, the duration of the interval, and the number of the sets. As you move through this session, really focus on keeping full control of your movements. You can only build strength in the muscles you can control. Also - because of the additional load, it\u0027s important that you\u2019ve followed the progression and mastered the foundational exercises in the previous levels. One does not simply walk into Full Body 12. :)\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands Side to Side\n- Fast Lateral Lunges with Knees Up\n- Bent Leg Tip at the Hip\n- Reverse Lunge with Hands to Side\n- Backward Lunge with Shoulder Press\n- Forward Lunge with Shoulder Press\n- Lateral Lunge with Opposite Hand\n- Lateral Lunge with Same Hand\n- Single-Leg Squat with Reach\n- Squat with Knee Raises\n- Hip Hinge with Row\n- Hip Hinge with Opposite Row\n- Hip Bridge with Reps\n- Back Extension with Reps\n- Quadruped with Arm Raise\n- Quadruped with Arm Raise \u002B Leg Lifts\n- High Plank with Knee to Chest\n- High Plank with Leg Lifts\n- Side Plank with Leg Raise\n- High Side Plank with Hip Raise\n- High Side Plank with Hip Drop\n- Frog Crunch\n- Half Twists\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 12,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "Y7SSGF6im2",
+              "contentId": "DCB2d7iDMF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 43,
+          "type": "Strength",
+          "rank": 114,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 07",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nDynamic Focus 7 is a big combination of cardiovascular endurance and neuromuscular coordination. Be prepared for longer power intervals. Slow down if you need to, but focus on the tempo holds and getting maximum drive off the ground in each repetition. After the recovery interval, take a deep breath and change your focus to mobility, stability, or flexibility.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Tip Toe Walk\n- Around the Clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Overhead Squat w/stick\n- High Skip in Place\n- Split Stance Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Pogo Jumps\n- Backward Shoulder Rolls\n- Single Leg Hip Rotations\n- Squat Jump Repeats\n- Forward Shoulder Rolls\n- Scissor Jumps\n- Chin Tucks Reps\n- Tempo Squat \u0026 Hold to Jump\n- Oblique Leg Lifts\n- Single Leg Hops - Continuous - Box\n- Cervical Side Bend\n- Single Leg Hop Forward-Backward-Hold\n- Single leg Lateral Hop to Hold\n- Fast Side Lunge w/ Knee Lift\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4061111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "ujnvCXPGlD",
+              "contentId": "AuZPEHGeFA",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 46,
+          "type": "Strength",
+          "rank": 115,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 05",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThe highest level in the series, this session challenges your core with more dynamic and rotational movements than any other level. The combination of challenging movements and increased set time demands full engagement - physically and mentally.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Single-Leg Hip Rotations\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Downward Dog\n- High Plank w/ Opposite arm \u0026 leg raise\n- V ups\n- Back Extension w/ opposite arm \u0026 leg raise\n- High Side Plank w/ bottom knee lift\n- High Side Plank w/ toe taps\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Sit Throughs\n- Forward Bear Crawl\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Kneeling Wood Chop with Band\n- Hip Hikes\n- Back Extension with Hold\n- Marching Hip Bridge\n- Bird Dogs\n- Back Extensions with Arms Overhead\n- Low to High Plank push-ups\n- Oblique leg lift reps with bottom leg up\n- Oblique Leg Lifts\n- Reverse Wood Chop with Band\n- Split Stance Side Bend w/ Arms Overhead \u002B Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.47305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uhkJpNBdHk",
+              "contentId": "kZrBFEfAwY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 49,
+          "type": "Custom",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Custom",
+              "name": "Recovery Week",
+              "style": null,
+              "compatibility": 100,
+              "description": "Take it easy this week! Prioritize recovery and nutrition to ensure that your body is prepared to take on your next training block.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "RcTmd40GN9",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 50,
+          "type": "Strength",
+          "rank": 110,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.31277777777777777,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "t9LydOsoBH",
+              "contentId": "BuRcfIlxLI",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 53,
+          "type": "Strength",
+          "rank": 125,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.19555555555555557,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 5,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "oysCVNFmCC",
+              "contentId": "u9SW542leT",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 57,
+          "type": "Strength",
+          "rank": 118,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 05",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nHere it is. The last level in the series. This intense session has it all; powerful jumps, multi-directional exercises, tempo sets, and single-leg isolation. We even added a little core work to round things out. We\u2019ll challenge you to be explosive but land with control, move laterally and get back to center fast, and regulate your tension even when your legs are burning. Take your time and work through it. Pause the video if you need to and focus on quality movement. Time to crank it up!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Step Over \u0026 Under-Alternating\n- Recoil Hamstring Stretch\n- Reverse Wood Chop with Band\n- Scissor Jumps\n- Deep Squat w/Arms Crossed\n- Stand from Kneeling - Alternating\n- Back Extensions with Arms Overhead\n- Hamstring Hip Bridge\n- Single-Leg Hip Bridge w/ Rotation\n- Hip Hinges w/ Resistance Band\n- Split Squats\n- Fast Side Lunge w/ Knee lift\n- 45\u00B0 Reverse Fly w/ Reps\n- Tempo Single-Leg RDL\n- Split Stance Hip Hinge w/ Band\n- Low Side Plank w/abduction and hold\n- Tempo Bulgarian Lunge 3-1-1\n- Tempo Squat\n- Single-Leg Hip Rotations\n- Runners Stretch-Alternating\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.47583333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "u2OXSukDB3",
+              "contentId": "8U0F9OnKLQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 60,
+          "type": "Strength",
+          "rank": 119,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 08",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nThe final sequence in the Dynamic Focus series is the ultimate (!) challenge. It includes the classic exercises of balance, unilateral drills, lower body strength, and jumping; both independently and integrated. These movements, which incorporate stability, power, and coordination applications, will bring out the best athlete in you- improving your endurance, strength, and sprinting ability. Go for it!\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Runners Stretch\n- Around the Clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Overhead Squat w/stick\n- Fast Single Leg Hop - Square Pattern - Continuous\n- Side Lunge to Knee Lift w/ Hold\n- High Skip in Place\n- Forward Shoulder Rolls\n- Pogo Jumps\n- Single-Leg Hip Rotations\n- Squat Jump Repeats\n- Split Stance Side Bend w/ Arms Overhead\n- Scissor Jumps\n- Split Stance Hip Hinges\n- Chin Tucks Reps\n- High Side Plank w/ Bottom Knee Lift\n- Oblique Leg Lifts\n- Single-Leg Hops - Continuous - Box\n- Cervical Side Bend\n- Tempo Squat \u0026 Hold to Jump\n- Standing T-Spine Rotation\n- Single-Leg Hop to Hold - Square Pattern\n- Squat and Hold to Jump\n- Backward Shoulder Rolls\n- Fast Side Lunge w/ Knee Lift\n- Single Leg Lateral Hop to Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4633333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "mzysnlKYfP",
+              "contentId": "BJ8flnc7ps",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 64,
+          "type": "Strength",
+          "rank": 120,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Run Focus 5",
+              "style": null,
+              "compatibility": 100,
+              "description": "The SYSTM Run Focus series of strength training sessions are designed specifically for runners to help improve performance and reduce the risk of injury. Each session offers a progressive set of integrated exercises that includes a focus on the lower body, posterior chain, and core, in addition to supplementary movements for the upper body.\n\n\u200B\n\nThis final session in the series is designed to target all the components critical for success in running: strength, endurance, stability, mobility, and flexibility. This session targets common areas of weakness for runners caused by the repetitive motion that occurs in a single plane when running. You should now have the confidence to perform each repetition with quality for the entire interval duration. Focus, push through the temporary fatigue, and you\u0027ll come out of the session stronger, more stable, and more flexible.\n\n\u200B\n\n**Included Exercises:**\n\n- Squat Wide Stance Hands Forward\n- Single-Leg Hip Hinge w/ Rotation\n- Squat w/ Hands Behind Head\n- Recoil Hamstring Stretch\n- Standing Hip Drive Hands Up\n- Step Overs\n- Alternating-Step Under\n- Foot Circles\n- Single-Leg Hip Bridge w/ Rotation\n- Fire Hydrant\n- Single-Leg squat to press\n- Backward Shoulder Rolls\n- Single-Leg Heel Raise\n- Tempo Squat\n- Tempo Split stance Hip Hinge\n- Side Lunge w/ Knee Lift \u0026 Opposite Arm Press\n- Inchworm\n- Single-Leg Hop to Hold\n- Downward Dog\n- Frog Crunch\n- High Side Plank Hold\n- Bicycle Crunch\n- High Plank w/ Opposite Arm \u0026 Leg Raise\n- Pigeon Stretch\n- Runner Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3844444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 10,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "93TNi5XSho",
+              "contentId": "05cAWDOrUC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 67,
+          "type": "Strength",
+          "rank": 121,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 05",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThe highest level in the series, this session challenges your core with more dynamic and rotational movements than any other level. The combination of challenging movements and increased set time demands full engagement - physically and mentally.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Single-Leg Hip Rotations\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Downward Dog\n- High Plank w/ Opposite arm \u0026 leg raise\n- V ups\n- Back Extension w/ opposite arm \u0026 leg raise\n- High Side Plank w/ bottom knee lift\n- High Side Plank w/ toe taps\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Sit Throughs\n- Forward Bear Crawl\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Kneeling Wood Chop with Band\n- Hip Hikes\n- Back Extension with Hold\n- Marching Hip Bridge\n- Bird Dogs\n- Back Extensions with Arms Overhead\n- Low to High Plank push-ups\n- Oblique leg lift reps with bottom leg up\n- Oblique Leg Lifts\n- Reverse Wood Chop with Band\n- Split Stance Side Bend w/ Arms Overhead \u002B Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.47305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uhkJpNBdHk",
+              "contentId": "kZrBFEfAwY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 71,
+          "type": "Strength",
+          "rank": 126,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 08",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nThe final sequence in the Dynamic Focus series is the ultimate (!) challenge. It includes the classic exercises of balance, unilateral drills, lower body strength, and jumping; both independently and integrated. These movements, which incorporate stability, power, and coordination applications, will bring out the best athlete in you- improving your endurance, strength, and sprinting ability. Go for it!\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Runners Stretch\n- Around the Clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Overhead Squat w/stick\n- Fast Single Leg Hop - Square Pattern - Continuous\n- Side Lunge to Knee Lift w/ Hold\n- High Skip in Place\n- Forward Shoulder Rolls\n- Pogo Jumps\n- Single-Leg Hip Rotations\n- Squat Jump Repeats\n- Split Stance Side Bend w/ Arms Overhead\n- Scissor Jumps\n- Split Stance Hip Hinges\n- Chin Tucks Reps\n- High Side Plank w/ Bottom Knee Lift\n- Oblique Leg Lifts\n- Single-Leg Hops - Continuous - Box\n- Cervical Side Bend\n- Tempo Squat \u0026 Hold to Jump\n- Standing T-Spine Rotation\n- Single-Leg Hop to Hold - Square Pattern\n- Squat and Hold to Jump\n- Backward Shoulder Rolls\n- Fast Side Lunge w/ Knee Lift\n- Single Leg Lateral Hop to Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4633333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "mzysnlKYfP",
+              "contentId": "BJ8flnc7ps",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 74,
+          "type": "Strength",
+          "rank": 127,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 13",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nFull Body 13 is the first session in this series over 30 minutes long. This is due to multiple 45-second sets that will really test your muscular endurance and ability to maintain perfect form while fatigued. These longer intervals push your stabilizer muscles and balance to the limit. As with the Core and Upper Body Focus sessions, this workout places a greater emphasis on the muscles above your hips. Don\u0027t be surprised if you\u0027re sore in muscles you didn\u0027t even know you had after your first couple of runs.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- Single-Leg Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Reverse Lunge with Hands Over Head\n- Reverse Lunge with Hands to Side\n- Backward Lunge\n- Forward Lunge with Shoulder Press\n- Squat with Knee Raises\n- Bulgarian Squat\n- Romanian Deadlift with Opposite Reach\n- Romanian Deadlift with Shoulder Press\n- Lateral Lunge with Same Hand \u002B Shoulder Press\n- Single-Leg Squat with Hands Forward \u002B Shoulder Press\n- Single-Leg Squat with Opposite Reach\n- Push-Up with Wide Hands\n- Quadruped with Arm Raise\n- Back Extension\n- Back Extension with Arm Arcs\n- High Plank with Leg Lifts\n- High Plank with Knee to Chest\n- Plank\n- Side Plank with Hip Raise\n- Side Plank with Hip Drop\n- High Side Plank with Hip Raise\n- High Side Plank with Hip Drop\n- Bicycle Crunch\n- Hip Bridge with Hands in Air\n- Hip Bridge with Hands in Air \u002B Reps\n- Half Twists\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5302777777777777,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 13,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "VROAzhOBDF",
+              "contentId": "GE0Ayjx6Dm",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 78,
+          "type": "Strength",
+          "rank": 122,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.19555555555555557,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 5,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "oysCVNFmCC",
+              "contentId": "u9SW542leT",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 81,
+          "type": "Strength",
+          "rank": 123,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Dynamic Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 8,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "QTI1uVYXsK",
+              "contentId": "6nW3Fl2zvK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 83,
+          "type": "Event",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Completed Level 5 Strength",
+              "style": null,
+              "compatibility": 100,
+              "description": "Congratulations on completing Level 5 Strength!  \n  \n\u200B  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "arY8FX4qeE",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

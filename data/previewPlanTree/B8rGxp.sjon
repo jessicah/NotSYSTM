@@ -1,0 +1,30 @@
+{
+  "uid": "B8rGxp",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB 100 Mile ",
+  "stepDescription": "Event - High Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "8x8RDQOEHp",
+      "name": "MTB 100 mile Event 3:1 Medium Volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8x8RDQOEHp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

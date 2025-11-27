@@ -1,0 +1,426 @@
+{
+  "previewPlan": [
+    {
+      "id": "yGrdDGSNhJ",
+      "name": "ToS Route 2022 Focused",
+      "weakness": "NoWeakness",
+      "grouping": "2022 ToS - Focused",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Choose this option if: You want to ride a good Tour, but don\u2019t want it to compromise any goals you might have a little further down the road. You want a mix of all-out stages and reduced intensity stages. This plan will ensure that you nail the stages that matter most for your continued improvement.\n\n\u200B\n\n**Coach Neal says to expect the following with this option:**\n\n- You might find it frustrating to keep the intensity low(er) on days when you feel great, but rest assured the Tour will still grind you down\u2026but not so much that you won\u2019t rise again for your goals down the road.\n- It\u2019s still going to be really hard, so it\u2019s critical to stay on top of nutrition, hydration and rest/recovery since you\u2019ll be riding 7 days straight.\n",
+      "planDescription": "",
+      "fixedEndDate": "2022-03-05",
+      "level": "Focused Option",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-12-14T23:21:18.194Z",
+      "updatedAt": "2024-08-30T11:32:24.445Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Register Here",
+              "style": null,
+              "compatibility": null,
+              "description": "Follow [this link](https://davisphinneyfoundation.org/event/tour-of-sufferlandria/) to Register for the ToS",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Giro d\u0027Italia Donne 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Clara KOPPENBURG of Germany\n\n**Event:** Giro D\u0027Italia Donne\n\n**Mission - \u0022Through the Wringer\u0022:** It\u0027s Stage 7 of the Women Giro d\u0027Italia. As the Team Leader at Rally Cycling, you\u0027re riding to defend a respectable 22nd position in the GC\u2014and perhaps even break the top 10. Today\u0027s stage is on a hilly, punchy circuit. You\u0027ll need to put in some serious work to stay with the GC leaders if you want a chance of grabbing a top 10 GC result at the end of the Tour.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+              "intensity": {
+                "master": null,
+                "nm": 1,
+                "ac": 0.85,
+                "map": 0.8,
+                "ftp": 0.95
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 2.172222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 147,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "b7YbFrlQwr",
+              "contentId": "WDfoHHriNX",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Way Out",
+              "style": null,
+              "compatibility": 100,
+              "description": "One of the few Sufferfest sessions that can be viewed as a sweet-spot session since the intervals aren\u2019t above threshold (except for the very end) but are harder than a tempo effort.\n\n\u200B\n\nThis session pushes your body close to the limit of what it can comfortably handle without going any further. Why? Going above threshold causes a considerable amount of hormonal stress that takes a lot of time to recover from. But you don\u2019t actually have to ride above threshold to improve your FTP. The difference in fitness gains between 30 minutes at 90% of threshold and at 102% of threshold is minimal. Still, the stress on your body from the latter is much greater, and the recovery much longer.\n\n\u200B\n\nThat\u0027s why this session is a key component to any training plan: It gives you enough training stress to help improve your FTP but remains \u0027easy\u0027 enough that you can do it when you\u0027re tired or before a big block of harder efforts.\n",
+              "intensity": {
+                "master": null,
+                "nm": 1,
+                "ac": 1,
+                "map": 1,
+                "ftp": 0.9
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9836111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 5
+                },
+                "tss": 68,
+                "intensityFactor": 0.83
+              },
+              "workoutId": "sG7DReLUhT",
+              "contentId": "AnUAo2ZSsd",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Downward Spiral",
+              "style": null,
+              "compatibility": 100,
+              "description": "The very first Sufferfest video ever made (although it\u0027s since been remastered a few times). Both sets of intervals are designed to have equal work to rest ratios, so the longer intervals have longer recovery time afterward. This first set will begin to deplete your Anaerobic Capacity (AC), and by the end, your aerobic system will have to work overtime to help keep the power up. And keep the power up you will, since as the intervals get shorter they also get harder.\n\n\u200B\n\nThe second interval set follows the same pattern as the first, ensuring both your AC and Maximal Aerobic Power are pushed towards their limit. To give it that extra kick, we added a couple of 30-second efforts with 30 seconds of recovery (having flashbacks to Pain Shakes from _Blender_, are we?). These final efforts are just hard enough\u2014with just enough rest\u2014that you will fully deplete your AC, forcing your MAP to pick up the slack.\n",
+              "intensity": {
+                "master": null,
+                "nm": 1,
+                "ac": 1,
+                "map": 0.9,
+                "ftp": 1
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9011111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 1
+                },
+                "tss": 75,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "S9QhwMs6EZ",
+              "contentId": "uLOWEcW9V1",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Model",
+              "style": null,
+              "compatibility": 100,
+              "description": "They say that beauty is in the eye of the beholder. And through the bleeding eyes of Sufferlandrians, what could possibly be more beautiful than the sharp, saw-tooth profile of the workout you see before you? Full of gorgeous, shapely, shimmering blocks of yellow Maximal Aerobic Power (MAP) efforts interspersed with mercifully brief and slightly inadequate recoveries, it\u0027s a real stunner.\n\n\u200B\n\nBut you know what\u0027s even better looking than this alluring workout? You (after you\u0027ve completed the workout, that is). Originally designed by our Head of Sports Science, Neal Henderson, for his professional athletes, The Model is a beautiful portrait of MAP brutality. It\u0027s one of those sessions that you think you can\u0027t finish, but always somehow do. It will leave you breathless, feeling all tingly, a bit confused and lying in a blubbering heap. It\u0027s a look. It will also deliver a nice boost to your fitness that always looks and feels good.\n\n\u200B\n\nA true love letter to the beauty of professional cycling, The Model features a banging soundtrack and thrilling footage from both the men\u0027s and women\u0027s pelotons. With its eclectic design, effects, and graphics, you\u0027ll find yourself unable to tear your eyes away from the action on screen (assuming you can lift them from your stem).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9844444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 86,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "WQk9TYaUhj",
+              "contentId": "NkctG9Onu1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "A Very Dark Place",
+              "style": null,
+              "compatibility": 100,
+              "description": "You know that ride where you thought you went harder, deeper, and to a darker place than you\u0027d ever gone before? HAHAHAHA. This takes you further, deeper, and darker than that. _A Very Dark Place_ (AVDP) is about maximum effort for shorter durations: five, four-minute intervals that take you to the limit. If you struggle with longer, high-intensity efforts and want to improve your ability to make repeated attacks, you need to spend some time in _A Very Dark Place_. Those little punches in the third and fifth efforts will teach you just how dark it can get.\n",
+              "intensity": {
+                "master": null,
+                "nm": 1,
+                "ac": 1,
+                "map": 0.94,
+                "ftp": 1
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8155555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 2
+                },
+                "tss": 63,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "LTjVzi8Lrj",
+              "contentId": "vCBrff5o6l",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Classic Climbs of France: Col de Braus",
+              "style": null,
+              "compatibility": 100,
+              "description": "The Col de Braus workout focuses on maintaining a consistent tempo while responding to varied efforts, mimicking real race scenarios. This dynamic training session designed to build endurance and power with a series of specific tempo and surge efforts starts out with a steady tempo pace. At the 2 km mark, we will engage in a 90-second effort as if responding to a breakaway, then return to a strong threshold pace as the profile dips. Throughout the ride, the focus will be on maintaining a high tempo, incorporating ten 3-minute efforts with 30-second out-of-the-saddle bursts.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11556448551)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7655555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 54,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "sBGUedHkDF",
+              "contentId": "kvTBuJ24UT",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "No Place Like Home",
+              "style": null,
+              "compatibility": 100,
+              "description": "Have you been riding, but not riding too hard? Have you been putting in lots of easy and endurance rides but not much intensity? Are you ready to bring intervals back into your routine, but not quite prepared to face up to a session like _Nine Hammers_ or _The Shovel_? Then this is the session for you.\n\n\u200B\n\nIf you love _Recharger_ then you\u0027re going to tough love_ No Place Like Home_ - the perfect re-introduction to a little bit of hard work. It will wake up your legs, lungs and mind, reminding them what it means to dig deep but without really working too hard or for too long. The workout is expertly designed by Wahoo\u0027s Head of Sports Science, Sir Neal Henderson, as a gradual step back into Suffering when self-doubt has taken hold of you and motivation may be low. While you\u2019re riding it, you\u0027ll soon realize that you\u0027re stronger than you think and that you _can_ work hard. You\u0027ll also realize that you really shouldn\u0027t have ever left Sufferlandria -- Border Control takes these things very seriously.\n\n\u200B\n\nAnd when the session is finished? A wave of endorphins kicks in - and if you\u2019ve done it right, you\u0027ll feel a sense of elation and a little sting in the legs that reminds you why you were born to Suffer and why there truly is..._No Place Like Home._\n",
+              "intensity": {
+                "master": null,
+                "nm": 0.9,
+                "ac": 0.9,
+                "map": 0.9,
+                "ftp": 1
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 32,
+                "intensityFactor": 0.73
+              },
+              "workoutId": "NXGSRUT17P",
+              "contentId": "IrlX0KRudI",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Blender",
+              "style": null,
+              "compatibility": 100,
+              "description": "A smorgasbord of Suffering, this session has it all. Originally created in Coach Sir Neal Henderson\u0027s Penn State dorm room in 1992, it\u0027s his weapon of choice for bringing the pain (shakes).\n\n\u200B\n\nWhat\u0027s in the Blender? First, a variety of longer efforts build sustained power while also making sure you\u0027re sufficiently fatigued. This initial beatdown is necessary to ensure you get the maximum benefit from _Blender_\u0027s infamous \u0027Pain Shakes.\u0027 Three sets of these little devils help you develop a supernatural ability to recover from big efforts. The bonus is that you also beef up your ability to produce high-end power, building Anaerobic Capacity and Maximal Aerobic Power simultaneously.\n\n\u200B\n\nThe threshold efforts at the end are the bitter cherry on the sundae, improving your body\u0027s ability to produce aerobic power and helping make sure your FTP will get the same boost as your AC and MAP. A rising tide of lactic acid raises all boats. Oh, and clocking in at one hour and 40 minutes, Blender will also help whip your endurance into a frenzy.\n",
+              "intensity": {
+                "master": null,
+                "nm": 1,
+                "ac": 1,
+                "map": 0.85,
+                "ftp": 0.97
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.696388888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 133,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "ZWePe15MOH",
+              "contentId": "14TmGHiqpC",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cash Register",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+              "intensity": {
+                "master": null,
+                "nm": 0.86,
+                "ac": 0.87,
+                "map": 1,
+                "ftp": 1
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5380555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "HSb6Gc8uIZ",
+              "contentId": "6LnpmGMTMG",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

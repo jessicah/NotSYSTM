@@ -1,0 +1,30 @@
+{
+  "uid": "FJQ7z0",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": " High Volume  - 3:1 - Event",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "E7qy64r6OF",
+      "name": "SYSTM Off-Road Triathlon Plan/3:1/High Volume/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "E7qy64r6OF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "Ik9qiW",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "USAT Long Distance",
+  "stepDescription": "Event - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FVgxmT9LLA",
+      "name": "Duathlon USAT Long Distance - Event - High Volume  - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "FVgxmT9LLA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

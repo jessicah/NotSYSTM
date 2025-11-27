@@ -1,0 +1,30 @@
+{
+  "uid": "EzY9w4",
+  "name": "April 19 - Tour of GA Gran Fondo",
+  "description": "Tour of GA Gran Fondo",
+  "stepTitle": "Tour of GA Gran Fondo",
+  "stepDescription": "6 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "bhmKQi6Pfv",
+      "name": "GFNS 2025 - Tour of GA Gran Fondo 4/19/25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "bhmKQi6Pfv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "bmWyCR",
+  "name": "1",
+  "description": null,
+  "stepTitle": "Strength Level 1",
+  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "QXdKtqkY9T",
+      "name": "MultiSport - Strength - 12wk - 2:1 - Level 1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QXdKtqkY9T",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

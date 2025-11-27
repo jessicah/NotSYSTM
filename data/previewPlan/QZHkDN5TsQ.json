@@ -1,0 +1,485 @@
+{
+  "previewPlan": [
+    {
+      "id": "QZHkDN5TsQ",
+      "name": "Grinduro X",
+      "weakness": "NoWeakness",
+      "grouping": "Grinduro Germany",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Get ready to conquer the Grinduro X event on May 25 with our comprehensive 3-week Wahoo SYSTM cycling plan, designed to elevate your performance to new heights. This specialized program not only focuses on optimizing your cycling strength and endurance but also integrates yoga sessions and mental cross-training to ensure you\u0027re physically and mentally prepared for the challenge ahead.\n\n\u200B\n\nOur training plan is designed by our extremely knowledgable sports science team and is tailored to help you tackle the diverse terrain of Grinduro, combining intense cycling workouts with rejuvenating yoga sessions to enhance flexibility and recovery. Additionally, our mental cross-training exercises will sharpen your focus and fortify your determination, empowering you to push through any obstacles on race day. Join us on this transformative journey and unleash your full potential at Grinduro X!\n\n\u200B\n\nIf you are in need of any technical help or want to know more about the training terms used in this plan check out the [Wahoo SYSTM Help Center.](https://wahoosystm.com/HelpCenter)\n\n\u200B\n\nHave a more specific question that isn\u0027t addressed in the Help Center? Head over to our [forum](https://wahoox.forum.wahoofitness.com/) to see if your question has been answered, or just post it for yourself.\n",
+      "planDescription": "Essential Cycling 2:1 Block 8 (Wks 22-24)",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2024-05-03T13:49:44.933Z",
+      "updatedAt": "2025-07-01T16:07:00.96Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "Essential Cycling 2:1 Block 8 (Wks 22-24)"
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 297,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Start of Block 8:  Essential Cycling 2:1",
+              "style": null,
+              "compatibility": 100,
+              "description": "Welcome to block 8 of your plan. This block is part of a 24 week 2:1 progression that will give you the core cycling sessions that you need for effective training.\n\n\u200B\n\nIf you are in need of any technical help or want to know more about the training terms used in this plan check out the [Wahoo SYSTM Help Center.](https://support.wahoofitness.com/hc/en-us/articles/11178173005970-Essential-Training-Plans)\n\n\u200B\n\nHave a more specific question that isn\u2019t addressed in the Help Center? Head over to our [forum](https://wahoox.forum.wahoofitness.com/) to see if your question has been answered, or just post it for yourself.\n\n\u200B\n\nWant to do a workout outside? Learn how to [here](https://support.wahoofitness.com/hc/en-us/articles/7671514838674-Wahoo-SYSTM-Outdoor-Structured-Workouts).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "XJvy3CTyLo",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 288,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour Down Under 2",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured Rider:** Nicole Frain, National Champion of Australia \uD83E\uDD47\n\n**Event:** Santos Tour Down Under Festival of Cycling - Stage 2 \uD83C\uDDE6\uD83C\uDDFA\n\n**Mission** - \u201CGain time on GC\u201D - Having finished 3rd on Stage 1, Nicole is now in a position to fight for a top overall placing. Wearing the National Champion\u2019s jersey makes her a marked rider, of course, but Nicole is determined to break the field up on the long gravel climb and try for some of the intermediate sprints. Joining with 48 kilometers to go, ride along as Nicole and experience the thrilling race finale exactly as she did - but relative to your own fitness. Can Nicole - can you - finish on the podium for the second day in a row?\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.4841666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.77
+              },
+              "workoutId": "r7TVMoFrEL",
+              "contentId": "II4EJcQJde",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 289,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Galicia: Camarinas to Muxia",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u2019s time for a wild coastal adventure with your host, Michael Cotty, across some of the stunning undulating roads of Galica, Spain. You\u2019ll start at a historic lighthouse on the \u2018Coast of Death\u2019 before working your way deep into the rugged landscape that defines this region. The road will guide your workout, with big efforts up every hill and a chance to take it a bit easier on the descents. It\u2019s not all hard work, though, Mike takes the time to show you around the fishing marina, where to find the \u2018hunger herb\u2019 and some of the sights around our finishing village, Muxia.\n\n\u200B\n\nThis is a great session for anyone who wants to get in a bit of sprint/anaerobic capacity efforts while laying down some solid aerobic time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7392408454)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1294444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 91,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "qRN0Ywpez8",
+              "contentId": "k0ZyP1kZrU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 290,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Endurance  4",
+              "style": null,
+              "compatibility": 100,
+              "description": "The goal of this workout is to help develop your baseline aerobic fitness. While we are all about the High-Intensity Interval Training that most of our videos dish out, there are just times in a well-structured training plan that a proper Endurance/Base ride is just what your body needs.\n\nThis session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing. Steady Long Endurance rides are one of the best ways to cap off a long 2 or 3-week training block when your fatigue is high, your legs are tired, but you have just a bit more to squeeze out of yourself before you take your rest week, but only if you do it right!\n\n\u200B\n\nMost people ride too hard when they head out for their \u0022base miles.\u0022 Truth be told, a proper Zone 2 ride should not leave you fatigued or your legs wasted. So what does a \u0022proper\u0022 Zone 2 ride look like?\n\nFor 90% of the ride, you should stay between 55% and 65% of your FTP, at times going up to 70% is ok, but not over. (To spice things up, we have broken this session into 10-minute segments alternating from 60 to 65% of FTP.) Your heart rate should be sitting in mid to low Zone 2 heart rate, which is 70-80% of LTHR, up to 85% of LTHR, but not for long. It would be best if you held the highest comfortable cadence you can, for most this is 80-90rpm and your RPE should be a 2-4 on a scale of 1-10.\n\n\u200B\n\nSounds simple right? It\u0027s actually one of the harder sessions to get right because you spend most of the time questioning why you are riding so easy, and if this is really going to make you fitter and faster. You will have to trust us on that one! When you see this session in your Training Plan, follow these instructions! Or you might just pay for it when your next hard session comes around.\n\n\u200B\n\n**Warm-Up**\n\n5 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 11\n\nRest Between Sets: 10 minutes @ RPE 3.5 -- 60% of FTP -- HR \u003C80%\n\nInterval Repeats per Set: 1\n\n**Interval**\n\n10 minutes @ RPE 4 -- 65% of FTP -- HR \u003C80%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 4,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 144,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "nbj9gXANpP",
+              "contentId": "R53DW65pkI",
+              "notes": "3-5 hrs\n\n\u200B\n\nWeekend endurance sessions can be accomplished by riding outdoors for the planned duration or by combining riding with other endurance activities for a similar duration. You can also use any INSP workouts in SYSTM to accomplish the intention of the weekend longer endurance rides.\n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 291,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Full Micro Rangers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Micro might mean small, but there\u0027s nothing small about this workout! This session provides a full range of Micro Intervals, from 50 seconds down to 10 seconds, covering the full spectrum of 4DP targets from FTP up to NM. With long recoveries in between sets, you shouldn\u0027t have a problem hitting your targets, but it is still quite a challenging session. While you don\u0027t need to be fully rested and tapered as you would for a test session, you\u0027ll still want to come into this session feeling fairly fresh. \nAlso, just a friendly reminder that this workout is best done in level mode. You could certainly get away with starting in ERG mode and changing to Level mode when you get to the 30-second set (3rd set), however, riding the whole thing in level mode can be a good challenge, especially if you tend to use ERG mode most of the time. \n\nAre you up for a \u0022little\u0022 challenge?\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.25,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 90,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "F1rjEyoRMH",
+              "contentId": "lY0MX1bl86",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": "Cycling",
+          "rank": 292,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour of Norway 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Alexandr RIABUSHENKO of Belarus\n\n**Event:** Tour of Norway\n\n**Mission - \u0022Domestique\u0022:** It\u0027s the first stage of the Tour of Norway. You\u0027ve been chosen to help get your team\u0027s star sprinter, Alexander Kristoff, in position to take the win. You need to be ready to bury yourself in service of your team. It might not be the most glamorous, but it will earn you the respect and admiration of your teammates. There are stars and there are water carriers: today you\u0027re loading up with bottles.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.5219444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 102,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "QkYa3UpfdC",
+              "contentId": "E4AyZV03FF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Cycling",
+          "rank": 293,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Endurance  3",
+              "style": null,
+              "compatibility": 100,
+              "description": "The goal of this workout is to help develop your baseline aerobic fitness. While we are all about the High-Intensity Interval Training that most of our videos dish out, there are just times in a well-structured training plan that a proper Endurance/Base ride is just what your body needs.\n\nThis session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing. Steady Long Endurance rides are one of the best ways to cap off a long 2 or 3-week training block when your fatigue is high, your legs are tired, but you have just a bit more to squeeze out of yourself before you take your rest week, but only if you do it right!\n\n\u200B\n\nMost people ride too hard when they head out for their \u0022base miles.\u0022 Truth be told, a proper Zone 2 ride should not leave you fatigued or your legs wasted. So what does a \u0022proper\u0022 Zone 2 ride look like?\n\nFor 90% of the ride, you should stay between 55% and 65% of your FTP, at times going up to 70% is ok, but not over. (To spice things up, we have broken this session into 10-minute segments alternating from 60 to 65% of FTP.) Your heart rate should be sitting in mid to low Zone 2 heart rate, which is 70-80% of LTHR, up to 85% of LTHR, but not for long. It would be best if you held the highest comfortable cadence you can, for most this is 80-90rpm and your RPE should be a 2-4 on a scale of 1-10.\n\n\u200B\n\nSounds simple right? It\u0027s actually one of the harder sessions to get right because you spend most of the time questioning why you are riding so easy, and if this is really going to make you fitter and faster. You will have to trust us on that one! When you see this session in your Training Plan, follow these instructions! Or you might just pay for it when your next hard session comes around.\n\n\u200B\n\nWarm-Up\n\n5 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70%\n\n\u200B\n\nMain Effort\n\nNumber of Sets\n\n8.5\n\nRest Between Sets: 10 minutes @ RPE 3.5 -- 60% of FTP -- HR \u003C80%\n\nInterval Repeats per Set\n\n1\n\nInterval: 10 minutes @ RPE 4 -- 65% of FTP -- HR \u003C80%\n\n\u200B\n\nExtra Volume\n\nN/A\n\n\u200B\n\nCool Down\n\n5 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 3,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 107,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "8JKSfu17fM",
+              "contentId": "0jGdGoG1Rq",
+              "notes": "2-4 hrs\n\n\u200B\n\nWeekend endurance sessions can be accomplished by riding outdoors for the planned duration or by combining riding with other endurance activities for a similar duration. You can also use any INSP workouts in SYSTM to accomplish the intention of the weekend longer endurance rides.\n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Custom",
+          "rank": 294,
+          "prospects": [
+            {
+              "type": "Custom",
+              "name": "Recovery Week",
+              "style": null,
+              "compatibility": 100,
+              "description": "Take it easy this week! Prioritize recovery and nutrition to ensure that your body is prepared to take on your next training block.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "RcTmd40GN9",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "type": "Cycling",
+          "rank": 295,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6011111111111112,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 20,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "rUrrfvb8ii",
+              "contentId": "p6E2zIaYNZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "type": "Cycling",
+          "rank": 296,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Endurance 1.5",
+              "style": null,
+              "compatibility": 100,
+              "description": "The goal of this workout is to help develop your baseline aerobic fitness. While we are all about the High-Intensity Interval Training that most of our videos dish out, there are times in a well-structured training plan that a proper Endurance/Base ride is just what your body needs.\n\n\u200B\n\nThis session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing. Steady Long Endurance rides are one of the best ways to cap off a long 2 or 3-week training block when your fatigue is high and your legs are tired, but you have just a bit more to squeeze out of yourself before you take your rest week. Shorter Endurance rides (like this one) can fit in both a hard week of training and a recovery week. That is, only if you do it right! Most people ride too hard when they head out for their \u0022base miles.\u0022\n\n\u200B\n\nTruth be told, a proper Zone 2 ride, especially one under 90 minutes should not leave you fatigued or your legs wasted.\n\nSo what does a \u0022proper\u0022 Zone 2 ride look like? For 90% of the ride, you should stay between 55% and 65% of your FTP, at times going up to 70%, but not over. (To spice things up, we have broken this session into 10-minute segments alternating from 60 to 65% of FTP.) Your heart rate should be sitting in low to mid Zone 2 heart rate, which is 70-80% of LTHR up to 85% of LTHR, but not for long. It would be best if you held the highest comfortable cadence you can; for most this is 80-90rpm. Also, your RPE should be a 2-4 on a scale of 1-10.\n\n\u200B\n\nSounds simple right? It\u0027s actually one of the harder sessions to get right because you spend most of the time questioning why you are riding so easy, and if this is really going to make you fitter and faster, but you will have to trust us on this one! When you see this session in your Training Plan, follow these instructions, or you might just pay for it when your next hard session comes around.\n\n\u200B\n\n**Warm Up**\n\n5 minutes @ RPE 3 -- 55% of FTP -- HR \u003C70%\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: 10 minutes @ RPE 3.5 -- 60% of FTP -- HR \u003C80%\n\nInterval Repeats Per Set: 4\n\n**Interval**\n\n10 minutes @ RPE 4 -- 65% of FTP -- HR \u003C80%\n\n**Extra Volume**\n\nNA\n\n**Cool Down**\n\n5 minutes @ RPE 2.5 -- 50% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.5,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 52,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "tzTwzPCAqr",
+              "contentId": "18VxkKVYn4",
+              "notes": "1-2 hrs\n\n\u200B\n\nWeekend endurance sessions can be accomplished by riding outdoors for the planned duration or by combining riding with other endurance activities for a similar duration. You can also use any INSP workouts in SYSTM to accomplish the intention of the weekend longer endurance rides.\n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "type": "Event",
+          "rank": 298,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Completed Essential Cycling 2:1 Block 8",
+              "style": null,
+              "compatibility": 100,
+              "description": "Congratulations on completing your 2:1 Essential Cycling plan.\n\n\u200B\n\nIf you are in need of any technical help or want to know more about the training terms used in this plan check out the [Wahoo SYSTM Help Center.](https://support.wahoofitness.com/hc/en-us/articles/11178173005970-Essential-Training-Plans)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "Pit75HtaDU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

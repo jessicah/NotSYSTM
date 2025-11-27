@@ -1,0 +1,317 @@
+{
+  "id": "eN9tUMFU1V",
+  "name": "AWW Emily B",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "None",
+  "subcategory": "None",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2022-01-17T20:25:15.475Z",
+  "updatedAt": "2022-01-18T19:27:45.544Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "MountainBiking",
+      "rank": 1,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Intro",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.675,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "JDmomP9RDy",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "MountainBiking",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Monday",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5108333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "7OwxmpYXAL",
+          "contentId": "6K0auciGPu",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "MountainBiking",
+      "rank": 250,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Monday STR",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "ZNx6nkgZFQ",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "MountainBiking",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Tuesday\n",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7108333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 48,
+            "intensityFactor": 0.84
+          },
+          "workoutId": "dDHeoqpjgC",
+          "contentId": "gpD8pOKQdP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "MountainBiking",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Wednesday",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5222222222222223,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 19,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "JE4jFY0MwY",
+          "contentId": "TW5muU7khh",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "MountainBiking",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Thursday",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0058333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 66,
+            "intensityFactor": 0.77
+          },
+          "workoutId": "jfX9RDDBDf",
+          "contentId": "8ZbIYgtoUF",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "MountainBiking",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MountainBiking",
+          "name": "[Beta] AWWEB - Friday",
+          "style": null,
+          "compatibility": 100,
+          "description": "Not ready for testing yet.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.5930555555555554,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 40,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "Yrzixln71z",
+          "contentId": "BQXylX58M1",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

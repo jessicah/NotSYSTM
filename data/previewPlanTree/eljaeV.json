@@ -1,0 +1,296 @@
+{
+  "uid": "eljaeV",
+  "name": "XC",
+  "description": "Traditional cross country racing; 20-40 km",
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "uF9jvB",
+      "name": "Low",
+      "description": null,
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "VXQzWK",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "PC1Yw0",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "MWQnal",
+              "name": "No",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "Mb7ppx",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "iOmLeR",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "V1PwcT",
+              "name": "No",
+              "description": null,
+              "stepTitle": "MTB Marathon",
+              "stepDescription": " Season Prep - Low Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "pVzdfn",
+      "name": "Moderate",
+      "description": null,
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "qYAt7R",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "TP8zcf",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "K18mr8",
+              "name": "No",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "hzviPo",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "iJcfnX",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "c0gHZi",
+              "name": "No",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "lSr6u5",
+      "name": "High",
+      "description": null,
+      "stepTitle": "Progression",
+      "stepDescription": "The weekly work to rest ratio ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "VAZuAF",
+          "name": "3:1",
+          "description": "3 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "KQVX4k",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "STAUwL",
+              "name": "No",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "2GCfeU",
+          "name": "2:1",
+          "description": "2 hard weeks followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "rCLAyo",
+              "name": "Yes",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "dwJgKp",
+              "name": "No",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

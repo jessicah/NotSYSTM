@@ -1,0 +1,104 @@
+{
+  "uid": "NqyXyt",
+  "name": "Post-Tour-Testing",
+  "description": "Plans to help you recover and see all of your ToS fitness gains ",
+  "stepTitle": "Fatigue Level ",
+  "stepDescription": "How fatigued are you at the end of the Tour?",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "2D93n0",
+      "name": "Exhausted ",
+      "description": null,
+      "stepTitle": "Post Tos Plan",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "xx4Jti",
+          "name": "2022 Post ToS - Very Fatigued ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "aBrHBGWNFI",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "AWVNM8",
+      "name": "Moderately Fatigued ",
+      "description": null,
+      "stepTitle": "Post Tos Plan",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ctgNYLpxz2",
+          "name": "2022 Post ToS - Tired",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ctgNYLpxz2",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "q0jvJ3",
+      "name": "Feeling Fresh",
+      "description": null,
+      "stepTitle": "Post Tos Plan",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "12bb7Dw1MP",
+          "name": "2022 Post ToS - Fresh",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "12bb7Dw1MP",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "uid": "q8u29s",
+  "name": "High",
+  "description": "8-12 hours/week",
+  "stepTitle": "KoS Prep",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "jN66UA",
+      "name": "KoS - 6 Week - High Volume - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Ih0AAqOnj7",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "yocoHKnuhp",
+      "name": "Grinduro - 6 Week - 2:1 - Moderate Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yocoHKnuhp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

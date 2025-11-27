@@ -1,0 +1,497 @@
+{
+  "uid": "QysTMg",
+  "name": "New Routine",
+  "description": "Low-impact plans to help you establish a daily training routine.",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "i9AWDw",
+      "name": "Running",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "9VzvW4",
+          "name": "Event",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VpGkg8",
+              "name": "5k",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            },
+            {
+              "uid": "8WvEgU",
+              "name": "10k",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "DAyPBS",
+              "name": "1/2 ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "euRSnG",
+              "name": "Full",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "HAo9wl",
+              "name": "Ultra",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "RRKx9q",
+          "name": "Milage Builder ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "sV7tfi",
+              "name": "Low",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "yx9s3I",
+              "name": "Moderate",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "ewEI5Y",
+              "name": "High",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "wlYdHB",
+          "name": "Running v1/0",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "fHaAatcJPG",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "1tczVr",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks are you ready to commit to your new habit? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FXFlg2",
+          "name": "2 Weeks",
+          "description": null,
+          "stepTitle": "New Routine",
+          "stepDescription": "2-Weeks",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VjLRby",
+              "name": "Habit Forming 2 weeks ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "5Cc1S35Aaw",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "2YTNQm",
+          "name": "4 Weeks",
+          "description": null,
+          "stepTitle": "New Routine",
+          "stepDescription": "4-Weeks",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "PpSDyM0NQG",
+              "name": "Habit Forming 4 weeks",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "PpSDyM0NQG",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "hNlrYQ",
+          "name": "8 Weeks",
+          "description": null,
+          "stepTitle": "8 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "m8wmKo",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "12 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "zogZoO",
+          "name": "16 Weeks",
+          "description": null,
+          "stepTitle": "16 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "cnED4y",
+          "name": "20 Weeks",
+          "description": null,
+          "stepTitle": "20 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "9n92el",
+          "name": "24 Weeks",
+          "description": null,
+          "stepTitle": "20 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "boYHBpozIy",
+              "name": "Essential Cycling 2:1 Block 4 (Wks 10-12)",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "boYHBpozIy",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            },
+            {
+              "uid": "Ie7EmL",
+              "name": "2:1 ",
+              "description": "",
+              "stepTitle": "24 Week New Routine",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": true,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "iyNBVZ",
+                  "name": "Basic Training Plan 24 Wks 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "P3aTOT2AJ3",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "619zoI",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks are you ready to commit to your new habit? ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GcBinT",
+          "name": "6 Weeks",
+          "description": "",
+          "stepTitle": "New Routine",
+          "stepDescription": "6-Weeks",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Adxvn8",
+              "name": "Habit Forming 6 weeks",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "pPjoB1uNCc",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "U7z9Qv",
+          "name": "6 Weeks - New ",
+          "description": null,
+          "stepTitle": "6 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "4egjCm",
+          "name": "9 Weeks",
+          "description": null,
+          "stepTitle": "9 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "Dw5rOI",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "12 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "Xt2A3h",
+          "name": "15 weeks",
+          "description": null,
+          "stepTitle": "15 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "BM9Iy4",
+          "name": "18 Weeks ",
+          "description": null,
+          "stepTitle": "18 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "5RH3Nd",
+          "name": "21 Weeks",
+          "description": null,
+          "stepTitle": "21 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "TzhZ2z",
+          "name": "24 Weeks",
+          "description": null,
+          "stepTitle": "24 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

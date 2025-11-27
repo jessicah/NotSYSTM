@@ -1,0 +1,30 @@
+{
+  "uid": "JtYodJ",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Rapha HC/TT",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "aukkxFNo2A",
+      "name": "RAPHA HC/TT",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "aukkxFNo2A",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "YrYqZ2",
+  "name": "Italy",
+  "description": "September 28th",
+  "stepTitle": "Grinduro Italy",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "lQ89WG7r5k",
+      "name": "Grinduro Italy 6 week ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "lQ89WG7r5k",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

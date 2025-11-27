@@ -1,0 +1,30 @@
+{
+  "uid": "JbiZNK",
+  "name": "2 Sessions/Week",
+  "description": "About 30 minutes per week",
+  "stepTitle": "Novice Yoga - 2 sessions per week",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "eYoof7",
+      "name": "Beginner Yoga - 2 Sessions/week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "qyEHtYpkzR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

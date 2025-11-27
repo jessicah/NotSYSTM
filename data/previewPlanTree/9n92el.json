@@ -1,0 +1,60 @@
+{
+  "uid": "9n92el",
+  "name": "24 Weeks",
+  "description": null,
+  "stepTitle": "20 Week New Routine",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "boYHBpozIy",
+      "name": "Essential Cycling 2:1 Block 4 (Wks 10-12)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "boYHBpozIy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "Ie7EmL",
+      "name": "2:1 ",
+      "description": "",
+      "stepTitle": "24 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "iyNBVZ",
+          "name": "Basic Training Plan 24 Wks 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "P3aTOT2AJ3",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

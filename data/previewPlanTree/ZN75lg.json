@@ -1,0 +1,74 @@
+{
+  "uid": "ZN75lg",
+  "name": "3:1",
+  "description": "Three weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ircZ8y",
+      "name": "Yes",
+      "description": "Includes the appropriate amount of strength training",
+      "stepTitle": "Sprint Distance ",
+      "stepDescription": "Sprint Distance - High Volume  - 3:1 - Season Prep - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GDfGiSEZfQ",
+          "name": "SYSTM Sprint Triathlon Plan/3:1/High Volume/Season Prep/Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "GDfGiSEZfQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "Eyy7Bn",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Sprint Distance",
+      "stepDescription": "Sprint Distance - High Volume  - 3:1 - Season Prep",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "qTrVd8G5v4",
+          "name": "SYSTM Sprint Triathlon Plan/3:1/High Volume/Season Prep",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "qTrVd8G5v4",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "COWHCH",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Strength Level 3",
+  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "F8Lv31I5Cj",
+      "name": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "F8Lv31I5Cj",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "JCqvtX",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "eSports ",
+  "stepDescription": "eSports - 3:1 - Moderate Volume - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "7Hk0DdE9sS",
+      "name": "eSports - 3:1 - Moderate Volume / strength ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "7Hk0DdE9sS",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

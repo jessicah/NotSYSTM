@@ -1,0 +1,46 @@
+{
+  "uid": "ddIs2E",
+  "name": "No",
+  "description": "Would you like to incorporate Strength Training into your plan? ",
+  "stepTitle": "SBT GRVL Red Route",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "OELjYd4BoP",
+      "name": "2023 SBT GRVL - Red Course - Low Volume - 3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "OELjYd4BoP",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "6Umdzcveqf",
+      "name": "2024 SBT GRVL - Red Course - Low Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "6Umdzcveqf",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

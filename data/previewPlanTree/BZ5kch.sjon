@@ -1,0 +1,30 @@
+{
+  "uid": "BZ5kch",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Running Strength Level 3",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "R9opFW",
+      "name": "Run Strength: Level 3 - 12 wks 2:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "SAhpA4EkHh",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid": "H5aZA7",
+  "name": "Winter Foundation Training",
+  "description": "Winter Foundation Training",
+  "stepTitle": "Winter Foundation Training",
+  "stepDescription": "Winter Foundation Training",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GRfrv9",
+      "name": "2:1 Progression",
+      "description": "16 week training plan starting October 27",
+      "stepTitle": "2:1 Progression",
+      "stepDescription": "",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "xnrBA2dA8f",
+          "name": "Dirty Reiver Essential Cycling 2:1 Full (Wks 1-24)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "xnrBA2dA8f",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "58Uee9",
+      "name": "3:1 Progression",
+      "description": "16 week training plan starting October 27",
+      "stepTitle": "3:1 Progression",
+      "stepDescription": "",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "YxomKmUY05",
+          "name": "Dirty Reiver Essential Cycling 3:1 Block 6 (Wks 21-24)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "YxomKmUY05",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

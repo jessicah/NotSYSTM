@@ -1,0 +1,194 @@
+{
+  "id": "M9rE29CNNO",
+  "name": "MTP Event Week ",
+  "weakness": "NoWeakness",
+  "grouping": "Event Week Mental Training Sessions",
+  "category": "None",
+  "subcategory": "None",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "MentalTraining",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-08-28T01:42:11.687Z",
+  "updatedAt": "2021-09-25T18:32:25.363Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "MentalTraining",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MentalTraining",
+          "name": "18. Setting Event Goals",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get clear on what an event really means to you and what your event-specific goals are.\n\n\u200B\n\n\u0022If you are going to win any battle, you have to do one thing: you have to make the mind run the body.\u0022\n\n~ George S. Patton\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.10333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 11,
+            "intensityFactor": 0.98
+          },
+          "workoutId": "tGTYuUtF3P",
+          "contentId": "0OjVsJUVL3",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "MentalTraining",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MentalTraining",
+          "name": "19. Planning For Every Event Scenario",
+          "style": null,
+          "compatibility": 100,
+          "description": "Show up prepared by identifying things that could happen during the course of the event and how to deal with them.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.17722222222222223,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 19,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "RHIcIKJGrw",
+          "contentId": "LbR1YUp0s8",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "MentalTraining",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MentalTraining",
+          "name": "21. How Did it Go?",
+          "style": null,
+          "compatibility": 100,
+          "description": "Once the dust has settled and your heart rate has returned to normal levels, listen to this module. It\u0027s meant to be completed 15 minutes after the event ends. Part two of this exercise is completed the next day when you\u2019ve had time to process and reflect on everything that happened during the event day.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.1338888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 14,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "i4LQOKHyns",
+          "contentId": "h7t11MeQFl",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "MentalTraining",
+      "rank": 1000,
+      "prospects": [
+        {
+          "type": "MentalTraining",
+          "name": "20. Preparing To Crush It",
+          "style": null,
+          "compatibility": 100,
+          "description": "This pre-event visualization exercise will help you get in the zone to deliver what athletes and sports psychologists call a \u201Cpeak performance;\u201D it\u2019s when everything flows and operates at the highest level almost without any effort.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.14555555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 15,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "LhDAu8UJr9",
+          "contentId": "Au7PJtDXCe",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

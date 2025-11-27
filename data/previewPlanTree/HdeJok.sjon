@@ -1,0 +1,30 @@
+{
+  "uid": "HdeJok",
+  "name": "MultiSport",
+  "description": null,
+  "stepTitle": null,
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "CLOCLI3HXn",
+      "name": "SYSTM Strength Level 2 Multisport 2 on/1 off (non-event)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "CLOCLI3HXn",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

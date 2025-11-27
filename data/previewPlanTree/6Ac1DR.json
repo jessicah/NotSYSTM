@@ -1,0 +1,30 @@
+{
+  "uid": "6Ac1DR",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "AC/NM Block",
+  "stepDescription": "AC/NM Block - Low Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "xHh4WsThBH",
+      "name": "AC/NM Block - Medium Volume - 2:1   (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "xHh4WsThBH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

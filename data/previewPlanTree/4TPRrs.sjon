@@ -1,0 +1,30 @@
+{
+  "uid": "4TPRrs",
+  "name": "2:1",
+  "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+  "stepTitle": "Tempo Block",
+  "stepDescription": "Moderate Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "DTj2JesR9b",
+      "name": "Building Block-Tempo -Medium-2:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "DTj2JesR9b",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

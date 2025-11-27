@@ -1,0 +1,30 @@
+{
+  "uid": "xqVXL3",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": " Moderate Volume  - 3:1 - Event  Prep - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "8hz5ImgkTO",
+      "name": "SYSTM Xterra Triathlon Plan/3:1/Ends on race day (clone)*DEC2020 Mod Volume ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8hz5ImgkTO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

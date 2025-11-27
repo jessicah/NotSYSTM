@@ -1,0 +1,74 @@
+{
+  "uid": "2oAGZN",
+  "name": "2:1",
+  "description": "Two weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "gGDYoe",
+      "name": "Yes",
+      "description": "Includes the appropriate amount of strength training",
+      "stepTitle": "Olympic Distance",
+      "stepDescription": "Olympic Distance - Moderate Volume  - 2:1 - Season Prep - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "HnzGyRAjXK",
+          "name": "SYSTM Olympic Triathlon Plan/Mod Volume/2:1/Season Prep/Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "HnzGyRAjXK",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "m4xZVO",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Olympic Distance",
+      "stepDescription": "Olympic Distance - Moderate Volume  - 2:1 - Season Prep",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "3GCA7JPmYL",
+          "name": "SYSTM Olympic Triathlon Plan/2:1/Mod Volume/Season Prep",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "3GCA7JPmYL",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

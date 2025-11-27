@@ -1,0 +1,134 @@
+{
+  "uid": "ZPTmKX",
+  "name": "Go Beyond FTP",
+  "description": "Focus on your 4DP",
+  "stepTitle": "Unlock your full potential",
+  "stepDescription": "Gain access to our unique 4DP methodology guaranteed to make you a better athlete. ",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "U0uwOh",
+      "name": "Endurance",
+      "description": "Functional Threshold Power",
+      "stepTitle": "Go Beyond FTP",
+      "stepDescription": "Unlock your full potential",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "XXfscDmAGU",
+          "name": "FTP Block 3:1 - Low Volume   (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "XXfscDmAGU",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "3W73JU",
+      "name": "Tempo",
+      "description": "Maximal Aerobic Power",
+      "stepTitle": "Go Beyond FTP",
+      "stepDescription": "Unlock your full potential",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "nelCMJtLWz",
+          "name": "MAP Block - Low Volume - 3:1 (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "nelCMJtLWz",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "U38lhY",
+      "name": "Attack",
+      "description": "Anaerobic Capacity",
+      "stepTitle": "Go Beyond FTP",
+      "stepDescription": "Unlock your full potential",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "1BjG3aEwIn",
+          "name": "AC/NM Block - Low Volume - 3:1   (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "1BjG3aEwIn",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "d3poFG",
+      "name": "Sprint",
+      "description": "Neuromuscular",
+      "stepTitle": "Go Beyond FTP",
+      "stepDescription": "Unlock your full potential",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "wlq2vj3xKd",
+          "name": "NM Block - Low Volume - 3:1   (clone)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "wlq2vj3xKd",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

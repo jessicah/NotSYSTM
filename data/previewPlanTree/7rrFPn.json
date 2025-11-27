@@ -1,0 +1,30 @@
+{
+  "uid": "7rrFPn",
+  "name": "2 Sessions/Week",
+  "description": "About 30 minutes per week",
+  "stepTitle": "Expert Yoga - 2 Sessions/Week",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ELhPlLLynu",
+      "name": "Advanced Yoga - 2 Sessions/week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ELhPlLLynu",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

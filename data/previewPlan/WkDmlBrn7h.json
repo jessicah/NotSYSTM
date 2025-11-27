@@ -1,0 +1,731 @@
+{
+  "previewPlan": [
+    {
+      "id": "WkDmlBrn7h",
+      "name": "Suzie\u0027s multisport-madness",
+      "weakness": "NoWeakness",
+      "grouping": "You brought this onto yourself ",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### How crazy are you?\n\nFor this plan, you must be crazy enough to:\n\n- Swim 5 days/week  \n- Cycle 7 days/week  \n- Run 6 days/week\n\n_AND Add strength, yoga and MTP_  \n",
+      "planDescription": "Let\u0027s go crazy for triathlon!",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Multisport",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2020-12-11T18:08:30.158Z",
+      "updatedAt": "2024-11-25T17:16:51.057Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "this is just a test"
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "1 set of 4, Broken 400\u0027s",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm-up**\n\n200m @ RPE 3 -- Z2\n\nRecovery: 15s rest\n\n\u200B\n\n**Activation**\n\n200m @ RPE 3 -- Z2 (alternate drill/swim every 25m)\n\nRecovery: 15s rest\n\n100m Kick/swim @ RPE 4 -- Z2 (change every 25m)\n\nRecovery: 15s rest\n\n100m Build RPE 3 -- Z2 to RPE 8 -- Z4b\n\nRecovery: 15s rest\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 1\n\nInterval 1: 400m @ RPE 6 -- Z3\n\nRecovery: 30s rest\n\nInterval 2: 2 x 200m @ RPE 7 -- Z4a\n\nRecovery: 20s rest\n\nInterval 3: 4 x 100m @ RPE 8 -- Z4b\n\nRecovery: 15s rest\n\nInterval 4: 8 x 50m @ RPE 9 -- Z5\n\nRecovery: 10s rest\n\n\u200B\n\n**Cool down**\n\n200m @ RPE 4 -- Z3 gradually fading to RPE 1 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2400m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 42,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "eUCDuSGc19",
+              "contentId": "MSWEiCzuYp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "10 x 75 Descending",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warmup:**\n\n400m @ RPE 3 -- Z2\n\n15s rest\n\n100m kick on side @ RPE 4 -- Z2 (change sides each 25m)\n\n15s rest\n\n4 x 50m (drill 25m \u002B swim 25m) @ RPE 3 -- Z2\n\n15s rest\n\n\u200B\n\n**Activation**\n\n4 x 50m, build RPE 3 -- Z2 building to RPE 9 -- Z5\n\nRecovery: 20s between each\n\n\u200B\n\n**Main Effort**\n\n6 x 75m @ RPE 5 -- Z3 (10 sec rest)\n\n3 x 75m @ RPE 7 -- Z4a (20 sec rest)\n\n1 x 75m @ RPE 10 -- Z6 all out! (30 sec rest)\n\n\u200B\n\n**Cool down**\n\n100m @ RPE 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1750m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 54,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "",
+              "contentId": "DfQjYs5UcY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "2 sets: Easy/Fast 500\u0027s",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\n300m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 50m Drill @ RPE 2 -- Z1\n\nRecovery: 20 seconds rest\n\n**Activation 2**\n\nNumber of Sets: 4\n\nInterval Distance: 50m starting @ RPE 3 -- Z2, building to RPE 7 -- Z4a\n\nRecovery: 15 seconds rest\n\n\u200B\n\n**Main Set**\n\nSet 1:\n\n25m @ RPE 2 -- Z1\n\n25m @ RPE 7 -- Z4a\n\n50m @ RPE 2 -- Z1\n\n50m @ RPE 7 -- Z4a 75m @ RPE 2 -- Z1\n\n75m @ RPE 7 -- Z4a\n\n100m @ RPE 2 -- Z1\n\n100m @ RPE 7 -- Z4a\n\nRecovery: 60 seconds rest\n\n**Set 2:**\n\n100m @ RPE 2 -- Z1\n\n100m @ RPE 7 -- Z4a\n\n75m @ RPE 2 -- Z1\n\n75m @ RPE 7 -- Z4a\n\n50m @ RPE 2 -- Z1\n\n50m @ RPE 7 -- Z4a\n\n25m @ RPE 2 -- Z1\n\n25m @ RPE 7 -- Z4a\n\nRecovery: 60 seconds rest\n\n\u200B\n\n**Extra Volume:**\n\nNumber of Sets: 4\n\nInterval Distance and Effort: 25m @ RPE 10 -- Z6\n\nRecovery: 30 seconds rest\n\n\u200B\n\n**Cool Down**\n\n300m stroke of your choice @ RPE \u003C2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2000m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 48,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "S9ddGjyBSm",
+              "contentId": "enAZbNwoUp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "2 x (10 x 50) Best Average",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm-up**\n\n400 @ RPE 2 -- Z1\n\nRecovery: 15s rest\n\n300 pull @ RPE 3-4 -- Z2\n\nRecovery: 15s rest\n\n200 Kick @ RPE 3-4 -- Z2\n\nRecovery: 15s rest\n\n100 swim @ RPE 5 -- Z3\n\nRecovery: 15s rest\n\n\u200B\n\n**Activation**\n\nNumber of Sets: 4\n\nEffort 1: 50m @ RPE 3 -- Z2: drill 25m \u002B swim 25m\n\nRecovery: 15s rest between each\n\nNumber of Sets: 4\n\nEffort 2: 50m: 20/30m Build: (20m @ RPE 2 -- Z1, 30m build to RPE 8.5 -- Z5)\n\nRecovery: 15s rest\n\n\u200B\n\n**Main Effort 1**\n\nNumber of Sets: 10\n\nInterval: 50m best average on 1:30 with ankle band, no buoy\n\nRecovery after final effort: 60s rest\n\n**Main Effort 2**\n\nNumber of Sets: 10\n\nInterval: 50m best average on 1:30 with ankle band and buoy\n\nRecovery after final effort: 60s rest\n\n\u200B\n\n**Extra Volume**\n\n200m Pull @ RPE 5 -- Z3 \\*long smooth strokes, perfect form\n\nRecovery: 30s rest\n\n\u200B\n\n**Cool down**\n\n100m swim @ RPE 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n2700m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8333333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 68,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "PHXFboNCD1",
+              "contentId": "mGNsVhBLDt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "2 x (16 x 25m)",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\nNumber of Sets: 1\n\nNumber of Repeats: 6 x 100m @ RPE 3-4-- Z2, Focusing on distance per stroke\n\n20 sec rest\n\n\u200B\n\n**Activation**\n\nNumber of sets: 1\n\nNumber of Repeats: 8\n\nInterval: 50m @ RPE 3-4 -- Z2 as 25 m Side-Glide-Kick drill \u002B 25m swim\n\n- Push off the wall on your side and kick for eight kicks. Keep your ear on your arm and your body straight. Make sure your knees are passing one another when you kick. Eight strokes and then take a good pull with the arm up top. Use this pull to roll you to the other side and repeat the cycle. For variation do this drill with three strokes in between. I.e. on right side with right arm up and left arm at your side. Take a pull with the right, left and right. End with your left arm up and your right arm at your side. This will help improve your body position in the water and if you keep your head on your arm when you are on your side it will help your head position when you breathe. Recovery: 20 sec rest\n\n**Main Set**\n\nNumber of Sets: 2\n\nInterval 1: 16 x 25m @ RPE 9 -- Z5\n\nRecovery: 10 sec rest\n\nInterval 2: (Between sets 1 and 2) 100m backstroke or breaststroke @ RPE 2 -- Z1\n\n\u200B\n\n**Cool Down**\n\n200m @ RPE 2 -- Z1, choice of strokes\n\n\u200B\n\n**Total Distance**\n\n1700m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8333333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 53,
+                "intensityFactor": 0.8
+              },
+              "workoutId": "nmgIILA6iA",
+              "contentId": "irxRSL65hm",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "14 Vise Grips",
+              "style": null,
+              "compatibility": 100,
+              "description": "You can never have too many tools in the shed. After years of lobbying, we finally convinced Grunter von Agony to share his favorite set of implements with us: the fabled _14 Vise Grips_. Taken individually, each of the 14 intervals might appear tame, incapable of inflicting a significant squeeze. But when expertly applied in the correct order, they apply just the right kind of pressure to turn a Couchlandrian into a Sufferlandrian, just like turning coal into diamonds.\n\n\u200B\n\nWhile the duration of each Vise Grip varies (from 30 seconds to 2 minutes), the power targets and recovery durations between them remain constant. The first 30-second interval should feel like a Sunday stroll in the park, but by the end of the first 2-minute Vise Grip, you\u0027ll be cursing Grunter\u0027s name. As the intervals get shorter, time will appear to stretch. That final 30-second effort will feel like an eternity. When you roll up to the second set, you\u0027ll know what you\u0027re in for, so just put your head down and prepare yourself to crush or be crushed.\n\n\u200B\n\nOnce you make it through all 14 Vise Grips, you will have been north of your Maximal Aerobic Power (MAP) for a total of 16 minutes. Changing the duration of the efforts (while keeping the same recovery) stresses your Anaerobic Capacity (AC) in a more dynamic way than, say, a more straightforward on/off session like _Half is Easy_. Since the longer efforts have the same recovery duration as the shorter ones, you will eventually deplete your AC, forcing your body to rely on your MAP to hit the required power targets. As the intervals get shorter in the second half of each set, you\u0027ll find that you have just enough left in the tank to complete the next effort.\n\n\u200B\n\nUltimately this workout combines the advantages of shorter, higher-power intervals with longer recovery (great for building muscular strength) with the advantages of longer, higher-power intervals with inadequate recovery (great for driving up your MAP and improving your AC).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9191666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 2
+                },
+                "tss": 77,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "q92iqWDfcB",
+              "contentId": "PexwKSHyz6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "A Dog\u0027s Life 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "#### TEST TEXT\n\nTest Text2\n\nFilm:\n\nWorkout: The workout accompanying this film is a recovery session, which is a very low-intensity ride. It\u0027s so easy that your power remains at or below 50% of FTP or an RPE less than 2.5, and your heart rate stays in zone 1 the entire time. The intensity and cadence targets will vary throughout this session to keep it interesting (But not so interesting that you can\u0027t pay attention to the film).  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": null,
+                "intensityFactor": 0.48
+              },
+              "workoutId": "GlFQgjaoCE",
+              "contentId": "bpOoVM39dB",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC: 6 x 45s",
+              "style": null,
+              "compatibility": 100,
+              "description": "There\u0027s no getting around the fact that this is a profoundly unpleasant session that will leave your legs feeling like jelly. This session is similar to The Trick, with a few differences. On the plus side, all of the efforts are 15-seconds shorter than those in The Trick. To make up for this, we added two more intervals to this session, bringing the total to 6. That means by the end of this session you will have plowed through 4.5-minutes of AC work.\n\nThis workout is one of the few sessions that we do NOT recommend you complete in ERG mode if you are on a smart trainer. The goal is to hold onto the highest power you can for the full 45-seconds. Inevitably in the later sets, your power will dip before you reach the end of the interval. What we want is for you to complete every effort having given everything for 45-seconds. We don\u0027t want ERG mode grinding you to a halt because you cannot maintain the (ridiculously) high power targets. Even if you drop down below FTP in the final 10-seconds of these efforts, as long as you are going flat out, you are doing it correctly.\n\nJust take this session one interval at a time, and focus on giving your all for this one effort. You can worry about the others when you get to them. If you finish this session without swearing, then you didn\u0027t go hard enough!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE -- 50% of FTP -- HR \u003C70\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C70\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C70\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C90\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 9 -- 120% of FTP -- HR \u003E105\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 10 -- 200% of FTP -- HR \u003E105\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 6\n\nRest Between Sets: 5 minutes 15 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\nInterval Repeats Per Set: N/A\n\n**Interval**\n\nEffort: 45 seconds @ RPE 9.5 -- 150% of FTP -- HR \u003E105\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n4 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 1
+                },
+                "tss": 61,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "rLJWul8fjz",
+              "contentId": "lsGTR48cBt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Blender (Mini Version)",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Mini Blender_ takes all the best parts of the SUF classic _Blender_ and condenses them into a workout that\u0027s less than 60-minutes long. The sustained efforts at the start ensure your Anaerobic Capacity (AC) and Maximal Aerobic Power (MAP) are really put to the test during the two sets of micro-intervals (the dreaded \u0022Pain Shakes\u0022). Just like the regular _Blender_, throwing some shorter threshold efforts your way after those AC and MAP builders means that your FTP doesn\u2019t get left out. A perfect session for those who want to hit lots of improvement areas within an hour.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9058333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 72,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "J76BUNUCLe",
+              "contentId": "i0cPf4mAxq",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Serbia Upside Down Ep. 4",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film: Serbia. A small country in the Balkan Peninsula that hides some of the most beautiful natural wonders and unique cultural heritage in this part of the world. Yet it remains unknown to many. Only the alternative, curious and brave plan their journeys in this hidden gem. However, a small self-organized crew from Serbia and Germany set a mission to discover and reveal those stunning natural creations of Serbia. On a bicycle. In just five days, they traversed 450 kilometers across six mountains of Western Serbia, and climbed around 11,000 meters to film and produce what you are about to experience.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4261111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 15,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "6ITstvyaRu",
+              "contentId": "xQ2H675VAR",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Angels",
+              "style": null,
+              "compatibility": 100,
+              "description": "If you were eating lunch, eight minutes wouldn\u0027t seem like a lot of time. If you were on a beach, it would be cruel to only be there for eight minutes. But during the eight-minute efforts in _Angels_, you\u0027ll think that it\u0027s never going to end. The focus on lower cadences and power targets near or above FTP makes this session perfect for improving your ability to crush shorter climbs. The longer efforts are designed to target your sustained aerobic system, which is great for improving FTP. They\u0027re also just short\u2014 and difficult\u2014enough that you can drive improvements in Maximal Aerobic Power.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9141666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 78,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "10QilUgeAj",
+              "contentId": "xzCdnkKwU1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "FTP Over-Unders: 3 Sets 8 x 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over-Unders are one of those tried and true sessions that folks have been using for years to improve their FTP and get faster.\n\n\u200B\n\nThis session works on the same physiological principal as sessions like Who Dares and Fight Club. Those sessions hit you with short efforts well above FTP, followed by longer efforts moderately below FTP.\nThe concept is simple: you alternate blocks of time just below your FTP, with equal duration blocks just above your FTP. For this session, each interval is 8-minutes in length, with 1-minute blocks at 95% of FTP (Under) and 1-minute blocks at 105% of FTP (Over).\n\n\nThe real training benefit comes from that time spent just below FTP trying to \u0022Recover.\u0022 Physiologically, you train your body to be more efficient when working just below FTP. Mentally, it shows you that you can still \u0022recover\u0022 (or at least hold on for dear life) as long as you are riding just a little below your FTP.\n\n\u200B\n\n**Warm Up **\n\n1 minutes 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minutes 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n1 minutes @ RPE 3.5 -- 65% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6 -- 90% of FTP -- HR \u003C100\n\n30 seconds @ RPE 4 -- 70% of FTP-- HR \u003C80%\n\n45 seconds @ RPE 8.5 -- 100% of FTP -- HR \u003E105%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 9 -- 150% of FTP -- HR \u003E105%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 2 -- 180% of FTP -- HR \u003E105%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort **\n\nNumber of Sets: 3\n\nRest Between Sets: 4 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: NA\n\n**Interval **\n\n1 minute @ RPE 7.75 -- 105% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.25 -- 95% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.75 -- 105% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.25 -- 95% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.75 -- 105% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.25 -- 95% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.75 -- 105% of FTP -- HR \u003E105%\n\n1 minute @ RPE 7.25 -- 95% of FTP -- HR \u003E105%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down **\n\n3 minutes 15 seconds @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7833333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 61,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "L71YYsChKC",
+              "contentId": "BqyzaEpvD9",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "2 x 2K Increasing",
+              "style": null,
+              "compatibility": 100,
+              "description": "If you drill into the pacing strategies of any endurance competitor, you quickly learn that the negative split is the fastest way to complete a course. A negative split is where your pace is higher during the second half of the course; we\u2019ll work on that pacing strategy today.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, etc.**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m\n\n**Activation 2: 150-200m Strides**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30 sec\n\nInterval Effort: 110-100% RTP (Z4a)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 5 minutes\n\nInterval Distance Per set: 2K\n\nInterval Effort: Begin @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSteadily increase to RPE 7.5-8.5 by final 400m -- 100-92% of RTP--HR 100-105% (Z4b)\n\nNote: Repeat the same pace on the second set, but strive to finish faster for the final 400m.\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 4
+                },
+                "tss": 72,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "n4M6CaJqFA",
+              "contentId": "Yu8Bk4wC8E",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "3 x 15 minute tempo",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nRemember that tempo pace is not fast! The goal of this run is to find a steady rhythm/pace that you could comfortably hold for an hour or more.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation 1: Drills**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m each: butt kicks, high knees, Carioca, skipping\n\n\u200B\n\n**Main Effort:**\n\nNumber of Sets 3\n\nRest Between Sets 5 minutes\n\nInterval Repeats Per set 15 minutes\n\nInterval Effort: RPE 5-6 --120-110% of RTP --HR 87-95% (Z3) Recovery: RPE \u003C2 --\u003E145% of RTP --HR\u003C70% (Z1)\n\n\u200B\n\n**Cool-down:**\n\nEnd your workout with 5-10 minutes of easy jogging (Z1)\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.25,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 61,
+                "intensityFactor": 0.7
+              },
+              "workoutId": "la7zbC6ozu",
+              "contentId": "Aydry1qASg",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "3 x 1.5K Increasing",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nIf you drill into the pacing strategies of any endurance competitor, you quickly learn that the negative split is the fastest way to complete a course. A negative split is where your pace is higher during the second half of the course. The goal of this workout is to practice that pacing strategy today.\n\n\u200B\n\n**Warm-up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, etc.**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 50m\n\n**Activation 2: 150-200m Strides**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30-sec\n\nInterval Effort: 110-100% RTP (Z4a)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nRest Between Sets: 3 minutes\n\nInterval Distance Per Set: 1.5K\n\nInterval Effort:\n\nBegin @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSteadily increase to RPE 7.5 over the entire distance -- 100-92% of RTP--HR 100-105% (Z4a)\n\n\\*Strive to achieve the same pace across all three efforts.\n\n\u200B\n\n**Cool-down:**\n\nWalk or jog for 5-10 minutes to cool down (Z1)\n\n\u200B\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 48,
+                "intensityFactor": 0.08
+              },
+              "workoutId": "W1TbL4Y0RZ",
+              "contentId": "JEilqUr0SR",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "2 x 8K Tempo",
+              "style": null,
+              "compatibility": 100,
+              "description": "The goal of this run is not to run as fast as you can for the duration of the main set, but to find a steady running rhythm/pace that you could comfortably hold for an hour or more.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm- Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR \u003C70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills: butt kicks, high knees, carioca, strides, skipping**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m each\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 6-8 minutes\n\nInterval Distance Per set: 8K\n\nInterval Effort\n\nInterval #1 @ RPE 3-4 --145-120% of RTP -- HR 70-87% (Z2)\n\nInterval #2 @ RPE 5-6 --110-100% of RTP --HR 87-95% (Z3)\n\nRecovery: RPE \u003C2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 5
+                },
+                "tss": 98,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "Ck5MDwlTi7",
+              "contentId": "McOX6Efs16",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "3 x 2K Tempo",
+              "style": null,
+              "compatibility": 100,
+              "description": "Make sure to keep a lid on your desire to go fast and keep the pace capped at Z3/tempo effort. This workout is NOT about speed!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 1-2 -- 145-120% of RTP -- HR \u003C70-87% (Z1)\n\n\u200B\n\n**Activation 1: Drills: Butt kicks, high knees, builds, carioca, strides \u0026 skipping**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30 sec\n\nInterval Distance Per Set: 25-50m each\n\nInterval Effort: RPE 3-4 (Z2)\n\nRecovery: RPE \u003C2 (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nRest Between Sets: 4 minutes\n\nInterval Distance Per Set: 2K\n\nInterval Effort: RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP --HR\u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 64,
+                "intensityFactor": 0.8
+              },
+              "workoutId": "D18dhBvAC8",
+              "contentId": "195F3lZoyf",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

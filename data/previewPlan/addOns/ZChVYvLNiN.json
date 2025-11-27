@@ -1,0 +1,71 @@
+{
+  "id": "ZChVYvLNiN",
+  "name": "Power Through the Holidays - Strength addon (clone attempt)",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "AddOn",
+  "subcategory": "None",
+  "description": "Strength addon\n",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "Don\u0027t Include",
+  "type": "Strength",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-12-09T18:22:05.329Z",
+  "updatedAt": "2021-12-15T02:15:23.676Z",
+  "version": "1.0.1",
+  "isAddOn": true,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Warm Up: 10 Minutes",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is a short warmup ride that you can use before a hard session that may have a very short warmup built in, or you just feel like you need a little more time to warm up. Because some days, we need just a little more pedaling time in order to feel ready for the hard work that\u0027s yet to come.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.16666666666666666,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 10,
+            "intensityFactor": 0.77
+          },
+          "workoutId": "3iGrmBLu2f",
+          "contentId": "GbxANr313q",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

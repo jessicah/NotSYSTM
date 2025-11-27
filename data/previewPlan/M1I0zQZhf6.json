@@ -1,0 +1,280 @@
+{
+  "previewPlan": [
+    {
+      "id": "M1I0zQZhf6",
+      "name": "A Week With Neal Henderson",
+      "weakness": "NoWeakness",
+      "grouping": "A Week With",
+      "category": "",
+      "subcategory": "None",
+      "description": "A Week With Neal Henderson\n\n\u200B\n\nSelecting a Monday start day will see the plan finishing on Saturday, Selecting a Tuesday start date will see the plan finishing on Sunday. \n\n\u200B\n\nIf you are in need of any technical help or want to know more about the training terms used in this plan check out the [Wahoo SYSTM Help Center.](https://wahoosystm.com/HelpCenter)\n\n\u200B\n\nHave a more specific question that isn\u0027t addressed in the Help Center? Head over to our [forum](https://wahoox.forum.wahoofitness.com/) to see if your question has been answered, or just post it for yourself.\n\n\u200B\n\n",
+      "planDescription": "Neal Henderson",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "1 Week",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-06-23T21:48:32.387Z",
+      "updatedAt": "2023-09-25T17:03:10.994Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 1: Introduction",
+              "style": null,
+              "compatibility": 100,
+              "description": "\u200B\n\nWelcome to A Week With Neal Henderson. Neal is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France.\n\n\u200B\n\nIn this introduction, Neal welcomes you to his house in Boulder, Colorado, USA, sits you down, and gives you an idea of what you\u0027ll be doing over the course of your week with him. From local mountains to the boards of the Boulder Velodrome, Neal\u0027s designed a set of workouts that will push you to the limit while providing the kinds of experiences that only Boulder can produce. In between workouts, you\u0027ll meet Neal\u0027s friends and colleagues, learn more about the area and find out what sort of things this endurance sports legend does in his spare time.\n\n\u200B\n\n_Schedule for A Week with Neal Henderson:_\n\n_Day 1/7: Introduction \u0026 Rabbit Mountain_\n\n_Day 2/7: The Office Commute_\n\n_Day 3/7: Superflag_\n\n_Day 4/7: Off_\n\n_Day 5/7: At the Velodrome_\n\n_Day 6/7: Gravel Grinder_\n\n_Day 7/7: Off_\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.07083333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 2,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "zFGFVbdPGX",
+              "contentId": "gt3qD0KBEU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 2: Rabbit Mountain",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u0027s your first day joining Neal for a ride, so he\u0027s taking you out with a few of his friends -- Jeff, Julie, and Heather -- for a series of four, 10-minute repeats on the infamous Rabbit Mountain. And while the road might repeat, the efforts won\u0027t as Neal\u0027s come up with a different approach for each one.\n\n\u200B\n\nIn between the efforts, you\u0027ll learn that Neal is a bit of a collector -- at least when it comes to cycling stuff. He shows you his personal bike collection (he really takes N\u002B1 to the next level), lets you dig around in his wardrobe, and even takes you down to the wine cellar for a look at some pretty special bottles.\n\n\u200B\n\n**When to ride: Do this on day 1 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.2219444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 3,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 103,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "pb4AHZ3Dko",
+              "contentId": "cGdqvcrlGl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 3: The Office Commute",
+              "style": null,
+              "compatibility": 100,
+              "description": "Well, you might be on a nice vacation in Boulder, Colorado, but Neal still has to work. So meet him nice and early at his place for a gentle spin across town to the Wahoo office. Along the way, Neal will show you some of his favorite spots at the university as well as the best restaurant and shops on the famous Pearl Street Mall. Enjoy the ride!\n\n\u200B\n\n_When to ride: Do this on day 2 of the 7-day plan._\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4711111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 9,
+                "intensityFactor": 0.45
+              },
+              "workoutId": "xTNgDDrDCz",
+              "contentId": "uycur0SAM8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 4: Superflag",
+              "style": null,
+              "compatibility": 100,
+              "description": "You couldn\u0027t come all the way to Boulder without having Neal take you up the most iconic road in the area: Super Flagstaff. So be sure to meet him bright and early near his house so you can warm up through the local suburbs before joining some friends: Jeff, Suzie and Giancarlo. Suzie, naturally, takes the lead up to the amphitheater at a steady pace before a short rest and all-out battle to the very top of Super Flag. If you do well, Neal might even show you an epic renovation project he\u0027s been working on.\n\n\u200B\n\n**When to ride: Do this on day 3 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.173888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "0FaSaCHHR6",
+              "contentId": "i2q1SXW9HM",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 5: At the Velodrome",
+              "style": null,
+              "compatibility": 100,
+              "description": "On a day like today -- warm with clear blue skies -- there\u0027s only one place to go: the Velodrome. As a National Champion on the track himself, and having coached countless track athletes, Neal\u0027s happy to introduce you to the boards with a series of challenges. You\u0027ll start with a little paceline work to ease into things (yes, you\u0027ll have to take your pulls). It gets more difficult from there, as you\u0027ll need to try to lap the group before hitching a ride with a multiple National and World Champion. You\u0027ll finish it off, of course, with a massive Kilometer effort.\n\n\u200B\n\nIn between, you\u0027ll learn a bit more about how Neal spends his recovery time, from gardening to family walks to time spent in his very own chill-out room.\n\n\u200B\n\n**When to ride: Do this on day 5 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8455555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 61,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "xaM1116Z5B",
+              "contentId": "nrD6MNsPuQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 6: Gravel Grinder",
+              "style": null,
+              "compatibility": 100,
+              "description": "There\u0027s been a lot of hard work this week, so Neal thought it might make sense to go and hit some gravel today. To keep you both company, he\u0027s invited his good friend Marcus, co-Founder of the Ride for Racial Justice. After visiting the scene of some local criterium races, the three of you head onto the trails and roads that make Boulder such a hotbed of gravel cycling. Along the way, you\u0027ll listen as the guys talk trash and even get some coaching tips from Neal before you finish with a burrito and a dip in the local creek. It\u0027s the perfect finish to an epic week in Boulder with Neal Henderson.\n\n\u200B\n\n**When to ride: Do this on day 6 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.5244444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 68,
+                "intensityFactor": 0.68
+              },
+              "workoutId": "HhmTLOPbve",
+              "contentId": "J57Xx1CdlA",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

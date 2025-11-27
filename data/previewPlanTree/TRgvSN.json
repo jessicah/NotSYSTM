@@ -1,0 +1,30 @@
+{
+  "uid": "TRgvSN",
+  "name": "No",
+  "description": null,
+  "stepTitle": "MTB Enduro",
+  "stepDescription": "Event - Moderate Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GyOk0NqdKH",
+      "name": "MTB Enduro - Event - Mod Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "GyOk0NqdKH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

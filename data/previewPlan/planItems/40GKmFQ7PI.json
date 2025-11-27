@@ -1,0 +1,387 @@
+{
+  "id": "40GKmFQ7PI",
+  "name": "Wahooligan Tour 25",
+  "weakness": "NoWeakness",
+  "grouping": "Wahooligan Tour Route",
+  "category": "None",
+  "subcategory": "None",
+  "description": "Here it is! The official  route for the 2025 Wahooligan Tour.\n\nThanks again for taking part in the Tour and helping us reach our goal of raising $200,000 for the [Davis Phinney Foundation](https://davisphinneyfoundation.org/). If you haven\u0027t registered for the Tour yet or started your fundraising, click [HERE](http://dpf.convio.net/site/TR?fr_id=1300\u0026pg=entry).\n",
+  "planDescription": "Wahooligan Route 2025",
+  "fixedEndDate": "2025-03-01",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2024-11-13T16:17:42.37Z",
+  "updatedAt": "2025-05-19T16:23:47.496Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 514,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Team Scream",
+          "style": null,
+          "compatibility": 100,
+          "description": "Thanks to a last-minute selection, you have been drafted into a 48-kilometer Team Time Trial (TTT). Done correctly, each of the 5 riders will all cross the finish line utterly spent. Pacing is vital. A TTT is essentially one long set of Over / Under intervals. When it\u0027s your turn on the front, you will be well over your FTP, and while those pulls usually only last around 30 seconds, you\u0027ll clock almost 20 pulls over the course of 48k.\n\nPhysiologically speaking, a TTT is one of the best combined AC/MAP/FTP sessions out there. Regardless of your chosen discipline, Rider Type, or rider weakness, this effort will push you to your limits, and you\u0027ll be faster for it.\n\n\u200B\n\nThe original inspiration for our ProRides series, Team Scream just has that bit of...how do we say..._Sufferlandrian-ness_...to make it extra special.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.1613888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 89,
+            "intensityFactor": 0.88
+          },
+          "workoutId": "wjsDMXKUuk",
+          "contentId": "aB01LoXAZk",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 304,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "ALL Access EF 2: FTP Over-Unders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Join the mixed EF group ride for 3 FTP over-under intervals. You\u2019ll find out more about the team\u2019s goals for the upcoming 2024 season as well as getting to know some of the stars of the team including Neilson Powless, Kim Cadzow and Michael Valgren who share what life is like as a professional cyclist both on and off the bike.\n\n\u200B\n\nThe concept of over-unders is simple, alternate blocks of time just below your FTP, with equal duration blocks just above your FTP. For this session, each interval is 8-minutes in length, with 1-minute blocks at 95% of FTP (Under) and 1-minute blocks at 105% of FTP (Over). The real training benefit comes from that time spent just below FTP trying to \u0022Recover.\u0022 Physiologically, you train your body to be more efficient when working just below FTP.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8175,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 61,
+            "intensityFactor": 0.88
+          },
+          "workoutId": "ngTEUOMIAr",
+          "contentId": "NCHffhDtGa",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 5001,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Who Dares",
+          "style": null,
+          "compatibility": 100,
+          "description": "Imagine you\u2019re out on a group ride where the tempo is high, and you\u2019re working hard. Suddenly, someone surges. You do a quick sprint to go after them and quickly get their wheel. The stress of the effort catches up with you, and even though the pace settles down to where it was before, you struggle to hold the wheels.\n\n\u200B\n\nWho Dares is a workout that teaches your body to recover from those efforts more effectively so you can keep riding hard. The workout is based on three 9.5-minute, sub-FTP intervals that feature three sprints: one at the start, one in the middle, and one at the end. These sprints flood your body with metabolites like lactate, then the sustained sub-FTP efforts force your body to clear them out while still working hard.\n\n\u200B\n\nTo make the session even more effective, Who Dares also asks your body to do this work at different cadences, stimulating the nervous system and forcing your body to become even more efficient.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8825,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 3,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 71,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "azNGdXLGqX",
+          "contentId": "3rLnRlTdQ3",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 523,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 3: Strength Endurance",
+          "style": null,
+          "compatibility": 100,
+          "description": "When he\u0027s riding inside, Ian\u0027s a fan of the Sufferfest workouts Power Station and GOAT. So it\u0027s no surprise he\u0027s taking you on one of his favorite rides: big gear strength efforts on long climbs in the hills around the farmhouse. Not only that, but he\u0027s also going to teach you to cut down a tree and stack firewood! What a day!\n\n\u200B\n\n_Do this on: Day 2 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0608333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 4,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 56,
+            "intensityFactor": 0.73
+          },
+          "workoutId": "zegk6vzC6N",
+          "contentId": "Xiauj3wr2s",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 500,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Cash Register",
+          "style": null,
+          "compatibility": 100,
+          "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5380555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 4,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 37,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "HSb6Gc8uIZ",
+          "contentId": "6LnpmGMTMG",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 508,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Bavaria: Burgberg",
+          "style": null,
+          "compatibility": 100,
+          "description": "This may be a short workout, but it packs a serious punch\u2014so lace up those gloves and get ready for 22 powerful 10-second seated sprints!\n\nAfter a gentle warm-up leaving the picturesque village of Sulzberg, we\u2019ll dive straight into our first block: 8 x 10-second high-cadence seated sprints with 50 seconds of recovery.\n\nAs the road naturally levels out, we\u2019ll catch our breath before hitting the core of the workout\u20149 x 10-second low-cadence seated sprints with the same 50-second recovery, focusing on maintaining rock-solid form.\n\nTo close things out, we\u2019ll return to the high-cadence style for a final round of 5 x 10-second sprints. This session is designed to sharpen muscle activation and improve recovery after intense efforts.\n\nFinish strong, and I\u2019ll see you in Burgberg!\n\n\u200B\n\nWith short near-maximal sprint efforts like these, you\u2019ll recruit all of the muscle fibers in your legs. While cadence builds force your muscles to contract and relax as quickly as possible, this session forces your muscles to contract with maximal power. Just like cadence builds, this session becomes one of the best ways to train your neuromuscular system.\n\nEven if your target event does not require you to complete maximal sprints, there is a substantial trickle-down efficiency effect to the longer-duration power efforts when you train your neuromuscular system.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/9866624296)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5877777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 5,
+              "map": 1,
+              "ftp": 1
+            },
+            "tss": 22,
+            "intensityFactor": 0.66
+          },
+          "workoutId": "HK7BfIhBuZ",
+          "contentId": "YvxZv18RNn",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 513,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Rollercoaster",
+          "style": null,
+          "compatibility": 100,
+          "description": "Get ready for a workout designed to take you on a wild ride of intensity and focus. _RollerCoaster_ pushes you near your VO2 max, with intervals carefully broken into smaller chunks that gradually build to your peak effort before dropping slightly to keep you going. These dynamic shifts allow you to sustain high-intensity work without hitting your absolute limit the entire time. The structure ensures maximum time spent near VO2 max, boosting endurance and power while helping you mentally tackle each challenge one manageable piece at a time.\n\n\u200B\n\nRecovery is tailored to the effort you just completed, giving your legs the reset they need to dive into the next wave of intensity. Paired with inspiring footage of the Brabantsje Pils Spring Classics, you\u0027ll feel the grit of the cobbles and the thrill of the chase as you power through climbs and recover on the descents. Remember: keep your form smooth, your breathing controlled, and your mind locked into each effort. Treat every interval as a race within the ride. The dips in intensity are there to help you, not let you off the hook\u2014this is one ride you won\u2019t forget!\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7883333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 4,
+              "ftp": 2
+            },
+            "tss": 65,
+            "intensityFactor": 0.89
+          },
+          "workoutId": "EFRztgyTqJ",
+          "contentId": "3aJ8nMrgLd",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Event",
+      "rank": 5000,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "More about the Davis Phinney Foundation:",
+          "style": null,
+          "compatibility": null,
+          "description": "Fundraising isn\u2019t just about raising funds.  It\u2019s a great way to raise awareness and you never know who needs to hear the message that it is possible to live well today.  More than 10 million people worldwide are living with Parkinson\u2019s.  Give someone the gift of hope and wellness with an introduction to the Davis Phinney Foundation at dpf.org.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": null,
+          "plannedDuration": null,
+          "durationType": null,
+          "metrics": null,
+          "workoutId": null,
+          "contentId": null,
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 521,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Classic Climbs of France: Alpe d\u0027Huez",
+          "style": null,
+          "compatibility": 100,
+          "description": "Join Mike Cotty and EF-Oatly-Cannondale rider Noemi R\u00FCegg for a reconnaissance ride and sustained effort workout up the iconic Alpe d\u0027Huez. This session begins with a steady warm-up around Bourg d\u0027Oisans before navigating the famous 21 hairpin bends of this epic climb. As the gradient intensifies, settle into a sustainable threshold pace, simulating race conditions and allowing for occasional standing efforts on steeper sections. Throughout the climb, integrate strategic surges to mimic attack responses and maintain high power outputs. The goal is to balance endurance and power, capturing the essence of this legendary ascent while refining your climbing technique and stamina under the guidance of elite athletes.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/11727807011)\n\n\u200B\n\n_Your Hosts:_\n\n_Noemi came to bike racing through her family, when she was 13, she finished her first cyclocross race and was hooked. She turned professional on the road as a 19-year-old, leaving her full-time job caring for disabled people in a home. She is the 2024 Swiss national champion but her heart belongs to the classics. Noemi loves a punchy course, the more chaotic, the better. She is not afraid to be aggressive in the peloton and loves the excitement and energy of a hectic race._\n\n\u200B\n\n_There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0880555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 87,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "znNjMNHCNz",
+          "contentId": "LsyWVH795L",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

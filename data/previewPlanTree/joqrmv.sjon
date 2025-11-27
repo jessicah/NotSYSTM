@@ -1,0 +1,30 @@
+{
+  "uid": "joqrmv",
+  "name": "Block 6 (Weeks 16-18)",
+  "description": "",
+  "stepTitle": "Block 6 (Weeks 16-18)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "yvSlzwhGua",
+      "name": "Basic Training 2:1 - 18 wks",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yvSlzwhGua",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

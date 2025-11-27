@@ -1,0 +1,30 @@
+{
+  "uid": "saMthG",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Mountain Fondo",
+  "stepDescription": "Moderate Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "TCE6kxUwng",
+      "name": "Road Mountain Fondo Event 3:1 Med w/Str",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "TCE6kxUwng",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

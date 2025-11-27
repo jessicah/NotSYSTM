@@ -1,0 +1,30 @@
+{
+  "uid": "OPR0K8",
+  "name": "No",
+  "description": "Would you like to incorporate Strength Training into your plan? ",
+  "stepTitle": "SBT Blue Course",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5t3PlELaP1",
+      "name": "2025 SBT GRVL - Blue Course - High Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "5t3PlELaP1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

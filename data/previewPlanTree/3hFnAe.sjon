@@ -1,0 +1,94 @@
+{
+  "uid": "3hFnAe",
+  "name": "Medium",
+  "description": "5-8 hours per week",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "MYvf3o",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks of prep time do you have?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "O0Pe69",
+          "name": "8 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - Medium Volume - 3:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "IUOOsg",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - Medium Volume - 3:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "uid": "G6LFqV",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks of prep time do you have?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Bjgi4L",
+          "name": "9 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "rZyPkw",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - Medium Volume - 2:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

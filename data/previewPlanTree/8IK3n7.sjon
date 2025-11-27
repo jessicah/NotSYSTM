@@ -1,0 +1,30 @@
+{
+  "uid": "8IK3n7",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB Marathon",
+  "stepDescription": " Season Prep - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "AGwfEZCJzc",
+      "name": "MTB Marathon - Season Prep - 2:1 - High Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "AGwfEZCJzc",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

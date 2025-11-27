@@ -1,0 +1,254 @@
+{
+  "uid": "ysMuz9",
+  "name": "Quests",
+  "description": "Become a Knight of Sufferlandria by completing 10 back-to-back SUF sessions.",
+  "stepTitle": "How would you like to achieve greatness?",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Qfu2IG",
+      "name": "Agonian Delicacies (most popular workouts)",
+      "description": "Knighthood Quest",
+      "stepTitle": "Agonian Delicacies (most popular workouts)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Konx64zm5Y",
+          "name": "KoS Quest - Agonian Delicacies (most popular workouts)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Konx64zm5Y",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "KqcCYw",
+      "name": "Celebrating Les Femmes (womens footage all the way)",
+      "description": "Knighthood Quest",
+      "stepTitle": "Celebrating Les Femmes (womens footage all the way)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "9GrfdZhKky",
+          "name": "KoS Quest - Celebrating Les Femmes (womens footage all the way)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "9GrfdZhKky",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "teWjXA",
+      "name": "Pain Suckers Delight (\u0027hardest\u0027 route)",
+      "description": "Knighthood Quest",
+      "stepTitle": "Pain Suckers Delight (hardest route)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "BaThjnAKAM",
+          "name": "KoS Quest - Pain Suckers Delight (hardest)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "BaThjnAKAM",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "p0RuY7",
+      "name": "Mt. Sufferlandria (longest route)",
+      "description": "Knighthood Quest",
+      "stepTitle": "Mt. Sufferlandria (longest route)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "SP0xVN9K7k",
+          "name": "KoS Quest - Mt. Sufferlandria (longest)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "SP0xVN9K7k",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "2bBd5a",
+      "name": "Scenic Lactic Acid Coastline (shortest route)",
+      "description": "Knighthood Quest",
+      "stepTitle": "Scenic Lactic Acid Coastline (shortest route)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "QWEv625kp4",
+          "name": "KoS Quest - Scenic Lactic Acid Coastline (shortest)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "QWEv625kp4",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "YYTGtj",
+      "name": "The Chamois Dance (\u0027easiest\u0027 route)",
+      "description": "Knighthood Quest",
+      "stepTitle": "The Chamois Dance (easiest route)",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "z7LM2uDoem",
+          "name": "KoS Quest - The Chamois Dance (easiest)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "z7LM2uDoem",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "8QFEFk",
+      "name": "Build Your Own",
+      "description": "Knighthood Quest",
+      "stepTitle": "Build Your Own",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "szluvThg8j",
+          "name": "KoS Quest - Build Your Own",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "szluvThg8j",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "ih0UnU",
+          "name": "Grunter Chooses",
+          "description": "Knighthood Quest",
+          "stepTitle": "Become a Knight of Sufferlandria by completing 10 back-to-back SUF sessions.",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Lmt9b4KGT9",
+              "name": "KoS Quest - Grunter chooses",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "Lmt9b4KGT9",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

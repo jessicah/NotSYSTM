@@ -1,0 +1,164 @@
+{
+  "uid": "eWnu2O",
+  "name": "Dynamic",
+  "description": "The perfect plan if you want to challenge your nervous system, improve coordination, and add explosiveness to your routine. A must for trail runners and mountain bikers alike.",
+  "stepTitle": "Level",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "mM8VqP",
+      "name": "1",
+      "description": null,
+      "stepTitle": "Dynamic Level 1",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "5WW6GTfAay",
+          "name": "Special Focus: Dynamic Level 1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5WW6GTfAay",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "EeZth4",
+      "name": "2",
+      "description": null,
+      "stepTitle": "Dynamic Level 2",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "OYiYsJZgi0",
+          "name": "Special Focus: Dynamic Level 2",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "OYiYsJZgi0",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "ZfxoQM",
+      "name": "3",
+      "description": null,
+      "stepTitle": "Dynamic Level 3",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FodxhZMzVr",
+          "name": "Special Focus: Dynamic Level 3",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "FodxhZMzVr",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "xkHJbJ",
+      "name": "4",
+      "description": null,
+      "stepTitle": "Dynamic Level 4",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "vEcKHC96RN",
+          "name": "Special Focus: Dynamic Level 4",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "vEcKHC96RN",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "O6ftUq",
+      "name": "5",
+      "description": null,
+      "stepTitle": "Dynamic Level 5",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "cA1ilhcWZs",
+          "name": "Special Focus: Dynamic Level 5",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "cA1ilhcWZs",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

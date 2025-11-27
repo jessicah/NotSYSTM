@@ -1,0 +1,74 @@
+{
+  "uid": "eAjWju",
+  "name": "3:1",
+  "description": "Three weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "U0HOW8",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "Sprint",
+      "stepDescription": "Season Prep - Moderate Volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Ml7TkbO1Jg",
+          "name": "Sprint Duathlon - Season Prep - Moderate Volume - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Ml7TkbO1Jg",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "ydUtun",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Sprint",
+      "stepDescription": "Season Prep - Moderate Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "W9uEjOrblq",
+          "name": "Sprint Duathlon - Season Prep - Moderate Volume - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "W9uEjOrblq",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

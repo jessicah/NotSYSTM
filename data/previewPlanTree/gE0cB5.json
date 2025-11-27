@@ -1,0 +1,30 @@
+{
+  "uid": "gE0cB5",
+  "name": "Half Monty\u002BFull Frontal",
+  "description": "Use your Half Monty FTP / MAP results to help you better pace Full Frontal.",
+  "stepTitle": "HM and FF Test Week ",
+  "stepDescription": "HM \u002B FF",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": true,
+  "typename": null,
+  "children": [
+    {
+      "uid": "DuBMGd",
+      "name": "SYSTM Half Monty and Full Frontal Double Week ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "eYIB4yZrZA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

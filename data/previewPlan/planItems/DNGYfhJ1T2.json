@@ -1,0 +1,194 @@
+{
+  "id": "DNGYfhJ1T2",
+  "name": "SYSTM November Challenge: Groundwork",
+  "weakness": "NoWeakness",
+  "grouping": "Groundwork",
+  "category": "",
+  "subcategory": "None",
+  "description": "#### **November Groundwork \u2013 Monthly Challenge**\n\n**Lay the foundation. Level up.**\n\nAs the indoor season rolls on and the year\u2019s finish line draws near, it\u2019s time to steady your focus, reignite your form and build the engine that will carry you into the next chapter. This month is all about foundation\u2014no flash, no fireworks\u2014just smart, steady work that sets you up for serious gains.\n\n- **Getting Away With It:** A ride built for smooth pacing and sustainable pressure. Find your rhythm and control.\n- **Italian Lakes - Lugano:** Immerse yourself in a steady-state ride. Endurance, cadence, flow.\n- **Power Station:** Low cadence, high torque, serious leg work. Foundation-building at its best.\n- **Gaimon Long KOM:** One long climb, one mission. Threshold pacing and mental grit under sustained load. Find out more about the Wahoo X September Challenge\n\nAll the workouts are on consecutive days for you to re-arranged throughout the month to suit your training schedule and earn your badge. Find out more about the Wahoo X November Challenge.\n\nPlease note, to earn your badge you must complete the indoor SYSTM version of the workout.\n",
+  "planDescription": "Badge Plan",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2025-02-03T17:18:57.085Z",
+  "updatedAt": "2025-10-22T10:01:01.164Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 212,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "# Getting Away With It (November Groundwork Challenge)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nWouldn\u0027t it be great if you could leave work to go for a ride? Even for an hour? Well, now\u0027s your chance. _Getting Away With It_ gets you out of the office and onto the roads of the French Pyrenees with your guide Michael Cotty of The Col Collective.\n\n\u200B\n\nThis is a great session to add toward the end of a training block. The shorter duration, sub-threshold efforts are fantastic for getting some extra FTP building while you are in a fatigued state. Extra emphasis on cadence stresses your nervous system, making your body more efficient at higher and lower RPMs while improving your form. The Neuromuscular training you get from this session is fantastic, so while your power never exceeds threshold, your body will learn to bring more energy to the pedals at all intensities.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.74,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 4
+            },
+            "tss": 45,
+            "intensityFactor": 0.78
+          },
+          "workoutId": "ZF95hVWWkr",
+          "contentId": "P2T4sgv1yX",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 213,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "# Italian Lakes: Lugano (November Groundwork Challenge)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nLugano Cycling with Michael Cotty - Swiss Cadence\n\n\u200B\n\nWelcome to Lake Lugano, Switzerland, for a dynamic cycling adventure. Climb high above the lake, alternating cadence on a challenging 20-minute ascent, followed by a sprint and a scenic descent. Explore Lugano\u0027s cultural treasures and historic villages along the way. Totaling 22 km with 482m elevation gain and max 10% grade.\n\n\u200B\n\nThe repeated bouts of low cadence during the long sustained threshold effort will help build your muscular endurance before emptying the tank on the final short climb as an all out effort battling fatigue!\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7796864556)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8491666666666666,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 1,
+              "ftp": 4
+            },
+            "tss": 59,
+            "intensityFactor": 0.83
+          },
+          "workoutId": "Byy7yvnGAG",
+          "contentId": "mfNgQ3oeny",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 214,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "# Power Station (November Groundwork Challenge)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nOn the surface, this seems like a rather tame session: a series of intervals that are all under five minutes and which are almost all under threshold. But there is more here than the power file shows. The lack of obvious intensity in these short intervals is made up for by the very low cadence targets each effort requires. This creates minimal cardiovascular stress but places a tremendous load on your muscular system. The goal is to keep your upper body absolutely rock solid during these efforts. If you find that you bob back and forth for each pedal stroke, then your core is not up to the task your legs are giving it (better get onto our yoga videos and strengthen that core).\n\n\u200B\n\nThis session can be a great test to see how your lower back will hold up over a longer ride outside. A core that will fail you after 3 hours of road riding can often be identified fairly quickly during this session. If your back is burning just as badly as your legs, it\u0027s a signal to do some additional core strengthening. With so much stress on your muscles, this is a great session for improving your overall endurance and your ability to produce lots of high torque, giving your Neuromuscular Power a nice boost along the way.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[When to Train with Low Cadence](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/when-to-train-with-low-cadence)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8108333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 59,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "n82Uw5UOEN",
+          "contentId": "1tViNkXwKQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 215,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "# P. Gaimon 5: Long KOM Training Session (November Groundwork Challenge)",
+          "style": null,
+          "compatibility": 100,
+          "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nYou\u2019re meeting Phil at the iconic Rock Store in Cornell, California, for a solid workout that involves some big, maximal efforts\u2013each one longer than the last.\n\n\u200B\n\nAfter a steady warm-up on a quiet road away from the busy LA car traffic, you\u2019ll have the chance to apply what you learned earlier in the week about KOM pacing on a couple of shorter intervals before tackling a monster 10-minute effort (so we recommend using LEVEL mode rather than erg mode once you get to the intervals).\n\n\u200B\n\nThis session will definitely make you work up an appetite, so in between efforts Phil will introduce you to a couple of his celebrity chef friends and their restaurants before a leisurely walk in the hills. As you savor the efforts (and meals) of the day, you and Phil will sit down and reflect on the week: what you learned, what you accomplished, and what to do next to showcase your newfound skills.\n\n\u200B\n\n_Do this on: Day 5 of the 5-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9055555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 69,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "lptADJOH17",
+          "contentId": "KlzhRl4RDQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

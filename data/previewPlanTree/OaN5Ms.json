@@ -1,0 +1,30 @@
+{
+  "uid": "OaN5Ms",
+  "name": "3:1",
+  "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+  "stepTitle": "Tempo Block",
+  "stepDescription": "Moderate Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "IK6uBBxhm5",
+      "name": "Building Block-Tempo-Medium-3:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "IK6uBBxhm5",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

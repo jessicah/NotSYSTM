@@ -1,0 +1,850 @@
+{
+  "id": "5WW6GTfAay",
+  "name": "Special Focus: Dynamic Level 1",
+  "weakness": "NoWeakness",
+  "grouping": "Dynamic Level 1",
+  "category": "None",
+  "subcategory": "None",
+  "description": "#### Special Focus: Dynamic Level 1\n\nThe six week Dynamic Focus plan is specifically designed to charge up your neuromuscular system, improve coordination, lateral stability and explosiveness to help you become a more efficient and resilient athlete. The three sessions each week will include integrated full body movements that require timing, coordination and strength as well as yoga sessions that will help you improve mobility and flexibility. As always, it is important to follow the progression with the Dynamic series in order to allow for adequate tissue adaptation.\n\n\u200B\n\nLevel 1 is the place to start if you are new to training your lower body or if you are coming back after an extended lay-off of over six months. As with all of the SYSTM strength plans, it is important to take your time and follow the progression in order to allow for adequate tissue adaptation, especially when adding jumping movements.\n\n\u200B\n\nThis plan may be applied in conjunction with other Special Focused strength plans, such as Upper Body or Core Focus but is not recommended in conjunction with Lower Body Focus. If you choose to apply concurrent plans we suggest that you do so during the off-season or at a time when your endurance training volume is low.\n\n\u200B\n\nThe Special Focus stand alone plans follow a 2:1 progression and have three sessions per week on Monday, Wednesday and Friday.\n\n\u200B\n\nLet\u0027s have some fun!\n",
+  "planDescription": "This plan is designed to enhance coordination, balance and lower body power.",
+  "fixedEndDate": "",
+  "level": "SYSTM Strength Level 1",
+  "type": "",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-11-09T23:34:12.489Z",
+  "updatedAt": "2022-08-11T20:43:33.013Z",
+  "version": "1.0.1",
+  "isAddOn": true,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": "Dynamic"
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Strength",
+      "rank": 117,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 01",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2388888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 8,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "QTI1uVYXsK",
+          "contentId": "6nW3Fl2zvK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Other",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Foot \u0026 Ankle Mobility A",
+          "style": null,
+          "compatibility": 100,
+          "description": "This standing-based session is designed to improve mobility and flexibility through the foot, ankle, and calf. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Dynamic Calf Stretch\n- Standing Ankle Dorsiflexion\n- Single Leg Heel Raise\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.1075,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "H30EzsVaH2",
+          "contentId": "TzvORMs5g6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Strength",
+      "rank": 118,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 01",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2388888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 8,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "QTI1uVYXsK",
+          "contentId": "6nW3Fl2zvK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Strength",
+      "rank": 119,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 01",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2388888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 8,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "QTI1uVYXsK",
+          "contentId": "6nW3Fl2zvK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Strength",
+      "rank": 214,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Core \u0026 Hip Mobility A",
+          "style": null,
+          "compatibility": 100,
+          "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "71DLIFZYsf",
+          "contentId": "3rHx3ISEtw",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "type": "Strength",
+      "rank": 120,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.31277777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "t9LydOsoBH",
+          "contentId": "BuRcfIlxLI",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "type": "Strength",
+      "rank": 215,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Core \u0026 Hip Mobility B",
+          "style": null,
+          "compatibility": 100,
+          "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.12083333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "rUvUFFwynO",
+          "contentId": "8UR5Sxr0iC",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Other",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Foot \u0026 Ankle Mobility B",
+          "style": null,
+          "compatibility": 100,
+          "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Seated Foot Circles\n- Seated Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "jUbiMoZd4q",
+          "contentId": "IQaReDPXdi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Strength",
+      "rank": 216,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Core \u0026 Hip Mobility A",
+          "style": null,
+          "compatibility": 100,
+          "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "71DLIFZYsf",
+          "contentId": "3rHx3ISEtw",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "type": "Strength",
+      "rank": 122,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.31277777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "t9LydOsoBH",
+          "contentId": "BuRcfIlxLI",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Strength",
+      "rank": 126,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 01",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that develops your overall coordination and control._\n\n\u200B\n\nAs the first session in this progression, we introduce you to an integrated sequence of athletic movements. This mix may feel different and challenging..maybe even fun! Embrace it!\n\n\u200B\n\nPlease take your time, especially in this initial session. Start and stop the video to rewatch the demonstrations, if necessary, to ensure you understand the movement and grasp the range of motion. Finally, for the exercises that include a balance component, it will be ideal to keep your gaze fixed on a still object, not your screen.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms overhead\n- Recoil Hamstring Stretch\n- Around the clock Heel \u0026 Toe Taps\n- Alternating-Step Under\n- Split Stance Hip Hinges\n- Low Skip In Place\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Drop to Squat \u0026 Hold - Dbl. Leg\n- Hop to Opposite Leg w/Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2388888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 8,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "QTI1uVYXsK",
+          "contentId": "6nW3Fl2zvK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Strength",
+      "rank": 123,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.31277777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "t9LydOsoBH",
+          "contentId": "BuRcfIlxLI",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "type": "Strength",
+      "rank": 127,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.31277777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "t9LydOsoBH",
+          "contentId": "BuRcfIlxLI",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "type": "Strength",
+      "rank": 124,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nNow that you\u2019ve completed Level 1, it\u2019s time to add a layer of neuromuscular coordination. This sequence includes balance, unilateral drills, lower body strength, and jumping exercises - and combinations of those. You\u2019ll even complete integrated exercises which involve single-leg challenges in various directions. Focus on controlled deliberate movements and solid landings to master this session.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead\n- Around the Clock Heel \u0026 Toe Taps\n- Step Unders\n- Step Overs\n- Recoil Hamstring Stretch\n- Side Lunge to Knee Lift w/ Hold\n- Split Stance Hip Hinges\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Low Skip In Place\n- Drop to Squat \u0026 Hold\n- Single-Leg Hop forward-Backward-Hold\n- Pogo Jumps\n- Hop to Opp Leg w/Hold\n- Double Leg Hop - Continuous - Square Pattern\n- Pigeon Stretch\n- Inchworm From Plank\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.31277777777777777,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "t9LydOsoBH",
+          "contentId": "BuRcfIlxLI",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "type": "Strength",
+      "rank": 125,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Dynamic Focus 03",
+          "style": null,
+          "compatibility": 100,
+          "description": "_Looking to improve your mobility, stability, power, and coordination? The Dynamic Focus series is a fun, unique, and valuable mix of balance, strength, and jumping exercises that_ _increase performance through stability, power, and coordination._\n\n\u200B\n\nReady for the third workout in the Dynamic Focus series? All athletes, including competitors in endurance sports, benefit from training that better helps you react to external factors in varying directions; people, wind, waves, inclines, and surfaces. This sequence will prime you for these variables with varying tempos. With a combination of exercises that integrate three-dimensional motion this session will keep your neuromuscular system primed and ready for anything, no matter what type of rubber you\u2019re on.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Runners Stretch-Alternating\n- Around the clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Deep Squat w/Arms Crossed\n- Side Lunge to Knee Lift w/ Hold\n- Single-Leg Hip Rotations\n- Squat and Hold to Jump\n- Backward Shoulder Rolls\n- Low Skip In Place\n- Tempo Squat\n- Fast Side Lunge w/ Knee Lift\n- Pogo Jumps\n- Forward Shoulder Rolls\n- Squat w/ Hands Behind Head\n- Chin Tucks Reps\n- Single-Leg Hop to Hold -Square Pattern\n- Split Squats\n- High Side Plank w/ rotation\n- Pigeon Stretch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3397222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "miyEmORLnA",
+          "contentId": "ajxY772DEs",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Strength",
+      "rank": 217,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Core \u0026 Hip Mobility A",
+          "style": null,
+          "compatibility": 100,
+          "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "71DLIFZYsf",
+          "contentId": "3rHx3ISEtw",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "type": "Other",
+      "rank": 211,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Foot \u0026 Ankle Mobility B",
+          "style": null,
+          "compatibility": 100,
+          "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Seated Foot Circles\n- Seated Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "jUbiMoZd4q",
+          "contentId": "IQaReDPXdi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "type": "Other",
+      "rank": 213,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Shoulder \u0026 Upper Back Mobility A",
+          "style": null,
+          "compatibility": 100,
+          "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.11555555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "WNyRspyeha",
+          "contentId": "WSQ9YJ4yRy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Strength",
+      "rank": 218,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Core \u0026 Hip Mobility B",
+          "style": null,
+          "compatibility": 100,
+          "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.12083333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 4,
+            "intensityFactor": 0.59
+          },
+          "workoutId": "rUvUFFwynO",
+          "contentId": "8UR5Sxr0iC",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Event",
+      "rank": 203,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Completed Level 1 Strength ",
+          "style": null,
+          "compatibility": 100,
+          "description": "Congratulations on completing Level 1 Strength!\n\nWe recommend starting on Level 2 for your next plan.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "ynC9Fu3vGi",
+          "notes": "Nice work. It\u0027s time to level up!\n",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

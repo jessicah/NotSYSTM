@@ -1,0 +1,30 @@
+{
+  "uid": "4OdNn0",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Strength Level 3",
+  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "b33a6AuBjl",
+      "name": "Dirt Strength: Level 3 - 3:1 -12 wks stand alone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "b33a6AuBjl",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

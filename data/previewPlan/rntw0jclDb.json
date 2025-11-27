@@ -1,0 +1,902 @@
+{
+  "previewPlan": [
+    {
+      "id": "rntw0jclDb",
+      "name": "8 week yoga (2:1)",
+      "weakness": "NoWeakness",
+      "grouping": "Thanks for participating in this Wahoo event",
+      "category": "None",
+      "subcategory": "None",
+      "description": "",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Yoga",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2025-07-24T15:40:31.203Z",
+      "updatedAt": "2025-07-24T20:05:32.943Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 2,
+          "type": "Yoga",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Basic Yoga Poses",
+              "style": null,
+              "compatibility": 100,
+              "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "epMe0rWKe3",
+              "contentId": "qxs6YvzsoQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Yoga",
+          "rank": 301,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Super Easy Stretch Routine I",
+              "style": null,
+              "compatibility": 100,
+              "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2513888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "ZyVk7r3dWj",
+              "contentId": "OQbPuzfX7F",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Strength",
+          "rank": 102,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nThis is the first routine in the Full Body series. It introduces the most basic versions of moves that make up the majority of this program. Some of these moves may seem very basic but we encourage you to focus on perfect form and execution during these early levels so that when we turn up the heat you have things nailed. As you\u0027ll see, all the exercises at the lower levels will progress in a similar fashion going forward. We\u0027re building strength, but also fine-tuning your nervous system. As the program progresses you\u0027ll be asked to complete more difficult variations on each foundational move.\n\n\u200B\n\nAs with all the strength training routines, it helps if you\u2019ve done a warm-up before getting started. That can be one of your favorite yoga routines, riding your bike on the trainer for 5-10 minutes, or doing a personal stretching routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Goblet Squat\n- Single-Leg Squat\n- Backward Lunge\n- Hip Hinge with Reach\n- Hip Bridge with Reps\n- Push-Up on Knees\n- Back Extension\n- Quadruped with Leg Lifts\n- Plank with Leg Lifts\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.20916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 5,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "QZ177ROg7C",
+              "contentId": "pqcw0IeBqc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Yoga",
+          "rank": 302,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Loosen Neck and Shoulders",
+              "style": null,
+              "compatibility": 100,
+              "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 24,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "OMbMF4ZLL2",
+              "contentId": "HrRvxvdfES",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "type": "Yoga",
+          "rank": 303,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Morning Yoga Routine",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25305555555555553,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "3dSiDxhXEJ",
+              "contentId": "4dDcfXlQIK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Strength",
+          "rank": 104,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Recovery Session A",
+              "style": null,
+              "compatibility": 100,
+              "description": "These recovery sessions are easy enough that you get the rest you need, but work you hard enough that your body continues to adapt to the new demands you place on it. You might see these sessions as too short and too easy to be beneficial, but just like a proper recovery spin, active recovery is infinitely better than doing nothing at all. Given how short this session is, we strongly recommend also doing a Yoga Session in the app first. Something like Mobilize and Activate, Balance and Agility, or Full Body Mobilization.\n\n\u200B\n\n**Exercises Included**\n\n- Kneeling Hip Drive with Hands Up\n- Kneeling Hip Drive with Hands to Side\n- High Plank\n- Plank\n- Hip Bridge\n- Bent Leg Tip at the Hip\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands to Side\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1527777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 4,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "nMQ6N6Z53n",
+              "contentId": "4uE2aDnuo6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Yoga",
+          "rank": 304,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Basic Yoga Poses",
+              "style": null,
+              "compatibility": 100,
+              "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "epMe0rWKe3",
+              "contentId": "qxs6YvzsoQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "type": "Yoga",
+          "rank": 305,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Chest \u0026 Shoulder Strength",
+              "style": null,
+              "compatibility": 100,
+              "description": "This yoga sequence is designed to strengthen the upper body, targeting the shoulders, chest, triceps, and core. It\u0027s an ideal routine to practice in the morning or before a workout to activate muscles throughout the body. The intensity can be increased by lifting the knees during push-ups, providing a challenge to work towards.\n\n\u200B\n\nThe objectives are to strengthen the shoulders, chest, triceps, and core, practice synchronizing breath and movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- Triceps Push-Ups\n- Plank\n- Child\n- Downward Dog\n- Puppy\n- Chest Stretch\n- Triceps Stretch\n- Final Resting Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "4tA5QEtbiJ",
+              "contentId": "qIK6s5azwj",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Strength",
+          "rank": 106,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.19555555555555557,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 5,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "oysCVNFmCC",
+              "contentId": "u9SW542leT",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Yoga",
+          "rank": 306,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "End Of Day Stretch",
+              "style": null,
+              "compatibility": 100,
+              "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "GLN8bDnkTz",
+              "contentId": "IhB5vyASlP",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "type": "Yoga",
+          "rank": 307,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Neck and Upper Back Recovery",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2538888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "f8BdieRHEZ",
+              "contentId": "YuKMLjzZJ6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "type": "Strength",
+          "rank": 108,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we begin adding variations to the foundational moves you\u2019ve mastered so far (you\u2019ve mastered them, right?). This will keep challenging you, as will the increases in duration of a few sets -- such as the squats -- so you can complete a few more reps.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Single-Leg Squat with Opposite Reach\n- Squat with Wide Stance\n- Hip Bridge\n- Frog Crunch\n- Push-Up On Knees\n- Back Extension with Reps\n- Quadruped with Arm Raise\n- Plank\n- Plank with Leg Lifts\n- Side Plank\n- Side Plank with Leg Raise\n- Side Plank with Pulsing Hand\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.33666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 8,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "tMNDQHiMs1",
+              "contentId": "QAIfCGp5qO",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "type": "Yoga",
+          "rank": 308,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Recovery Booster",
+              "style": null,
+              "compatibility": 100,
+              "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2427777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 24,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "gzgd8DC8J3",
+              "contentId": "D6SEBUnjwW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 34,
+          "type": "Yoga",
+          "rank": 309,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Hip Flexor and Groin Recovery",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this Beginner sequence, we release the hip flexors and groin and stretch the hamstrings and calves. It\u0027s a great session to do after a workout or in the evening to prevent and alleviate lower back pain.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2525,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "DyCuarVW0N",
+              "contentId": "atFlT6FCPH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Strength",
+          "rank": 110,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Recovery Session B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to keep your body familiar with the basic movements of strength training without adding any extra fatigue to your system. This keeps your body adapted while allowing it to fully recover. To make the most out of your strength gains, you need to balance the hard work with adequate recovery. Given how short this session is, we strongly recommend completing a supplementary Yoga Session after this video. Something like Improving Posture, Shake Off the Day or Recovery Booster would be perfect.\n\n\u200B\n\n**Exercises Included**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- High Plank to Pigeon Pose\n- Plank with Leg Lifts\n- Hip Bridge with Reps\n- Fast Lateral Lunges with Knees Up\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands Side to Side\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.15416666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 4,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "4y8mNDongj",
+              "contentId": "c3M0tQQKmK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "type": "Yoga",
+          "rank": 310,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Super Easy Stretch Routine I",
+              "style": null,
+              "compatibility": 100,
+              "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2513888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "ZyVk7r3dWj",
+              "contentId": "OQbPuzfX7F",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 41,
+          "type": "Yoga",
+          "rank": 311,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Lower Back Recovery",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this Beginner sequence, we release tension in the hips\u2014the groin, glutes, piriformis, TFL, and external hip rotators, stretch the calves and hamstrings and re-align the pelvis. It\u0027s a great session to practice in the morning or the evening to prevent and alleviate lower back pain.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25722222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "g4BWH90Ys2",
+              "contentId": "OmJKEBa3wQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 42,
+          "type": "Strength",
+          "rank": 115,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Full Body 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we begin adding variations to the foundational moves you\u2019ve mastered so far (you\u2019ve mastered them, right?). This will keep challenging you, as will the increases in duration of a few sets -- such as the squats -- so you can complete a few more reps.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Single-Leg Squat with Opposite Reach\n- Squat with Wide Stance\n- Hip Bridge\n- Frog Crunch\n- Push-Up On Knees\n- Back Extension with Reps\n- Quadruped with Arm Raise\n- Plank\n- Plank with Leg Lifts\n- Side Plank\n- Side Plank with Leg Raise\n- Side Plank with Pulsing Hand\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.33666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 8,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "tMNDQHiMs1",
+              "contentId": "QAIfCGp5qO",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 44,
+          "type": "Yoga",
+          "rank": 315,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Supple Spine \u0026 Hips",
+              "style": null,
+              "compatibility": 100,
+              "description": "This classic yoga sequence enhances mobility in the spine and hips while stretching the calves, hamstrings, hip flexors, and lower back. As you become familiar with the routine, you can begin to focus on synchronizing your breath with your movements, aiming to use nasal breathing as much as possible. It is an excellent practice for the morning to warm up and improve focus, or it can be done directly after a workout to help prevent extreme muscle stiffness.\n\n\u200B\n\nThe objectives are to improve mobility in the spine and hips, stretch the calves, hamstrings, hip flexors, and lower back, practice synchronizing breath and movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- Downward Dog\n- Crescent Lunge\n- Bridge\n- Reclining Spinal Twist\n- Final Resting Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "yaoER7YZXN",
+              "contentId": "Hp3cgE0oCL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 48,
+          "type": "Yoga",
+          "rank": 316,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Mobilize Your Body",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this video, we focus on mobilizing the wrists, elbows, shoulders, neck, spine, hips, ankles, and toes to enhance overall mobility throughout the body. It is an excellent routine to practice in the morning or evening to alleviate stiffness.\n\n\u200B\n\nThe objectives are to increase mobility in the wrists, elbows, shoulders, neck, spine, hips, and ankles.\n\n\u200B\n\n**Poses in this session:**\n\n- Screaming Toe\n- Wrist Circles\n- Elbow Circles\n- Shoulder Circles\n- Neck Circles\n- Thunderbolt\n- Kneeling Cat-Cow\n- Thoracic Spine Circles\n- Seated Twists\n- Hip Circles\n- Squat Twists\n- Standing Forward Bends\n- Reclining Hip Circles\n- Windscreen Wipers\n- Ankle Mobilisations\n- Knees-To-Chest\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "LBMdUl2pcK",
+              "contentId": "EScfx8jFrg",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 49,
+          "type": "Strength",
+          "rank": 112,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Recovery Session B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to keep your body familiar with the basic movements of strength training without adding any extra fatigue to your system. This keeps your body adapted while allowing it to fully recover. To make the most out of your strength gains, you need to balance the hard work with adequate recovery. Given how short this session is, we strongly recommend completing a supplementary Yoga Session after this video. Something like Improving Posture, Shake Off the Day or Recovery Booster would be perfect.\n\n\u200B\n\n**Exercises Included**\n\n- Kneeling Hip Drive with Hands Over Head\n- Kneeling Hip Drive with Hips Side to Side\n- High Plank to Pigeon Pose\n- Plank with Leg Lifts\n- Hip Bridge with Reps\n- Fast Lateral Lunges with Knees Up\n- Standing Hip Drive with Hands Up\n- Standing Hip Drive with Hands Side to Side\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.15416666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 4,
+                "intensityFactor": 0.49
+              },
+              "workoutId": "4y8mNDongj",
+              "contentId": "c3M0tQQKmK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 51,
+          "type": "Yoga",
+          "rank": 312,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Recovery Booster",
+              "style": null,
+              "compatibility": 100,
+              "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2427777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 24,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "gzgd8DC8J3",
+              "contentId": "D6SEBUnjwW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 55,
+          "type": "Yoga",
+          "rank": 314,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Super Easy Stretch Routine I",
+              "style": null,
+              "compatibility": 100,
+              "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2513888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "ZyVk7r3dWj",
+              "contentId": "OQbPuzfX7F",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

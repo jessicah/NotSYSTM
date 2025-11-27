@@ -1,0 +1,30 @@
+{
+  "uid": "TkGn9h",
+  "name": "Mallorca 312",
+  "description": null,
+  "stepTitle": "Mallorca 312",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "CmOagjBfxD",
+      "name": "Mallorca 312 - 6 Weeks",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "CmOagjBfxD",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

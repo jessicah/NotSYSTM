@@ -1,0 +1,30 @@
+{
+  "uid": "9khl0q",
+  "name": "12 weeks",
+  "description": "3 sessions per wk for 12 weeks. This is the perfect compliment to a Cycling plan that includes strength. ",
+  "stepTitle": "Mobility Maintenance - 12 week",
+  "stepDescription": "3 sessions per wk for 12 weeks. This is the perfect compliment to a Cycling plan that includes strength. ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Iy7Azk0fcR",
+      "name": "Mobility \u0026 Stability - 12 week-3x week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Iy7Azk0fcR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "uid": "lrYjJc",
+  "name": "High",
+  "description": "6-10 hours",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "BVyjlw",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": " High Volume - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "8KruQtp6NQ",
+          "name": "ToS Prep - High Volume - Strength - Base Plan ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "8KruQtp6NQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "TrPQqV",
+      "name": "No",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": " High Volume",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "QebkaaFw1k",
+          "name": "ToS Prep High Volume - Base Plan  ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "QebkaaFw1k",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

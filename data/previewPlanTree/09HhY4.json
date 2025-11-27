@@ -1,0 +1,74 @@
+{
+  "uid": "09HhY4",
+  "name": "2:1",
+  "description": "Two weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ZYmi6l",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "Standard/Olympic Distance",
+      "stepDescription": "Event - Low Volume - 2:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ues9H88Rg0",
+          "name": "Duathlon Standard/Olympic Distance - Event - Low Volume  - 2:1 ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ues9H88Rg0",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "bgLssG",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Standard/Olympic Distance",
+      "stepDescription": "Event - Low Volume - 2:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PCAHe0Z2GB",
+          "name": "Duathlon Standard/Olympic Distance - Event - Low Volume  - 2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PCAHe0Z2GB",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

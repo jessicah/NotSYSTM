@@ -1,0 +1,30 @@
+{
+  "uid": "SnDlp9",
+  "name": "Ride Your Revolution",
+  "description": "Ride Your Revolution",
+  "stepTitle": "Ride Your Revolution",
+  "stepDescription": "Ride Your Revolution",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "6WFK4v",
+      "name": "Money Back Plan ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2qxKmy32rc",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

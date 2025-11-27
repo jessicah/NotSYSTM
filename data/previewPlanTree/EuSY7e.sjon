@@ -1,0 +1,30 @@
+{
+  "uid": "EuSY7e",
+  "name": "4 Sessions/Week",
+  "description": "About 1 hour per week",
+  "stepTitle": "Intermediate Yoga - 4 Sessions/Week",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "aLDBXQxE9S",
+      "name": "Intermediate Yoga - 7 Sessions/week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "aLDBXQxE9S",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

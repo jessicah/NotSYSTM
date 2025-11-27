@@ -1,0 +1,194 @@
+{
+  "id": "kb2gdaUZDw",
+  "name": "SYSTM December Challenge: End Game",
+  "weakness": "NoWeakness",
+  "grouping": "December: End Game",
+  "category": "",
+  "subcategory": "None",
+  "description": "#### **End Game**\n\n**All in. All out. End the year like a pro.**\n\n\u200B\n\nThe year\u2019s almost over \u2014 and this is your _final stage_.\nDecember is where Wahooligans dig deep, light the jets, and leave nothing behind. \u201CEnd Game\u201D isn\u2019t about pacing\u2026 it\u2019s about pushing. It\u2019s the final sprint, the last big effort, and your chance to close out 2025 with full-gas glory.\n\nThis month, we\u2019re going out in style \u2014 with a mini race tour of four legendary SYSTM workouts designed to test your power, control, and courage under pressure.\n\n\nYou\u2019ve built the base. Now it\u2019s time to burn what\u2019s left in the tank.\n\n- **Cygnet Coast: **Smooth power, tactical patience, and the confidence to hold your line when it matters.\n- **Attacker: **Go off the front, stay away, and feel what it\u2019s like to race on instinct and guts.\n- **Tour de Suisse Women \u2013 Stage 2: **Elevation, speed, and resilience \u2014 the perfect stage to empty the tank and finish the year in style.\n- **The Wretched: **Relentless efforts, surges, and that glorious moment when you refuse to give in.\n\nFind out more about the Wahoo X December Challenge\n",
+  "planDescription": "Monthly Challenge",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2023-05-24T15:22:42.812Z",
+  "updatedAt": "2025-11-13T15:22:57.213Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Tasmania: Cygnet Coast Road",
+          "style": null,
+          "compatibility": 100,
+          "description": "The setting might be one of stunning tranquility, but this workout certainly isn\u0027t. We\u0027re down in far, far Southern Tasmania for a ride along one of the most stunning - but little known - roads in the region. Starting in the hamlet of Cradoc, we head south along the peninsula to the village of Cygnet. It\u0027s a rolling road with countless little \u0027kickers\u0027 that we\u0027re going to hit at maximum intensity in order to simulate a race or hard group ride. Along the way, we\u0027ll pop in to visit some of the most interesting characters who call this area home: a winemaker, an artist, and the founder of a famous cooking school.\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2927502558987635926)\n\n\u200B\n\n_About your host: Who better to show you around Tasmania than Nicole Frain? Raised in the north of the island, and currently living just outside Hobart, Nicole knows all the best places to spend your time on and off the bike. Known for her aggressive racing, the Parkhotel-Valkenberg professional won the 2022 Australian Elite Road Race Championship with a late attack and also finished second overall at the 2022 Tour Down Under. Good luck staying with her as she takes you through these workouts!_\n\n\u200B\n\nFeatured in this video:\n\n[Farmhouse Kitchen](https://www.thefarmhousekitchen-tas.com/)\n\n[Sailor Seeks Horse](https://sailorseekshorse.com.au/)\n\n[Matt Calvert](https://mattcalvert.com.au/)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8305555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 1,
+              "map": 5,
+              "ftp": 2
+            },
+            "tss": 67,
+            "intensityFactor": 0.89
+          },
+          "workoutId": "70cUUDSGmd",
+          "contentId": "GrPqtWYuEp",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 205,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Attacker",
+          "style": null,
+          "compatibility": 100,
+          "description": "Being able to finish strong comes from properly pacing your efforts and preparing to finish strong. This session is all about improving those abilities. For just over 50 minutes, you\u0027ll tackle five different 6-minute long, progressive efforts that start just below FTP and finish well above it for the final minute.\n\n\u200B\n\nThe real challenge of this workout is the limited 1-minute recovery sections between each effort. You\u2019ll want to savor every second of those short recoveries. This workout will help improve your FTP and improve your ability to recover while pushing just under your threshold for the first half of each effort. You\u2019ll also learn to manage your pacing and put out power above your threshold after holding steady just below that breakpoint.\n\n\u200B\n\nRiders with sustained weakness will benefit greatly from this workout, as will anyone looking to push up their FTP.\n\n_Attacker_ is quite similar to the SUF workout, _Defender._ However, the efforts within each interval are 2-minutes shorter, and instead of starting harder and backing off like in _Defender,_ the efforts in this session start controlled and keep squeezing harder and harder until the end.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8825,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 63,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "2RCUXLPFVH",
+          "contentId": "k0MlcITKGW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Tour de Suisse Women 2",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Featured rider: **Clara KOPPENBURG of Germany\n\n**Event: **Tour de Suisse Women\n\n\u200B\n\nAfter the racing in Vaduz as part of the Tour de Suisse Women, the peloton leaves Liechtenstein and heads towards Chur, the oldest town in Switzerland. With the riders having ridden 96 kilometers over some tough climbs already, you\u0027ll join the action on-board with Cofidis Professional Clara Koppenburg with less than 28 kilometers to go. The final climb of the day up to St Luzisteig is coming up. Be ready for plenty of attacks before you get there and a high pace once on the slopes. You have all to play for in this stage. Can you pull it off?\n\n\u200B\n\n**About ProRides**\n\n_Here\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there._\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9077777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 1,
+              "map": 2,
+              "ftp": 4
+            },
+            "tss": 134,
+            "intensityFactor": 0.76
+          },
+          "workoutId": "sbfGA201Wo",
+          "contentId": "tBEu9LdjEy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "The Wretched",
+          "style": null,
+          "compatibility": 100,
+          "description": "A SUF classic, this session is not for the faint of heart, or the fatigued of legs. What it may lack in polish it more than makes up for with results. With large continuous blocks above threshold, and the only \u201Crecovery\u201D coming in the form of tempo efforts (but only after massive surges), you need to bring your A-game to make it through this one. Actually, bring your A\u002B game.\n\n\u200B\n\nWith so much time right at or above threshold you really push your ability to efficiently produce aerobic power to its limits, which is the key to a quality FTP session (when you are fresh). All that time above threshold, those large surges, and that inadequate recovery also punishes your Anaerobic Capacity (AC) and Maximal Aerobic Power (MAP) harder than other FTP-focused sessions.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7708333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 59,
+            "intensityFactor": 0.87
+          },
+          "workoutId": "gMoGczvcAS",
+          "contentId": "MzBfwwDxEB",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

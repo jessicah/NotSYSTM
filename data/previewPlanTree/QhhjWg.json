@@ -1,0 +1,30 @@
+{
+  "uid": "QhhjWg",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Standard/Olympic Distance",
+  "stepDescription": "Event - Moderate Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9g68HqO1Gd",
+      "name": "Duathlon Standard/Olympic Distance - Event - Moderate Volume  - 2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9g68HqO1Gd",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

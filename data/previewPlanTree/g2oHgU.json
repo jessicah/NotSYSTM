@@ -1,0 +1,30 @@
+{
+  "uid": "g2oHgU",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Full Distance",
+  "stepDescription": "Full Distance - Moderate volume - 3:1 - Event Prep - strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "tPT5GhA4n6",
+      "name": "SYSTM Full Distance Triathlon Plan/3:1/Ends on Race Day (clone)*DEC2020 Mod volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "tPT5GhA4n6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

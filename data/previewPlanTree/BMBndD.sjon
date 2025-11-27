@@ -1,0 +1,30 @@
+{
+  "uid": "BMBndD",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "XC MTB",
+  "stepDescription": "Event - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "khhEWh",
+      "name": "MTB XC Event 2:1 High Volume w/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KA0UsHkEso",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "uid": "u5k7tw",
+  "name": "Expert",
+  "description": null,
+  "stepTitle": "Sessions per week",
+  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "7rrFPn",
+      "name": "2 Sessions/Week",
+      "description": "About 30 minutes per week",
+      "stepTitle": "Expert Yoga - 2 Sessions/Week",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ELhPlLLynu",
+          "name": "Advanced Yoga - 2 Sessions/week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ELhPlLLynu",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "QNfJzj",
+      "name": "4 Sessions/Week",
+      "description": "About 1 hour per week",
+      "stepTitle": "Expert Yoga - 4 Sessions/Week",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "f5aKeDaf6F",
+          "name": "Advanced Yoga - 4 Sessions/week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "f5aKeDaf6F",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "0GaVFy",
+      "name": "7 Sessions/Week",
+      "description": "About 2 hours per week",
+      "stepTitle": "Expert Yoga - 7 Sessions/Week",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "z4aV8ziwYP",
+          "name": "Advanced Yoga - 7 Sessions/week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "z4aV8ziwYP",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

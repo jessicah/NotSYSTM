@@ -1,0 +1,71 @@
+{
+  "id": "szluvThg8j",
+  "name": "KoS Quest - Build Your Own",
+  "weakness": "NoWeakness",
+  "grouping": "Build Your Own",
+  "category": "",
+  "subcategory": "None",
+  "description": "**Congrats on accepting the Knighthood Challenge!**\n\n- You have chosen to choose your own fate, select your 10 videos carefully. Please check the list of eligible Sufferfest videos [here](https://support.wahoofitness.com/hc/en-us/articles/4406074947090-How-to-become-a-Knight-of-Sufferlandria)\n\nA reminder of the rules:\n\n- Please see a doctor. You\u2019re not right and are in desperate need of help.\n- You must be at least 18 years old.\n- You must have an active subscription to Wahoo X in order to be officially recognized as a Knight of Sufferlandria\u00AE.\n- You must do 10 eligible Sufferfest videos, back-to-back. Please check the list of eligible Sufferfest videos [here](https://support.wahoofitness.com/hc/en-us/articles/4406074947090-How-to-become-a-Knight-of-Sufferlandria)\n- You can do the videos in any order you like.\n- You may not do any video title more than once (e.g., you can\u0027t do the old and the remastered version of a video.\n- All workouts must be completed in the SYSTM app. Workouts completed outdoors using a Wahoo computer will not be applicable to a Knighthood Quest.\n- You are allowed 10 minutes rest between videos. No more. But less is fine.\n- We do not set any kind of performance benchmark for your ride (i.e., how hard you have to go). However, we insist that you do a ride in which you Suffer and which, most importantly, of which you are immensely proud of yourself for having given all you can give and a bit more.\n- We strongly encourage you to raise money for a good cause. It\u0027ll do good for the world, make you even prouder of yourself and rightly earn the praise of your fellow Sufferlandrians.\n\nPlease note, you can complete these workouts at whatever intensity you choose. Keep in mind you are going to be spending a lot of time in the saddle so we recommend 70% intensity or less as the workouts go on.\n\n\u200B\n\n**Upon completion, fill out this **[form](https://wahoosystm.com/kosapp)[**.**](https://thesufferfest.typeform.com/to/JtS2Df)** **(don\u2019t send us an email \u2013 we need it through the form).\n\nGood luck and see you in the castle!\n",
+  "planDescription": "Quest",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2024-04-16T15:37:34.973Z",
+  "updatedAt": "2024-04-25T18:25:31.786Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Event",
+      "rank": 222,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Knighthood Quest ",
+          "style": null,
+          "compatibility": 100,
+          "description": "Today is the big day! A few reminders and tips before you begin your quest:\n\n- Please see a doctor. You\u2019re not right and are in desperate need of help.\n- You must be at least 18 years old.\n- You must have an active subscription to Wahoo X in order to be officially recognized as a Knight of Sufferlandria\u00AE.\n- You must do 10 eligible Sufferfest videos, back-to-back. Please check the list of eligible Sufferfest videos [here](https://support.wahoofitness.com/hc/en-us/articles/4406074947090-How-to-become-a-Knight-of-Sufferlandria)\n- You can do the videos in any order you like.\n- You may not do any video title more than once (e.g., you can\u0027t do the old and the remastered version of a video.\n- All workouts must be completed in the SYSTM app. Workouts completed outdoors using a Wahoo computer will not be applicable to a Knighthood Quest.\n- You are allowed 10 minutes rest between videos. No more. But less is fine.\n- We do not set any kind of performance benchmark for your ride (i.e., how hard you have to go). However, we insist that you do a ride in which you Suffer and which, most importantly, of which you are immensely proud of yourself for having given all you can give and a bit more.\n- We strongly encourage you to raise money for a good cause. It\u0027ll do good for the world, make you even prouder of yourself and rightly earn the praise of your fellow Sufferlandrians.\n\nPlease note, you can complete these workouts at whatever intensity you choose. Keep in mind you are going to be spending a lot of time in the saddle so we recommend 70% intensity or less as the workouts go on.\n\n\u200B\n\n**Upon completion, fill out this **[form](https://wahoosystm.com/kosapp)[**.**](https://thesufferfest.typeform.com/to/JtS2Df)** **(don\u2019t send us an email \u2013 we need it through the form).\n\nGood luck and see you in the castle!\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "zo5GHq3hvi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

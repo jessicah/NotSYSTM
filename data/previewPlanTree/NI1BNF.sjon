@@ -1,0 +1,30 @@
+{
+  "uid": "NI1BNF",
+  "name": "Block 5 (Weeks 17-20)",
+  "description": "",
+  "stepTitle": "Block 5 (Weeks 17-20)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GFWqp2EgoQ",
+      "name": "Basic Training 3:1 - 21 wks ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "GFWqp2EgoQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

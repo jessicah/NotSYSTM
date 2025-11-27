@@ -1,0 +1,30 @@
+{
+  "uid": "uJ6wgp",
+  "name": "From the Ground Up",
+  "description": "Follow the plan our FTGU athletes are following in the build up to this year\u0027s Leadville event.",
+  "stepTitle": "From the Ground Up",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "rVBxYhkO2W",
+      "name": "MTB 100 mile - Event - High Volume - 2:1 - 14-a wks 2023 FTGU ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "rVBxYhkO2W",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

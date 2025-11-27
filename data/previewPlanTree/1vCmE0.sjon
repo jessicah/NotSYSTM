@@ -1,0 +1,30 @@
+{
+  "uid": "1vCmE0",
+  "name": "Climb Trial ",
+  "description": null,
+  "stepTitle": "WSS Study",
+  "stepDescription": "Furthering Ports Science ",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "cldgyI",
+      "name": "ClimbTrial Plan / WSS Tilt Study",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "4M0tM9d51j",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

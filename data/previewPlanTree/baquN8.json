@@ -1,0 +1,30 @@
+{
+  "uid": "baquN8",
+  "name": "4 weeks",
+  "description": "A four week block of daily Mobility \u0026 Stability. This goes great with a block cycling plan",
+  "stepTitle": "Mobility \u0026 Stability 4 week - Daily",
+  "stepDescription": "A four week block of daily Mobility \u0026 Stability. This goes great with a block cycling plan",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "JZibXmii06",
+      "name": "Mobility \u0026 Stability - 4 week-7x week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "JZibXmii06",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

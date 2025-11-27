@@ -1,0 +1,70 @@
+{
+  "previewPlan": [
+    {
+      "id": "xjADrAMNCj",
+      "name": "2022 Post ToS - Strength addon (don\u0027t include) ",
+      "weakness": "NoWeakness",
+      "grouping": "Post Tour",
+      "category": "Tour of Sufferlandria",
+      "subcategory": "None",
+      "description": "### Goal\n\nTo properly structure your post-ToS recovery week, and get you ready for another crack at Full Frontal\n\n### Best for\n\nThose who are feeling exceptionally fatigued, and/or completed the Nuclear option and need some proper rest before another crack at Full Frontal\n\n### Training volume\n\n2 to 4 hours per week\n\n### Plan ends with\n\nFull Frontal\n\n### Special Notes\n\nRecovery is important, don\u0027t be afraid to take it nice and easy for the first week after stage 9!\n",
+      "planDescription": "For those who had to dig deep every day to finish the tour",
+      "fixedEndDate": "2022-03-13",
+      "level": "No Strength",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2021-12-20T22:23:06.284Z",
+      "updatedAt": "2021-12-20T22:23:32.427Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": false,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 20,
+          "type": "Yoga",
+          "rank": 150,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Breathing to Crush Them",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.05138888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 5,
+                "intensityFactor": 0.97
+              },
+              "workoutId": "XCJCw2hv7g",
+              "contentId": "f0coAivEon",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

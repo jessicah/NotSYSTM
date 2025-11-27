@@ -1,0 +1,455 @@
+{
+  "previewPlan": [
+    {
+      "id": "57mUSVAFiW",
+      "name": "TWT24 Sufferlandrian Route",
+      "weakness": "NoWeakness",
+      "grouping": "Sufferlandrian Route",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Here it is! The official Sufferlandrian route for the 2024 Wahooligan Tour.\n\nThanks again for taking part in the Tour and helping us reach our goal of raising $215,000 for the [Davis Phinney Foundation](https://davisphinneyfoundation.org/). If you haven\u0027t registered for the Tour yet or started your fundraising, click [HERE](http://dpf.convio.net/site/TR?fr_id=1300\u0026pg=entry).\n",
+      "planDescription": "Wahooligan Route 2024",
+      "fixedEndDate": "2024-03-02",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2023-11-21T19:07:49.338Z",
+      "updatedAt": "2024-05-14T14:13:04.019Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 218,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Blender",
+              "style": null,
+              "compatibility": 100,
+              "description": "A smorgasbord of Suffering, this session has it all. Originally created in Coach Sir Neal Henderson\u0027s Penn State dorm room in 1992, it\u0027s his weapon of choice for bringing the pain (shakes).\n\n\u200B\n\nWhat\u0027s in the Blender? First, a variety of longer efforts build sustained power while also making sure you\u0027re sufficiently fatigued. This initial beatdown is necessary to ensure you get the maximum benefit from _Blender_\u0027s infamous \u0027Pain Shakes.\u0027 Three sets of these little devils help you develop a supernatural ability to recover from big efforts. The bonus is that you also beef up your ability to produce high-end power, building Anaerobic Capacity and Maximal Aerobic Power simultaneously.\n\n\u200B\n\nThe threshold efforts at the end are the bitter cherry on the sundae, improving your body\u0027s ability to produce aerobic power and helping make sure your FTP will get the same boost as your AC and MAP. A rising tide of lactic acid raises all boats. Oh, and clocking in at one hour and 40 minutes, Blender will also help whip your endurance into a frenzy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.696388888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 133,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "ZWePe15MOH",
+              "contentId": "14TmGHiqpC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Fundraising Tips",
+              "style": null,
+              "compatibility": null,
+              "description": "Don\u2019t forget to register to ride the tour, all your fundraising goes towards a great cause: https://www.wahoofitness.com/the-wahooligan-tour\n",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 219,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Nine Hammers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Sometimes you\u0027re the hammer. Sometimes you\u0027re the nail. And sometimes, you\u0027re getting both hammered and nailed. With a series of nine different intervals, all at or above threshold, this is one of the best Maximal Aerobic Power / VO2 sessions in The Sufferfest library. It isn\u2019t just the total amount of time spent above threshold, though.\n\n\u200B\n\nThis workout takes the training stress up a notch by giving you barely enough time to recover from the previous hammer before the next one falls. This ensures your Anaerobic Capacity gets a little boost as well.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9702777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 80,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "3QDoncjr5A",
+              "contentId": "TBn7DwOwEc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 220,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Gran Canaria: Pico de las Nieves",
+              "style": null,
+              "compatibility": 100,
+              "description": "From the picturesque village of Tejeda today we\u2019re heading to Pico de las Nieves for an unforgettable ride and workout to the summit of the island at 1,949m above sea level and the highest point on the island! After sampling Tejeda\u2019s famous almond and dark chocolate cookies it\u2019s time to hit the road for a block of 4 x 4 min low cadence with 1 min high cadence drills. Taking a moment to let that cookie settle and get back in the green we\u2019ll follow this up with a short 3 min 30 second low cadence effort before our next block of low cadence / high cadence repeats, this time for 2 minute / 1 minute intervals. With the summit tantalisingly close and as the effort starts to take its toll we\u2019re going to have to really focus on the road ahead as we build our effort towards Pico de las Nieves where by the summit we can well and truly say that we\u2019ve conquered Gran Canaria!\n\n\u200B\n\nThis workout focusses on cadence work which helps with muscular endurance making it an efficient threshold session working at a variety of cadence targets.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8764050850)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.08,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 5
+                },
+                "tss": 71,
+                "intensityFactor": 0.81
+              },
+              "workoutId": "ZXpYX4hAT2",
+              "contentId": "948tit9v2k",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Italian Lakes: San Vitale to Ponte Tresa",
+              "style": null,
+              "compatibility": 100,
+              "description": "San Vitale to Ponte Tresa cycling with Michael Cotty - Sprint \u0026 Explore: Cycling in Ticino \u0026 Varese\n\n\u200B\n\nWelcome to the picturesque shores of the San Vitale River in Ticino! Join Michael Cotty for an exhilarating cycling workout on Wahoo SYSTM as we venture into Italy\u0027s Varese region. This session focuses on hitting your maximal sprints to improve your anaerobic capacity and your body\u2019s ability to recover from short sharp efforts with reduced oxygen.\n\n\u200B\n\nAlong this 19.5 km route, we\u0027ll mix in 10-second sprints to keep you challenged while soaking in the stunning landscapes. Explore the beauty of Lake Lugano, charming villages, and more in this culturally diverse region.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7790128412)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6313888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 3,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 37,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "5zI3SzpniG",
+              "contentId": "TOEC1ujMBr",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 221,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cash Register",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5380555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "HSb6Gc8uIZ",
+              "contentId": "6LnpmGMTMG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 223,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Model",
+              "style": null,
+              "compatibility": 100,
+              "description": "They say that beauty is in the eye of the beholder. And through the bleeding eyes of Sufferlandrians, what could possibly be more beautiful than the sharp, saw-tooth profile of the workout you see before you? Full of gorgeous, shapely, shimmering blocks of yellow Maximal Aerobic Power (MAP) efforts interspersed with mercifully brief and slightly inadequate recoveries, it\u0027s a real stunner.\n\n\u200B\n\nBut you know what\u0027s even better looking than this alluring workout? You (after you\u0027ve completed the workout, that is). Originally designed by our Head of Sports Science, Neal Henderson, for his professional athletes, The Model is a beautiful portrait of MAP brutality. It\u0027s one of those sessions that you think you can\u0027t finish, but always somehow do. It will leave you breathless, feeling all tingly, a bit confused and lying in a blubbering heap. It\u0027s a look. It will also deliver a nice boost to your fitness that always looks and feels good.\n\n\u200B\n\nA true love letter to the beauty of professional cycling, The Model features a banging soundtrack and thrilling footage from both the men\u0027s and women\u0027s pelotons. With its eclectic design, effects, and graphics, you\u0027ll find yourself unable to tear your eyes away from the action on screen (assuming you can lift them from your stem).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9844444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 86,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "WQk9TYaUhj",
+              "contentId": "NkctG9Onu1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 224,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Downward Spiral",
+              "style": null,
+              "compatibility": 100,
+              "description": "The very first Sufferfest video ever made (although it\u0027s since been remastered a few times). Both sets of intervals are designed to have equal work to rest ratios, so the longer intervals have longer recovery time afterward. This first set will begin to deplete your Anaerobic Capacity (AC), and by the end, your aerobic system will have to work overtime to help keep the power up. And keep the power up you will, since as the intervals get shorter they also get harder.\n\n\u200B\n\nThe second interval set follows the same pattern as the first, ensuring both your AC and Maximal Aerobic Power are pushed towards their limit. To give it that extra kick, we added a couple of 30-second efforts with 30 seconds of recovery (having flashbacks to Pain Shakes from _Blender_, are we?). These final efforts are just hard enough\u2014with just enough rest\u2014that you will fully deplete your AC, forcing your MAP to pick up the slack.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9011111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 1
+                },
+                "tss": 75,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "S9QhwMs6EZ",
+              "contentId": "uLOWEcW9V1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "I. Boswell 5: The Creemee Ride",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u0027s been great to show you around Siloside, Vermont. Now Ian wants to introduce you to his friends. Actually, he wants you to help him drop his friends. So jump on your bike, head down to the regular Creemee ride, and show the Siloside locals what you\u0027re made of on this rolling, rambling ride through the Vermont countryside. Ice cream is on Boz.\n\n\u200B\n\n_Do this on: Day 5 of the 7-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.3777777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 117,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "r4xl7AQmzt",
+              "contentId": "Z7YmyFhTBA",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 215,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "High Time",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Looking for a sustained effort, but don\u0027t want to go over your FTP?**\n\nThe masters of time are waiting to take you on a 30-minute journey that will flirt with the borders of your FTP (while occasionally encroaching it, because you know... SUF).\n\nSet in a part of Sufferlandria renowned for its flat and straight roads that can wreak havoc on your soul, this session is, however, not quite as intense as its older brother The Long Scream, although it is a little bit longer for the sustained effort part.\n\n\u200B\n\n**What is it good for?**\n\nThis is a fantastic session to help you get ready for a Time Trial or long climb. It\u0027s also a super session for practicing your MTP Focus skills.\n\n\u200B\n\n**Pro tip**\n\n- Complete the \u0022_**09. Focus Exercise**_\u0022 from the Mental Training Program prior to riding this session. At just five minutes long, it\u0027s a great tool to improve your ability to push away distractions and focus on the task at hand in this mentally demanding session.\n- Fire the 3-minute \u0022_**Breathing to Crush Them**_\u0022 session from our Yoga library to be even better prepared and give your lungs extra space to suck in all that O2.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 51,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "10Z8XXO07E",
+              "contentId": "4TKAvDx46w",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Event",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "More about the Davis Phinney Foundation:",
+              "style": null,
+              "compatibility": null,
+              "description": "Fundraising isn\u2019t just about raising funds.  It\u2019s a great way to raise awareness and you never know who needs to hear the message that it is possible to live well today.  More than 10 million people worldwide are living with Parkinson\u2019s.  Give someone the gift of hope and wellness with an introduction to the Davis Phinney Foundation at dpf.org.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

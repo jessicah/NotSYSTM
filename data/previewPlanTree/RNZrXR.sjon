@@ -1,0 +1,30 @@
+{
+  "uid": "RNZrXR",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Marathon MTB",
+  "stepDescription": "Event - High Volume - 3:1 ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "74c3671I85",
+      "name": "MTB Marathon Event 3:1 Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "74c3671I85",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

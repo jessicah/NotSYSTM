@@ -1,0 +1,162 @@
+{
+  "uid": "273EMQ",
+  "name": "High",
+  "description": "8-12 hours/week",
+  "stepTitle": "Progression",
+  "stepDescription": "Weekly work to rest ratio",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "XwuZZA",
+      "name": "2:1",
+      "description": "Two weeks hard followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "xYZY8A",
+          "name": "Yes",
+          "description": "Includes strength training",
+          "stepTitle": "Sprint",
+          "stepDescription": "Event - High Volume - 2:1 - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "KukXbk1uIC",
+              "name": "Sprint Duathlon - Event - High Volume  - 2:1 - Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "KukXbk1uIC",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "6lbGiL",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Sprint",
+          "stepDescription": "Event - High Volume - 2:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "madKdHgKc7",
+              "name": "Sprint Duathlon - Event - High Volume  - 2:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "madKdHgKc7",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "GSLWLw",
+      "name": "3:1",
+      "description": "Three weeks hard followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "MMxrla",
+          "name": "Yes",
+          "description": "Includes strength training",
+          "stepTitle": "Sprint",
+          "stepDescription": "Event - High Volume - 3:1 - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "2VO9FW22FE",
+              "name": "Sprint Duathlon - Event - High Volume - 3:1 - Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "2VO9FW22FE",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "dXrAoa",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Sprint",
+          "stepDescription": "Event - High Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ZiGxlGgsmg",
+              "name": "Sprint Duathlon - Event - High Volume - 3:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "ZiGxlGgsmg",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

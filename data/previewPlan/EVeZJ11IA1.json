@@ -1,0 +1,920 @@
+{
+  "previewPlan": [
+    {
+      "id": "EVeZJ11IA1",
+      "name": "Mac - Test Plan",
+      "weakness": "NoWeakness",
+      "grouping": "Mac - TP testing",
+      "category": "Testing",
+      "subcategory": "None",
+      "description": "Plan has\n",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-12-14T20:39:14.797Z",
+      "updatedAt": "2025-09-02T10:30:41.002Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Running",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "2 x 12 minutes",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-121% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, builds, strides**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30s\n\nInterval Distance: 50m each\n\n**Activation 2: 150m Accelerations**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30s\n\nInterval Effort: 110-91% RTP (Z4)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 2 minutes\n\nInterval Duration Per set: 12 minutes\n\nInterval Effort: RPE 6.5-7 --110-91% of RTP --HR 95-100% (Z4)\n\nRecovery: RPE 1-2 --145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 72,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "91BjYhkCzy",
+              "contentId": "BEcCY8Ddnp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Strength",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThis session will increase the demand on your core with additional dynamic movements. We\u2019ll also throw in some tempo exercises which require you to move slowly during the eccentric loading phase (i.e., the tough parts). These tempo movements enhance your ability to manage tension through your core so you can better react to external variables (weather, terrain, competitors) during activity.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Quadruped T-Spine Rotation\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Bird Dogs\n- Oblique Leg Lifts\n- High Plank w/ Opposite arm \u0026 leg raise\n- Single-Leg Hip Bridge w/ Rotation\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Sit Throughs\n- Kneeling Hip Extension\n- V ups\n- High Side Plank w/ rotation\n- Single-Leg Hip Rotations\n- Back Extension w/ opp arm \u0026 leg raise\n- Back Extensions with Arms Overhead\n- Tempo Push Up Wide\n- High Side Plank w/ toe taps\n- Pigeon Stretch\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3438888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 12,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "BmRynIl59j",
+              "contentId": "UB8uWwYQSY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo With Varying Cadence: 5 x 6",
+              "style": null,
+              "compatibility": 100,
+              "description": "Just as the name implies, this workout contains five 6-minute long efforts below FTP with slight variations in intensity and bigger variations in cadence at a generally low cadence every 2 minutes. Looking at power demands alone, you would not expect this session to deliver any real suffering and you would be right in terms of cardiovascular demand, however, the low cadence targets make muscular strength and neuromuscular adaptations the real moneymakers in this session.\n\n\u200B\n\nVarying cadence ensures that your muscular system gets pushed hard without maxing out. Throughout the session, your nervous system has to switch between recruiting your muscles between moderate and high force all while keeping your HR and power just below FTP.\n\n\u200B\n\n**Warm Up**\n\n30 seconds @ RPE 1 -- 40% of FTP-- HR \u003C70%\n\n30 seconds @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n1 minute 30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n1 minute 30 seconds @ RPE 3.5 -- 65% of FTP -- HR \u003C80%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C80%\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 8.5 -- 120% of FTP -- HR \u003E105%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 9 -- 150% of FTP -- HR \u003E105%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 5\n\nRest between Sets: 3 minutes @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\nInterval Repeats per: NA\n\n**Interval**\n\n2 minutes @ RPE 6 -- 85% of FTP -- HR \u003C100\n\n2 minutes @ RPE 5.5 -- 85% of FTP -- HR \u003C90%\n\n2 minutes @ RPE 6 -- 85% of FTP -- HR \u003C100\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n1 minute @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\n1 minute 30 seconds @ RPE 1 -- 40% of FTP-- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.05,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 57,
+                "intensityFactor": 0.74
+              },
+              "workoutId": "9OoCBAauc4",
+              "contentId": "EAXCOyw0t3",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Open: 60",
+              "style": null,
+              "compatibility": 100,
+              "description": "Sometimes you just need a steady endurance ride to clear the legs and head to make room for more serious sessions. This workout is set for a steady 65% FTP, but you can adjust the intensity whenever you like to match your workout goals. The video for this session is from the 2018 Tour de Suisse. \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0038888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 42,
+                "intensityFactor": 0.65
+              },
+              "workoutId": "PuZPQ4Vm78",
+              "contentId": "28ARnPxTWo",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Yoga",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Peak Pose Wheel",
+              "style": null,
+              "compatibility": 100,
+              "description": "This sequence builds towards the advanced backbend, Wheel pose. To prepare for this pose, the routine focuses on mobilizing the spine and shoulders and opening up the fronts of the hips. It is best practiced when fully warmed up, with careful attention to the lower back and only moving within safe ranges of motion. For those who can practice Wheel safely, it serves as an excellent counterpose to common postures from cycling or sitting at a desk, potentially alleviating lower back, upper back, and shoulder pain. For those not yet ready for Wheel, the other poses in this sequence are also effective for addressing muscular imbalances.\n\n\u200B\n\nThe objectives are to increase spinal and shoulder mobility, stretch the abs, chest, and fronts of the shoulders, open up the hip flexors, activate the glutes, and help alleviate lower and upper back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Supported Bridge\n- Thunderbolt\u2014Shoulder Rolls\n- Kneeling Cat-Cow\n- Puppy\n- Downward Facing Dog\n- Cobra\n- Low Lunge with Shoulder Opener\n- Bridge\n- Wheel\n- Windscreen Wipers\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24222222222222223,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "qF5u72AZDi",
+              "contentId": "ic0P68rH6C",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Holy Week",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2018): The Holy Week tells the story from the eve of the Tour of Flanders right through until the tense finale on the Roubaix velodrome. Through the eyes of the riders, team staff, and devoted roadside fans, we go behind the scenes to capture the essence of the cobbled classics, and the emotions of one of the most compelling campaigns of recent years.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film varies from endurance to tempo to sub-threshold. The higher intensity efforts are low enough that they won\u0027t distract you from the story while being just hard enough to help improve your FTP, oxygen utilization efficiency, and the ability to recover quickly between hard efforts.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8202777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 49,
+                "intensityFactor": 0.78
+              },
+              "workoutId": "uFlyatvXHM",
+              "contentId": "0QKBlUt0Af",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Open: 120",
+              "style": null,
+              "compatibility": 100,
+              "description": "Sometimes you just need a steady endurance ride to clear the legs and head out to make room for a more serious session. This workout is set for a steady 65% FTP, but you can adjust the intensity whenever you like to match your workout goals. The video for this session is from the Road Race of The Hammer Series. \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 2.0097222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 84,
+                "intensityFactor": 0.65
+              },
+              "workoutId": "5QWwXSgFos",
+              "contentId": "BtIyNyZ4Ek",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "07. Positive Self-Talk",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your confidence and performance through three types of positive self-talk: Motivational, Instructional, and Reward. Here, we\u2019ll look at the subtle and not-so-subtle effects that words have on our attitude and performance. You\u2019ll listen more closely to the way you talk to yourself so you can improve that internal dialogue and become your own biggest fan.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Fitness.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 26,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "XUrrYkaPzg",
+              "contentId": "7MLgmJEEHC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "45 min Continuous Swim",
+              "style": null,
+              "compatibility": 100,
+              "description": "Swim continuously in the pool for 45 minutes or 2000-3000m. Practice sighting without stopping and use the pace clock or a watch to monitor your pace throughout the swim.\n\n\u200B\n\nCount strokes every 4-6 lengths to make sure you are staying consistent.\n\n\u200B\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Total Distance**\n\n3000m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 19,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "fqOQmN2pkN",
+              "contentId": "6ODy9Aj2ih",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo Alternating: 3 x 15",
+              "style": null,
+              "compatibility": 100,
+              "description": "If you\u0027re looking for a session that will challenge and help build your aerobic fitness, this is it! With three sets of 15 minutes at tempo effort (alternating between 85 and 75% of FTP in 2-3 minute intervals, you\u0027ll end up with 45 minutes of quality aerobic work. This is a great session to help increase your endurance and bridge the gap between shorter tempo efforts and longer ones like our 2 x 25, or a 60-75 minute tempo build. In addition, this session will help build your muscular endurance as well as cardiovascular endurance as the cadence targets are set in the 80-85 RPM range, stimulating the muscular demand slightly more than the cardiovascular aspect.\n\n\u200B\n\n**Warm Up **\n\n6 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n1 minute @ RPE 6.5 -- 90% of FTP -- HR \u003C100%\n\n4 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort **\n\nNumber of sets: 3\n\nRest between sets: 3 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\nInterval repeats per: 3\n\n**Interval **\n\nEffort: 3 minutes @ RPE 6 -- 85% of FTP -- HR \u003C100\n\nSteady: 2 minutes @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n\u200B\n\n**Extra Volume **\n\nN/A\n\n\u200B\n\n**Cool Down **\n\n5 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 66,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "24wolDojFp",
+              "contentId": "yoIQDewWBA",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Phil wins the Tour",
+              "style": null,
+              "compatibility": 100,
+              "description": "Join Phil Gaimon in his bid to \u201Cwin the Tour\u201D as he takes on France\u2019s most iconic mountains\u2014The Tourmalet, Mont Ventoux, Alpe d\u2019Huez and Galibier. This session captures the feel of those legendary ascents with 4 x 10-minute descending threshold intervals. Each one starting above threshold before easing down, forcing you to pace smart, clear the burn, and stay locked in until the summit.\n\n\u200B\n\nBetween climbs, you\u2019ll get some recovery\u2014time to spin the legs and imagine soaking in the views (or raiding a French bakery, Phil-style).\n\n\u200B\n\nPhysiologically, you\u2019ll build muscular endurance, improve your ability to process oxygen, and train your body to go deep without breaking. Mentally, you\u2019ll sharpen pacing skills and resilience\u2014the hallmarks of any great climber.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9830555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 81,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "BqNqT59BWH",
+              "contentId": "wvpZ4nx37B",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": [
+        {
+          "id": "TxNDxjKshR",
+          "level": "Advanced",
+          "type": "Yoga",
+          "schedule": [
+            {
+              "day": 3,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Pre-Ride Warm-Up",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This sequence is designed to activate your posterior chain\u2014the calves, hamstrings, glutes, lower, upper, and mid-back, as well as your core\u2014the abs and obliques. It\u2019s crucial that you engage these muscles before every ride to give you maximum power, speed, and endurance on the bike.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2525,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "pulwu8dOT9",
+                  "contentId": "tdaKARdZtx",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 4,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "The One For Your Hips",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24194444444444443,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "dgMZ96oEct",
+                  "contentId": "3m7Kj2oYyG",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 6,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Super Easy Stretch Routine II",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "You\u0027ve just finished a difficult training session. You probably just want to curl up in a ball, but to make sure your body stays limber and flexible this sequence will stretch you out and open you up. You\u0027ll be ready to hit it again in no time.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.23916666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "DDk1BF12pl",
+                  "contentId": "x3DCCIYEnV",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 8,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Hips and Hamstrings",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This routine is designed to open up the hips\u2014the hip flexors, rotators, and glutes\u2014and stretch the hamstrings. The session guides you through a series of lunges and finishes with Lizard and Pigeon pose. You can practice it in the morning, before or after a ride. Experiment to see what works best for you.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.23805555555555555,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "uHWcKoFx7e",
+                  "contentId": "GJP5mghoHP",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 9,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Improving Posture",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Most cyclists suffer from rounded shoulders and a curved spine as a result of hours spent in the riding position. This series will release tension in your upper back and get you standing up straight and powerful again.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24166666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "YFsFjgUaRo",
+                  "contentId": "b4ZSSXIaIi",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 11,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Hip Openers",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Seeing gains from the _Hip Openers_ session? This series will build on those gains, further loosening overworked and inflexible muscles in and around the hip joints.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24138888888888888,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "11G7tWXywV",
+                  "contentId": "F17BkzPCQP",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 13,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Lower Back Release",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24166666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "OCJMECWC8T",
+                  "contentId": "7SzgfoU2XU",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 14,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Side Bends",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "If you\u0027re pushing yourself hard, it\u0027s likely you\u0027re getting stiff and sore all over. Side bends are one of my favorite ways to deal with general soreness. They\u0027re also perfect for cyclists who typically suffer from poor lateral flexibility.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24138888888888888,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "PvHKAMB04y",
+                  "contentId": "uxHo78097o",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 16,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Core Strengtheners I",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "The power to to put watts to the pedals comes not just from your legs, but from your core. When your core is strong and stable, you can generate more power, more efficiently. You\u0027ll also suffer less back pain. With those goals in mind, this sequence strengthens the abs, obliques, and lower back.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.25222222222222224,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "wu6ygmHzXa",
+                  "contentId": "DZBCT270rn",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 18,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Yoga for Travel",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "If you\u0027re traveling and will be off your bike for some time, you might feel that all is lost. But we\u0027ve created a routine for travelers to keep you balanced, loose, and strong. Do this daily while on the road so you\u0027ll be in top condition when you can get back home.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2411111111111111,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "BWAK7Wr4Lr",
+                  "contentId": "2CCiMrbROD",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 20,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Hamstring and Calf Flexibility",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24138888888888888,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "QBNTvavBD6",
+                  "contentId": "4p7ig7MAZV",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 0,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Mobilize and Activate",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Get out of your habitual movement patterns and get ready to take on the day with this activation session. You\u0027ll flow through a series of standing yoga poses to simultaneously challenge your strength, flexibility, and range of motion, leaving you feeling energized.\n\n\n\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "rMUOJd9xoe",
+                  "contentId": "fNDMdroP16",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

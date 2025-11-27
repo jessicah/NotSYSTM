@@ -1,0 +1,255 @@
+{
+  "previewPlan": [
+    {
+      "id": "WqwOMXAqbr",
+      "name": "Power Through the Holidays - Yoga addon ",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "\u200B\n",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "Yes",
+      "type": "Yoga",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-12-06T21:17:45.774Z",
+      "updatedAt": "2021-12-09T18:11:16.767Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Yoga",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Morning Yoga Routine",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25305555555555553,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "3dSiDxhXEJ",
+              "contentId": "4dDcfXlQIK",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Yoga",
+          "rank": 305,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Basic Yoga Poses",
+              "style": null,
+              "compatibility": 100,
+              "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "epMe0rWKe3",
+              "contentId": "qxs6YvzsoQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Yoga",
+          "rank": 302,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Lower Back Recovery",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this Beginner sequence, we release tension in the hips\u2014the groin, glutes, piriformis, TFL, and external hip rotators, stretch the calves and hamstrings and re-align the pelvis. It\u0027s a great session to practice in the morning or the evening to prevent and alleviate lower back pain.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25722222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "g4BWH90Ys2",
+              "contentId": "OmJKEBa3wQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Yoga",
+          "rank": 301,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Loosen Neck and Shoulders",
+              "style": null,
+              "compatibility": 100,
+              "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 24,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "OMbMF4ZLL2",
+              "contentId": "HrRvxvdfES",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Yoga",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Morning Yoga Routine",
+              "style": null,
+              "compatibility": 100,
+              "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25305555555555553,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "3dSiDxhXEJ",
+              "contentId": "4dDcfXlQIK",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "type": "Yoga",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Breathing to Crush Them",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.05138888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 5,
+                "intensityFactor": 0.97
+              },
+              "workoutId": "XCJCw2hv7g",
+              "contentId": "f0coAivEon",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

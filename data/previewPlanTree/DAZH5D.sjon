@@ -1,0 +1,30 @@
+{
+  "uid": "DAZH5D",
+  "name": "Mac Cassin",
+  "description": null,
+  "stepTitle": null,
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "QZHkDN5TsQ",
+      "name": "Grinduro Base 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QZHkDN5TsQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

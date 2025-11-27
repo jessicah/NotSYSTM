@@ -1,0 +1,444 @@
+{
+  "previewPlan": [
+    {
+      "id": "WWYWwVkXI4",
+      "name": "SYSTM Pre-Tri Plan Test Week (all 3 sports)",
+      "weakness": "NoWeakness",
+      "grouping": "Full Test Week ",
+      "category": "None",
+      "subcategory": "None",
+      "description": "This is a stand-alone test week that is meant to be performed before beginning any of the triathlon training plans. Performing this test week before beginning your plan allows you to train with the most up to date metrics, while giving you more training time within your 12 week plan!  \n  \nApply this test week to your calendar to finish immediately before your triathlon plan begins. The first week of your tri plan accounts for this testing with slightly reduced volume and intensity levels.  \n",
+      "planDescription": "Update your training zones with a week of testing prior to beginning your new training plan",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Multisport",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-06-28T18:31:51.574Z",
+      "updatedAt": "2025-07-01T16:10:06.961Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Swimming",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "Swim Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\n200m stroke of your choice @ RPE 3 -- Z2\n\n\u200B\n\n**Activation**\n\n100m Kick @ RPE 3 -- Z2\n\nRecovery: 30 seconds rest\n\n100m Pull @ RPE 3 -- Z2\n\nRecovery: 30 seconds rest\n\n\u200B\n\n**Main Effort: Primers**\n\nNumber of Sets: 1\n\nInterval 1: 100m @ RPE 5-6 -- Z3\n\nRecovery: 10 seconds rest\n\nInterval 2: 100m @ RPE 6.5 -- Z4a to RPE 8 -- Z4b\n\nRecovery: 20 seconds rest\n\nNumber of Sets: 2\n\nInterval 1: 100m @ RPE 5-6 -- Z3\n\nRecovery: 10 seconds rest Interval 2: 25m @ RPE 9 -- Z5 150m @ RPE 5-6 -- Z3 25m @ RPE 9 -- Z5\n\nRecovery: 60 seconds rest\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1400\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 42,
+                "intensityFactor": 1
+              },
+              "workoutId": "cTPYvchixj",
+              "contentId": "j8emtvuu5o",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "50/500 Swim Test",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\n**Warm Up**\n\n300m freestyle @ RPE 2 -- Z1\n\nRecovery: 60 seconds rest\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 6\n\nInterval Distance: 50m Drill of choice @ RPE 3 -- Z2\n\nRecovery: 20s rest\n\n**Activation 2**\n\nNumber of Sets: 2\n\nInterval Distance: 100m starting @ RPE 5 -- Z3 increasing to RPE 7.5 -- Z4b over full distance\n\nRecovery: 30s rest\n\n**Activation 3**\n\nNumber of Sets: 2\n\nInterval Distance: 25m @ RPE 9.5 -- Z5\n\nRecovery: 30s rest\n\n\u200B\n\n**Main Effort 1**\n\n50m Test\n\nSwim 50m as fast as you can. Keep track of your stroke count for the first 25m and the second 25m. Having a significantly higher stroke count on the 2nd half means you probably went out a bit too hard.\n\nRecovery: 200m @ RPE \u003C2 -- Z1\n\n2 minutes Rest\n\n**Main Effort 2**\n\n500m Test\n\nSwim your fastest 500m possible. Try to start cautiously and finish strong. Mark your total time for the 500m\n\n- Mentally count the number of strokes required on the final 100m. If this number is drastically higher than your stroke count for the 50m effort that means your form has deteriorated. Poor form means less water moved per stroke. This means you should put some extra work into your technique sessions to improve your technique and to prevent this from happening on race day.\n\n\u200B\n\n**Cool Down**\n\n300m freestyle @ RPE \u003C2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1900m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 61,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "1BQooazj7C",
+              "contentId": "AuVBRkbzVj",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6011111111111112,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 20,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "rUrrfvb8ii",
+              "contentId": "p6E2zIaYNZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Full Frontal (4DP Assessment)",
+              "style": null,
+              "compatibility": 100,
+              "description": "Full Frontal: The Complete One.\n\nWe recommend the Full Frontal 4DP fitness assessment for:\n\n- Experienced riders.\n- Athletes with experience pacing maximal efforts / fitness testing.\n- Those about to start\u2014or who have just finished\u2014a training plan.\n\nThis is our full 4DP fitness test and is the only test that exposes every aspect of your unique physiology in a single hour. Developed by Head of Wahoo Sports Science Coach Neal Henderson, Full Frontal uses the same lab-verified testing protocol that Coach Neal has used at the highest level for over a decade with professional and amateur athletes.\n\n\u200B\n\nThis test will provide you with a complete Four-Dimensional Power profile, identify your Rider Type, and tell you exactly what aspects of your fitness you need to focus on to become a more complete cyclist. More importantly, SYSTM will then use your results to set personalized power targets for all of your workouts based on your unique profile, resulting in the most precise, effective workouts available. Your results will also be used to tailor all of your training plans.\n\n\u200B\n\nWe recommend re-testing with Full Frontal every 8-12 weeks or as prescribed by your training plan.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9819444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 5,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "dRcyg09t6K",
+              "contentId": "XFMPELnuFo",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "Recovery Run",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3333333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 1,
+                "intensityFactor": 0.2
+              },
+              "workoutId": "NSFBYpA28h",
+              "contentId": "ixGIERsp4a",
+              "notes": "This can be, but is not meant to be a brick run. This is just a shake out to help flush some blood through the legs to help you recover faster.  \n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Across the Mountains",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2020): _Across the Mountains_ follows legendary cyclist Michael Cotty through two different adventures. The first, _Les Alpes_, is the story of Mike\u0027s non-stop ride from Evian-Les-Bains to Nice across the heart of the Alps: a journey of 677km with 17 mountain passes and more than 16,000 meters of climbing. The second, _The Road to Mont Blanc_, sees Mike tackle a 1,000 km non-stop journey across 21 mountains in the Dolomites, Eastern and Swiss Alps before finishing at Mont Blanc. Featuring never-before-seen footage and exclusive commentary by Mike Cotty himself.\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. Intensity is low, with power remaining at or below 50% of FTP (2.5 on a scale from 1 to 10) with heart rate targets entirely in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6352777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 13,
+                "intensityFactor": 0.45
+              },
+              "workoutId": "WhCO6a7rFS",
+              "contentId": "8kavOun8lH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Running",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "Running Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Just like the Primers Cycling Video, this session is about getting your body prepped and ready to run your absolute best tomorrow. That means you either have a fitness test, race, or another intense intense workout tomorrow, so make sure to cool down properly and re-fuel after this session!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 3-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets 1\n\nRest Between Sets NA\n\nInterval Repeats Per set 4\n\nInterval Effort: 60sec Accelerations from RPE 4 up to RPE 8 --120% of RTP to 90-100% RTP -- HR 90\u002B % (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 30,
+                "intensityFactor": 0.8
+              },
+              "workoutId": "476GAGt6Bh",
+              "contentId": "GhzMC58ORp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Running",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "5K Pace Test",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n5 minute build from RPE 2 to RPE 4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Accelerations**\n\nNumber of Sets 2\n\nRest Between Sets 60-90 seconds\n\nInterval Effort: 90sec Accelerations from RPE 4 up to RPE 7 (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n**Activation 2: Strides**\n\nNumber of Sets 4-6\n\nRest Between Sets: 1 min\n\nInterval Distance: 80m build\n\nInterval Effort: Gradual increase @ RPE 3-8 (Z2 building to Z4)\n\nRecovery: 30\u002B seconds @ RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\n5K Test If you aren\u2019t sure what pace you can sustain keep the RPE around 7 for the first 1500m, then build from that pace or keep it steady. Take note of your 1K splits to see if you are fading or building by the end. Record your time for the full 5k and average heart rate for the last 20 minutes. To calculate your running Lactate Threshold Heart Rate (LTHR), subtract 10bpm from the average HR of your last 20 minutes and add 15sec to your average kilometer splits to determine Running Threshold Pace (RTP).\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 5
+                },
+                "tss": 81,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "bav8jnu7Mk",
+              "contentId": "Rq8gN9uEwh",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Swimming",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "Swimming",
+              "name": "Technique A",
+              "style": null,
+              "compatibility": 100,
+              "description": "In case you need to brush up on your other [technique definitions or drills](https://wahoosystm.com/HelpCenterSwimDrills).\n\nFor help understanding your swim workout and calculating your pace zones, please see [this article](https://wahoosystm.com/SwimSessionFAQ).\n\n\u200B\n\nGood swimming technique is the key to efficient swimming. Today\u0027s session is a low intensity workout that challenges you with a series of drills designed to reinforce proper technique that will make you a more efficient, powerful and faster swimmer.\n\n\u200B\n\n**Warm-Up**\n\n200m stroke of your choice @ RPE 2 -- Z1\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 4\n\nInterval Distance: 25m Drill of choice\n\nThe goal of a Drill set is not to swim at any given pace, but instead focus on proper form. Choose a drill or focus on one of these key points for each 25m interval:\n\n- \\*Body position- swim on horizontal plane\n- \\*Enter in front of shoulder- preventing cross over\n- \\*Breathe early- prevent wide stroke- elbow is always widest point\n- \\*Elbow is always the highest point of the stroke\n- \\*Back of hand always faces direction of travel\n- \\*Fingers to point at the bottom of pool\n- \\*Initiate your stroke from the hips\n\nRecovery: 10 seconds rest\n\n\u200B\n\n**Activation 2**\n\nNumber of Sets: 1\n\nInterval Distance:\n\n200m Pull @ RPE 3-4 -- Z2\n\n- This set eliminates the use of your legs. It requires a buoy that you can swim with between your legs. The buoy will keep your body in the correct orientation. By removing your legs from the drill you will be required to only use your arms. This will help you focus on efficient form and making the most of each stroke!\n\nRecovery: 20 seconds rest\n\n\u200B\n\n**Main Effort**\n\nThe following should all be done at a moderate pace (RPE 2-4 -- Z1-Z2), with enough rest between that you can focus on proper form\n\nInterval 1: 150m of One Arm Freestyle drill\n\n- This is an old standby. Put your non-pulling arm out in front of your body and swim with only the opposite arm. Take some time to watch the arm that is pulling. Feel your elbow directly above your hand and that you are pulling right down the midline of your body. Split your body in half with your fingertips. Your emphasis should be on power and efficiency not on speed.\n- See how few strokes you can take to get down the pool.\n- Once you have it mastered, you can leave the non-pulling arm at your side.\n\nRecovery: 20-sec rest\n\nInterval 2: 200m of 3/4 Catch Up drill\n\n- A variation to catch-up that takes us closer to the full stroke. Another way to describe this is almost catch-up. Take a stroke with the right hand, wait until this hand is almost all the way through recovery and then start your pull with the left. This creates a very rhythmic feel, almost like skating through the water. Take your pull and ride the glide from it. When you lose speed, take your next pull. Want a good example of this? Watch Olympic replays of the Aussies, particularly Ian Thorpe. He races like this drill. Efficiency is your goal.\n\nRecovery: 20-sec rest\n\nInterval 3: 200m of Elbow-Hip-Elbow drill\n\n- A variation on side glide kick. The same goals apply balance, body roll, and head position during breathing. Start on either side with one arm extended out front, and the other at your side. With the fingers of the hand at your side, touch the elbow of your upper arm, then your hip, and then the elbow again. Now take your stroke or three strokes. Kick and glide and repeat.\n\nRecovery: 20-sec rest\n\nInterval 4: 150m of Fist Drill\n\n- Swim freestyle with your hands in fists. This is going to force you to get your forearms involved in the stroke because they have more surface area than your hands. Keep your elbow high under the water. Your forearm, from elbow to fingertips should be perpendicular to the bottom of the pool. Again, watch Ian Thorpe. You will feel like you are slipping through the water which is normal, however, the more water you feel like you are pulling the more efficient you are getting.\n\nRecovery: 20-sec rest\n\nInterval 5: 200m of Zipper Drill\n\n- This drill is done by pulling the fingers up the side of the body until they come into the armpit. The point of this is to keep a nice high elbow on recovery and to force the body to roll. Many use the Fingertip drag drill to accomplish this but we prefer this drill because the body roll essentially gives this drill a dual purpose.\n\nRecovery: 20-sec rest\n\nRepeat until full swim time is completed\n\n\u200B\n\n**Cool Down**\n\n200m stroke of your choice @ RPE \u003C 2 -- Z1\n\n\u200B\n\n**Total Distance**\n\n1600m\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 19,
+                "intensityFactor": 0.5
+              },
+              "workoutId": "78sRao8nrj",
+              "contentId": "JiS1UvEPGG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

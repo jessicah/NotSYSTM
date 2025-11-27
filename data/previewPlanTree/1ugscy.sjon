@@ -1,0 +1,30 @@
+{
+  "uid": "1ugscy",
+  "name": "Boone Gran Fondo",
+  "description": "August 6th",
+  "stepTitle": "Boone Gran Fondo",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "EgerdwgZwV",
+      "name": "GFNS 4",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "EgerdwgZwV",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "64fqqD",
+  "name": "Tour of Georgia",
+  "description": "April 16th",
+  "stepTitle": "Tour of Georgia",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "8KC3rvKxRH",
+      "name": "GFNS Templete",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "8KC3rvKxRH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

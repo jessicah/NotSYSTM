@@ -1,0 +1,30 @@
+{
+  "uid": "2bBd5a",
+  "name": "Scenic Lactic Acid Coastline (shortest route)",
+  "description": "Knighthood Quest",
+  "stepTitle": "Scenic Lactic Acid Coastline (shortest route)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "QWEv625kp4",
+      "name": "KoS Quest - Scenic Lactic Acid Coastline (shortest)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "QWEv625kp4",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

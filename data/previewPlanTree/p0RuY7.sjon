@@ -1,0 +1,30 @@
+{
+  "uid": "p0RuY7",
+  "name": "Mt. Sufferlandria (longest route)",
+  "description": "Knighthood Quest",
+  "stepTitle": "Mt. Sufferlandria (longest route)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "SP0xVN9K7k",
+      "name": "KoS Quest - Mt. Sufferlandria (longest)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "SP0xVN9K7k",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

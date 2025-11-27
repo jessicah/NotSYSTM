@@ -1,0 +1,30 @@
+{
+  "uid": "uPIvYu",
+  "name": "40 Mile",
+  "description": null,
+  "stepTitle": "Etape Caledonia 40",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "S1QApXlco6",
+      "name": "Etape Caledonia 40",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "S1QApXlco6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "InNj7l",
+  "name": "September 13 - Grinduro California",
+  "description": "Grinduro California",
+  "stepTitle": "Grinduro California",
+  "stepDescription": "6 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "faO7oHpOlT",
+      "name": "GFNS 2025 - Grinduro California 9/13/25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "faO7oHpOlT",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

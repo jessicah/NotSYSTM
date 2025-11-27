@@ -1,0 +1,74 @@
+{
+  "uid": "jSCXVT",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "JCqvtX",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "eSports ",
+      "stepDescription": "eSports - 3:1 - Moderate Volume - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "7Hk0DdE9sS",
+          "name": "eSports - 3:1 - Moderate Volume / strength ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "7Hk0DdE9sS",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "E6EZ9m",
+      "name": "No",
+      "description": null,
+      "stepTitle": "eSports ",
+      "stepDescription": "eSports - 3:1 - Moderate Volume",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "p2leDQDgBo",
+          "name": "eSports: Sub 20-min - 3:1 - Medium Volume",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "p2leDQDgBo",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

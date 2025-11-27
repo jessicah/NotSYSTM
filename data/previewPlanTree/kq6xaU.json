@@ -1,0 +1,30 @@
+{
+  "uid": "kq6xaU",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Olympic Distance",
+  "stepDescription": "Olympic Distance - High Volume  - 3:1 - Season Prep - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "gh4krR",
+      "name": "SYSTM Olympic Triathlon Plan/High Volume/3:1/Season Prep/Strength (STR W\u0026F)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Zqc1ZFG2pA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

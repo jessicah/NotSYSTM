@@ -1,0 +1,94 @@
+{
+  "uid": "uz5DXq",
+  "name": "High",
+  "description": "7-12 hours per week ",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "B25dWQ",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks of prep time do you have?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "xyoF3q",
+          "name": "8 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - High Volume - 3:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "4Y6Agf",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - High Volume - 3:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "hb7bBx",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Duration",
+      "stepDescription": "How many weeks of prep time do you have?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "mCuLBx",
+          "name": "9 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - High Volume - 2:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "CylpjC",
+          "name": "12 Weeks",
+          "description": null,
+          "stepTitle": "Everesting Prep - High Volume - 2:1",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

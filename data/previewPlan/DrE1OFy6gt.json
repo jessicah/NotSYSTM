@@ -1,0 +1,526 @@
+{
+  "previewPlan": [
+    {
+      "id": "DrE1OFy6gt",
+      "name": "Mobility \u0026 Stability - 4 week-3x week",
+      "weakness": "NoWeakness",
+      "grouping": "Mobility Maintenance - 4 week",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Welcome to the Mobility and Stability Series.\n\nThis series of workouts are designed to enhance your joint mobility \u0026 stability and improve circulation and muscular activation.   The sessions are divided into four areas of focus, Neck (Cervical), Shoulder \u0026 Upper Back (Thoracic Spine), Core (Trunk) \u0026 Hip, and Foot \u0026 Ankle.\n\n\u200B\n\nThese routines are NOT meant to be progressive.  Rather, each session provides a slightly different way of improving mobility in the targeted area.\n\n\u200B\n\nPlease take your time as you work through the sessions and remember that you should never move into or push through pain. Go at your own pace and feel free to repeat any of the moves if you like.\n",
+      "planDescription": "This four-week plan delivers a mix of Mobility/Stability sessions 3 days a week.",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Mobility/Stability",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2022-10-03T17:38:32.259Z",
+      "updatedAt": "2022-11-01T19:00:09.568Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "Mob/Stab 4week/ 3x Wk"
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Strength",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "71DLIFZYsf",
+              "contentId": "3rHx3ISEtw",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Strength",
+          "rank": 101,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session is designed to improve mobility and flexibility through the foot, ankle, and calf. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Dynamic Calf Stretch\n- Standing Ankle Dorsiflexion\n- Single Leg Heel Raise\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1075,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "H30EzsVaH2",
+              "contentId": "TzvORMs5g6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Strength",
+          "rank": 102,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "WNyRspyeha",
+              "contentId": "WSQ9YJ4yRy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Strength",
+          "rank": 103,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Neck Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session is designed to improve mobility and circulation through the cervical spine. Take your time to work through the movements and focus on performing them with control. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Cervical Flexion w/Hold\n- Cervical Side Bend\n- Cervical Rotation\n- Chin Tuck Reps\n- Cervical Side Bend w/Hold\n- Cervical Extension\n- Cervical Retraction\n- Cervical Retraction w/Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1363888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "KsBgLH2Jsq",
+              "contentId": "w6OPKjJfR2",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Strength",
+          "rank": 104,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12083333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "rUvUFFwynO",
+              "contentId": "8UR5Sxr0iC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Strength",
+          "rank": 105,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Seated Foot Circles\n- Seated Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "jUbiMoZd4q",
+              "contentId": "IQaReDPXdi",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Strength",
+          "rank": 106,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Quadruped T-Spine Rotation\n- Shoulder External Rotation\n- Wall Angels\n- Low Plank w/Scapular Press\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n- Side-Lying T-Spine Arcs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1175,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "CUdkMA6qvL",
+              "contentId": "1CjhDRRpAf",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Strength",
+          "rank": 107,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Neck Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is a blend of standing and ground-based moves designed to improve mobility and stability through the cervical spine. Take your time to work through the movements and focus on performing them with control. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Quadruped w/Cervical Retraction\n- Quadruped w/Cervical Extension\n- Cat/Cow Stretch\n- Cervical Side Bend\n- Cervical Rotation\n- Cervical Flexion w/Hold\n- Cervical Side Bend w/Hold\n- Cervical Extension Resisted\n- Child\u2019s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1363888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "nPhi3HzUMi",
+              "contentId": "E76QfVB0P0",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Strength",
+          "rank": 108,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Strength",
+          "rank": 109,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg and has focus on three-dimensional movement. This is a particularly good session for runners although all athletes will benefit from these exercises. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any moves that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Foot Circles\n- Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n- Foot Supination\n- Foot Pronation\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1361111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "w0VHf6pfQk",
+              "contentId": "OSCwXGL8SW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Strength",
+          "rank": 110,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Side Bend\n- Shoulder Rolls - Around the Body\n- Overhead Shoulder Rolls\n- Scapular Depression/Elevation\n- Wall Angels\n- Standing T-Spine Rotation\n- Reverse Fly\n- High Side Plank w/Rotation\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12694444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "yq7VniUL7n",
+              "contentId": "oMj006xkOz",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "type": "Strength",
+          "rank": 111,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Neck Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve mobility and stability through the cervical spine. It incorporates cervical movement with ground-based body positions to simulate sporting positions like cycling and swimming.\n\n\u200B\n\nTake your time to work through the movements and focus on performing them with control. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Cat/Cow Stretch\n- Quadruped T-Spine Rotation\n- Quadruped Cervical Retraction\n- Quadruped Cervical Extension\n- Low Plank w/Cervical Retraction\n- Low Plank w/Cervical Extension\n- Child\u2019s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11361111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "VT15X1TCws",
+              "contentId": "5SdEx7nlZN",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

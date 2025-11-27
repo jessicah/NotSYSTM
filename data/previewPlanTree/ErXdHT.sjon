@@ -1,0 +1,74 @@
+{
+  "uid": "ErXdHT",
+  "name": "Fitness Assessment Prep",
+  "description": "7-day plans to help you get the best results from your 4DP\u00AE fitness assessment.",
+  "stepTitle": "Assessment",
+  "stepDescription": "Prep for your next Full Frontal or Half Monty 4DP\u00AE fitness assessment.",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": true,
+  "typename": null,
+  "children": [
+    {
+      "uid": "aUAQa7",
+      "name": "Full Frontal Prep",
+      "description": "Get your complete 4DP\u00AE profile, Rider Type and primary strength / weakness by completing Full Frontal. ",
+      "stepTitle": "Full Frontal Prep Plan",
+      "stepDescription": "FF Only ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": [
+        {
+          "uid": "mAKD0W",
+          "name": "SYSTM Full Frontal prep week ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Md0F9jeUxq",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": true,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "gE0cB5",
+      "name": "Half Monty\u002BFull Frontal",
+      "description": "Use your Half Monty FTP / MAP results to help you better pace Full Frontal.",
+      "stepTitle": "HM and FF Test Week ",
+      "stepDescription": "HM \u002B FF",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": [
+        {
+          "uid": "DuBMGd",
+          "name": "SYSTM Half Monty and Full Frontal Double Week ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "eYIB4yZrZA",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": true,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

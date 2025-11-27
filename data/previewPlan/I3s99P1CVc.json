@@ -1,0 +1,280 @@
+{
+  "previewPlan": [
+    {
+      "id": "I3s99P1CVc",
+      "name": "6 Week MTP addon",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "MentalTraining",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2023-01-23T19:06:37.072Z",
+      "updatedAt": "2023-01-23T19:07:10.742Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": null,
+          "rank": 400,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "02. Identifying Your Personal Big Mountain",
+              "style": null,
+              "compatibility": 100,
+              "description": "What - exactly - are you trying to accomplish? When you\u0027re ready to answer that question, this module will help you gain clarity on who you are as an athlete and identify your major goal\u2014your Personal Big Mountain.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Importance of SMART Goal Setting](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/start-now-goal-setting-basics)\u0027 and \u0027[How to use your personal outlook to set more effective goals](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/know-thyself-how-to-use-your-personal-outlook-to-set-more-effective-goals)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.27444444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 32,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "U6fXCl3UDt",
+              "contentId": "Hei16sQ00t",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": null,
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "07. Positive Self-Talk",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your confidence and performance through three types of positive self-talk: Motivational, Instructional, and Reward. Here, we\u2019ll look at the subtle and not-so-subtle effects that words have on our attitude and performance. You\u2019ll listen more closely to the way you talk to yourself so you can improve that internal dialogue and become your own biggest fan.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Fitness.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 26,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "XUrrYkaPzg",
+              "contentId": "7MLgmJEEHC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": null,
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "06. Relaxing to Recover",
+              "style": null,
+              "compatibility": 100,
+              "description": "Here you will complete a full Progressive Muscle Relaxation session. It\u2019s part guided meditation and part focus exercise. You should listen to this module at least once per week to get in tune with your body, release tension, and maximize recovery.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3736111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 37,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "mpUCq7UkVc",
+              "contentId": "vilPYFsASb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": null,
+          "rank": 400,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "04. Getting Positive",
+              "style": null,
+              "compatibility": 100,
+              "description": "Thoughts matter. To accomplish big goals you need the ability to maintain a positive mindset, regardless of what life gives you. Here\u0027s an overview of the power of maintaining a positive mindset. We\u2019ll introduce specific techniques that will help you identify negative thoughts, see obstacles as opportunities, and take a more positive path forward.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2386111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 27,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "0BYNToDCNp",
+              "contentId": "5j7NolaDRt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "type": null,
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "08. Improving Focus",
+              "style": null,
+              "compatibility": 100,
+              "description": "Develop an understanding of why focused concentration is so important to your performance. We will delve into what it means to be in \u201CThe Zone,\u0022 look at the psychology and the physiology of peak performance, and what it takes to get there.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.09916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "LHRs6VM57f",
+              "contentId": "BNiDBJg2p8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 41,
+          "type": null,
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "20. Preparing To Crush It",
+              "style": null,
+              "compatibility": 100,
+              "description": "This pre-event visualization exercise will help you get in the zone to deliver what athletes and sports psychologists call a \u201Cpeak performance;\u201D it\u2019s when everything flows and operates at the highest level almost without any effort.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.14555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 15,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "LhDAu8UJr9",
+              "contentId": "Au7PJtDXCe",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

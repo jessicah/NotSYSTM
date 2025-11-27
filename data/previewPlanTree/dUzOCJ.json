@@ -1,0 +1,162 @@
+{
+  "uid": "dUzOCJ",
+  "name": "Moderate ",
+  "description": "8-10 hours per week ",
+  "stepTitle": "Progression",
+  "stepDescription": "The weekly work to rest ratio ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "fwPHg5",
+      "name": "2:1",
+      "description": "2 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "NVNUsh",
+          "name": "Yes",
+          "description": "Includes the appropriate amount of strength training",
+          "stepTitle": "Sprint Distance ",
+          "stepDescription": "Sprint Distance - Moderate Volume  - 2:1 - Event  Prep - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "AWRaNh",
+              "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Med Volume",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "2lEGomMgtG",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "akZEk8",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Sprint Distance ",
+          "stepDescription": "Sprint Distance - Moderate Volume  - 2:1 - Event  Prep",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "cFx5SXVsOb",
+              "name": "SYSTM Sprint Distance Triathlon Plan/2:1/Mod Volume/Event",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "cFx5SXVsOb",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "eVt8LG",
+      "name": "3:1",
+      "description": "3 hard weeks followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "e4kOr9",
+          "name": "Yes",
+          "description": "Includes the appropriate amount of strength training",
+          "stepTitle": "Sprint Distance",
+          "stepDescription": "Sprint Distance - Moderate Volume  - 3:1 - Event  Prep - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "HuSiqeH0iH",
+              "name": "SYSTM Sprint Distance Triathlon Training Plan/3:1/Ends on race day (clone)*DEC2020 Medium volume",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "HuSiqeH0iH",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "UA8HWO",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Sprint Distance ",
+          "stepDescription": "Sprint Distance - Moderate Volume  - 3:1 - Event  Prep",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "8CQGRkmxul",
+              "name": "SYSTM Sprint Distance Triathlon Plan/Moderate volume/3:1/Event",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "8CQGRkmxul",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

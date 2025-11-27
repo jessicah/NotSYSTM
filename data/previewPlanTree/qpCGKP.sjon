@@ -1,0 +1,30 @@
+{
+  "uid": "qpCGKP",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Olympic Distance",
+  "stepDescription": "Olympic Distance - High Volume  - 2:1 - Event  Prep - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VGUAPxoGQr",
+      "name": "SYSTM Olympic Distance Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 High Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "VGUAPxoGQr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

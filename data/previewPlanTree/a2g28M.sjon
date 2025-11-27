@@ -1,0 +1,30 @@
+{
+  "uid": "a2g28M",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB 100 mile",
+  "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "1JyrrHJDrH",
+      "name": "MTB 100 mile - Season Prep - Low Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "1JyrrHJDrH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

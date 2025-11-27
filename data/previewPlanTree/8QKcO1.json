@@ -1,0 +1,30 @@
+{
+  "uid": "8QKcO1",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Metric Century",
+  "stepDescription": "Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "e60KvHDBcL",
+      "name": "Road Metric Century Event 2:1 Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "e60KvHDBcL",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

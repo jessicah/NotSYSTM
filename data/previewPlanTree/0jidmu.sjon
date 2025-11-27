@@ -1,0 +1,30 @@
+{
+  "uid": "0jidmu",
+  "name": "Beginner",
+  "description": "You\u2019ve run a 5K before but are still new to running. Build consistency and confidence.",
+  "stepTitle": "Beginner 5k",
+  "stepDescription": "12 week plan 3 runs per week ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "PKXk9Z",
+      "name": "Couch to 5k",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "lLO7t2oHKl",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

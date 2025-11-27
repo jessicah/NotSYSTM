@@ -1,0 +1,1059 @@
+{
+  "previewPlan": [
+    {
+      "id": "CqOuONydya",
+      "name": "Special Focus: Core Level 4",
+      "weakness": "NoWeakness",
+      "grouping": "Core Level 4",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### **Special Focus: Core Level 4**\n\nThis six week training plan is specifically designed to improve your core strength and pelvic stability, which is often neglected in endurance athletes. With three short focused sessions per week this is the perfect way to get in the extra time to concentrate on the three dimensional segment from shoulder to hip. You can add this as an off-season block or an extra bump to your regular season training. These workouts will target core muscles but will also include considerable demand for the smaller muscles of the upper body.\n\n\u200B\n\nChoose Level 4 if you have completed Level 3 or are returning from a lay-off up to a\n\nmonth. As with any of the SYSTM strength plans, take your time with each\n\nsession and follow the proper progression to realize your core potential.\n\n\u200B\n\nThis plan may be applied in conjunction with other Special Focused strength plans or with one of the 12 week add-ons for extra core training. However, if you add concurrent strength plans please be mindful that you are getting adequate recovery between workouts.\n\n\u200B\n\nThe Special Focus stand alone plans follow a 2:1 progression and have three sessions per week on Monday, Wednesday and Friday.\n\n\u200B\n\nLet\u0027s get busy!\n",
+      "planDescription": "This plan is designed to target core strength and hip mobility.",
+      "fixedEndDate": "",
+      "level": "SYSTM Strength Level 4",
+      "type": "",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-11-09T20:29:32.589Z",
+      "updatedAt": "2022-08-11T20:28:16.908Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "Upper Body Only Level 4"
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Strength",
+          "rank": 122,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThis session will increase the demand on your core with additional dynamic movements. We\u2019ll also throw in some tempo exercises which require you to move slowly during the eccentric loading phase (i.e., the tough parts). These tempo movements enhance your ability to manage tension through your core so you can better react to external variables (weather, terrain, competitors) during activity.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Quadruped T-Spine Rotation\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Bird Dogs\n- Oblique Leg Lifts\n- High Plank w/ Opposite arm \u0026 leg raise\n- Single-Leg Hip Bridge w/ Rotation\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Sit Throughs\n- Kneeling Hip Extension\n- V ups\n- High Side Plank w/ rotation\n- Single-Leg Hip Rotations\n- Back Extension w/ opp arm \u0026 leg raise\n- Back Extensions with Arms Overhead\n- Tempo Push Up Wide\n- High Side Plank w/ toe taps\n- Pigeon Stretch\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3438888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 12,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "BmRynIl59j",
+              "contentId": "UB8uWwYQSY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Other",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "WNyRspyeha",
+              "contentId": "WSQ9YJ4yRy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Strength",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12083333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "rUvUFFwynO",
+              "contentId": "8UR5Sxr0iC",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Strength",
+          "rank": 133,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThis session will increase the demand on your core with additional dynamic movements. We\u2019ll also throw in some tempo exercises which require you to move slowly during the eccentric loading phase (i.e., the tough parts). These tempo movements enhance your ability to manage tension through your core so you can better react to external variables (weather, terrain, competitors) during activity.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Quadruped T-Spine Rotation\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Bird Dogs\n- Oblique Leg Lifts\n- High Plank w/ Opposite arm \u0026 leg raise\n- Single-Leg Hip Bridge w/ Rotation\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Sit Throughs\n- Kneeling Hip Extension\n- V ups\n- High Side Plank w/ rotation\n- Single-Leg Hip Rotations\n- Back Extension w/ opp arm \u0026 leg raise\n- Back Extensions with Arms Overhead\n- Tempo Push Up Wide\n- High Side Plank w/ toe taps\n- Pigeon Stretch\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3438888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 12,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "BmRynIl59j",
+              "contentId": "UB8uWwYQSY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Strength",
+          "rank": 125,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Strength",
+          "rank": 123,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThis session will increase the demand on your core with additional dynamic movements. We\u2019ll also throw in some tempo exercises which require you to move slowly during the eccentric loading phase (i.e., the tough parts). These tempo movements enhance your ability to manage tension through your core so you can better react to external variables (weather, terrain, competitors) during activity.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Quadruped T-Spine Rotation\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Bird Dogs\n- Oblique Leg Lifts\n- High Plank w/ Opposite arm \u0026 leg raise\n- Single-Leg Hip Bridge w/ Rotation\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Sit Throughs\n- Kneeling Hip Extension\n- V ups\n- High Side Plank w/ rotation\n- Single-Leg Hip Rotations\n- Back Extension w/ opp arm \u0026 leg raise\n- Back Extensions with Arms Overhead\n- Tempo Push Up Wide\n- High Side Plank w/ toe taps\n- Pigeon Stretch\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3438888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 12,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "BmRynIl59j",
+              "contentId": "UB8uWwYQSY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Strength",
+          "rank": 126,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Other",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "WNyRspyeha",
+              "contentId": "WSQ9YJ4yRy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Strength",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Other",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Side Bend\n- Shoulder Rolls - Around the Body\n- Overhead Shoulder Rolls\n- Scapular Depression/Elevation\n- Wall Angels\n- Standing T-Spine Rotation\n- Reverse Fly\n- High Side Plank w/Rotation\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12694444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "yq7VniUL7n",
+              "contentId": "oMj006xkOz",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Strength",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility D",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session integrates adduction (towards your body midline) and abduction (away from your body midline) moves to improve stability through your hips and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Standing Hip Abduction\n- Single-Leg Hip Hinge\n- Single-Leg Hip Bridge w/Rotation\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12222222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "PKKGnPEKi7",
+              "contentId": "fNU8rvAiqI",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Strength",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility D",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session integrates adduction (towards your body midline) and abduction (away from your body midline) moves to improve stability through your hips and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Standing Hip Abduction\n- Single-Leg Hip Hinge\n- Single-Leg Hip Bridge w/Rotation\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12222222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "PKKGnPEKi7",
+              "contentId": "fNU8rvAiqI",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Strength",
+          "rank": 213,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Neck Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve mobility and stability through the cervical spine. It incorporates cervical movement with ground-based body positions to simulate sporting positions like cycling and swimming.\n\n\u200B\n\nTake your time to work through the movements and focus on performing them with control. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Cat/Cow Stretch\n- Quadruped T-Spine Rotation\n- Quadruped Cervical Retraction\n- Quadruped Cervical Extension\n- Low Plank w/Cervical Retraction\n- Low Plank w/Cervical Extension\n- Child\u2019s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11361111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "VT15X1TCws",
+              "contentId": "5SdEx7nlZN",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Strength",
+          "rank": 127,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Strength",
+          "rank": 128,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThis session will increase the demand on your core with additional dynamic movements. We\u2019ll also throw in some tempo exercises which require you to move slowly during the eccentric loading phase (i.e., the tough parts). These tempo movements enhance your ability to manage tension through your core so you can better react to external variables (weather, terrain, competitors) during activity.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Quadruped T-Spine Rotation\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Bird Dogs\n- Oblique Leg Lifts\n- High Plank w/ Opposite arm \u0026 leg raise\n- Single-Leg Hip Bridge w/ Rotation\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Sit Throughs\n- Kneeling Hip Extension\n- V ups\n- High Side Plank w/ rotation\n- Single-Leg Hip Rotations\n- Back Extension w/ opp arm \u0026 leg raise\n- Back Extensions with Arms Overhead\n- Tempo Push Up Wide\n- High Side Plank w/ toe taps\n- Pigeon Stretch\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3438888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 12,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "BmRynIl59j",
+              "contentId": "UB8uWwYQSY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "type": "Strength",
+          "rank": 129,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "type": "Strength",
+          "rank": 130,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "type": "Strength",
+          "rank": 131,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 04",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nWe\u2019re getting more complicated now, and this session includes rotational movements which demand power and control against an external load. The combination and order of movements will challenge your core strength and endurance while improving your ability to maintain stability and control when tired.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Backbend w/ Arms Overhead \u002B Hold\n- Quadruped T-Spine Rotation\n- High Plank w/ Opposite arm \u0026 leg raise\n- High Side Plank w/ toe taps\n- Back Extension w/ Opposite arm \u0026 leg raise\n- V ups\n- Oblique Leg Lifts\n- Back Extensions with Arms Overhead\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Side to Side Bear Crawls\n- Pushup w/ Rotation\n- Kneeling Wood Chop with Band\n- Single-Leg Hip Rotations\n- Sit Throughs\n- KickBacks from Toes\n- Reverse Wood Chop with Band\n- Low Side Plank w/abduction and hold\n- High Side Plank w/ bottom knee lift\n- Bird Dogs\n- Low to High Plank push-ups\n- Back Extension with Hold\n- Child\u0027s Pose\n- Overhead Side Bend\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4388888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 16,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uKQCM1PCTi",
+              "contentId": "12wsEbjGPD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "type": "Strength",
+          "rank": 132,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 05",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nThe highest level in the series, this session challenges your core with more dynamic and rotational movements than any other level. The combination of challenging movements and increased set time demands full engagement - physically and mentally.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Single-Leg Hip Rotations\n- Quadruped Push Out \u0026 Hold\n- Quadruped Pull In \u0026 Hold\n- Downward Dog\n- High Plank w/ Opposite arm \u0026 leg raise\n- V ups\n- Back Extension w/ opposite arm \u0026 leg raise\n- High Side Plank w/ bottom knee lift\n- High Side Plank w/ toe taps\n- High Plank w/ Rotation \u0026 Hip Abduction\n- Single-Leg Hip Bridge w/ Rotation\n- Tempo Push Up Wide\n- Sit Throughs\n- Forward Bear Crawl\n- Pushup w/ Rotation\n- Side to Side Bear Crawls\n- Kneeling Wood Chop with Band\n- Hip Hikes\n- Back Extension with Hold\n- Marching Hip Bridge\n- Bird Dogs\n- Back Extensions with Arms Overhead\n- Low to High Plank push-ups\n- Oblique leg lift reps with bottom leg up\n- Oblique Leg Lifts\n- Reverse Wood Chop with Band\n- Split Stance Side Bend w/ Arms Overhead \u002B Hold\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.47305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "uhkJpNBdHk",
+              "contentId": "kZrBFEfAwY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Other",
+          "rank": 210,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Quadruped T-Spine Rotation\n- Shoulder External Rotation\n- Wall Angels\n- Low Plank w/Scapular Press\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n- Side-Lying T-Spine Arcs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1175,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "CUdkMA6qvL",
+              "contentId": "1CjhDRRpAf",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Strength",
+          "rank": 209,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility E",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module includes standing and floor-based exercises that integrate adduction, abduction, and rotation to challenge stability through your hips and core. These moves are certain to activate and integrate your three-dimensional trunk muscles which are key for core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Standing Hip Abduction\n- Single-Leg Hip Hinge w/Rotation\n- Back Extensions\n- Quadruped on Toes w/Alt. Arm Raise\n- Oblique Leg Lifts w/Legs crossed\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "tIMBZTDtOs",
+              "contentId": "Ggs1g0ai1B",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "type": "Strength",
+          "rank": 134,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nTo do this, we\u2019ll take you through a variety of contraction types: eccentric (lengthening), concentric (shortening), and isometric (holding a position). The result? Improved core strength, stability, and endurance. You\u0027ll find exercises that carry over into other areas of your body, but all of the moves have a significant impact on your core. Level 1 is ideal for very beginners. Even then, you may find some of these moves challenging if you have never attempted them. That\u2019s ok, take your time and pause the video if you need. Soon you\u2019ll be on your way to mastering your core potential. In addition to a mat, you\u0027ll need some open wall space for this routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Downward Dog\n- Quadruped T-Spine Rotation\n- Back Extension w/ opp arm \u0026 leg raise\n- Hamstring Hip Bridge\n- Oblique Leg Lifts\n- Quadruped w/ alternating arm raise\n- Quad w/ leg raises\n- Low Side Plank w/ toe-tap front/back\n- High Side Plank w/ Hold\n- Quad Toes w/ Alternate Arm Raise\n- Quadruped Pull In \u0026 Hold\n- Quadruped Push Out \u0026 Hold\n- Bird Dogs\n- Back Extension with Hold\n- Child\u0027s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.22,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 8,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "9UAvBgShTs",
+              "contentId": "olCJUDMFaS",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Other",
+          "rank": 212,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility D",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on the quality of movement. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Overhead Shoulder Rolls\n- Shoulder Rolls Around the Body\n- Quadruped T-Spine Rotation\n- Wall Angels\n- Reverse Fly\n- Low Plank with Scapular Press\n- Back Extensions with Arms Overhead\n- Side Lying T-Spine Arcs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12583333333333332,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "AurEc3BsSy",
+              "contentId": "C1A4FAOuo6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Strength",
+          "rank": 211,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility D",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session integrates adduction (towards your body midline) and abduction (away from your body midline) moves to improve stability through your hips and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Standing Hip Abduction\n- Single-Leg Hip Hinge\n- Single-Leg Hip Bridge w/Rotation\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12222222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "PKKGnPEKi7",
+              "contentId": "fNU8rvAiqI",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 41,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Completed Level 4 Strength",
+              "style": null,
+              "compatibility": 100,
+              "description": "Congratulations on completing Level 4 Strength!  \n  \nWe recommend starting on Level 5 for your next plan.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 0,
+                "intensityFactor": 0
+              },
+              "workoutId": "3Qlr6lRawu",
+              "contentId": "RwNUEJUo59",
+              "notes": "Nice work. It\u0027s time to Level Up!\n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

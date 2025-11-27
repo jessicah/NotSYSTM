@@ -1,0 +1,726 @@
+{
+  "previewPlan": [
+    {
+      "id": "1BjG3aEwIn",
+      "name": "Go Beyond FTP: Attack",
+      "weakness": "NoWeakness",
+      "grouping": "Go Beyond FTP",
+      "category": "Special Focus",
+      "subcategory": "4 week block",
+      "description": "**Unlock your full potential to ATTACK:**\n\n\u200B\n\nGain the advantage by perfecting your ability to **ATTACK** with high-power efforts during short, aggressive phases by increasing your anaerobic capacity with our 4 week focussed plan.\n",
+      "planDescription": "Go Beyond FTP",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2024-08-08T14:07:45.124Z",
+      "updatedAt": "2025-11-13T11:08:58.582Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 209,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "SUF Idol",
+              "style": null,
+              "compatibility": 100,
+              "description": "SUF Idol is almost like a miniature version of _The Shovel_. So, while some might call it a trowel\u2026we call it a high-quality micro-interval session, and while Attackers will tend to love it, those who are strong in sustained efforts may find this session a bit more...challenging.\n\n\u200B\n\nThe action-packed 30 minutes includes 17 big efforts varying from 10, 20, and 30 seconds with less than a minute of recovery between each. Together, this will hit your Anaerobic Capacity (AC) and Maximal Aerobic Power (MAP) hard, all while helping boost your FTP since the recovery periods are so short. It\u0027s the perfect session to help you break up a block of steady FTP training or to prepare for a criterium, track race, draft legal triathlon, or cyclocross race. Because the targets are all well above FTP, it\u2019s best to come into this session relatively well-rested and motivated.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4961111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 2
+                },
+                "tss": 39,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "ndnqYUG8p7",
+              "contentId": "I8YvjrsHJ4",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC Progression 1: 2 Sets 4 x 20/40",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the first of a series of workouts designed to help you improve on your AC efforts. In simple terms, this session is 2 sets of 4 AC efforts for a total of 2mins and 40seconds working at AC.\n\nThis session is great for one of your first sessions with some fresh power numbers off of completing Full Frontal to get more comfortable with your new numbers.\n\n\u200B\n\nHow will this session progress with future NoVids? Each new session will accumulate more time at AC intensity.\n\n\u200B\n\n**Warm Up**\n\n1 minute @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70%\n\n1 minute @ RPE 6 -- 85% of FTP -- HR \u003C80%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n45 seconds @ RPE 8.5 -- 95% of MAP -- HR \u003C70%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C80%\n\n1 minute @ RPE 2 -- 40% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 3 minutes 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: 40 seconds @ RPE 1 \u2013 40% of FTP \u2013 HR \u003C70%\n\n**Interval x4**\n\n20 seconds @ RPE 9 \u2013 100% of AC \u2013 HR \u003C95%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n1 minute 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 5.5 -- 80% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 20 seconds @ RPE 1 -- 40% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.43333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 2
+                },
+                "tss": 34,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "UgPEGmw9Ye",
+              "contentId": "jLUVwLA4YU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Costa Blanca: Cumbre del Sol",
+              "style": null,
+              "compatibility": 100,
+              "description": "This workout targets your anaerobic capacity through repeated 1-minute efforts designed to burn through your top-end energy stores. You\u2019ll work on both your peak power and your ability to recover quickly between explosive efforts \u2014 a critical skill for race surges, attacks, and steep pitches. Recovery between reps is minimal, forcing your system to stay under pressure.\n\n\u200B\n\nAfter draining the tank, you\u2019ll transition straight into a 15-minute threshold block done under fatigue \u2014 a key opportunity to improve your ability to hold power even when your legs are screaming. Set on the brutal climb of Cumbre del Sol, this workout demands focus, composure, and commitment. Expect it to hurt \u2014 and expect to get better because of it.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13976467346)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9058333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 91,
+                "intensityFactor": 1
+              },
+              "workoutId": "EDJ2elcJfF",
+              "contentId": "492XO6dEEn",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Strength",
+          "rank": 100,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "71DLIFZYsf",
+              "contentId": "3rHx3ISEtw",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Custom",
+          "rank": 211,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": " [BETA] Understanding 4DP pt.2: Anaerobic Capacity -AC (The Knowledge Podcast)",
+              "style": null,
+              "compatibility": 100,
+              "description": "[**Beta Feedback Thread**](https://forum.wahooligan.com/t/the-knowledge-workouts-beta/24072)\n\n\u200B\n\nIf you\u2019ve done the 1-minute test at the end of our 4DP fitness test, Full Frontal, you know what digging deep into your Anaerobic Capacity feels like. And you can think of your Anaerobic Capacity \u2014 your ability to attack, surge, close gaps\u2026and do those things over and over \u2014 like a battery. The bigger it is, and the faster you can recharge it, the faster and more powerful you will be. Neal and Mac explain what AC is about, why you need more of it, and which of the sessions in SYSTM will help you get it.\n\n\u200B\n\nThe Knowledge podcast by Wahoo is a science-based podcast focused on providing training information for endurance athletes. Hosted by sports scientists, it delves into various training topics, offering actionable insights and key takeaways.\n\n[**Find out more**](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.305,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 13,
+                "intensityFactor": 0.65
+              },
+              "workoutId": "kW3LD7DPtW",
+              "contentId": "ICoEKwHCrj",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC: 6 x 45s",
+              "style": null,
+              "compatibility": 100,
+              "description": "There\u0027s no getting around the fact that this is a profoundly unpleasant session that will leave your legs feeling like jelly. This session is similar to The Trick, with a few differences. On the plus side, all of the efforts are 15-seconds shorter than those in The Trick. To make up for this, we added two more intervals to this session, bringing the total to 6. That means by the end of this session you will have plowed through 4.5-minutes of AC work.\n\nThis workout is one of the few sessions that we do NOT recommend you complete in ERG mode if you are on a smart trainer. The goal is to hold onto the highest power you can for the full 45-seconds. Inevitably in the later sets, your power will dip before you reach the end of the interval. What we want is for you to complete every effort having given everything for 45-seconds. We don\u0027t want ERG mode grinding you to a halt because you cannot maintain the (ridiculously) high power targets. Even if you drop down below FTP in the final 10-seconds of these efforts, as long as you are going flat out, you are doing it correctly.\n\nJust take this session one interval at a time, and focus on giving your all for this one effort. You can worry about the others when you get to them. If you finish this session without swearing, then you didn\u0027t go hard enough!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE -- 50% of FTP -- HR \u003C70\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C70\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C70\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C90\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 9 -- 120% of FTP -- HR \u003E105\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 10 -- 200% of FTP -- HR \u003E105\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 6\n\nRest Between Sets: 5 minutes 15 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\nInterval Repeats Per Set: N/A\n\n**Interval**\n\nEffort: 45 seconds @ RPE 9.5 -- 150% of FTP -- HR \u003E105\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n4 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 1
+                },
+                "tss": 61,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "rLJWul8fjz",
+              "contentId": "lsGTR48cBt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 10,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC Progression 2: 2 Sets 6 x 20/40",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the second of a series of workouts designed to help you improve on your AC efforts. In simple terms, this session is 2 sets of 6 AC efforts for a total of 4mins working at AC.\n\nThis session is great for one of your first sessions with some fresh power numbers off of completing Full Frontal to get more comfortable with your new numbers.\n\nHow will this session progress with future NoVids? Each new session will accumulate more time at AC intensity.\n\n\u200B\n\n**Warm Up**\n\n1 minute @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70%\n\n1 minute @ RPE 6 -- 85% of FTP -- HR \u003C80%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n45 seconds @ RPE 8.5 -- 95% of MAP -- HR \u003C70%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C80%\n\n1 minute @ RPE 2 -- 40% of FTP -- HR \u003C70%\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 4 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: 40 seconds @ RPE 1 \u2013 40% of FTP \u2013 HR \u003C70%\n\n**Interval x6**\n\n20 seconds @ RPE 9 \u2013 100% of AC \u2013 HR \u003C95%\n\n**Extra Volume**\n\nN/A\n\n**Cool Down**\n\n1 minute 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 5.5 -- 80% of FTP -- HR \u003C70%\n\n2 minuts 40 seconds @ RPE 1 -- 40% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 2
+                },
+                "tss": 41,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "TpDkgs9elD",
+              "contentId": "q5XWYrladi",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Cycling",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Galicia: Camarinas to Muxia",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u2019s time for a wild coastal adventure with your host, Michael Cotty, across some of the stunning undulating roads of Galica, Spain. You\u2019ll start at a historic lighthouse on the \u2018Coast of Death\u2019 before working your way deep into the rugged landscape that defines this region. The road will guide your workout, with big efforts up every hill and a chance to take it a bit easier on the descents. It\u2019s not all hard work, though, Mike takes the time to show you around the fishing marina, where to find the \u2018hunger herb\u2019 and some of the sights around our finishing village, Muxia.\n\n\u200B\n\nThis is a great session for anyone who wants to get in a bit of sprint/anaerobic capacity efforts while laying down some solid aerobic time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7392408454)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1294444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 91,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "qRN0Ywpez8",
+              "contentId": "k0ZyP1kZrU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "type": "Strength",
+          "rank": 101,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Looking to improve ALL of the muscles that make up your core? You\u2019ve come to the right place. The Core Focus series builds up everything from your hip to your shoulders - front, back, and side._\n\n\u200B\n\nTo do this, we\u2019ll take you through a variety of contraction types: eccentric (lengthening), concentric (shortening), and isometric (holding a position). The result? Improved core strength, stability, and endurance. You\u0027ll find exercises that carry over into other areas of your body, but all of the moves have a significant impact on your core. Level 1 is ideal for very beginners. Even then, you may find some of these moves challenging if you have never attempted them. That\u2019s ok, take your time and pause the video if you need. Soon you\u2019ll be on your way to mastering your core potential. In addition to a mat, you\u0027ll need some open wall space for this routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Downward Dog\n- Quadruped T-Spine Rotation\n- Back Extension w/ opp arm \u0026 leg raise\n- Hamstring Hip Bridge\n- Oblique Leg Lifts\n- Quadruped w/ alternating arm raise\n- Quad w/ leg raises\n- Low Side Plank w/ toe-tap front/back\n- High Side Plank w/ Hold\n- Quad Toes w/ Alternate Arm Raise\n- Quadruped Pull In \u0026 Hold\n- Quadruped Push Out \u0026 Hold\n- Bird Dogs\n- Back Extension with Hold\n- Child\u0027s Pose\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.22,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 8,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "9UAvBgShTs",
+              "contentId": "olCJUDMFaS",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC: 6 x 45s",
+              "style": null,
+              "compatibility": 100,
+              "description": "There\u0027s no getting around the fact that this is a profoundly unpleasant session that will leave your legs feeling like jelly. This session is similar to The Trick, with a few differences. On the plus side, all of the efforts are 15-seconds shorter than those in The Trick. To make up for this, we added two more intervals to this session, bringing the total to 6. That means by the end of this session you will have plowed through 4.5-minutes of AC work.\n\nThis workout is one of the few sessions that we do NOT recommend you complete in ERG mode if you are on a smart trainer. The goal is to hold onto the highest power you can for the full 45-seconds. Inevitably in the later sets, your power will dip before you reach the end of the interval. What we want is for you to complete every effort having given everything for 45-seconds. We don\u0027t want ERG mode grinding you to a halt because you cannot maintain the (ridiculously) high power targets. Even if you drop down below FTP in the final 10-seconds of these efforts, as long as you are going flat out, you are doing it correctly.\n\nJust take this session one interval at a time, and focus on giving your all for this one effort. You can worry about the others when you get to them. If you finish this session without swearing, then you didn\u0027t go hard enough!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE -- 50% of FTP -- HR \u003C70\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C70\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C70\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C90\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 9 -- 120% of FTP -- HR \u003E105\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 10 -- 200% of FTP -- HR \u003E105\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 6\n\nRest Between Sets: 5 minutes 15 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\nInterval Repeats Per Set: N/A\n\n**Interval**\n\nEffort: 45 seconds @ RPE 9.5 -- 150% of FTP -- HR \u003E105\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n4 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 1
+                },
+                "tss": 61,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "rLJWul8fjz",
+              "contentId": "lsGTR48cBt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "type": "Cycling",
+          "rank": 206,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC Progression 3:  2 sets 8 x 20/40",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the third of a series of workouts designed to help you improve on your AC efforts. In simple terms, this session is 2 sets of 8 AC efforts for a total of 5mins and 20secs working at AC.\n\nThis session is great for one of your first sessions with some fresh power numbers off of completing Full Frontal to get more comfortable with your new numbers.\n\nHow will this session progress with future NoVids? Each new session will accumulate more time at AC intensity.\n\n\u200B\n\n**Warm Up**\n\n1 minute @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70%\n\n1 minute @ RPE 6 -- 85% of FTP -- HR \u003C80%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n45 seconds @ RPE 8.5 -- 95% of MAP -- HR \u003C70%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C80%\n\n1 minute @ RPE 2 -- 40% of FTP -- HR \u003C70%\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 5 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: 40 seconds @ RPE 1 \u2013 40% of FTP \u2013 HR \u003C70%\n\n**Interval x8**\n\n20 seconds @ RPE 9 \u2013 100% of AC \u2013 HR \u003C95%\n\n**Extra Volume**\n\nN/A\n\n**Cool Down**\n\n1 minute 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 5.5 -- 80% of FTP -- HR \u003C70%\n\n2 minute 40 seconds @ RPE 1 -- 40% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5833333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 2
+                },
+                "tss": 48,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "Vu9CVy8neO",
+              "contentId": "tBzTW9hFBV",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Violator",
+              "style": null,
+              "compatibility": 100,
+              "description": "If your Neuromuscular Power (NM) and Anaerobic Capacity (AC) got together to throw a party and everybody left that party shattered but better off for it, then this would be it. _Violator_ is the perfect example of how the amount of recovery time between efforts dramatically changes the amount\u2014and type\u2014of training stress you get.\n\n\u200B\n\nYes, there are 64 sprints, but they\u0027re not all doing the same thing for your fitness. The first set of sprints has enough recovery that you\u0027ll be able to work your NM to the max. The second set still has enough recovery to allow you to hit high power numbers, but the reduced time between sprints stresses your ability to recover and repeat that high effort. That means you\u0027ll start to dip into AC. The last set\u2014with equal sprint and recovery times\u2014ensures your heart rate never gets a chance to drop down. That works your MAP like nobody\u0027s business.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0405555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 5,
+                  "map": 3,
+                  "ftp": 1
+                },
+                "tss": 85,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "csuS7eLf2m",
+              "contentId": "553lkiVNgV",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 20,
+          "type": "Yoga",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Basic Yoga Poses",
+              "style": null,
+              "compatibility": 100,
+              "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "epMe0rWKe3",
+              "contentId": "qxs6YvzsoQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6011111111111112,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 20,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "rUrrfvb8ii",
+              "contentId": "p6E2zIaYNZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 24,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Bavaria: Fischen",
+              "style": null,
+              "compatibility": 100,
+              "description": "Meandering along the scenic River Iller, it\u2019s time to break out your gravel bike for a classic cadence build and hold session. We\u2019ll kick off with 5 x 30-second cadence builds, allowing for 2 minutes of recovery between each, before moving on to 5 x 60-second cadence holds, again with 2 minutes recovery.\n\nWhile this session may be short, it\u2019s a key part of your weekly plan, designed to keep you efficient and in top form, even when the cadence ramps up. Stay smooth and steady\u2014and remember, \u201Cno bobbing!\u201D\n\n\u200B\n\n**Cadence Builds:** The name of the game here is absolute peak cadence, not peak power. To achieve this, you need to be in a small gear and have very light resistance. Starting at 90-RPM, steadily increase your cadence until you reach your absolute max with about 5-seconds left, and hold that to the end. Your limiting factor on these efforts needs to be leg speed. If resistance/power output is your limiting factor, try starting in an easier gear, or shift into an easier gear 15-seconds in. Bouncing in the saddle is okay for this drill.\n\n\u200B\n\n**Cadence Holds**: These efforts require you to maintain the highest cadence you can without starting to bounce in the saddle. For some of you that will be 100-RPM, for others, it will be 150-RPM. The key is to settle into YOUR peak sustainable cadence. Like the Builds, the goal here is not high power, so these efforts are limited to 90% of FTP. Do not be surprised if your heart rate is well into Zone 4 by the time you hit the last few holds.\n\n\nTo properly execute this session, your effort between drills needs to be low. With limited recovery time between these maximal Neuromuscular Efforts, riding above Zone 1 between efforts will only reduce your ability to max out your cadence. While the power targets between are Zone 1, do not be surprised if your heart rate does not drop below Zone 2 after the first couple builds.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/9885886076)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5863888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 5,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 27,
+                "intensityFactor": 0.64
+              },
+              "workoutId": "YqH2WM26O4",
+              "contentId": "lmSFFXOtNE",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "# Getting Away With It (November Groundwork Challenge)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nWouldn\u0027t it be great if you could leave work to go for a ride? Even for an hour? Well, now\u0027s your chance. _Getting Away With It_ gets you out of the office and onto the roads of the French Pyrenees with your guide Michael Cotty of The Col Collective.\n\n\u200B\n\nThis is a great session to add toward the end of a training block. The shorter duration, sub-threshold efforts are fantastic for getting some extra FTP building while you are in a fatigued state. Extra emphasis on cadence stresses your nervous system, making your body more efficient at higher and lower RPMs while improving your form. The Neuromuscular training you get from this session is fantastic, so while your power never exceeds threshold, your body will learn to bring more energy to the pedals at all intensities.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.74,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 45,
+                "intensityFactor": 0.78
+              },
+              "workoutId": "ZF95hVWWkr",
+              "contentId": "P2T4sgv1yX",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 27,
+          "type": "Strength",
+          "rank": 102,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Shoulder \u0026 Upper Back Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is designed to improve motion through your shoulders and upper back as well as activate muscles that are key for upper body stability and posture. Take your time to work through the movements and focus on quality range of motion. Do not move into pain. If you have tingling or numbness from any of these movements stop and consult a medical professional. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Forward Shoulder Rolls\n- Backward Shoulder Rolls\n- Standing T-Spine Rotation\n- Standing Scapular Retraction\n- Wall Angels\n- Scapular Depression\n- Quadruped w/Alt. Arm Raise\n- Quadruped w/Push Out\n- Quadruped w/Pull In\n- Downward Dog\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "WNyRspyeha",
+              "contentId": "WSQ9YJ4yRy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "previewPlan": [
+    {
+      "id": "fEqD7fhkwU",
+      "name": "GUSTO io",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "",
+      "planDescription": "If you are a Sufferlandrians/Wahooligan assigned to group \u0027GUSTO I/O\u0027 this is the plan for you. ",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-03-19T23:50:52.47Z",
+      "updatedAt": "2025-05-19T16:18:57.233Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "[WSS] Full Access",
+              "style": null,
+              "compatibility": 100,
+              "description": "Alternative to FF and HM to get full access to 4DP",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 63,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "OxwRZkxqUn",
+              "contentId": "WtVfMnPoWG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "OutdoorCycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "OutdoorCycling",
+              "name": "[WSS] Full Access Outdoors",
+              "style": null,
+              "compatibility": 100,
+              "description": "Ride easy to the location of the 3min/8min section of road you will use.  \nDuring the ride over complete a 30-second cadence build starting around 90rpm and climbing to your absolute max.  \nThis is best done on a slight downhill. The goal is peak cadence, not power, so you should be in an easy gear.  \nDuring that ride over complete 2 x 7-second maximal sprints with 3 minutes of easy spinning between the two  \nSpin easy for another 3-5 minutes before starting the 3-minute effort.  \nComplete a maximal 3-minute effort  \nSpin easy for 3 minutes (2-4 minutes is okay if that\u0027s how long it takes to ride easy to the start of the 20min section of road).  \nComplete your maximal 8-minute effort.  \nSpin easy for 6 minutes (3-5 minutes is okay if that\u0027s how long it takes to ride easy to the start of the 1min section of road).  \nComplete your maximal 1-minute effort.  \nSpin easy home to finish off the day.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.25,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 0,
+                "intensityFactor": 0
+              },
+              "workoutId": "DO6G6Z4bYC",
+              "contentId": "T6VTsjV8Ox",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Full Frontal (4DP Assessment)",
+              "style": null,
+              "compatibility": 100,
+              "description": "Full Frontal: The Complete One.\n\nWe recommend the Full Frontal 4DP fitness assessment for:\n\n- Experienced riders.\n- Athletes with experience pacing maximal efforts / fitness testing.\n- Those about to start\u2014or who have just finished\u2014a training plan.\n\nThis is our full 4DP fitness test and is the only test that exposes every aspect of your unique physiology in a single hour. Developed by Head of Wahoo Sports Science Coach Neal Henderson, Full Frontal uses the same lab-verified testing protocol that Coach Neal has used at the highest level for over a decade with professional and amateur athletes.\n\n\u200B\n\nThis test will provide you with a complete Four-Dimensional Power profile, identify your Rider Type, and tell you exactly what aspects of your fitness you need to focus on to become a more complete cyclist. More importantly, SYSTM will then use your results to set personalized power targets for all of your workouts based on your unique profile, resulting in the most precise, effective workouts available. Your results will also be used to tailor all of your training plans.\n\n\u200B\n\nWe recommend re-testing with Full Frontal every 8-12 weeks or as prescribed by your training plan.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9819444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 5,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "dRcyg09t6K",
+              "contentId": "XFMPELnuFo",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "OutdoorCycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "[WSS] Full Frontal Outdoors",
+              "style": null,
+              "compatibility": 100,
+              "description": "Ride easy to the location of the 5min/20min section of road you will use. \nDuring that ride over complete 2 x 7-second maximal sprints with 3 minutes of easy spinning between the two \nSpin easy for another 3-8 minutes before starting the 5-minute effort. \nComplete a maximal 5-minute effort \nSpin easy for 6 minutes (5-8 minutes is okay if that\u0027s how long it takes to ride easy to the start of the 20min section of road). \nComplete your maximal 20-minute effort.  \nSpin easy for 6 minutes (5-8 minutes is okay if that\u0027s how long it takes to ride easy to the start of the 1min section of road). \nComplete your maximal 1-minute effort. \nSpin easy home to finish off the day.",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.25,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "InbIBAdfFz",
+              "contentId": "ViddpTDyer",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "type": "Custom",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Custom",
+              "name": "Have Fun!",
+              "style": null,
+              "compatibility": 100,
+              "description": "Today is a day to do whatever you have the energy/motivation/desire to do.  \n  \nThere are no restrictions here aside from enjoying the day!   \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "CxUDVxpiIl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

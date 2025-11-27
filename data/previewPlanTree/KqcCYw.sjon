@@ -1,0 +1,30 @@
+{
+  "uid": "KqcCYw",
+  "name": "Celebrating Les Femmes (womens footage all the way)",
+  "description": "Knighthood Quest",
+  "stepTitle": "Celebrating Les Femmes (womens footage all the way)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9GrfdZhKky",
+      "name": "KoS Quest - Celebrating Les Femmes (womens footage all the way)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9GrfdZhKky",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

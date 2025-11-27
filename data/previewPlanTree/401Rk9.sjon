@@ -1,0 +1,30 @@
+{
+  "uid": "401Rk9",
+  "name": "Highlands Gran Fondo ",
+  "description": "June 4th",
+  "stepTitle": "Highlands Gran Fondo ",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "RoDIwjLcV2",
+      "name": "GFNS 2",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "RoDIwjLcV2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "GApFTu",
+  "name": "1",
+  "description": "",
+  "stepTitle": "Lower Body Level 1",
+  "stepDescription": "Level 1 Lower body",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Tx5sMZYUSL",
+      "name": "Special Focus Lower Body Level 1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Tx5sMZYUSL",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

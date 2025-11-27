@@ -1,0 +1,30 @@
+{
+  "uid": "ih0UnU",
+  "name": "Grunter Chooses",
+  "description": "Knighthood Quest",
+  "stepTitle": "Become a Knight of Sufferlandria by completing 10 back-to-back SUF sessions.",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Lmt9b4KGT9",
+      "name": "KoS Quest - Grunter chooses",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Lmt9b4KGT9",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

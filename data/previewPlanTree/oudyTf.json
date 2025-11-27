@@ -1,0 +1,30 @@
+{
+  "uid": "oudyTf",
+  "name": "Forest Route",
+  "description": "FNLD GRVL Prep Plan",
+  "stepTitle": "42.6km ",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "N26xMWSL8K",
+      "name": "FNLD GRVL Short Route ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "N26xMWSL8K",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

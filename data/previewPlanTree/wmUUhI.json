@@ -1,0 +1,30 @@
+{
+  "uid": "wmUUhI",
+  "name": "Yes",
+  "description": "Includes triathlon specific strength training",
+  "stepTitle": "Full Distance",
+  "stepDescription": "Full Distance - High Volume  - 3:1 - Season Prep - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "spPbvdlNTt",
+      "name": "SYSTM Full Distance Triathlon Plan/High Volume/3:1/Season Prep/Strength (STR W\u0026F)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "spPbvdlNTt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

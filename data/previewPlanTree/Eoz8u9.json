@@ -1,0 +1,30 @@
+{
+  "uid": "Eoz8u9",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": "Moderate Volume  - 2:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "dJrteLe0yJ",
+      "name": "SYSTM Xterra Triathlon Plan/2:1/Ends on race day (clone)*DEC2020 Mod Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dJrteLe0yJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

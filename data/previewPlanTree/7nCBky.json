@@ -1,0 +1,53 @@
+{
+  "uid": "7nCBky",
+  "name": "Expert",
+  "description": "You have recently completed advanced yoga sessions ",
+  "stepTitle": "Sessions per week",
+  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "lWsWUn",
+      "name": "2-3",
+      "description": null,
+      "stepTitle": "8 week Expert Yoga Plan 2-3/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "GYc1h3",
+      "name": "3-5",
+      "description": null,
+      "stepTitle": "8 week Expert Yoga Plan 3-5/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "lDvust",
+      "name": "5-7",
+      "description": null,
+      "stepTitle": "8 week Expert Yoga Plan 5-7/wk",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

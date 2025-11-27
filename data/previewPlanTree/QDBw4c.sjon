@@ -1,0 +1,30 @@
+{
+  "uid": "QDBw4c",
+  "name": "2",
+  "description": null,
+  "stepTitle": "Lower Body Level 2",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "HuMMQodY2a",
+      "name": "Special Focus Lower Body Level 2",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "HuMMQodY2a",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

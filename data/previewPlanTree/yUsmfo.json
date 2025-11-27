@@ -1,0 +1,30 @@
+{
+  "uid": "yUsmfo",
+  "name": "2025 Wahooligan Tour Route",
+  "description": "Wahooligan Tour Route",
+  "stepTitle": "Wahooligan Tour Route",
+  "stepDescription": "Wahooligan Tour Route",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "40GKmFQ7PI",
+      "name": "Wahooligan Tour 25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "40GKmFQ7PI",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

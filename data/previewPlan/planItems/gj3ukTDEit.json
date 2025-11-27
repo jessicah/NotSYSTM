@@ -1,0 +1,276 @@
+{
+  "id": "gj3ukTDEit",
+  "name": "Onboarding Go Faster",
+  "weakness": "NoWeakness",
+  "grouping": "Go Faster",
+  "category": "",
+  "subcategory": "None",
+  "description": "Welcome to SYSTM, we have hand picked these workouts for you to showcase the variety of what the platform has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the Wahoo X library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy)\n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ)\n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ)\n",
+  "planDescription": "Onboarding Plan",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2023-04-17T20:18:21.448Z",
+  "updatedAt": "2023-10-25T15:35:17.448Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Event",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Welcome to SYSTM!",
+          "style": null,
+          "compatibility": 100,
+          "description": "Welcome, we have hand picked these workouts for you to showcase the variety of what SYSTM has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy) \n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ) \n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ) \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "wfIciOSiEy",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Cycling",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Revolver",
+          "style": null,
+          "compatibility": 100,
+          "description": "The simple idea of going hard for one minute and then easy for one minute, and then repeating, has been around since whatever evil genius realized that intervals were the best way to train. There is a reason this simple session has stuck around: it works.\n\n\u200B\n\n30 seconds into a high-intensity effort, enough of your anaerobic energy sources have been depleted that your body shifts to producing that power aerobically. Follow that effort with only 60 seconds of recovery, and your body hasn\u2019t fully replenished those anaerobic stores, meaning it will have to produce that power aerobically after just 25 seconds.\n\n\u200B\n\nWith a total of just 15 (cough, cough) efforts, you will have not only forced your body to replenish its Anaerobic Capacity (AC) over and over, but you\u0027ve just spent several minutes producing lots of power with lots of oxygen. That combination ensures this session hits both your Maximal Aerobic Power (MAP) and AC with just the right stress they need to start increasing.\n\n\u200B\n\n_Revolver has recently been remastered (Aug \u002722) to include all new footage and music. The workout has a longer warm-up than previous editions._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8208333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 1,
+              "map": 5,
+              "ftp": 1
+            },
+            "tss": 63,
+            "intensityFactor": 0.93
+          },
+          "workoutId": "3e8ekr1Ff9",
+          "contentId": "xjx8cV9fzM",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "UAE Tour 2",
+          "style": null,
+          "compatibility": 100,
+          "description": "**Featured Rider: **Andrea Vendrame\n\n**Event:** UAE Tour\n\n**Mission - \u201CSniper\u201D:** It\u2019s Stage 6 of the UAE Tour and the peloton is entering the final 20km of the race. While not an out-and-out sprinter, you\u2019re the fast man of the AG2R Citroen team. You don\u2019t have a leadout so you\u2019re on your own to grab a result. Do you have what it takes to go it alone and secure the win?\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.565,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 31,
+            "intensityFactor": 0.86
+          },
+          "workoutId": "3E8Of0nK80",
+          "contentId": "VpwYY2WYrg",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 209,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Wolfpack Insider: France",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2020): Deceuninck \u2013This documentary chronicles the journey of Deceuninck\u2013Quick-Step during the 2019 Tour de France. Go behind the scenes with one of the world\u0027s most successful PRO teams as they navigate the ups and downs of cycling\u0027s biggest race.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9297222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 36,
+            "intensityFactor": 0.64
+          },
+          "workoutId": "xQEOoaSGSx",
+          "contentId": "FH5Q8pd4Ab",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 4: Race Winning Efforts",
+          "style": null,
+          "compatibility": 100,
+          "description": "You don\u0027t win races by just hanging out on the farm. So today, you\u0027ll head out with Ian for a quick warm-up and then through a series of intervals with big sprints and sub-threshold efforts. Off-the-bike, Ian\u0027s got some treats lined up for you, including his favorite fishing spot and maybe even ice cream if you hit all your workout targets.\n\n\u200B\n\n_Do this on: Day 4 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7608333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 3,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 63,
+            "intensityFactor": 0.91
+          },
+          "workoutId": "lSw3H2Socd",
+          "contentId": "SknXrSD2HE",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Event",
+      "rank": 205,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "What\u0027s Next?",
+          "style": null,
+          "compatibility": 100,
+          "description": "We hope you enjoyed these workouts and spend more time with us on SYSTM.\n\n\u200B\n\nThe Sports Science team uses 4DP to make each workout a customized and unique experience which is most beneficial to you. To make sure you are training with the most accurate targets and to ensure the best results, we highly recommend taking the Half Monty or Full Frontal fitness assessment. Here is a plan to help you take the test: [\u002B\u002Bhttps://wahoosystm.com/CyclingFitnessTestPrep\u002B\u002B](https://wahoosystm.com/CyclingFitnessTestPrep)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "5v7pVWbwe5",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

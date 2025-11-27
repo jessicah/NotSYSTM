@@ -1,0 +1,30 @@
+{
+  "uid": "Bo2NPE",
+  "name": "RADL GRVL",
+  "description": "Prepare for the 2025 Adelaide Event ",
+  "stepTitle": "RADL GRVL",
+  "stepDescription": "RADL GRVL",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "uWrnQEGUBM",
+      "name": "RADL Blue Course 2025",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "uWrnQEGUBM",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

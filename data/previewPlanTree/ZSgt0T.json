@@ -1,0 +1,30 @@
+{
+  "uid": "ZSgt0T",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": "Moderate Volume - 3:1 - Event  Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "vKUNwto4vE",
+      "name": "SYSTM Off-Road Triathlon Plan/Mod Volume/3:1/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "vKUNwto4vE",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

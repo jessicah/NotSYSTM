@@ -1,0 +1,30 @@
+{
+  "uid": "xiiEvx",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Time Trial",
+  "stepDescription": "Moderate Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "BxqdCwC6dM",
+      "name": "TT event prep 2:1 Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BxqdCwC6dM",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "3FSjpM",
+  "name": "Germany",
+  "description": "May 25th",
+  "stepTitle": "Grinduro Germany",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "C1EGXIlrPy",
+      "name": "GRINDURO BASE PLAN",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "C1EGXIlrPy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

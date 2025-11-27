@@ -1,0 +1,30 @@
+{
+  "uid": "58Uee9",
+  "name": "3:1 Progression",
+  "description": "16 week training plan starting October 27",
+  "stepTitle": "3:1 Progression",
+  "stepDescription": "",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "YxomKmUY05",
+      "name": "Dirty Reiver Essential Cycling 3:1 Block 6 (Wks 21-24)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "YxomKmUY05",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

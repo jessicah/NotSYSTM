@@ -1,0 +1,30 @@
+{
+  "uid": "b2o0nM",
+  "name": "Badge",
+  "description": "The Great French Challenge",
+  "stepTitle": "The Great French Challenge",
+  "stepDescription": "The Great French Challenge",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "KYkrUbx9An",
+      "name": "French Challenge",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "KYkrUbx9An",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

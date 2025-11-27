@@ -1,0 +1,30 @@
+{
+  "uid": "86gXf7",
+  "name": "New/my first 5k ",
+  "description": "Never done a 5K before? This plan is designed to help you complete the distance.",
+  "stepTitle": "First 5K",
+  "stepDescription": "8 week plan 2-3 run per week ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5kqTzQ",
+      "name": "5k Beginner ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "xGgxH7ehpo",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

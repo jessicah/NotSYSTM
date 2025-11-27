@@ -1,0 +1,30 @@
+{
+  "uid": "iBaco4",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Olympic Distance",
+  "stepDescription": "Olympic Distance - Low Volume  - 2:1 - Season Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "nv80ag",
+      "name": "SYSTM Olympic Triathlon Plan/2:1/Low Volume/Season Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zKdRAsn4R9",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

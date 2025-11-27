@@ -1,0 +1,30 @@
+{
+  "uid": "0PpVPb",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "XC MTB",
+  "stepDescription": "Event - Moderate Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "N2l1GEGHZR",
+      "name": "MTB XC Event 3:1 Medium Volume w/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "N2l1GEGHZR",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

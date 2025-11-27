@@ -1,0 +1,70 @@
+{
+  "previewPlan": [
+    {
+      "id": "afYRN5S6rY",
+      "name": "No Strength",
+      "weakness": "NoWeakness",
+      "grouping": "Thanks for participating in this Wahoo event",
+      "category": "None",
+      "subcategory": "None",
+      "description": "",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "No Strength",
+      "type": "Strength",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2025-07-29T09:38:32.308Z",
+      "updatedAt": "2025-07-29T09:42:56.375Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 53,
+          "type": "Yoga",
+          "rank": 300,
+          "prospects": [
+            {
+              "type": "Yoga",
+              "name": "Breathing to Calm Down I",
+              "style": null,
+              "compatibility": 100,
+              "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.051111111111111114,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": null,
+                "tss": 2,
+                "intensityFactor": 0.58
+              },
+              "workoutId": "hLcXP2jPr0",
+              "contentId": "rWHO846mKb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

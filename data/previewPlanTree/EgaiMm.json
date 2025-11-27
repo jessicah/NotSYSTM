@@ -1,0 +1,30 @@
+{
+  "uid": "EgaiMm",
+  "name": "2:1",
+  "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+  "stepTitle": "Tempo Block",
+  "stepDescription": "Low Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ndMsmE17Oe",
+      "name": "Building Block-Tempo -Low-2:1  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ndMsmE17Oe",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "yIirwi",
+  "name": "Ramp it Up",
+  "description": "Designed to get you back into structured training.",
+  "stepTitle": "Transition Plan",
+  "stepDescription": "Transition Plan - Ramp it Up",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "v0PeUE",
+      "name": "SYSTM Cycling - Transition Up  ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "v4pIoFMa4j",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

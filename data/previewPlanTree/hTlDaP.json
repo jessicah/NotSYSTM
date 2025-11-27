@@ -1,0 +1,30 @@
+{
+  "uid": "hTlDaP",
+  "name": "7 Sessions/Week",
+  "description": "About 2 hours per week",
+  "stepTitle": "Novice Yoga - 7 sessions per week",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "j0OEBSGMZy",
+      "name": "Beginner Yoga - 6-7 Sessions/week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "j0OEBSGMZy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

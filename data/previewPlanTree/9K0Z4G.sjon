@@ -1,0 +1,500 @@
+{
+  "uid": "9K0Z4G",
+  "name": "USAT Long Distance",
+  "description": "12 week plans - 2 mile run, 56 mile bike, 13.1 mile run",
+  "stepTitle": "Volume",
+  "stepDescription": "Total hours of cycle and run training per week",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "jO0wzC",
+      "name": "Low",
+      "description": "6-10 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "Weekly work to rest ratio",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Wu1Y8P",
+          "name": "2:1",
+          "description": "Two weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "MYhTbe",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Low Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "2AQVdN",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Low Volume  - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "URWgBEQSZh",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "eveylL",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Low Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ixvUHg",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Low Volume  - 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "FVIslE8Kt0",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "WaDrkt",
+          "name": "3:1",
+          "description": "Three weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ffiN69",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "H3uByX",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Low Volume  - 3:1  - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "KQFKZRTsHa",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "6XLrQK",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Low Volume - 3:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "D1aeHQ",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Low Volume  - 3:1 ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "GhTVRLdItb",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "FDu7OW",
+      "name": "Moderate",
+      "description": "10-14 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "Weekly work to rest ratio",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "eIwtxG",
+          "name": "2:1",
+          "description": "Two weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "AsFLGM",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Moderate Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "nBfVIdlWzL",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Moderate Volume  - 2:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "nBfVIdlWzL",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "fNISRE",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Moderate Volume - 2:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "4k1OBr",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Moderate Volume  - 2:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "7fHHCOc1H0",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "0C1Xrm",
+          "name": "3:1",
+          "description": "Three weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "ngn2Fd",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Moderate Volume - 3:1  - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "OfxS8oACcR",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Moderate Volume  - 3:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "OfxS8oACcR",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "6eLVxG",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - Moderate Volume - 3:1 ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "TIP92wGygC",
+                  "name": "Duathlon USAT Long Distance - Season Prep - Moderate Volume  - 3:1",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "TIP92wGygC",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "XbPUiK",
+      "name": "High",
+      "description": "12-20 hours/week",
+      "stepTitle": "Progression",
+      "stepDescription": "Weekly work to rest ratio",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "mLSBzr",
+          "name": "2:1",
+          "description": "Two weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "7MNJUB",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - High Volume - 2:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "zsoTWX7sFO",
+                  "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 2:1  - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "zsoTWX7sFO",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "MfbCBt",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - High Volume - 2:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "79sEz1Wet4",
+                  "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 2:1 ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "79sEz1Wet4",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "htSstO",
+          "name": "3:1",
+          "description": "Three weeks hard followed by 1 rest week",
+          "stepTitle": "Strength",
+          "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "oDnrVk",
+              "name": "Yes",
+              "description": "Includes strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - High Volume - 3:1 - Strength",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "jpeLkZNOZW",
+                  "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 3:1 - Strength",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "jpeLkZNOZW",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "z0MA1Z",
+              "name": "No",
+              "description": "Does not include strength training",
+              "stepTitle": "USAT Long Distance",
+              "stepDescription": "Season Prep - High Volume - 3:1",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "YDQOLWx7Mo",
+                  "name": "Duathlon USAT Long Distance - Season Prep - High Volume  - 3:1 ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "YDQOLWx7Mo",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

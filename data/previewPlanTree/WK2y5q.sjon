@@ -1,0 +1,30 @@
+{
+  "uid": "WK2y5q",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "All Purpose",
+  "stepDescription": "All Purpose - Low Volume - 2:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9p9Glm",
+      "name": "All Purpose - Low Volume - 2:1 - with Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "gWxtvbxUfz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

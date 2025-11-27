@@ -1,0 +1,30 @@
+{
+  "uid": "MXWL0b",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB Enduro",
+  "stepDescription": " Season Prep - Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "4Wfnoni1Aq",
+      "name": "Off Road MTB Enduro Season Prep Moderate Volume 2:1 Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "4Wfnoni1Aq",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

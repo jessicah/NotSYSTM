@@ -1,0 +1,74 @@
+{
+  "uid": "cDMgeg",
+  "name": "Low",
+  "description": "2-4 hours",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "DZ0qQo",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": " Low Volume - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "Jd639Q",
+          "name": "ToS Prep - Low Volume - With Strength - Base Plan",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "GjRQiLv1OC",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "7IGNZX",
+      "name": "No",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": " Low Volume",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "h7zXFduyiQ",
+          "name": "ToS Prep Low Volume - Base Plan",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "h7zXFduyiQ",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

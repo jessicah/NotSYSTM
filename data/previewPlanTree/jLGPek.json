@@ -1,0 +1,30 @@
+{
+  "uid": "jLGPek",
+  "name": "Fitness Test",
+  "description": "1 week plan - Assess your cycling and running fitness",
+  "stepTitle": "Test Week",
+  "stepDescription": "Pre-Duathlon (2-Sport) Test Week Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "CmJ0ltlnVQ",
+      "name": "Pre-Duathlon Plan Test Week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "CmJ0ltlnVQ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

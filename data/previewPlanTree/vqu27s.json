@@ -1,0 +1,30 @@
+{
+  "uid": "vqu27s",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "Standard/Olympic Distance",
+  "stepDescription": "Season Prep - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "46QjDXHgBy",
+      "name": "Olympic Duathlon - Season Prep - High Volume - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "46QjDXHgBy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

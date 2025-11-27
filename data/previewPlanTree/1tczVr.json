@@ -1,0 +1,186 @@
+{
+  "uid": "1tczVr",
+  "name": "2:1",
+  "description": "2 hard weeks followed by 1 rest week",
+  "stepTitle": "Duration",
+  "stepDescription": "How many weeks are you ready to commit to your new habit? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FXFlg2",
+      "name": "2 Weeks",
+      "description": null,
+      "stepTitle": "New Routine",
+      "stepDescription": "2-Weeks",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "VjLRby",
+          "name": "Habit Forming 2 weeks ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "5Cc1S35Aaw",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "2YTNQm",
+      "name": "4 Weeks",
+      "description": null,
+      "stepTitle": "New Routine",
+      "stepDescription": "4-Weeks",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "PpSDyM0NQG",
+          "name": "Habit Forming 4 weeks",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "PpSDyM0NQG",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "hNlrYQ",
+      "name": "8 Weeks",
+      "description": null,
+      "stepTitle": "8 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "m8wmKo",
+      "name": "12 Weeks",
+      "description": null,
+      "stepTitle": "12 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "zogZoO",
+      "name": "16 Weeks",
+      "description": null,
+      "stepTitle": "16 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "cnED4y",
+      "name": "20 Weeks",
+      "description": null,
+      "stepTitle": "20 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "9n92el",
+      "name": "24 Weeks",
+      "description": null,
+      "stepTitle": "20 Week New Routine",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "boYHBpozIy",
+          "name": "Essential Cycling 2:1 Block 4 (Wks 10-12)",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "boYHBpozIy",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        },
+        {
+          "uid": "Ie7EmL",
+          "name": "2:1 ",
+          "description": "",
+          "stepTitle": "24 Week New Routine",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "iyNBVZ",
+              "name": "Basic Training Plan 24 Wks 2:1",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "P3aTOT2AJ3",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

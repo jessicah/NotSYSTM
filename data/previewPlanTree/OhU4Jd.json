@@ -1,0 +1,46 @@
+{
+  "uid": "OhU4Jd",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Long Distance",
+  "stepDescription": "Season Prep - High Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "RHIFeBWiTJ",
+      "name": "Duathlon - Long Distance - Season Prep - High Volume  - 2:1 (not started yet)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "RHIFeBWiTJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    },
+    {
+      "uid": "2TU6ooXaFK",
+      "name": "Run - Long Distance - Season Prep - High Volume  - 2:1 (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2TU6ooXaFK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

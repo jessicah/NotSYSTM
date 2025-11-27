@@ -1,0 +1,30 @@
+{
+  "uid": "tHSOBP",
+  "name": "Dial it Down ",
+  "description": "Post-season plans to help you recharge and reset.",
+  "stepTitle": "Transition",
+  "stepDescription": "Transition Plan - Dial it Down",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "vaU8Qr",
+      "name": "SYSTM Cycling - Transition Down ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "vGCcxdX9bO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

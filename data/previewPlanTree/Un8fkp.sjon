@@ -1,0 +1,30 @@
+{
+  "uid": "Un8fkp",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Cyclocross",
+  "stepDescription": "High Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "MJn4SCM9qy",
+      "name": "Off-Road CX: In-Season 3:1 High Volume (Sat Race)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "MJn4SCM9qy",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

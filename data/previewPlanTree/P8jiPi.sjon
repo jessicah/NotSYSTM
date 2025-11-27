@@ -1,0 +1,30 @@
+{
+  "uid": "P8jiPi",
+  "name": "Pennsylvania",
+  "description": "June 8th",
+  "stepTitle": "Grinduro Pennsylvania",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "fosUdxYrZz",
+      "name": "GRINDURO Pennsylvania",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "fosUdxYrZz",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

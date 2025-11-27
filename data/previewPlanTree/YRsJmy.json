@@ -1,0 +1,104 @@
+{
+  "uid": "YRsJmy",
+  "name": "FNLD GRVL",
+  "description": "Prepare for the 2024 FinlandEvent ",
+  "stepTitle": "Route Option",
+  "stepDescription": "Which route option are you doing?",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "oudyTf",
+      "name": "Forest Route",
+      "description": "FNLD GRVL Prep Plan",
+      "stepTitle": "42.6km ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "N26xMWSL8K",
+          "name": "FNLD GRVL Short Route ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "N26xMWSL8K",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "ydmD4A",
+      "name": "Lakes Route",
+      "description": "FNLD GRVL Prep Plan",
+      "stepTitle": "113km",
+      "stepDescription": "",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "GLJ1jaBcWF",
+          "name": "FNLD GRVL 113k Route",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "GLJ1jaBcWF",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "BQBb9x",
+      "name": "Midnight Sun Route",
+      "description": "FNLD GRVL Prep Plan",
+      "stepTitle": "176km ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "ZluWvT57Bv",
+          "name": "FNLD GRVL 160k ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "ZluWvT57Bv",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

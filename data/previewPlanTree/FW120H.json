@@ -1,0 +1,30 @@
+{
+  "uid": "FW120H",
+  "name": "Complete Program",
+  "description": "The complete 10 week program as described in the MTP booklet",
+  "stepTitle": "Complete Mental Training Program ",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "moKiHe",
+      "name": "MTP Full 10wk Plan - Booklet Plan",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Oz3y1f5YGZ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

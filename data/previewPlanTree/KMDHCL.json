@@ -1,0 +1,30 @@
+{
+  "uid": "KMDHCL",
+  "name": "Level 3",
+  "description": null,
+  "stepTitle": "Running Strength Level 3",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "E8FEPBrTLH",
+      "name": "Run Strength: Level 3 - 12 wks 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "E8FEPBrTLH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

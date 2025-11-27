@@ -1,0 +1,30 @@
+{
+  "uid": "3SGKsh",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB Enduro",
+  "stepDescription": "Event - High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "dSDDCcbiE1",
+      "name": "MTB Enduro - Event - High Volume - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "dSDDCcbiE1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

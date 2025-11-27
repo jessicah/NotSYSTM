@@ -1,0 +1,30 @@
+{
+  "uid": "1YlJKc",
+  "name": "4DP",
+  "description": "Wahoo X Introduction Plan",
+  "stepTitle": "Wahoo X 4DP",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": true,
+  "typename": null,
+  "children": [
+    {
+      "uid": "mwzEJBEXju",
+      "name": "Onboarding 4DP",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "mwzEJBEXju",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

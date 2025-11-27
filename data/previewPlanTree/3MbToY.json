@@ -1,0 +1,30 @@
+{
+  "uid": "3MbToY",
+  "name": "3 Sessions / Week",
+  "description": "3 Sessions / Week",
+  "stepTitle": "3 Sessions / Week",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "iJwVuoDR8T",
+      "name": "Izu Trail 3/week",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "iJwVuoDR8T",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

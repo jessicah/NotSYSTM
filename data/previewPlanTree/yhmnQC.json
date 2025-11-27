@@ -1,0 +1,30 @@
+{
+  "uid": "yhmnQC",
+  "name": "February 22 - Miami Dolphins Cancer Challenge",
+  "description": "Miami Dolphins Cancer Challenge",
+  "stepTitle": "Miami Dolphins Cancer Challenge",
+  "stepDescription": "6 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "6fZHqjzNwA",
+      "name": "GFNS 2025",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "6fZHqjzNwA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

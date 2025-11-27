@@ -1,0 +1,30 @@
+{
+  "uid": "pmazCf",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": " Season Prep - High Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "rdqg7G3qYm",
+      "name": "SYSTM Xterra Triathlon Plan/3:1/High Volume/Season Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "rdqg7G3qYm",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

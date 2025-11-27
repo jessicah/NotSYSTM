@@ -1,0 +1,30 @@
+{
+  "uid": "SUzGBv",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Sub-60 Gravel",
+  "stepDescription": "Sub-60 Mile Gravel - Moderate Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "BBAWsOU19R",
+      "name": "Gravel 40-62 mile 3:1 Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BBAWsOU19R",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

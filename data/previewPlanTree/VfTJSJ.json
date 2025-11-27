@@ -1,0 +1,30 @@
+{
+  "uid": "VfTJSJ",
+  "name": "Block 2 (Weeks 5-8)",
+  "description": "",
+  "stepTitle": "Block 2 (Weeks 5-8)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "UxkgcwotDU",
+      "name": "Basic Training 3:1 - 8 wks  (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "UxkgcwotDU",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

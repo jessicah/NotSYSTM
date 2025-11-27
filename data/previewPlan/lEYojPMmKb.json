@@ -1,0 +1,321 @@
+{
+  "previewPlan": [
+    {
+      "id": "lEYojPMmKb",
+      "name": "Badge Pro Rides",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2021-09-29T19:15:07.427Z",
+      "updatedAt": "2023-09-12T17:15:41.577Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Galicia: Camarinas to Muxia",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u2019s time for a wild coastal adventure with your host, Michael Cotty, across some of the stunning undulating roads of Galica, Spain. You\u2019ll start at a historic lighthouse on the \u2018Coast of Death\u2019 before working your way deep into the rugged landscape that defines this region. The road will guide your workout, with big efforts up every hill and a chance to take it a bit easier on the descents. It\u2019s not all hard work, though, Mike takes the time to show you around the fishing marina, where to find the \u2018hunger herb\u2019 and some of the sights around our finishing village, Muxia.\n\n\u200B\n\nThis is a great session for anyone who wants to get in a bit of sprint/anaerobic capacity efforts while laying down some solid aerobic time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7392408454)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1294444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 91,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "qRN0Ywpez8",
+              "contentId": "k0ZyP1kZrU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "UAE Tour 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Alessandro DEMARCHI of Italy\n\n**Event:** UAE Tour\n\n**Mission - \u0022The Wounded\u0022:** An early crash has put a serious dent into your goal of winning the Queen Stage at the UAE Tour. Nevertheless, you\u0027ve managed to recover and have rejoined the peloton and the GC favorites just at the base of the stage\u0027s major climb. Bridging the gap has taken its toll and you\u0027ll need to muster all of your strength and courage just to keep going. Can you defy the odds and not just finish with the pack but take the win? Be prepared for a big, long slog up Jebel Jais, the highest point in the UAE.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.05,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "2XD7S93GIX",
+              "contentId": "6SXBP1SxlE",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour of Norway 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Alexandr RIABUSHENKO of Belarus\n\n**Event:** Tour of Norway\n\n**Mission - \u0022Domestique\u0022:** It\u0027s the first stage of the Tour of Norway. You\u0027ve been chosen to help get your team\u0027s star sprinter, Alexander Kristoff, in position to take the win. You need to be ready to bury yourself in service of your team. It might not be the most glamorous, but it will earn you the respect and admiration of your teammates. There are stars and there are water carriers: today you\u0027re loading up with bottles.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.5219444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 102,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "QkYa3UpfdC",
+              "contentId": "E4AyZV03FF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Giro d\u0027Italia Donne 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Clara KOPPENBURG of Germany\n\n**Event:** Giro D\u0027Italia Donne\n\n**Mission - \u0022Through the Wringer\u0022:** It\u0027s Stage 7 of the Women Giro d\u0027Italia. As the Team Leader at Rally Cycling, you\u0027re riding to defend a respectable 22nd position in the GC\u2014and perhaps even break the top 10. Today\u0027s stage is on a hilly, punchy circuit. You\u0027ll need to put in some serious work to stay with the GC leaders if you want a chance of grabbing a top 10 GC result at the end of the Tour.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 2.172222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 147,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "b7YbFrlQwr",
+              "contentId": "WDfoHHriNX",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tour of Norway 2",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Carl Fredrick HAGEN of Norway\n\n**Event: **Tour of Norway\n\n**Mission - \u0022Wonderkid\u0022:** Experience the thrill of the breakaway with the peloton breathing down your neck - You\u0027re riding for Team Lotto Soudal - You\u0027ve been in the breakaway all day. There\u0027s just one hour of racing left and you\u0027re sitting at the top of the virtual GC on the last day of the Tour of Norway, your home tour \u2014 Of any day to go all out and empty the tank, today is the day \u2014 Take your pulls, lead the breakaway and fight to stay away from the peloton.\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0125,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 5
+                },
+                "tss": 75,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "68C7P2aLJk",
+              "contentId": "ucHaD8XSLK",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Strade Bianche 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Tosh Van der Sande of Belgium\n\n**Event:** Strade Bianche\n\n**Mission - \u0022The Scout\u0022:** Welcome to the famous white roads of Tuscany: dusty, unpredictable, and unbelievably hilly. You got in the early break to take the pressure off your teammates. By giving them a bit of a rest early on they\u0027ll have a better chance of making a move as the race winds towards the iconic finish in the picturesque hill town of Sienna. Your job is to make sure everybody in the break works well together to maintain a gap and hold off the peloton for as long as you can. The other teams\u0027 star riders are breathing down your neck. How long can you keep them at bay?\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.8180555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 5
+                },
+                "tss": 143,
+                "intensityFactor": 0.88
+              },
+              "workoutId": "NYGigIDiDP",
+              "contentId": "Rlo2WJk34D",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 13,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Hammer Climb 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Featured rider:** Nathan Van Hooydonck\n\n**Event:** Hammer Limburg Climb\n\n**Mission - \u0022You\u0027ve Been Served\u0022:** Experience the madness and fast-paced team racing of the Velon Hammer Series. A Hammer race consist of three disciplines; the Hammer Climb, Sprint and Chase; all of which take place on a short circuit.\n\n\u200B\n\nYou\u0027re part of the Team CCC, taking part in the first day of racing at the Hammer Series: The Climb. It\u0027s a full-gas, two hours of racing where teams collect points on every lap at the top of the climb. Problem is, you\u0027re not a climber. You\u0027ll have to work and suffer as a team if you want to take top honors going into tomorrow\u0027s Sprint stage. Expect some elevated HR and sharp accelerations. Be prepared to leave it all out there on the road!\n\n\u200B\n\n**About ProRides**\n\nHere\u2019s your chance to experience what it\u2019s like to ride in the biggest races in the world, thanks to SYSTM\u2019s 4DP platform. We\u2019ve taken the first-person camera footage and power data from a pro cyclist and analyzed it to determine which part of their 4DP\u00AE profile each of their efforts corresponds to. But since few of us can put down pro-level watts, we made it so all of the efforts are scaled to your own personal 4DP\u00AE profile. That means you get to experience exactly what the pros experience relative to your own abilities. When they sprint, you sprint. When they attack, you attack. When they sit up, you get to take it (relatively) easy. It\u0027s the most immersive, realistic race simulation out there.\n\n\u200B\n\n[Here\u0027s some more information on how to create the most immersive ProRides experience.](https://wahoosystm.com/HelpCenterProRides)\n\n\u200B\n\n**Featured Footage: **Velon\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 2.1694444444444443,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 4,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 172,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "CtzsPsDbP5",
+              "contentId": "jlk1uCGBKN",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

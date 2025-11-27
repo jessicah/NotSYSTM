@@ -1,0 +1,30 @@
+{
+  "uid": "F6dxhJ",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Half Distance",
+  "stepDescription": "Half Distance - Moderate Volume - 3:1 - Event Prep - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "E218BuY2fZ",
+      "name": "SYSTM Half Distance Triathlon Plan/Mod Volume/3:1/Event/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "E218BuY2fZ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

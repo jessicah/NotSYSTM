@@ -1,0 +1,30 @@
+{
+  "uid": "MvIu2G",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "Long Distance",
+  "stepDescription": "Event - Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "pCQLaah6hi",
+      "name": "Duathlon - Long Distance - Event - Moderate Volume  - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "pCQLaah6hi",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

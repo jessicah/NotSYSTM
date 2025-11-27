@@ -1,0 +1,30 @@
+{
+  "uid": "OjrCsz",
+  "name": "High",
+  "description": null,
+  "stepTitle": "KoS Prep",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VtNlvs",
+      "name": "KoS - 4 Week - High Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "DaRt6jmkUA",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

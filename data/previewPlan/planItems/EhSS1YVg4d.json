@@ -1,0 +1,1219 @@
+{
+  "id": "EhSS1YVg4d",
+  "name": "Mileage Build 1",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "None",
+  "subcategory": "None",
+  "description": "MB 1 - Low experience - low time \n",
+  "planDescription": "Mileage Builder 1 ",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": true,
+  "createdAt": "2024-04-12T12:42:10.306Z",
+  "updatedAt": "2024-04-12T12:50:01.129Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Running",
+      "rank": 203,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 20",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 20 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "k6iqkLRDAz",
+          "contentId": "Bt1YNgZ7GR",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 1,
+      "type": "Running",
+      "rank": 204,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 30",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "RCbVa2QJmE",
+          "contentId": "8My1kzRLAo",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Running",
+      "rank": 214,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic with Pickups",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n5 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Main Effort:**\n\nNumber of Sets: 1\n\nInterval Repeats Per set: 5\n\nInterval Effort: 30 second acceleration from RPE 4-8 -- 120% of RTP up to 90% of RTP (Z2-Z4)\n\nRecovery: 4 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Extra Volume:**\n\nNA\n\n\u200B\n\n**Cool Down:**\n\nEnd your workout with 5 minutes of easy jogging (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "8Ce1ZR8iFp",
+          "contentId": "YyHYX1LzHl",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Running",
+      "rank": 205,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 45",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 45 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "tvV3J76Z7l",
+          "contentId": "yvcdSYNPIG",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Running",
+      "rank": 206,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 60",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 60 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "zddJD9fu8z",
+          "contentId": "WEhIpACFzU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Running",
+      "rank": 213,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic w/pickups 60",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nWarm Up\n\n5 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\nMain Effort\n\nNumber of Sets: 1\n\nInterval Repeats Per Set: 11\n\nInterval Effort: 30 second acceleration from RPE 4 to RPE 8 -- 120% of RTP up to 90% of RTP (Z2-Z4)\n\nRecovery: 4 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\nExtra Volume\n\nNA\n\n\u200B\n\nCool Down\n\nEnd your workout with 5 minutes of easy jogging (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 0,
+            "intensityFactor": 0
+          },
+          "workoutId": "76Nd70epdL",
+          "contentId": "K6edD20NXl",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Running",
+      "rank": 212,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Over-Unders",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1 Drills of choice: butt kicks, high knees, carioca**\n\nNumber of Sets 2 each\n\nRest Between Sets 30s\n\nInterval Distance 50m each\n\n\u200B\n\n**Activation 2 150m Accelerations**\n\nNumber of Sets 2-3\n\nRest Between Sets 60s\n\nInterval Effort 110-100% RTP (Z4a)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: Repeat continuously for 50 minutes\n\nIntervals 2 min in Z3 \u002B 2 min in Z2\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 65,
+            "intensityFactor": 0.7
+          },
+          "workoutId": "dPlxf8Wk9D",
+          "contentId": "BSoMYClPUn",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Running",
+      "rank": 208,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 90",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration; 90 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "C8gFpfPuB4",
+          "contentId": "Ys31hka6Aw",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "type": "Running",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 105",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 1 hour 45 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "DWIrXkGKAM",
+          "contentId": "UszJTkRCBd",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Running",
+      "rank": 209,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 120",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n**Warm-Up**\n\nNA\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 2 hours \n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 2,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "oQ2cqQ1lQr",
+          "contentId": "91VmjTmnby",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "type": "Running",
+      "rank": 210,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 135",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 2 hours 15 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 2.25,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "O982qL0fhd",
+          "contentId": "VECVqjhT6O",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "type": "Running",
+      "rank": 211,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Aerobic Run 150",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\nThis is an easy, fun, and unstructured run designed to keep your system ticking over without adding too much fatigue. Make it a priority to never go above Z2, and a good way to do this is to go for a run with a friend and keep it at a conversational pace (or talk to yourself!).\n\nFor help understanding your run workout and calculating your pace zones, please see this article.\n\n\u200B\n\n**Warm-Up**\n\nNA\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Duration: 2 hours 30 minutes\n\nInterval Effort: RPE 2-4 -- 145-120% of RTP --HR 70-87% (Z2)\n\nRecovery: NA\n\n\u200B\n\n**Cool Down**\n\nNA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 2.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 36,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "Yq6AObGpiZ",
+          "contentId": "aF6ZcliV3y",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "type": "Running",
+      "rank": 215,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 sets 4 x 400s",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets: 4\n\nRest Between Sets: 1 min\n\nInterval Distance: 50m build\n\nInterval Effort: Gradually increase from RPE 3-8 (Z2-Z4)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 2\n\nRest between sets: 20 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval repeats per set: 4\n\n**Interval**\n\nWork: 2 minutes @ RPE 9 -- 95-105%% of MAP (115-135% of FTP)\n\nRest: 2 minutes @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 7 minute\n\nInterval repeats per set: 4\n\n**Interval**\n\nInterval Distance Per set: 400m\n\nRecovery between Intervals: 1 minute\n\nInterval Effort: RPE 8.5-9.5 --92-85% of RTP --HR 105% \u002B (Z5)\n\nRecovery: RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.1666666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 3,
+              "map": 4,
+              "ftp": 4
+            },
+            "tss": 105,
+            "intensityFactor": 0.95
+          },
+          "workoutId": "ud67NyAiit",
+          "contentId": "MqQsghEMUR",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "type": "Running",
+      "rank": 216,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 x 12 minutes",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-121% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, builds, strides**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30s\n\nInterval Distance: 50m each\n\n**Activation 2: 150m Accelerations**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30s\n\nInterval Effort: 110-91% RTP (Z4)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 2 minutes\n\nInterval Duration Per set: 12 minutes\n\nInterval Effort: RPE 6.5-7 --110-91% of RTP --HR 95-100% (Z4)\n\nRecovery: RPE 1-2 --145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 72,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "91BjYhkCzy",
+          "contentId": "BEcCY8Ddnp",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Running",
+      "rank": 217,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 x 2K Increasing",
+          "style": null,
+          "compatibility": 100,
+          "description": "If you drill into the pacing strategies of any endurance competitor, you quickly learn that the negative split is the fastest way to complete a course. A negative split is where your pace is higher during the second half of the course; we\u2019ll work on that pacing strategy today.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, etc.**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m\n\n**Activation 2: 150-200m Strides**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30 sec\n\nInterval Effort: 110-100% RTP (Z4a)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 5 minutes\n\nInterval Distance Per set: 2K\n\nInterval Effort: Begin @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSteadily increase to RPE 7.5-8.5 by final 400m -- 100-92% of RTP--HR 100-105% (Z4b)\n\nNote: Repeat the same pace on the second set, but strive to finish faster for the final 400m.\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 3,
+              "ftp": 4
+            },
+            "tss": 72,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "n4M6CaJqFA",
+          "contentId": "Yu8Bk4wC8E",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "type": "Running",
+      "rank": 218,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 x 5k tempo",
+          "style": null,
+          "compatibility": 100,
+          "description": "The goal of this run is not to run as fast as you can for the duration of the main set but to find a steady running rhythm that you could comfortably hold for an hour or more.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87%\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30 sec\n\nInterval Distance: 50m each\n\n**Activation 2**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 100m\n\nInterval Effort: Gradual build @ RPE 3-8 --145-92% of RTP --HR 70-105%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 5 minutes\n\nInterval Distance Per set: 5k\n\nInterval Effort:RPE 5-6 --120-110% of RTP --HR 87-95%\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70%\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.25,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 3,
+              "ftp": 2
+            },
+            "tss": 70,
+            "intensityFactor": 0.75
+          },
+          "workoutId": "BJSl4h8IUl",
+          "contentId": "klJAbixhry",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Running",
+      "rank": 219,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 x 6K Kicking",
+          "style": null,
+          "compatibility": 100,
+          "description": "We know that triathlons are more focused on steadily paced runs, but if you\u2019re ever going to get faster then you need to do some speed work! Find a flat track or course with regular distance markers and prepare yourself for some explosive speed work.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 1-2 -- 145-120% of RTP -- HR \u003C70-87% (Z1)\n\n\u200B\n\n**Activation 1**\n\nNumber of Sets: 3\n\nRest Between Sets: 30s\n\nInterval Distance Per Set: 75m build\n\nInterval Effort: RPE 4-10 --\u003C120-85% of RTP --HR 87-105% (Z2-Z6)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 3 minutes\n\nInterval Distance Per set: 6K\n\nInterval 1 Effort: 5.9k @ RPE 3-4 -- 145-120% of RTP --HR 70-87% (Z2), Final 100m @ RPE 10 --\u003C85% of RTP --HR 105 (Z6)\n\nInterval 2 Effort: 5.9k @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3), Final 100m @ RPE 10 --\u003C85% of RTP --HR 105 (Z6)\n\nRecovery: RPE 1-2 --\u003C145% of RTP --HR \u003C70% (Z1)\n\nNote: Pace it so you are increasing your speed for the last 100m and not slowing at the end.\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.5,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 3,
+              "ftp": 4
+            },
+            "tss": 108,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "jWJAvLoodK",
+          "contentId": "NW6GUQvNHc",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "type": "Running",
+      "rank": 220,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "2 x 8K Tempo",
+          "style": null,
+          "compatibility": 100,
+          "description": "The goal of this run is not to run as fast as you can for the duration of the main set, but to find a steady running rhythm/pace that you could comfortably hold for an hour or more.\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm- Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR \u003C70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills: butt kicks, high knees, carioca, strides, skipping**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m each\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 6-8 minutes\n\nInterval Distance Per set: 8K\n\nInterval Effort\n\nInterval #1 @ RPE 3-4 --145-120% of RTP -- HR 70-87% (Z2)\n\nInterval #2 @ RPE 5-6 --110-100% of RTP --HR 87-95% (Z3)\n\nRecovery: RPE \u003C2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 98,
+            "intensityFactor": 0.75
+          },
+          "workoutId": "Ck5MDwlTi7",
+          "contentId": "McOX6Efs16",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Running",
+      "rank": 221,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "240,220,200,180,160,140,120,100,80",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets: 4\n\nRest Between Sets: 1 min\n\nInterval Distance: 50m build\n\nInterval Effort: Gradually increase from RPE 3-8 (Z2-Z4)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 9, different distance for each\n\nRest Between Sets: 2 minutes @ RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\nInterval 1: 240m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 2: 220m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\ninterval 3: 200m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 4: 180m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 5: 160m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 6: 140m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 7: 120m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 8: 100m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nInterval 9: 80m @ RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0833333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 5,
+              "map": 3,
+              "ftp": 2
+            },
+            "tss": 98,
+            "intensityFactor": 0.95
+          },
+          "workoutId": "lawBuIE67a",
+          "contentId": "CIcq25e1BK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "type": "Running",
+      "rank": 222,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 1 Mile",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warmup**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation**\n\n2 x 100m accelerations with 1 minute recovery (jog) between\n\n\u200B\n\n**Main effort**\n\nNumber of Sets: 3\n\nInterval Distance: 1 mile\n\nInterval Intensity: 10k pace (RPE 6.5-7 -- 100-110% of RTP -- HR 95-100%) (Z4a)\n\nRecovery duration: 2-3 minutes between efforts @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\nWhen you can no longer keep the pace, the workout is over.\n\n\u200B\n\n**Cool Down**\n\nFinish with several 100-meter strides on grass\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 2,
+              "map": 5,
+              "ftp": 4
+            },
+            "tss": 90,
+            "intensityFactor": 0.95
+          },
+          "workoutId": "x6egn806NK",
+          "contentId": "RYNHb7jpRJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "type": "Running",
+      "rank": 223,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 1 and 1 x 3",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills: butt kicks, high knees, builds, strides**\n\nNumber of Sets: 2 each\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m each\n\n\u200B\n\n**Main Effort 1**\n\nNumber of Sets: 3\n\nRest Between Sets: 3 minutes\n\nInterval Distance Per set: 1K\n\nInterval Effort:\n\nSet 1: @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSet 2: @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSet 3 @ RPE 7-8--107-91% of RTP --HR 95-100% (Z4)\n\nRecovery: RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\nNote: Complete each set a few seconds faster than the last, finishing with your strongest 1K.\n\n\u200B\n\n**Main Effort 2**\n\nNumber of Sets: 1\n\nRest Between Sets: NA\n\nInterval Distance Per set: 3k\n\nInterval Effort: RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\n\u200B\n\n**Recovery**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 3,
+              "ftp": 3
+            },
+            "tss": 70,
+            "intensityFactor": 0.82
+          },
+          "workoutId": "LJIs9FIsoY",
+          "contentId": "mcv3bYlDsY",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Running",
+      "rank": 224,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 1.5K Increasing",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nIf you drill into the pacing strategies of any endurance competitor, you quickly learn that the negative split is the fastest way to complete a course. A negative split is where your pace is higher during the second half of the course. The goal of this workout is to practice that pacing strategy today.\n\n\u200B\n\n**Warm-up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, etc.**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 50m\n\n**Activation 2: 150-200m Strides**\n\nNumber of Sets: 2-3\n\nRest Between Sets: 30-sec\n\nInterval Effort: 110-100% RTP (Z4a)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nRest Between Sets: 3 minutes\n\nInterval Distance Per Set: 1.5K\n\nInterval Effort:\n\nBegin @ RPE 5-6 --120-110% of RTP --HR 87-95% (Z3)\n\nSteadily increase to RPE 7.5 over the entire distance -- 100-92% of RTP--HR 100-105% (Z4a)\n\n\\*Strive to achieve the same pace across all three efforts.\n\n\u200B\n\n**Cool-down:**\n\nWalk or jog for 5-10 minutes to cool down (Z1)\n\n\u200B\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 2,
+              "ftp": 4
+            },
+            "tss": 48,
+            "intensityFactor": 0.08
+          },
+          "workoutId": "W1TbL4Y0RZ",
+          "contentId": "JEilqUr0SR",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "type": "Running",
+      "rank": 225,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 10 at T pace (3\u0027 Rec)",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets: 4\n\nRest Between Sets: 1 min\n\nInterval Distance: 75m build\n\nInterval Effort: Gradual increase from RPE 3-8 (Z2-Z4b)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nInterval: 10 minutes @ RPE 6.5-7 --110-100% of RTP --HR 95-100% (Z4)\n\nRecovery: 3 min @ RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0666666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 77,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "O9LiJxrGjT",
+          "contentId": "ybKTwtm1L1",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Running",
+      "rank": 226,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 10 at T pace (5\u0027 Rec)",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets: 4\n\nRest Between Sets: 1 min\n\nInterval Distance: 75m build\n\nInterval Effort: Gradual increase from RPE 3-8 (Z2-Z4b)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nInterval: 10 minutes @ RPE 6.5-7 --110-100% of RTP --HR 95-100% (Z4)\n\nRecovery: 5 min @ RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.1666666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 84,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "HBCI4e7hGg",
+          "contentId": "tALhJyBnFB",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "type": "Running",
+      "rank": 227,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 15 minute tempo",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\nRemember that tempo pace is not fast! The goal of this run is to find a steady rhythm/pace that you could comfortably hold for an hour or more.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 120-145% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation 1: Drills**\n\nNumber of Sets: 2\n\nRest Between Sets: 30 sec\n\nInterval Distance: 25m each: butt kicks, high knees, Carioca, skipping\n\n\u200B\n\n**Main Effort:**\n\nNumber of Sets 3\n\nRest Between Sets 5 minutes\n\nInterval Repeats Per set 15 minutes\n\nInterval Effort: RPE 5-6 --120-110% of RTP --HR 87-95% (Z3) Recovery: RPE \u003C2 --\u003E145% of RTP --HR\u003C70% (Z1)\n\n\u200B\n\n**Cool-down:**\n\nEnd your workout with 5-10 minutes of easy jogging (Z1)\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.25,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 3
+            },
+            "tss": 61,
+            "intensityFactor": 0.7
+          },
+          "workoutId": "la7zbC6ozu",
+          "contentId": "Aydry1qASg",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Running",
+      "rank": 228,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "3 x 1K Building",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Drills of choice: butt kicks, high knees, builds, strides**\n\nNumber of Sets: 2\n\nRest Between Sets: 30s\n\nInterval Distance: 50m each\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 3\n\nRest Between Sets: 2 minutes\n\nInterval Distance Per Set: 1K\n\n**Interval Effort**\n\nFirst 1K: RPE 4-5 --120% of RTP --HR 87% (Z2-Z3)\n\nSecond 1K: RPE 6 --120-110% of RTP --HR 95% (Z3)\n\nThird 1K: RPE 7\u002B --100-105% of RTP --HR 95-105% (Z4a-Z4b)\n\nRecovery: RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.75,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 54,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "ICEQMKflCB",
+          "contentId": "Hnrao58FWi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "type": "Running",
+      "rank": 202,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Recovery Run",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is as easy as easy gets.\n\nYou should hardly be going fast enough to consider this a jog.\n\nYou want to focus on taking very short strides but keeping your stride rate at least 80 steps per minute.\n\nYou should be embarrassed to be seen going this slowly!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up **NA\n\n\u200B\n\n**Main Effort** \n\nNumber of Sets 1 \n\nRest Between Sets: NA \n\nInterval Repeats Per Set NA \n\nInterval Effort: 20 minutes @ RPE 1-3 -- 165-140% of RTP -- HR \u003C70% (Z1) \n\nRecovery: NA\n\n\u200B\n\n**Extra Volume** NA\n\n\u200B\n\n**Cool Down** NA\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.3333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.2
+          },
+          "workoutId": "NSFBYpA28h",
+          "contentId": "ixGIERsp4a",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 82,
+      "type": "Running",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "Running Primers",
+          "style": null,
+          "compatibility": 100,
+          "description": "Just like the Primers Cycling Video, this session is about getting your body prepped and ready to run your absolute best tomorrow. That means you either have a fitness test, race, or another intense intense workout tomorrow, so make sure to cool down properly and re-fuel after this session!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 3-4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets 1\n\nRest Between Sets NA\n\nInterval Repeats Per set 4\n\nInterval Effort: 60sec Accelerations from RPE 4 up to RPE 8 --120% of RTP to 90-100% RTP -- HR 90\u002B % (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.4166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 2,
+              "ftp": 3
+            },
+            "tss": 30,
+            "intensityFactor": 0.8
+          },
+          "workoutId": "476GAGt6Bh",
+          "contentId": "GhzMC58ORp",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "type": "Running",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Running",
+          "name": "5K Pace Test",
+          "style": null,
+          "compatibility": 100,
+          "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n5 minute build from RPE 2 to RPE 4 -- 145-120% of RTP -- HR 70-87% (Z2)\n\n\u200B\n\n**Activation 1: Accelerations**\n\nNumber of Sets 2\n\nRest Between Sets 60-90 seconds\n\nInterval Effort: 90sec Accelerations from RPE 4 up to RPE 7 (Z2-Z4b)\n\nRecovery: 90 seconds @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n**Activation 2: Strides**\n\nNumber of Sets 4-6\n\nRest Between Sets: 1 min\n\nInterval Distance: 80m build\n\nInterval Effort: Gradual increase @ RPE 3-8 (Z2 building to Z4)\n\nRecovery: 30\u002B seconds @ RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\n5K Test If you aren\u2019t sure what pace you can sustain keep the RPE around 7 for the first 1500m, then build from that pace or keep it steady. Take note of your 1K splits to see if you are fading or building by the end. Record your time for the full 5k and average heart rate for the last 20 minutes. To calculate your running Lactate Threshold Heart Rate (LTHR), subtract 10bpm from the average HR of your last 20 minutes and add 15sec to your average kilometer splits to determine Running Threshold Pace (RTP).\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 2,
+              "map": 4,
+              "ftp": 5
+            },
+            "tss": 81,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "bav8jnu7Mk",
+          "contentId": "Rq8gN9uEwh",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

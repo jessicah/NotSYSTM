@@ -1,0 +1,977 @@
+{
+  "previewPlan": [
+    {
+      "id": "HuMMQodY2a",
+      "name": "Special Focus Lower Body Level 2",
+      "weakness": "NoWeakness",
+      "grouping": "Lower Body Level 2",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### Special Focus: Lower Body Level 2\n\nThis six week plan is specifically designed to boost your lower body mobility, strength and power. These short sessions will target your calves, glutes, hamstrings and quads to help you produce higher cadences at a given resistance as well as improve range of motion in your ankles, hips and low back.\n\n\u200B\n\nLevel 2 is ideal if you have recently completed Level 1 or are returning from a three to six month lay-off. As with all of the SYSTM strength plans, it is important to take your time and follow the progression in order to allow for adequate tissue adaptation that will yield results, especially when adding jumping movements.\n\n\u200B\n\nThis plan may be applied in conjunction with other Special Focused strength plans, such as Upper Body or Core Focus. However, If you choose to apply concurrent plans we suggest that you do so during the off-season or at a time when your endurance training volume is low. We do not recommend adding Lower Body Focus if you are already on a training plan that includes a strength add-on.\n\n\u200B\n\nThe Special Focus stand alone plans follow a 2:1 progression and have three sessions per week on Monday, Wednesday and Friday.\n\n\u200B\n\nTime to get after it!\n",
+      "planDescription": "This plan is designed to target lower body strength and mobility.",
+      "fixedEndDate": "",
+      "level": "SYSTM Strength Level 2",
+      "type": "",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-11-09T19:19:18.562Z",
+      "updatedAt": "2022-08-11T19:53:59.932Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": "Lower Body Only Level 2"
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Strength",
+          "rank": 109,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nThink of Lower Body Focus 1 as a taster of a wide variety of moves that you\u2019ll see throughout the series. This gives you a chance to develop optimal movement patterns, improve range of motion and work on your unilateral stability before moving onto more demanding sessions. These workouts are ideal for all sports that require both technical control and explosive movements. Time to Rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Included Exercises**:\n\n- Split Stance Backbend w/ Arms overhead-Right\n- Recovery\n- Around the clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Hop to Opposite Leg w/Hold-Alternating\n- Split Squats\n- Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Kneeling Hip Extension\n- Hip Bridge w/ Knee Squeeze\n- Hamstring Hip Bridge\n- Inchworm from plank\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24027777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "iHtkk2Z50x",
+              "contentId": "rFfSFgorpF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Strength",
+          "rank": 124,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nThink of Lower Body Focus 1 as a taster of a wide variety of moves that you\u2019ll see throughout the series. This gives you a chance to develop optimal movement patterns, improve range of motion and work on your unilateral stability before moving onto more demanding sessions. These workouts are ideal for all sports that require both technical control and explosive movements. Time to Rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Included Exercises**:\n\n- Split Stance Backbend w/ Arms overhead-Right\n- Recovery\n- Around the clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Hop to Opposite Leg w/Hold-Alternating\n- Split Squats\n- Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Kneeling Hip Extension\n- Hip Bridge w/ Knee Squeeze\n- Hamstring Hip Bridge\n- Inchworm from plank\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24027777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "iHtkk2Z50x",
+              "contentId": "rFfSFgorpF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Other",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session is designed to improve mobility and flexibility through the foot, ankle, and calf. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Dynamic Calf Stretch\n- Standing Ankle Dorsiflexion\n- Single Leg Heel Raise\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1075,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "H30EzsVaH2",
+              "contentId": "TzvORMs5g6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Strength",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Strength",
+          "rank": 118,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe\u2019re stepping things up a bit here with more multi-directional movement and controlled-landing jumps. These diverse movement patterns, which include deceleration, are crucial in sports like cyclocross and mountain biking, as well as in trail running and open water swimming, where you have to be reactive to a dynamic environment.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single leg Hip Hinge\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- Side Lunge to Knee Lift w/ Hold\n- Scissor Jumps\n- Back Extension with Hold\n- Hamstring Hip Bridge\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25972222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "5FVuFoL4x5",
+              "contentId": "uwVQD1YRbH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Strength",
+          "rank": 111,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nThink of Lower Body Focus 1 as a taster of a wide variety of moves that you\u2019ll see throughout the series. This gives you a chance to develop optimal movement patterns, improve range of motion and work on your unilateral stability before moving onto more demanding sessions. These workouts are ideal for all sports that require both technical control and explosive movements. Time to Rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Included Exercises**:\n\n- Split Stance Backbend w/ Arms overhead-Right\n- Recovery\n- Around the clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Hop to Opposite Leg w/Hold-Alternating\n- Split Squats\n- Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Kneeling Hip Extension\n- Hip Bridge w/ Knee Squeeze\n- Hamstring Hip Bridge\n- Inchworm from plank\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24027777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "iHtkk2Z50x",
+              "contentId": "rFfSFgorpF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "Strength",
+          "rank": 119,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe\u2019re stepping things up a bit here with more multi-directional movement and controlled-landing jumps. These diverse movement patterns, which include deceleration, are crucial in sports like cyclocross and mountain biking, as well as in trail running and open water swimming, where you have to be reactive to a dynamic environment.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single leg Hip Hinge\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- Side Lunge to Knee Lift w/ Hold\n- Scissor Jumps\n- Back Extension with Hold\n- Hamstring Hip Bridge\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25972222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "5FVuFoL4x5",
+              "contentId": "uwVQD1YRbH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Strength",
+          "rank": 216,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "71DLIFZYsf",
+              "contentId": "3rHx3ISEtw",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Strength",
+          "rank": 217,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12083333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "rUvUFFwynO",
+              "contentId": "8UR5Sxr0iC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 18,
+          "type": "Strength",
+          "rank": 218,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Strength",
+          "rank": 120,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe\u2019re stepping things up a bit here with more multi-directional movement and controlled-landing jumps. These diverse movement patterns, which include deceleration, are crucial in sports like cyclocross and mountain biking, as well as in trail running and open water swimming, where you have to be reactive to a dynamic environment.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single leg Hip Hinge\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- Side Lunge to Knee Lift w/ Hold\n- Scissor Jumps\n- Back Extension with Hold\n- Hamstring Hip Bridge\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25972222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "5FVuFoL4x5",
+              "contentId": "uwVQD1YRbH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Other",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg and has focus on three-dimensional movement. This is a particularly good session for runners although all athletes will benefit from these exercises. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any moves that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Foot Circles\n- Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n- Foot Supination\n- Foot Pronation\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1361111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 5,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "w0VHf6pfQk",
+              "contentId": "OSCwXGL8SW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Strength",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 25,
+          "type": "Strength",
+          "rank": 121,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe\u2019re stepping things up a bit here with more multi-directional movement and controlled-landing jumps. These diverse movement patterns, which include deceleration, are crucial in sports like cyclocross and mountain biking, as well as in trail running and open water swimming, where you have to be reactive to a dynamic environment.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single leg Hip Hinge\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- Side Lunge to Knee Lift w/ Hold\n- Scissor Jumps\n- Back Extension with Hold\n- Hamstring Hip Bridge\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25972222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "5FVuFoL4x5",
+              "contentId": "uwVQD1YRbH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "type": "Strength",
+          "rank": 114,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 02",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nWe\u2019re stepping things up a bit here with more multi-directional movement and controlled-landing jumps. These diverse movement patterns, which include deceleration, are crucial in sports like cyclocross and mountain biking, as well as in trail running and open water swimming, where you have to be reactive to a dynamic environment.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Single leg Hip Hinge\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Split Squats\n- Fast Side Lunge w/ Knee Lift\n- Single leg squat to press w/ Same Arm\n- Side Lunge to Knee Lift w/ Hold\n- Scissor Jumps\n- Back Extension with Hold\n- Hamstring Hip Bridge\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.25972222222222224,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "5FVuFoL4x5",
+              "contentId": "uwVQD1YRbH",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "type": "Strength",
+          "rank": 115,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 01",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nThink of Lower Body Focus 1 as a taster of a wide variety of moves that you\u2019ll see throughout the series. This gives you a chance to develop optimal movement patterns, improve range of motion and work on your unilateral stability before moving onto more demanding sessions. These workouts are ideal for all sports that require both technical control and explosive movements. Time to Rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Included Exercises**:\n\n- Split Stance Backbend w/ Arms overhead-Right\n- Recovery\n- Around the clock Heel \u0026 Toe Taps\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Tip Toe Walk\n- Bulgarian Lunge\n- Deep Squat w/Arms Crossed\n- Step Overs\n- Alternating-Step Under\n- Hop to Opposite Leg w/Hold-Alternating\n- Split Squats\n- Hip Hinges\n- Side Lunge to Knee Lift w/ Hold\n- Kneeling Hip Extension\n- Hip Bridge w/ Knee Squeeze\n- Hamstring Hip Bridge\n- Inchworm from plank\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24027777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 9,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "iHtkk2Z50x",
+              "contentId": "rFfSFgorpF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 32,
+          "type": "Strength",
+          "rank": 122,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Lower Body Focus 03",
+              "style": null,
+              "compatibility": 100,
+              "description": "_Want to develop more lower body stability, strength, and power? This series takes you through a progression of exercises focused directly on your legs and hips. To mix things up a bit, we\u2019ll occasionally throw in a few upper body, core, and mobility moves to give those legs a break._\n\n\u200B\n\nAre you excited for Lower Body Focus 3?!? This session is all about compound movements. In a single exercise, you will be activating both your lower and upper body and challenging your strength and stability. Be ready to concentrate on balance in one interval and then propel yourself off the ground in another. The constant change of focus is similar to a race scenario where you must be ready for various external variables. Go for it!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Around the clock Heel \u0026 Toe Taps\n- Recovery\n- Tip Toe Walk\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Deep Squat w/Arms Crossed\n- Alternating-Step Under\n- Step Overs\n- Hip Hinges\n- Hamstring Hip Bridge\n- Stand from Kneeling - Alternating\n- Seated Ankle Dorsiflexion\n- Single leg squat to press w/ Same Arm\n- Split Squats\n- Side Lunge w/ Knee Lift \u0026 Opposite Arm Press\n- Scissor Jumps\n- Side Lunge to Knee Lift w/ Hold\n- Back Extensions with Arms Overhead\n- Runners Stretch-Alternating\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3422222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 18,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "y14u3M844Z",
+              "contentId": "JCDqRqUQuB",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Other",
+          "rank": 210,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This standing-based session is designed to improve mobility and flexibility through the foot, ankle, and calf. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Dynamic Calf Stretch\n- Standing Ankle Dorsiflexion\n- Single Leg Heel Raise\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1075,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "H30EzsVaH2",
+              "contentId": "TzvORMs5g6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Strength",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility C",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a standing-based session designed to improve mobility through your hips, and challenge balance while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Split Stance Back Bend\n- Single-Leg Hip Hinge\n- Split Stance Side Bend w/Arms Overhead\n- Single-Leg Hip Hinge w/Rotation\n- Downward Dog\n- Pigeon Stretch\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "SywLfCImaE",
+              "contentId": "nTCv3sT2fn",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "type": "Strength",
+          "rank": 220,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility A",
+              "style": null,
+              "compatibility": 100,
+              "description": "This module is a ground-based session designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Inchworm\n- Pigeon Stretch\n- Hip Bridge w/Knee Squeeze\n- Marching Hip Bridge\n- Back Extension w/Arms Overhead\n- Quadruped w/Alt. Leg/Arm\n- Bird Dog\n- Kneeling Pelvic Tilt\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "71DLIFZYsf",
+              "contentId": "3rHx3ISEtw",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Other",
+          "rank": 213,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Foot \u0026 Ankle Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility and stability through the foot, ankle, and lower leg. Take your time to work through the movements and focus on quality range of motion. We encourage you to take a little extra time on any exercises that you find challenging. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Seated Foot Circles\n- Seated Foot Inversion/Eversion\n- Seated Foot Curls\n- Seated Ankle Dorsiflexion\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.11138888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "jUbiMoZd4q",
+              "contentId": "IQaReDPXdi",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Strength",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Strength",
+              "name": "Core \u0026 Hip Mobility B",
+              "style": null,
+              "compatibility": 100,
+              "description": "This ground-based session is designed to improve mobility through your hips and low back while activating and integrating muscles that are key to core stability. Take your time to work through the movements and focus on quality. Be sure to rotate through the other routines in this series on a regular basis for maximum benefit.\n\n\u200B\n\nExercises:\n\n- Pigeon Stretch\n- Double Leg Hip Bridge\n- Marching Hip Bridge\n- Back Extension w/ Opp Arm \u0026 Leg Raise\n- Bird Dog\n- Single-Leg Hip Bridge\n- Oblique Leg Lift w/Crossed Legs\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12083333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 4,
+                "intensityFactor": 0.59
+              },
+              "workoutId": "rUvUFFwynO",
+              "contentId": "8UR5Sxr0iC",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 41,
+          "type": "Event",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Completed Level 2 Strength  ",
+              "style": null,
+              "compatibility": 100,
+              "description": "Congratulations on completing Level 2 Strength!  \n  \nWe recommend starting on Level 3 for your next plan.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "btGuzpz80G",
+              "notes": "Nice work! Time to level up!\n",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

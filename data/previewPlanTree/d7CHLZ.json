@@ -1,0 +1,30 @@
+{
+  "uid": "d7CHLZ",
+  "name": "Yes",
+  "description": "Includes the appropriate strength training",
+  "stepTitle": "Intro to Triathlon",
+  "stepDescription": "Season Prep - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "MHoFGhHVga",
+      "name": "SYSTM Intro to Triathlon/2:1/Season Prep/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "MHoFGhHVga",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

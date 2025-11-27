@@ -1,0 +1,74 @@
+{
+  "uid": "WnMZkK",
+  "name": "Moderate",
+  "description": "4-7 hours",
+  "stepTitle": "Strength ",
+  "stepDescription": "Do you want to incorporate Strength Training into your Prep Plan?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "qSLZJ6",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": "Moderate Volume - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "lvjw5kAsck",
+          "name": "ToS Prep - Intermediate Volume - With Strength - Base Plan ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "lvjw5kAsck",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "OQxoSX",
+      "name": "No",
+      "description": null,
+      "stepTitle": "ToS Prep",
+      "stepDescription": " Moderate Volume",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "R5PaU2",
+          "name": "ToS Prep Outline",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "Tc5nPDNcNu",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

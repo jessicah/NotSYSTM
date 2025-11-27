@@ -1,0 +1,30 @@
+{
+  "uid": "lGczs0",
+  "name": "Phil Gaimon",
+  "description": "Hit the hills around LA with former WorldTour rider and current cookie aficionado Phil Gaimon",
+  "stepTitle": "A Week With",
+  "stepDescription": "A Week With Phil Gaimon",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "XKQeZW",
+      "name": "AWW Phil G",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "31GRWs2hJv",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

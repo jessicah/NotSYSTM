@@ -1,0 +1,30 @@
+{
+  "uid": "alI3Oy",
+  "name": "TNN Talent ID",
+  "description": "Team Novo Nordisc Talent ID camps",
+  "stepTitle": "2023 TNN Camps",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "biJmaJVXA7",
+      "name": "TNN Talent ID Camps 2023",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "biJmaJVXA7",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

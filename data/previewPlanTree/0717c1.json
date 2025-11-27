@@ -1,0 +1,30 @@
+{
+  "uid": "0717c1",
+  "name": "Power Through the Holidays",
+  "description": "3-week plan to help get you ready to crush 2022.",
+  "stepTitle": "Power Through the Holidays",
+  "stepDescription": "3-week plan to help get you ready to crush 2022.",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "t2zoe8",
+      "name": "Surviving the Holidays ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "bXZfCK2YxF",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

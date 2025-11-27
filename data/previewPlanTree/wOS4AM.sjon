@@ -1,0 +1,54 @@
+{
+  "uid": "wOS4AM",
+  "name": "Mountainous (Fondo)",
+  "description": "Head for the hills.",
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VacIKJ",
+      "name": "Flat",
+      "description": "Drive the train on flat to rolling terrain.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "uNkvOR",
+          "name": "Medium Volume",
+          "description": "5-9 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "BgoAeq",
+          "name": "High Volume",
+          "description": "7-14 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        }
+      ]
+    }
+  ]
+}

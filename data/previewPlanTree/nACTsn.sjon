@@ -1,0 +1,30 @@
+{
+  "uid": "nACTsn",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "MTB 100 Mile ",
+  "stepDescription": "Event - Moderate Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "gC8siBkw4g",
+      "name": "MTB 100 mile - Event - Medium Volume - 2:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "gC8siBkw4g",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

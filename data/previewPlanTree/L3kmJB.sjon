@@ -1,0 +1,30 @@
+{
+  "uid": "L3kmJB",
+  "name": "No",
+  "description": null,
+  "stepTitle": "MTB Enduro",
+  "stepDescription": "Event - High Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9SFzGEkMy8",
+      "name": "MTB Enduro - Event - High Volume - 2:1 (in progress)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9SFzGEkMy8",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

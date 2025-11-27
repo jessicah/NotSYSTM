@@ -1,0 +1,30 @@
+{
+  "uid": "FATiQi",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Full Distance",
+  "stepDescription": "Full Distance - Moderate Volume  - 3:1 - Season Prep - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ZCxYWOLVG4",
+      "name": "SYSTM Full Distance Triathlon Plan/Mod Volume/3:1/Season Prep/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ZCxYWOLVG4",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

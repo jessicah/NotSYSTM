@@ -1,0 +1,30 @@
+{
+  "uid": "klBhCE",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Half Distance",
+  "stepDescription": "Half Distance - Low Volume  - 3:1 - Season Prep - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "9UhBqPObJk",
+      "name": "SYSTM Half Distance Triathlon Plan/3:1/Low Volume/Season Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "9UhBqPObJk",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,1542 @@
+{
+  "uid": "uuNecq",
+  "name": "Dirt / Gravel",
+  "description": "From cyclocross to epic gravel races.",
+  "stepTitle": "Discipline",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "IeLEZa",
+      "name": "Cyclocross",
+      "description": "12 week plans - Mud, sweat and tears.",
+      "stepTitle": "Volume",
+      "stepDescription": "How much time do you have to train?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "q7z66Z",
+          "name": "Low",
+          "description": "2-6 hours / week",
+          "stepTitle": "Progression ",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "VTtdDW",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "IzLIkl",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Low Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "YdBdUOwLSS",
+                      "name": "Off-Road CX: In-Season 3:1 Low Volume w/ Strength (Sun Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "YdBdUOwLSS",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "8yPwsg",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Low Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "D7nMH0",
+                      "name": "Off-Road CX: In-Season 2:1 Low Volume",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "sulw1HOHzX",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "7FW1jJ",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "xxnAY5",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Low Volume - 2:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "VWNQ6H",
+                      "name": "Off-Road CX: In-Season 2:1 Low Volume w/Strength (Sat Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "jG2FE8zF9Q",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "rvsPrs",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Low Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "luesLsWmtH",
+                      "name": "Off-Road CX: In-Season 2:1 Low Volume w/Strength (Sat Race) ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "luesLsWmtH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "dAfg1Y",
+          "name": "Moderate",
+          "description": "4-10 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "1lI8GD",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "DkXQU0",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Moderate Volume - 3:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "WT0be0yj35",
+                      "name": "Off-Road CX: In-Season 3:1 Low Volume w/ Strength (Sun Race) (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "WT0be0yj35",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "4c9mCb",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Moderate Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "PwVu7RPDTW",
+                      "name": "Off-Road CX: In-Season 3:1 Medium Volume (Sat Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "PwVu7RPDTW",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "egwaTF",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "LkwzoP",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Cyclocross - Moderate Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "CT8RJ3kqAS",
+                      "name": "Off-Road CX: In-Season 2:1 Med Volume w/Strength (Sun Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "CT8RJ3kqAS",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "y7J9pR",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Moderate Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "PfYI8LDP7f",
+                      "name": "Off-Road CX: In-Season 2:1 Medium Volume (Sat Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "PfYI8LDP7f",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "djiK2m",
+          "name": "High",
+          "description": "10-15 hours / week",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "uWdAun",
+              "name": "3:1",
+              "description": "3 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "J2Y0t2",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "High Volume - 3:1 - Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "1LTSrugySB",
+                      "name": "Off-Road CX: In-Season 3:1 Medium Volume w/ Strength (Sun Race) (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "1LTSrugySB",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Un8fkp",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "High Volume - 3:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "MJn4SCM9qy",
+                      "name": "Off-Road CX: In-Season 3:1 High Volume (Sat Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "MJn4SCM9qy",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "sNrSUm",
+              "name": "2:1",
+              "description": "2 hard weeks followed by 1 rest week",
+              "stepTitle": "Add Strength",
+              "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "zAwbcU",
+                  "name": "Yes",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "Cyclocross - High Volume - 2:1 - with Strength",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "GjcrKfDka6",
+                      "name": "Off-Road CX: In-Season 2:1 Med Volume w/Strength (Sun Race) (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "GjcrKfDka6",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "fFpafy",
+                  "name": "No",
+                  "description": null,
+                  "stepTitle": "Cyclocross",
+                  "stepDescription": "High Volume - 2:1",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "tvqhp72sqG",
+                      "name": "Off-Road CX: In-Season 2:1 Med Volume (Sat Race)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "tvqhp72sqG",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "SXG05M",
+      "name": "Gravel",
+      "description": "12 week plans - From off-road adventure rides to epic gravel races.",
+      "stepTitle": "Distance",
+      "stepDescription": "Roughly how long is your target Event",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "EC8ucd",
+          "name": "40-62 Mile",
+          "description": "Or 25-99 kms",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "5CILDu",
+              "name": "Low",
+              "description": "2-6 hrs per week",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": false,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "xFhUQF",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ksDozQ",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Sub-60 Mile Gravel - Low Volume - 3:1 - with Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "nLurAbHnMD",
+                          "name": "Gravel 40-62 mile 3:1 Low Volume ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "nLurAbHnMD",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "X1KqYO",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Sub-60 Mile Gravel - Low Volume - 3:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "nPhsm81Hng",
+                          "name": "Gravel 40-62 mile 3:1 Low Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "nPhsm81Hng",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "M7lHvA",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "z4rYWQ",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Low Volume - 2:1 - strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "FaYBm2EbIu",
+                          "name": "Gravel 40-62 mile 2:1 Low Volume -w/Str 2x wk",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "FaYBm2EbIu",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "TobzUW",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Low Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "a8bWSCWcVE",
+                          "name": "Gravel 40-62 mile 2:1 Low Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "a8bWSCWcVE",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "6vp0AT",
+              "name": "Moderate ",
+              "description": "6-10 hrs per week",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": false,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "eUoZhQ",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "bOGrJN",
+                      "name": "Yes",
+                      "description": "",
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Sub-60 Mile Gravel - Moderate Volume - 3:1 - with Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "bPW6iYRFyG",
+                          "name": "Gravel 40-62 mile 3:1 Medium Volume w/Str",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "bPW6iYRFyG",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "SUzGBv",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Sub-60 Mile Gravel - Moderate Volume - 3:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "BBAWsOU19R",
+                          "name": "Gravel 40-62 mile 3:1 Medium Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "BBAWsOU19R",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "wbyeKL",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "SAJeok",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Moderate Volume - 2:1 - strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "r2UBhM4VvB",
+                          "name": "Gravel 40-62 mile 2:1 Medium Volume w/Str 2 x wk",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "r2UBhM4VvB",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "lHhels",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "Sub-60 Gravel",
+                      "stepDescription": "Medium Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "FOkc68",
+                          "name": "Off Road Gravel Medium Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "OGIWeckSKl",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "1IbQiI",
+          "name": "100 Mile",
+          "description": "Or 161 kms",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "OjrKjm",
+              "name": "Moderate",
+              "description": "6 - 8 hours/wk",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "IQ1zTH",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "KjUmXf",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "Moderate Volume - 3:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "NGAG2GvJT7",
+                          "name": "Gravel 100 mile 3:1 Medium Volume w/Str 2x wk ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "NGAG2GvJT7",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "DDcPRW",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "Moderate Volume - 3:1 ",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "NPHGOKdOYe",
+                          "name": "Gravel 100 mile 3:1 Medium Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "NPHGOKdOYe",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "RlGNEw",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "yqxYXd",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "Moderate Volume - 2:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "Pu4mGt06N5",
+                          "name": "Gravel 100 mile 2:1 Medium Volume w/Str 2x wk",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "Pu4mGt06N5",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "TnadGJ",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "Moderate Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "ijFvx4WuNC",
+                          "name": "Gravel 100 mile 2:1 Medium Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "ijFvx4WuNC",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "U0ctXu",
+              "name": "High",
+              "description": "7 - 10 hours/wk",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "iX78LZ",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": false,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "IHKrm9",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "High Volume - 3:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "WQ7FAg3vjK",
+                          "name": "Gravel 100 mile 3:1 High Volume w/Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "WQ7FAg3vjK",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "b5ZYOh",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "High Volume - 3:1 ",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "j7w3oqMz54",
+                          "name": "Gravel 100 mile 3:1 High Volume ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "j7w3oqMz54",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "3A5JTX",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "eaxoRQ",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "High Volume - 2:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "iC2TzHdTyW",
+                          "name": "Gravel 100 mile 2:1 High Volume w/Str 2x wk (clone)",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "iC2TzHdTyW",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "BDdOaA",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "100 Mile Gravel",
+                      "stepDescription": "High Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "QTIenbGkmb",
+                          "name": "Gravel 100 mile 2:1 High Volume ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "QTIenbGkmb",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "NOreUx",
+          "name": "200 Mile",
+          "description": "Or 322 kms",
+          "stepTitle": "Volume",
+          "stepDescription": "How much time do you have to train?",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "csgh5N",
+              "name": "Moderate",
+              "description": "7 - 9 hours/wk",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "wfwlC0",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZwLjcZ",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "200 Mile Gravel - Moderate Volume - 3:1 - with Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "jIqrb9Hm4c",
+                          "name": "Gravel 200 mile 3:1 Medium Volume w/Strength (clone)",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "jIqrb9Hm4c",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "iMsAKY",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "200 Mile Gravel - Moderate Volume - 3:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "b7jt1I",
+                          "name": "Gravel 200 mile 3:1 Medium Volume ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "3F0DGUjetH",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "dhnJHq",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "k29lPQ",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel ",
+                      "stepDescription": "Moderate Volume - 2:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "li3qG0",
+                          "name": "Gravel 200 mile 2:1 Medium Volume w/Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "Vz5BgWGVJ6",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "nu4COY",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "Moderate Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "xgQLBDreny",
+                          "name": "Gravel 200 mile 2:1 Medium Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "xgQLBDreny",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "Pb334J",
+              "name": "High",
+              "description": "8 - 14 hours/wk",
+              "stepTitle": "Progression",
+              "stepDescription": "The weekly work to rest ratio ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "k6Et3A",
+                  "name": "3:1",
+                  "description": "3 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "jk3sLC",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "200 Mile Gravel - High Volume - 3:1 - with Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "4dfADfBXOF",
+                          "name": "Gravel 200 mile 3:1 High Volume w/Strength",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "4dfADfBXOF",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "sSY2kd",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "200 Mile Gravel - High Volume - 3:1 ",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "aDUYFQUnyy",
+                          "name": "Gravel 200 mile 3:1 High Volume ",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "aDUYFQUnyy",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "uid": "6vCDez",
+                  "name": "2:1",
+                  "description": "2 hard weeks followed by 1 rest week",
+                  "stepTitle": "Add Strength",
+                  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "dc42t7",
+                      "name": "Yes",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "High Volume - 2:1 - Strength",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "SVpvqk",
+                          "name": "Gravel 200 mile 2:1 High Volume w/Str",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "zyeAH3YmCF",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    },
+                    {
+                      "uid": "dnmorl",
+                      "name": "No",
+                      "description": null,
+                      "stepTitle": "200 Mile Gravel",
+                      "stepDescription": "High Volume - 2:1",
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": [
+                        {
+                          "uid": "SYgb0V7ImO",
+                          "name": "Gravel 200 mile 2:1 High Volume",
+                          "description": null,
+                          "stepTitle": null,
+                          "stepDescription": null,
+                          "icon": null,
+                          "plan": {
+                            "id": "SYgb0V7ImO",
+                            "typename": null
+                          },
+                          "hidden": null,
+                          "hideFitnessTestAlertMessage": null,
+                          "typename": null,
+                          "children": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "id": "z8kskqp5YV",
+  "name": "Special Focus: Post Chain Level 5",
+  "weakness": "NoWeakness",
+  "grouping": "Posterior Chain Level 5",
+  "category": "None",
+  "subcategory": "None",
+  "description": "#### **Special Focus: Posterior Chain Level 5**\n\nThis six week training plan is specifically designed to improve strength and mobility through the shoulders, back, glutes and hamstrings. With three short focused sessions per week, this is an ideal way to activate your posterior chain, an area typically overlooked with endurance athletes. You can add this plan as an off-season block or as an extra bump to your regular season training.\n\n\u200B\n\nWe recommend that you only select Level 5 if you have recently completed Special Focus Posterior Chain Level 4. As with any of the SYSTM strength plans, take your time with each session and follow the proper progression.\n\n\u200B\n\nThis plan may be applied in conjunction with other Special Focused strength plans, such as Upper Body. However, If you choose to apply concurrent plans we suggest that you do so during the off-season or at a time when your endurance training volume is low.\n\n\u200B\n\nThe Special Focus stand alone plans follow a 2:1 progression and have three sessions per week on Monday, Wednesday and Friday.\n\n\u200B\n\nLet\u0027s get it on!\n",
+  "planDescription": "This plan is specifically designed to improve strength and mobility through the shoulders, back, glutes and hamstrings.",
+  "fixedEndDate": "",
+  "level": "SYSTM Strength Level 5",
+  "type": "",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-11-10T17:30:20.659Z",
+  "updatedAt": "2024-12-31T15:53:09.032Z",
+  "version": "1.0.1",
+  "isAddOn": true,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": "Posterior Chain"
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Strength",
+      "rank": 184,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 04",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nIn this routine, you\u2019re going to keep building on the moves that you\u2019ve mastered in the previous sessions (you have mastered them, right?). It\u2019s time to increase the external load, though, so you\u2019ll need a band to redirect tension and build more eccentric loading into the movements. The longer sets and difficult combinations will be challenging - embrace it! Also, even though the focus is Posterior Chain you will find integrated core moves throughout the session. Let\u2019s rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Hip Hinges w/ Resistance Band\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Tempo Hip Hinge\n- 90\u00B0 Reverse Fly w/ Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Split Squats\n- Split Stance Hip Hinge w/ Band\n- Hip Bridge w/ Knee Squeeze\n- Single-Leg Hip Bridge w/ Rotation\n- Back Extensions with Arms Overhead\n- Downward Dog\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.45611111111111113,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "VyhBsCdRqW",
+          "contentId": "cPOyiwmRzu",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Yoga",
+      "rank": 346,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Spinal Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence focuses on enhancing spinal flexibility by moving the spine through flexion, extension, rotation, and lateral flexion. It targets the shoulders, lats, obliques, lower back, quads, and glutes. This routine is excellent for increasing range of motion and reducing stiffness throughout the body. It can be practiced in the morning to help wake up or directly after a workout to prevent pain and stiffness.\n\n\u200B\n\nThe objectives are to increase spine and shoulder mobility, stretch the shoulders, lats, obliques, lower back, quads, and glutes, and reduce overall stiffness.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Sun Salutation\n- Standing Sidebends\n- Cat\u2013Cow\n- One-Handed Tiger\n- Puppy \u002B Twisted Puppy\n- Seated Spinal Twist\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "Mrw7D2moEA",
+          "contentId": "3rg4kSKmnh",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Strength",
+      "rank": 185,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 04",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nIn this routine, you\u2019re going to keep building on the moves that you\u2019ve mastered in the previous sessions (you have mastered them, right?). It\u2019s time to increase the external load, though, so you\u2019ll need a band to redirect tension and build more eccentric loading into the movements. The longer sets and difficult combinations will be challenging - embrace it! Also, even though the focus is Posterior Chain you will find integrated core moves throughout the session. Let\u2019s rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Hip Hinges w/ Resistance Band\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Tempo Hip Hinge\n- 90\u00B0 Reverse Fly w/ Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Split Squats\n- Split Stance Hip Hinge w/ Band\n- Hip Bridge w/ Knee Squeeze\n- Single-Leg Hip Bridge w/ Rotation\n- Back Extensions with Arms Overhead\n- Downward Dog\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.45611111111111113,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "VyhBsCdRqW",
+          "contentId": "cPOyiwmRzu",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Strength",
+      "rank": 187,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 04",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nIn this routine, you\u2019re going to keep building on the moves that you\u2019ve mastered in the previous sessions (you have mastered them, right?). It\u2019s time to increase the external load, though, so you\u2019ll need a band to redirect tension and build more eccentric loading into the movements. The longer sets and difficult combinations will be challenging - embrace it! Also, even though the focus is Posterior Chain you will find integrated core moves throughout the session. Let\u2019s rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Hip Hinges w/ Resistance Band\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Tempo Hip Hinge\n- 90\u00B0 Reverse Fly w/ Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Split Squats\n- Split Stance Hip Hinge w/ Band\n- Hip Bridge w/ Knee Squeeze\n- Single-Leg Hip Bridge w/ Rotation\n- Back Extensions with Arms Overhead\n- Downward Dog\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.45611111111111113,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "VyhBsCdRqW",
+          "contentId": "cPOyiwmRzu",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Strength",
+      "rank": 167,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 03",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nLike the Previous Posterior Chain sessions, Level 3 targets the muscles of the back side of your body. However, this routine has a greater concentration on upper back and posterior shoulder strength than the earlier sessions. This more advanced combination of movements will challenge your stability and strength endurance. If you find yourself struggling with some of the moves late in the session it\u0027s ok to pause the video and take a breath. Your form is the most important thing here, so don\u2019t push through and get sloppy.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Recoil Hamstring Stretch\n- Single leg Hip Hinge\n- Single Leg Heel Raise\n- Kneeling Hip Extension\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Tempo Single-Leg RDL\n- 45\u00B0 Reverse Fly w/ Reps\n- Lat Press Reps\n- 90\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly w/ Hold\n- Tempo Split stance hip hinge\n- Lat Press on Wall-Reps\n- Tip Toe Walk\n- Split Stance Hip Hinges\n- Hamstring Hip Bridge\n- Inchworm from plank\n- Hip Bridge w/ Knee Squeeze\n- Back Extension w/ Scapular Retraction\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.4022222222222222,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "ttwzgz5yA3",
+          "contentId": "qLiQgB5iHH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "type": "Strength",
+      "rank": 186,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "type": "Yoga",
+      "rank": 339,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Neck and Upper Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "f8BdieRHEZ",
+          "contentId": "YuKMLjzZJ6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "type": "Strength",
+      "rank": 188,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nThe second session in this series focuses on activating and strengthening key structural stability muscles and developing optimal tension throughout the body. To do this, we use a combination of isolated and integrated movements in a variety of body positions and build on the movements from Posterior Chain 1. We also introduce tempo movements that require extra focus on timing and eccentric loading. Even though this is only Level 2, you may find some of these moves difficult to perform. That\u0027s ok, take your time and focus on performing the moves correctly even if you have to pause the video.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- Split Stance Side Bend w/ Arms Overhead\n- Hip Hinges\n- Single leg Hip Hinge\n- Quadruped w/ Cervical Extension\n- Quadruped Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Back Extension with Hold\n- Lat Press Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- 90\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- KickBacks from Toes\n- Tempo Single-Leg RDL\n- Tip Toe Walk\n- Split Stance Hip Hinges\n- Hamstring Hip Bridge\n- Marching Hip Bridge\n- Back Extensions with Arms Overhead\n- Inchworm from plank\n- Pigeon Stretch\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.35444444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 13,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "zgNRHqEwS3",
+          "contentId": "e8NiPQDAAL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Yoga",
+      "rank": 345,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we release tension in the hips\u2014the groin, glutes, piriformis, TFL, and external hip rotators, stretch the calves and hamstrings and re-align the pelvis. It\u0027s a great session to practice in the morning or the evening to prevent and alleviate lower back pain.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25722222222222224,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "g4BWH90Ys2",
+          "contentId": "OmJKEBa3wQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "type": "Strength",
+      "rank": 189,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "type": "Strength",
+      "rank": 180,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 04",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nIn this routine, you\u2019re going to keep building on the moves that you\u2019ve mastered in the previous sessions (you have mastered them, right?). It\u2019s time to increase the external load, though, so you\u2019ll need a band to redirect tension and build more eccentric loading into the movements. The longer sets and difficult combinations will be challenging - embrace it! Also, even though the focus is Posterior Chain you will find integrated core moves throughout the session. Let\u2019s rock!\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Split Stance Side Bend w/ Arms Overhead\n- Recoil Hamstring Stretch\n- Tip Toe Walk\n- Hip Hinges w/ Resistance Band\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Tempo Hip Hinge\n- 90\u00B0 Reverse Fly w/ Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Split Squats\n- Split Stance Hip Hinge w/ Band\n- Hip Bridge w/ Knee Squeeze\n- Single-Leg Hip Bridge w/ Rotation\n- Back Extensions with Arms Overhead\n- Downward Dog\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.45611111111111113,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "VyhBsCdRqW",
+          "contentId": "cPOyiwmRzu",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "type": "Strength",
+      "rank": 190,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "type": "Strength",
+      "rank": 182,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "type": "Strength",
+      "rank": 191,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "type": "Strength",
+      "rank": 192,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 05",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nYou\u2019ve made it - the highest level in the Posterior Chain series. Here, we continue to load the back side of the body but also add in movements that require integration with other areas. Your muscular endurance will be challenged with external loads from bands, longer sets, and combination movements. To top it off, we even challenge your nervous system with tempo changes and unilateral exercises that require mental focus and muscular control.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- KickBacks from Toes\n- Inchworm from plank\n- Back Extension with Scapular Retraction\n- High Plank w/ Opposite arm \u0026 leg raise\n- Low Plank w/ Cervical Extension (Turtle)\n- Low plank Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Tempo Single-Leg RDL\n- Hip Hinges w/ Resistance Band\n- 90\u00B0 Reverse Fly w/ Reps\n- Lat Press on Wall-Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- Tempo Hip Hinge\n- Split Stance Hip Hinge w/ Band\n- Single leg Hip Hinge\n- Back Extensions with Arms Overhead\n- Pigeon Stretch w/ pause \u0026 Hold\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.48527777777777775,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 18,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "sXbaxszBwq",
+          "contentId": "7ZRqGwUayE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Yoga",
+      "rank": 342,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OCJMECWC8T",
+          "contentId": "7SzgfoU2XU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "type": "Strength",
+      "rank": 193,
+      "prospects": [
+        {
+          "type": "Strength",
+          "name": "Posterior Chain Focus 02",
+          "style": null,
+          "compatibility": 100,
+          "description": "_The primary objective of the Posterior Chain Series is to activate and strengthen the muscles on the back side of your body. This includes everything from your powerful glutes, hamstrings, and calves to the postural muscles of your upper back and neck._\n\n\u200B\n\nThe second session in this series focuses on activating and strengthening key structural stability muscles and developing optimal tension throughout the body. To do this, we use a combination of isolated and integrated movements in a variety of body positions and build on the movements from Posterior Chain 1. We also introduce tempo movements that require extra focus on timing and eccentric loading. Even though this is only Level 2, you may find some of these moves difficult to perform. That\u0027s ok, take your time and focus on performing the moves correctly even if you have to pause the video.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Recoil Hamstring Stretch\n- Split Stance Side Bend w/ Arms Overhead\n- Hip Hinges\n- Single leg Hip Hinge\n- Quadruped w/ Cervical Extension\n- Quadruped Chin Tucks\n- Kneeling Hip Extension\n- Single-Leg Hip Bridge\n- Back Extension with Hold\n- Lat Press Reps\n- 45\u00B0 Reverse Fly w/ Reps\n- 90\u00B0 Reverse Fly w/ Reps\n- Overhead Reverse Fly Reps\n- KickBacks from Toes\n- Tempo Single-Leg RDL\n- Tip Toe Walk\n- Split Stance Hip Hinges\n- Hamstring Hip Bridge\n- Marching Hip Bridge\n- Back Extensions with Arms Overhead\n- Inchworm from plank\n- Pigeon Stretch\n- Toe Touch\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.35444444444444445,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 13,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "zgNRHqEwS3",
+          "contentId": "e8NiPQDAAL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Yoga",
+      "rank": 343,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Neck and Upper Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "f8BdieRHEZ",
+          "contentId": "YuKMLjzZJ6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Event",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Event",
+          "name": "Completed Level 5 Strength",
+          "style": null,
+          "compatibility": 100,
+          "description": "Congratulations on completing Level 5 Strength!  \n  \n\u200B  \n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": null,
+            "intensityFactor": null
+          },
+          "workoutId": "",
+          "contentId": "arY8FX4qeE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

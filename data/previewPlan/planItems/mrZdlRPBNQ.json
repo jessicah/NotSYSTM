@@ -1,0 +1,1597 @@
+{
+  "id": "mrZdlRPBNQ",
+  "name": "Yoga - Multisport - Beginner - 2:1 (16 week)",
+  "weakness": "NoWeakness",
+  "grouping": "",
+  "category": "AddOn",
+  "subcategory": "None",
+  "description": "",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "Beginner",
+  "type": "Yoga",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2021-06-10T23:20:39.991Z",
+  "updatedAt": "2024-12-31T16:15:19.615Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Basic Yoga Poses",
+          "style": null,
+          "compatibility": 100,
+          "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "epMe0rWKe3",
+          "contentId": "qxs6YvzsoQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Super Easy Stretch Routine I",
+          "style": null,
+          "compatibility": 100,
+          "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2513888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "ZyVk7r3dWj",
+          "contentId": "OQbPuzfX7F",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Yoga",
+      "rank": 301,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Foot and Ankle Mobility for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this restorative sequence, we mobilize the toes, feet, and ankles; stretch the calves and hamstrings, and open up the hips. We start with a simple foot massage to bring movement into every part of your foot, from your toes up to your heel. With this extra range of motion, we then move into some gentle, dynamic stretches for the calves, hamstrings, and hips.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25416666666666665,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "at1ICWYyQ3",
+          "contentId": "5LYHblaRQA",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Total Newbie Yoga",
+          "style": null,
+          "compatibility": 100,
+          "description": "Yoga-curious but don\u0027t know where to start? This session is a great place to dip your toes in. This easy, basic routine will introduce you to some simple foundational moves while giving you a little stretch and some light strength work at the same time. Think of it as the gateway drug to bringing yoga into your life.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2513888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "0KXmLMOepk",
+          "contentId": "jL7ANnNqRg",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Supple Spine \u0026 Hips",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence enhances mobility in the spine and hips while stretching the calves, hamstrings, hip flexors, and lower back. As you become familiar with the routine, you can begin to focus on synchronizing your breath with your movements, aiming to use nasal breathing as much as possible. It is an excellent practice for the morning to warm up and improve focus, or it can be done directly after a workout to help prevent extreme muscle stiffness.\n\n\u200B\n\nThe objectives are to improve mobility in the spine and hips, stretch the calves, hamstrings, hip flexors, and lower back, practice synchronizing breath and movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Half Sun Salutations\n- Downward Dog\n- Crescent Lunge\n- Bridge\n- Reclining Spinal Twist\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "yaoER7YZXN",
+          "contentId": "Hp3cgE0oCL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Morning Yoga Routine",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25305555555555553,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "3dSiDxhXEJ",
+          "contentId": "4dDcfXlQIK",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "type": "Yoga",
+      "rank": 306,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Mobility Flow for Runners I",
+          "style": null,
+          "compatibility": 100,
+          "description": "This flow sequence focuses on improving mobility in the hips. It\u2019s the perfect active recovery routine to practice on your day off, energize you first thing in the morning, or flow-through before your run. To get the most out of this session, try to synchronize your breathing and movement while breathing in and out through your nose.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "5zc0dCDevJ",
+          "contentId": "yKxoq6xLds",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "type": "Yoga",
+      "rank": 302,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Post-Run Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to keep you strong, supple, and always in the game. It\u2019s a simple and easy series of poses that slowly and carefully allows you to release tension in the primary muscles of the lower body, including the calves, hamstrings, hip flexors, glutes, piriformis, and lower back.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "CFxoIK4sWn",
+          "contentId": "tl3kO0D2rF",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Mobilize Your Body",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this video, we focus on mobilizing the wrists, elbows, shoulders, neck, spine, hips, ankles, and toes to enhance overall mobility throughout the body. It is an excellent routine to practice in the morning or evening to alleviate stiffness.\n\n\u200B\n\nThe objectives are to increase mobility in the wrists, elbows, shoulders, neck, spine, hips, and ankles.\n\n\u200B\n\n**Poses in this session:**\n\n- Screaming Toe\n- Wrist Circles\n- Elbow Circles\n- Shoulder Circles\n- Neck Circles\n- Thunderbolt\n- Kneeling Cat-Cow\n- Thoracic Spine Circles\n- Seated Twists\n- Hip Circles\n- Squat Twists\n- Standing Forward Bends\n- Reclining Hip Circles\n- Windscreen Wipers\n- Ankle Mobilisations\n- Knees-To-Chest\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "LBMdUl2pcK",
+          "contentId": "EScfx8jFrg",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Foot \u0026 Ankle Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this restorative sequence, the focus is on mobilizing the toes, feet, and ankles, stretching the calves and hamstrings, and opening up the hips. The session begins with a calming breathing technique, followed by a simple foot massage to introduce movement from the toes up to the heel. With increased range of motion, the routine progresses to gentle, dynamic stretches for the calves, hamstrings, and hips. Since feet are often neglected and subjected to high demands from activities like running or cycling, practicing this sequence at least once a week helps to rebalance and address this issue.\n\n\u200B\n\nThe objectives are to improve mobility in the feet and ankles, stretch the calves and hamstrings, and open up the hips.\n\n\u200B\n\n**Poses in this session:**\n\n- Easy Seat\n- Box Breathing\n- Foot Massage\n- Downward Dog\n- Screaming Toe\n- Yoga Squat\n- Ankle Stretch\n- Ankle Mobilisations\n- Windscreen Wipers\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24222222222222223,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "RfCxOR2lCW",
+          "contentId": "kpBvyaQBlH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Neck and Upper Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve mobility in the neck, shoulders, upper and mid-back, open up the chest and shoulders and relieve tension at the lower back to help alleviate neck, shoulder, and interscapular pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "f8BdieRHEZ",
+          "contentId": "YuKMLjzZJ6",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing More Deeply",
+          "style": null,
+          "compatibility": 100,
+          "description": "Diaphragmatic Breathing is a calming exercise that encourages you to breathe deeply into your abdomen. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "DldJY4KV2o",
+          "contentId": "XmE8yxdoSW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "type": "Yoga",
+      "rank": 303,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Balance Training for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "Balance training is crucial to improve your running performance, and yoga is a fantastic way to hone your skills. In this sequence, we practice a number of one-legged standing, dynamic poses to improve your balance and proprioception (your sense of where your body is in space). These poses are also great for building strength and flexibility in the hips.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2536111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "4FAUA7RvAd",
+          "contentId": "2eMMXDBJRr",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Improving Posture",
+          "style": null,
+          "compatibility": 100,
+          "description": "Most cyclists suffer from rounded shoulders and a curved spine as a result of hours spent in the riding position. This series will release tension in your upper back and get you standing up straight and powerful again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "YFsFjgUaRo",
+          "contentId": "b4ZSSXIaIi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we release tension in the hips\u2014the groin, glutes, piriformis, TFL, and external hip rotators, stretch the calves and hamstrings and re-align the pelvis. It\u0027s a great session to practice in the morning or the evening to prevent and alleviate lower back pain.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25722222222222224,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "g4BWH90Ys2",
+          "contentId": "OmJKEBa3wQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "type": "Yoga",
+      "rank": 305,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Total Hip Therapy for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "This therapeutic session stretches the hip muscles in all directions to ease pain and stiffness in the pelvis and lower back.  It\u2019s a great one to practice after your run or before bed to ensure that you wake up feeling supple and pain-free.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "rUgIWDGXCs",
+          "contentId": "WHdLB1fn79",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Spinal Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This classic yoga sequence focuses on enhancing spinal flexibility by moving the spine through flexion, extension, rotation, and lateral flexion. It targets the shoulders, lats, obliques, lower back, quads, and glutes. This routine is excellent for increasing range of motion and reducing stiffness throughout the body. It can be practiced in the morning to help wake up or directly after a workout to prevent pain and stiffness.\n\n\u200B\n\nThe objectives are to increase spine and shoulder mobility, stretch the shoulders, lats, obliques, lower back, quads, and glutes, and reduce overall stiffness.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Sun Salutation\n- Standing Sidebends\n- Cat\u2013Cow\n- One-Handed Tiger\n- Puppy \u002B Twisted Puppy\n- Seated Spinal Twist\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "Mrw7D2moEA",
+          "contentId": "3rg4kSKmnh",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Flexor and Groin Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we release the hip flexors and groin and stretch the hamstrings and calves. It\u0027s a great session to do after a workout or in the evening to prevent and alleviate lower back pain.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2525,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "DyCuarVW0N",
+          "contentId": "atFlT6FCPH",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "type": "Yoga",
+      "rank": 304,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Stretch Out Your Legs",
+          "style": null,
+          "compatibility": 100,
+          "description": "This cool-down stretch is designed to release tension in the legs and hips, targeting the glutes, piriformis, calves, hamstrings, groin, quads, TFL, and lower back. It\u0027s an ideal routine for athletes to practice directly after a workout or in the evening before bed.\n\n\u200B\n\nThe objectives include stretching the glutes, piriformis, hamstrings, calves, groin, quads, and TFL, releasing tension in the lower back, and helping the body transition into the parasympathetic \u0022rest or digest\u0022 mode after exercise, potentially alleviating lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Dead Pigeon\n- Reclining Hand-To-Big-Toe\n- Reclining Groin Stretch\n- Reclining Quad Stretch\n- Reclining Spinal Twist (Eagle Variation)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "Du68g5yBrM",
+          "contentId": "KfLiJMKk9A",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Thoracic Recovery",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this Beginner sequence, we improve thoracic and shoulder mobility, open up the chest and stretch the lats, shoulders, triceps, calves, and hamstrings to improve posture, facilitate better breathing and help to alleviate upper back, interscapular, and neck pain. You can practice it in the morning or the evening.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25305555555555553,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 9,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "7FPfLK1ush",
+          "contentId": "AOYWfGpB6z",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 52,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hips and Hamstrings",
+          "style": null,
+          "compatibility": 100,
+          "description": "This routine is designed to open up the hips\u2014the hip flexors, rotators, and glutes\u2014and stretch the hamstrings. The session guides you through a series of lunges and finishes with Lizard and Pigeon pose. You can practice it in the morning, before or after a ride. Experiment to see what works best for you.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.23805555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "uHWcKoFx7e",
+          "contentId": "GJP5mghoHP",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "type": "Yoga",
+      "rank": 307,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring \u0026 Hip Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This hip-opening sequence is particularly effective for stretching the calves, hamstrings, groin, hip flexors, and quads. It\u0027s ideal for practicing after a workout or in the evening to increase flexibility and loosen up the hips.\n\n\u200B\n\nThe objectives are to stretch the calves, hamstrings, groin, hip flexors, and quads; open up the hips; and trigger a parasympathetic nervous system response.\n\n\u200B\n\n**Poses in this session:**\n\n- Child\u2019s Pose\n- Downward Dog\n- Runners Lunge\n- Side Lunge\n- Lizard\n- Frog\n- Hip Circles\n- Reclining Quad Stretch\n- Reclining Hand-To-Big-Toe 1 \u002B 2\n- Knees-To-Chest\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 2.01
+          },
+          "workoutId": "SGHE0VC6jl",
+          "contentId": "AhAsubMCLL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Guided Meditation",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is a short guided meditation that focuses on your breath and the sensations in your body. Clearing your mind through meditation can help you increase your focus, which is an important skill when you\u0027re riding on the limit.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.08333333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 8,
+            "intensityFactor": 0.98
+          },
+          "workoutId": "fpwB2qiaFF",
+          "contentId": "nv3k8EnsFL",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstring and Calf Flexibility",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cyclists are notorious for poor hamstring and calf flexibility. But these muscles can only be properly engaged when they\u0027re flexible. This series will increase your range of motion, boosting performance while helping you avoid injury.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24138888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "QBNTvavBD6",
+          "contentId": "4p7ig7MAZV",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 62,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Lower Back Release",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed to alleviate tightness in the lower back by releasing tension in the lower back, glutes, piriformis, groin, hamstrings, and calves through a series of reclining hip-opening poses combined with deep, diaphragmatic breathing.\n\n\u200B\n\nThe objectives are to stretch the lower back, glutes, piriformis, groin, hamstrings, and calves, improve mobility in the hips and spine, and help alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Wind-Relieving\n- Reclining Spinal Twist\n- Knees-To-Chest\n- Reclining Hand-To-Big-Toe\n- Dead Pigeon\n- Happy Baby\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OCJMECWC8T",
+          "contentId": "7SzgfoU2XU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Body Scan",
+          "style": null,
+          "compatibility": 100,
+          "description": "This body scan meditation is designed to transition the body from the sympathetic to the parasympathetic nervous system response. It can be practiced directly after a workout as a cool-down or before bed to facilitate deep, restorative sleep.\n\n\u200B\n\nThe objectives are to calm the central nervous system, transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise, improve focus, and relieve stress.\n\n\u200B\n\n**Poses in this session:**\n\n- Final Resting Pose\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "yZokMrJaB6",
+          "contentId": "MsT137Rvao",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "type": "Yoga",
+      "rank": 308,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hamstrings and TFL for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "This therapeutic session is designed to strengthen and stretch the back of your thighs and outside hips to improve mobility and ensure proper function. It can help to alleviate lower back pain and can be practiced in the morning, evening, or directly after training.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "AGA36JqG6c",
+          "contentId": "qV95SGhotv",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Chest Opener",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to open up the chest and improve mobility in the spine and shoulders. It includes stretches for the forearms, shoulders, chest, hip flexors, hamstrings, and calves. The poses are particularly effective for alleviating pain between the shoulder blades. This sequence is ideal as a post-workout routine, especially after working the chest or engaging in activities that involve a closed-chest posture. It is also beneficial after a day spent hunched over a computer.\n\n\u200B\n\nThe objectives are to open up the chest, enhance mobility in the spine and shoulders, stretch the forearms, shoulders, chest, hip flexors, calves, and hamstrings, and help alleviate pain between the shoulders.\n\n\u200B\n\n**Poses in this session:**\n\n- Cat\u2013Cow with Forearm Stretch\n- Puppy\n- Half-Twisted Scorpion\n- Downward Dog\n- Low Lunge with Chest Opener\n- Kneeling Cat-Cow\n- Camel\n- Wide-Knee Child\u2019s Pose\n- Reclining Butterfly (on blocks)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "4Kd9h3DqQu",
+          "contentId": "g2TGqzUsuJ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 74,
+      "type": "Yoga",
+      "rank": 309,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Post-Run Cool-Down",
+          "style": null,
+          "compatibility": 100,
+          "description": "This video is designed for practice directly after a run, but the long-hold poses are also effective after any lower body workout.\n\n\u200B\n\nThe routine focuses on stretching major hip muscles, including the hip flexors, groin, and glutes, as well as the feet, ankles, calves, hamstrings, and quads. The objectives include stretching the feet, ankles, calves, and hamstrings, releasing tension in the quads, hip flexors, glutes, and groin, and potentially alleviating lower back pain. Additionally, it helps transition the body into the parasympathetic \u0022rest or digest\u0022 mode following a run or workout.\n\n\u200B\n\n**Poses in this session:**\n\n- Screaming Toe\n- Downward Dog\n- Lizard\n- Pigeon\n- Quad Stretch\n- Reclining Hand-To-Big-Toe 1 \u002B 2\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "9jXwHGzcyL",
+          "contentId": "ynmNJsrSi4",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 76,
+      "type": "Yoga",
+      "rank": 310,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Hip Mobility Flow for Runners II",
+          "style": null,
+          "compatibility": 100,
+          "description": "In this flow sequence, we activate the muscles in both the upper and lower leg, move into stretches for the hip flexors and groin and finish with a deep hamstring stretch. You can practice this sequence in the morning, before your run, or on your day off as active recovery.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2536111111111111,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "Au1FHoahT5",
+          "contentId": "ql2W9c9lOv",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "type": "Yoga",
+      "rank": 311,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Core Stability II for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "This simple core strength sequence has all your bases covered. We strengthen the deep core stabilizers, superficial abs, obliques, and lower back. It\u2019s a great one to do before your run to activate key muscle groups, in the morning to set you up for the day, or after an easy run.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "McgJkvSfXt",
+          "contentId": "EXTfD1xqCi",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 84,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Loosen Neck and Shoulders",
+          "style": null,
+          "compatibility": 100,
+          "description": "Cycling can put a lot of strain on your neck and shoulders, especially if you spend a lot of time down in the drops or in an aero position. This session will help loosen your neck and shoulders with a series of exercises that will release tension and have you feeling relaxed and ready to hit it again.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24166666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "OMbMF4ZLL2",
+          "contentId": "HrRvxvdfES",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 89,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down I",
+          "style": null,
+          "compatibility": 100,
+          "description": "3-Part Breath is a therapeutic breathing technique that encourages you to use your full lung capacity. This can help improve your ability to take in oxygen on the bike, as well as help you stay calm on focused when the pressure is on.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.051111111111111114,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 2,
+            "intensityFactor": 0.58
+          },
+          "workoutId": "hLcXP2jPr0",
+          "contentId": "rWHO846mKb",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 91,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Calm Down II",
+          "style": null,
+          "compatibility": 100,
+          "description": "In 4-7-8 Breath your exhalations are twice as long as your inhalations. It\u0027s a therapeutic breathing technique that can help to reduce discomfort and calm your nervous system, especially when you\u0027re under pressure.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "n3edcqrK03",
+          "contentId": "zDGFFQHI8U",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 96,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Pre-Ride Warm-Up",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to activate your posterior chain\u2014the calves, hamstrings, glutes, lower, upper, and mid-back, as well as your core\u2014the abs and obliques. It\u2019s crucial that you engage these muscles before every ride to give you maximum power, speed, and endurance on the bike.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2525,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "pulwu8dOT9",
+          "contentId": "tdaKARdZtx",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 97,
+      "type": "Yoga",
+      "rank": 312,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Total Hip Therapy for Runners",
+          "style": null,
+          "compatibility": 100,
+          "description": "This therapeutic session stretches the hip muscles in all directions to ease pain and stiffness in the pelvis and lower back.  It\u2019s a great one to practice after your run or before bed to ensure that you wake up feeling supple and pain-free.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "rUgIWDGXCs",
+          "contentId": "WHdLB1fn79",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 98,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Full Body Mobility",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to improve the range of motion throughout the body, focusing on the spine, shoulders, and hips. It combines twists, side bends, and balance poses to enhance total body flexibility and agility.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.24083333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "1A5SZjoK2N",
+          "contentId": "vywgYX3qoY",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 102,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Basic Yoga Poses",
+          "style": null,
+          "compatibility": 100,
+          "description": "Throughout the SYSTM yoga program there are several basic, foundational moves that form the core of the routines. This session takes you through those moves in detail so you can master them and their more difficult variations.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.25333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 25,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "epMe0rWKe3",
+          "contentId": "qxs6YvzsoQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 104,
+      "type": "Yoga",
+      "rank": 313,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Post-Run Stretch",
+          "style": null,
+          "compatibility": 100,
+          "description": "This sequence is designed to keep you strong, supple, and always in the game. It\u2019s a simple and easy series of poses that slowly and carefully allows you to release tension in the primary muscles of the lower body, including the calves, hamstrings, hip flexors, glutes, piriformis, and lower back.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2538888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 0,
+              "nm": 0,
+              "map": 0,
+              "ftp": 0
+            },
+            "tss": 12,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "CFxoIK4sWn",
+          "contentId": "tl3kO0D2rF",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 107,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Breathing to Crush Them",
+          "style": null,
+          "compatibility": 100,
+          "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.05138888888888889,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 5,
+            "intensityFactor": 0.97
+          },
+          "workoutId": "XCJCw2hv7g",
+          "contentId": "f0coAivEon",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 111,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "Recovery Booster",
+          "style": null,
+          "compatibility": 100,
+          "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.2427777777777778,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": null,
+            "tss": 24,
+            "intensityFactor": 0.99
+          },
+          "workoutId": "gzgd8DC8J3",
+          "contentId": "D6SEBUnjwW",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

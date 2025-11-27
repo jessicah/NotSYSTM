@@ -1,0 +1,30 @@
+{
+  "uid": "LNnG2o",
+  "name": "Block 7 (Weeks 19-21)",
+  "description": "",
+  "stepTitle": "Block 7 (Weeks 19-21)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "BOWGCdunp1",
+      "name": "Basic Training 2:1 - 21 wks (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "BOWGCdunp1",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

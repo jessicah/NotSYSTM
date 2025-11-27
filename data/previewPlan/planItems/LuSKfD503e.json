@@ -1,0 +1,276 @@
+{
+  "id": "LuSKfD503e",
+  "name": "Training Load",
+  "weakness": "NoWeakness",
+  "grouping": "Training Load",
+  "category": "None",
+  "subcategory": "None",
+  "description": "To Do\n\n\u200B\n\nLearn more about how Wahoo can help you become a better athlete by understanding your training load and how it contributes to improving your 4DP metrics.\n\n\u200B\n\nComplete the 6 sessions to give you the most accurate training profile and learn the importance of completing a variety of workouts:\n\n- High Cadence\n- Low Cadence\n- MAP\n- 20:40\n- Spikes\n- Easy Endurance\n",
+  "planDescription": "",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "None",
+  "progression": "None",
+  "hidden": false,
+  "createdAt": "2025-06-17T07:00:16.688Z",
+  "updatedAt": "2025-06-19T17:18:34.091Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": null,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 199,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Bavaria: Fischen",
+          "style": null,
+          "compatibility": 100,
+          "description": "Meandering along the scenic River Iller, it\u2019s time to break out your gravel bike for a classic cadence build and hold session. We\u2019ll kick off with 5 x 30-second cadence builds, allowing for 2 minutes of recovery between each, before moving on to 5 x 60-second cadence holds, again with 2 minutes recovery.\n\nWhile this session may be short, it\u2019s a key part of your weekly plan, designed to keep you efficient and in top form, even when the cadence ramps up. Stay smooth and steady\u2014and remember, \u201Cno bobbing!\u201D\n\n\u200B\n\n**Cadence Builds:** The name of the game here is absolute peak cadence, not peak power. To achieve this, you need to be in a small gear and have very light resistance. Starting at 90-RPM, steadily increase your cadence until you reach your absolute max with about 5-seconds left, and hold that to the end. Your limiting factor on these efforts needs to be leg speed. If resistance/power output is your limiting factor, try starting in an easier gear, or shift into an easier gear 15-seconds in. Bouncing in the saddle is okay for this drill.\n\n\u200B\n\n**Cadence Holds**: These efforts require you to maintain the highest cadence you can without starting to bounce in the saddle. For some of you that will be 100-RPM, for others, it will be 150-RPM. The key is to settle into YOUR peak sustainable cadence. Like the Builds, the goal here is not high power, so these efforts are limited to 90% of FTP. Do not be surprised if your heart rate is well into Zone 4 by the time you hit the last few holds.\n\n\nTo properly execute this session, your effort between drills needs to be low. With limited recovery time between these maximal Neuromuscular Efforts, riding above Zone 1 between efforts will only reduce your ability to max out your cadence. While the power targets between are Zone 1, do not be surprised if your heart rate does not drop below Zone 2 after the first couple builds.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/9885886076)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.5863888888888888,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 5,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 27,
+            "intensityFactor": 0.64
+          },
+          "workoutId": "YqH2WM26O4",
+          "contentId": "lmSFFXOtNE",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 199,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Joyride",
+          "style": null,
+          "compatibility": 100,
+          "description": "This session is all about Max Aerobic Power (MAP), also known as VO2 max training. MAP refers to the maximum rate of oxygen delivery and uptake by your body and is an important metric in the world of endurance sports. During this 30-minute session, you\u2019ll be doing five MAP targeted intervals. The first is 3 minutes long, and each successive interval gets 30 seconds shorter until you end with a final effort of \u201Cjust\u201D 60 seconds. The structure of each interval varies to keep you on your toes, some with increases in power, some with decreases.\n\n\u200B\n\nThe cadence targets for this session are generally going to be a little higher than \u201Ccomfortable\u201D for most people \u2013 and for a very specific reason. We want to maximize the cardiovascular stress of this session rather than loading up your muscular system. But don\u2019t worry, you\u2019ll still feel it in your muscles \u2013 likely all of them.\n\n\u200B\n\nTo keep the total stress of this shorter session fairly high, you\u2019re going to have _just enough_ recovery between each effort, but nothing extra \u2013 so don\u2019t let the short duration fool you into thinking this is going to be easy. On the contrary, you might find this to be one of the more challenging\u2014and productive\u2014sessions in our library. Now, go out there and get that stage win!\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.4955555555555556,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 2,
+              "nm": 1,
+              "map": 4,
+              "ftp": 2
+            },
+            "tss": 41,
+            "intensityFactor": 0.91
+          },
+          "workoutId": "chHELM8JKk",
+          "contentId": "VzRlM4hvkg",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "type": "Cycling",
+      "rank": 201,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 3: Strength Endurance",
+          "style": null,
+          "compatibility": 100,
+          "description": "When he\u0027s riding inside, Ian\u0027s a fan of the Sufferfest workouts Power Station and GOAT. So it\u0027s no surprise he\u0027s taking you on one of his favorite rides: big gear strength efforts on long climbs in the hills around the farmhouse. Not only that, but he\u0027s also going to teach you to cut down a tree and stack firewood! What a day!\n\n\u200B\n\n_Do this on: Day 2 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0608333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 4,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 56,
+            "intensityFactor": 0.73
+          },
+          "workoutId": "zegk6vzC6N",
+          "contentId": "Xiauj3wr2s",
+          "notes": "",
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 207,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "AC Progression 1: 2 Sets 4 x 20/40",
+          "style": null,
+          "compatibility": 100,
+          "description": "As the title suggests, this is the first of a series of workouts designed to help you improve on your AC efforts. In simple terms, this session is 2 sets of 4 AC efforts for a total of 2mins and 40seconds working at AC.\n\nThis session is great for one of your first sessions with some fresh power numbers off of completing Full Frontal to get more comfortable with your new numbers.\n\n\u200B\n\nHow will this session progress with future NoVids? Each new session will accumulate more time at AC intensity.\n\n\u200B\n\n**Warm Up**\n\n1 minute @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70%\n\n1 minute @ RPE 6 -- 85% of FTP -- HR \u003C80%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n45 seconds @ RPE 8.5 -- 95% of MAP -- HR \u003C70%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C80%\n\n1 minute @ RPE 2 -- 40% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 3 minutes 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: 40 seconds @ RPE 1 \u2013 40% of FTP \u2013 HR \u003C70%\n\n**Interval x4**\n\n20 seconds @ RPE 9 \u2013 100% of AC \u2013 HR \u003C95%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n1 minute 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 5.5 -- 80% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 20 seconds @ RPE 1 -- 40% of FTP -- HR \u003C70%\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.43333333333333335,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 1,
+              "map": 2,
+              "ftp": 2
+            },
+            "tss": 34,
+            "intensityFactor": 0.88
+          },
+          "workoutId": "UgPEGmw9Ye",
+          "contentId": "jLUVwLA4YU",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "type": "Cycling",
+      "rank": 208,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "Who Dares",
+          "style": null,
+          "compatibility": 100,
+          "description": "Imagine you\u2019re out on a group ride where the tempo is high, and you\u2019re working hard. Suddenly, someone surges. You do a quick sprint to go after them and quickly get their wheel. The stress of the effort catches up with you, and even though the pace settles down to where it was before, you struggle to hold the wheels.\n\n\u200B\n\nWho Dares is a workout that teaches your body to recover from those efforts more effectively so you can keep riding hard. The workout is based on three 9.5-minute, sub-FTP intervals that feature three sprints: one at the start, one in the middle, and one at the end. These sprints flood your body with metabolites like lactate, then the sustained sub-FTP efforts force your body to clear them out while still working hard.\n\n\u200B\n\nTo make the session even more effective, Who Dares also asks your body to do this work at different cadences, stimulating the nervous system and forcing your body to become even more efficient.\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.8825,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 4,
+              "nm": 3,
+              "map": 1,
+              "ftp": 5
+            },
+            "tss": 71,
+            "intensityFactor": 0.9
+          },
+          "workoutId": "azNGdXLGqX",
+          "contentId": "3rLnRlTdQ3",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "type": "Cycling",
+      "rank": 210,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "From the Ground Up - Season 4 Pt 1",
+          "style": null,
+          "compatibility": 100,
+          "description": "\uD83C\uDFAC Film (2024):\n\n**Episode 1: Where Do We Start?**\n\nWelcome back to Season 4 of From the Ground Up! After a big year of success in Season 3 at the Leadville Trail 100, Season 4 sees a new group of riders reaching for gravel bikes as the race of focus becomes SBT GRVL in Steamboat Springs, CO. In the first of five episodes, the riders meet in Memphis, TN at Victory Bicycle Studio, a local business that is helping the riders find the best bike for them to find success! Follow along and get ready to binge the entire season right now!\n\n\u200B\n\n**Episode 2: Age Is Just A Number**\n\nIn episode 2 we arrive in Bentonville for arguably the MOST important stop on our journey to SBT GRVL, skills. After receiving their bikes in Memphis, TN - Victory Bicycle Studio got them all ready and shipped them to Arkansas to be reunited. In this episode we hear from Rich about why he chose to take on something as daunting as FTGU as well as learn valuable skills with The Ride Series team and 15 of our closest FTGU friends.\n\n\u200B\n\n**Episode 3: Redefining Limits**\n\nIn episode 3 we see our team begin to understand what it will take to finish SBT GRVL. We visit Gunnison, CO for a riding camp to push the limits 6 weeks out from race day. Our goal is to ride the distance and ascent of the race over two days at altitude and see what people struggle with. We also check in with Lou and his path to FTGU. Lou has big goals and finding balance in life and sport is key!\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0819444444444444,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 1,
+              "map": 1,
+              "ftp": 2
+            },
+            "tss": 28,
+            "intensityFactor": 0.5
+          },
+          "workoutId": "M3Uytjcp4P",
+          "contentId": "YKkDKRqFdB",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

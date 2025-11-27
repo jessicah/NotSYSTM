@@ -1,0 +1,30 @@
+{
+  "uid": "Agg69n",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Standard/Olympic Distance",
+  "stepDescription": "Season Prep - Moderate Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "t6ju9pGgsT",
+      "name": "Olympic Duathlon - Season Prep - Moderate Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "t6ju9pGgsT",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

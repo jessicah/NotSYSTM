@@ -1,0 +1,30 @@
+{
+  "uid": "2YTNQm",
+  "name": "4 Weeks",
+  "description": null,
+  "stepTitle": "New Routine",
+  "stepDescription": "4-Weeks",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "PpSDyM0NQG",
+      "name": "Habit Forming 4 weeks",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "PpSDyM0NQG",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

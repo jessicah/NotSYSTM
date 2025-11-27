@@ -1,0 +1,30 @@
+{
+  "uid": "zNqwaE",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Sprint",
+  "stepDescription": "Season Prep - Low Volume - 3:1 ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "1wjrxMrgqP",
+      "name": "Sprint Duathlon - Season Prep - Low Volume - 3:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "1wjrxMrgqP",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

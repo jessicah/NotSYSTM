@@ -1,0 +1,74 @@
+{
+  "uid": "xFhUQF",
+  "name": "3:1",
+  "description": "3 hard weeks followed by 1 rest week",
+  "stepTitle": "Add Strength",
+  "stepDescription": "Would you like to incorporate Strength Training into your plan? ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ksDozQ",
+      "name": "Yes",
+      "description": null,
+      "stepTitle": "Sub-60 Gravel",
+      "stepDescription": "Sub-60 Mile Gravel - Low Volume - 3:1 - with Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "nLurAbHnMD",
+          "name": "Gravel 40-62 mile 3:1 Low Volume ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "nLurAbHnMD",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "X1KqYO",
+      "name": "No",
+      "description": null,
+      "stepTitle": "Sub-60 Gravel",
+      "stepDescription": "Sub-60 Mile Gravel - Low Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "nPhsm81Hng",
+          "name": "Gravel 40-62 mile 3:1 Low Volume",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "nPhsm81Hng",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

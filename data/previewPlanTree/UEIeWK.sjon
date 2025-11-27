@@ -1,0 +1,30 @@
+{
+  "uid": "UEIeWK",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Half Distance",
+  "stepDescription": "Half Distance - High Volume - 3:1 - Season Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "wpa4Fy4Yrt",
+      "name": "SYSTM Half Distance Triathlon Plan/3:1/High Volume/Season Prep",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "wpa4Fy4Yrt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

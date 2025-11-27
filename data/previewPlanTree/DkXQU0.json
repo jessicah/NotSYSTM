@@ -1,0 +1,30 @@
+{
+  "uid": "DkXQU0",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Cyclocross",
+  "stepDescription": "Moderate Volume - 3:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "WT0be0yj35",
+      "name": "Off-Road CX: In-Season 3:1 Low Volume w/ Strength (Sun Race) (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WT0be0yj35",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

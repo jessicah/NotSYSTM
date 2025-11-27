@@ -1,0 +1,30 @@
+{
+  "uid": "ZfxoQM",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Dynamic Level 3",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FodxhZMzVr",
+      "name": "Special Focus: Dynamic Level 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "FodxhZMzVr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

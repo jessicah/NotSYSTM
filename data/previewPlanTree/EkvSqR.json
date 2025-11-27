@@ -1,0 +1,30 @@
+{
+  "uid": "EkvSqR",
+  "name": "5",
+  "description": null,
+  "stepTitle": "Strength Level 5",
+  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "NlDrCP9yfw",
+      "name": "Dirt Strength: Level 5 - 3:1 -12 wks stand alone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "NlDrCP9yfw",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

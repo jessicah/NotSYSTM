@@ -1,0 +1,30 @@
+{
+  "uid": "ZXR1FZ",
+  "name": "4",
+  "description": null,
+  "stepTitle": "Strength Level 4",
+  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5ZdS4El2JK",
+      "name": "Dirt Strength: Level 4 - 2:1 -12 wks stand alone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "5ZdS4El2JK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

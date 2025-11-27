@@ -1,0 +1,30 @@
+{
+  "uid": "EZ0Aq6",
+  "name": "Explore SYSTM",
+  "description": "14 days showcasing the different types of content available in SYSTM.",
+  "stepTitle": "14-Day Trial Plan",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": true,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FzRn7j1dEJ",
+      "name": "SYSTM New Trial Plan - 14 Day Trial - All SYSTM has to offer - Stepper Version",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "FzRn7j1dEJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

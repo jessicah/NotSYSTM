@@ -1,0 +1,30 @@
+{
+  "uid": "1rnPjR",
+  "name": "Block 3 (Weeks 8-12)",
+  "description": "",
+  "stepTitle": "Block 3 (Weeks 8-12)",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "NWn63UancZ",
+      "name": "Basic Training 3:1 - 12 wks ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "NWn63UancZ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

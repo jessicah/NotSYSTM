@@ -1,0 +1,30 @@
+{
+  "uid": "uDY3E7",
+  "name": "2",
+  "description": null,
+  "stepTitle": "Core Level 2",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "3sdgilyCyH",
+      "name": "Special Focus: Core Level 2",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "3sdgilyCyH",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

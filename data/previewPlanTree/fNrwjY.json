@@ -1,0 +1,30 @@
+{
+  "uid": "fNrwjY",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "All Purpose",
+  "stepDescription": "All Purpose - Moderate Volume - 2:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "dBOj32",
+      "name": "All Purpose - Moderate Volume - 2:1 - with Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "uSWEXdx0xd",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

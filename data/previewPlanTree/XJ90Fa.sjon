@@ -1,0 +1,44 @@
+{
+  "uid": "XJ90Fa",
+  "name": "Fitness Kickstarter",
+  "description": "6 week plans -  Kickstart your fitness with these plans designed for if you are getting into cycling or new to structured training.",
+  "stepTitle": "Fitness Kickstarter",
+  "stepDescription": "How many weeks do you think you can t",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "kysBlj",
+      "name": "6 Weeks ",
+      "description": null,
+      "stepTitle": "Fitness Kickstarter",
+      "stepDescription": "6 Week - Fitness Kickstarter ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "M05vnh",
+          "name": "6 Week - Fitness Kickstarter ",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "eDWrnBEW5c",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

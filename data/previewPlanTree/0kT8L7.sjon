@@ -1,0 +1,30 @@
+{
+  "uid": "0kT8L7",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Mountain Fondo",
+  "stepDescription": "Low Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "JoNgNfApAm",
+      "name": "Road Mountainous Fondo Event 2:1 Low Volume w/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "JoNgNfApAm",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

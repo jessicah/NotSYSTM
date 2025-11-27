@@ -1,0 +1,30 @@
+{
+  "uid": "U0HOW8",
+  "name": "Yes",
+  "description": "Includes strength training",
+  "stepTitle": "Sprint",
+  "stepDescription": "Season Prep - Moderate Volume - 3:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Ml7TkbO1Jg",
+      "name": "Sprint Duathlon - Season Prep - Moderate Volume - 3:1 - Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Ml7TkbO1Jg",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

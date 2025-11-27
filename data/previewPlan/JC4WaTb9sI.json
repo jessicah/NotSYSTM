@@ -1,0 +1,116 @@
+{
+  "previewPlan": [
+    {
+      "id": "JC4WaTb9sI",
+      "name": "\njingers run plan 1 (clone)",
+      "weakness": "NoWeakness",
+      "grouping": "",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### 5K - Low volume - 2:1\n\ncouch to 5k for beginners\n",
+      "planDescription": "low volume - 2:1",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Running",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": true,
+      "createdAt": "2021-11-08T18:04:55.965Z",
+      "updatedAt": "2021-11-08T18:09:41.074Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Running",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "8 x 200m",
+              "style": null,
+              "compatibility": 100,
+              "description": "Make sure you have a level track or field with distance markers and prepare yourself to open the throttle!\n\n\u200B\n\nFor help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm-Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets 5\n\nRest Between Sets 1 min\n\nInterval Distance 50m build\n\nInterval Effort Gradually increase from RPE 3-8 (Z2-Z4)\n\nRecovery RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets 8\n\nRest Between Sets 1 minute\n\nInterval Distance Per set 200m\n\nInterval Effort RPE 9-10 --\u003C85% of RTP --HR NA (Z5)\n\nRecovery RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\nNote: If necessary this can be split into 2 sets of 4 repeats, adding in 5-8 minutes of easy jogging between the 2 sets. The goal here is maximal speed for each and every effort!\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 3,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 60,
+                "intensityFactor": 0.95
+              },
+              "workoutId": "xgdpSENPXu",
+              "contentId": "rY78vUcMwk",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Running",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Running",
+              "name": "2 sets 4 x 400s",
+              "style": null,
+              "compatibility": 100,
+              "description": "For help understanding your run workout and calculating your pace zones, please see [this article](https://wahoosystm.com/RunningSessionFAQ).\n\nLearn how to perform your [**Running Drills**](https://support.wahoofitness.com/hc/en-us/articles/4404080091922-Running-Drills) here.\n\n\u200B\n\n**Warm Up**\n\n10 minutes @ RPE 2-4 -- 145-120% of RTP -- HR 70-87% (Z1-Z2)\n\n\u200B\n\n**Activation: Strides**\n\nNumber of Sets: 4\n\nRest Between Sets: 1 min\n\nInterval Distance: 50m build\n\nInterval Effort: Gradually increase from RPE 3-8 (Z2-Z4)\n\nRecovery: RPE \u003C2 --\u003E145% of RTP -- HR \u003C70% (Z1)\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 2\n\nRest between sets: 20 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval repeats per set: 4\n\n**Interval**\n\nWork: 2 minutes @ RPE 9 -- 95-105%% of MAP (115-135% of FTP)\n\nRest: 2 minutes @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 2\n\nRest Between Sets: 7 minute\n\nInterval repeats per set: 4\n\n**Interval**\n\nInterval Distance Per set: 400m\n\nRecovery between Intervals: 1 minute\n\nInterval Effort: RPE 8.5-9.5 --92-85% of RTP --HR 105% \u002B (Z5)\n\nRecovery: RPE 1-2 --\u003E145% RTP --HR \u003C70% (Z1)\n\n\u200B\n\n**Extra Volume**\n\nNA\n\n\u200B\n\n**Cool Down**\n\n5-10 minutes @ RPE 2 -- 145% of RTP -- HR \u003C70% (Z1)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 3,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 105,
+                "intensityFactor": 0.95
+              },
+              "workoutId": "ud67NyAiit",
+              "contentId": "MqQsghEMUR",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

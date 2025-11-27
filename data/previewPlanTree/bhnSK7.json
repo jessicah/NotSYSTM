@@ -1,0 +1,30 @@
+{
+  "uid": "bhnSK7",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Time Trial",
+  "stepDescription": "High Volume - 2:1 - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "7LWMAgO4Ec",
+      "name": "event prep 2:1 High Volume with Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "7LWMAgO4Ec",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

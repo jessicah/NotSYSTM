@@ -1,0 +1,2390 @@
+{
+  "previewPlan": [
+    {
+      "id": "nXVBzEYuBm",
+      "name": "10 Week - Fitness Kickstarter ",
+      "weakness": "NoWeakness",
+      "grouping": "Fitness Kickstarter",
+      "category": "None",
+      "subcategory": "None",
+      "description": "#### 10 Week - Fitness Kickstarter\n\n\nThe first step in your journey to getting faster!\n\n\u200B\n\nIf you are in need of any technical help or want to know more about the training terms used in this plan check out the [Wahoo SYSTM Help Center.](https://wahoosystm.com/HelpCenter)\n\n\u200B\n\nHave a more specific question that isn\u0027t addressed in the Help Center? Head over to our [forum](https://wahoox.forum.wahoofitness.com/) to see if your question has been answered, or just post it for yourself.\n\n\u200B\n\n",
+      "planDescription": "10 Weeks ",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-09-09T18:48:38.18Z",
+      "updatedAt": "2025-11-13T11:07:46.381Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Igniter",
+              "style": null,
+              "compatibility": 100,
+              "description": "A highly tuned machine needs its engine warmed up in order to produce the most power as efficiently as possible. Igniter is based on the highly successful warm-up session developed by British Cycling and used by Team Sky as part of their \u0027marginal gains\u0027 program. You\u0027ll go through a series of progressive efforts before hitting a couple of high-intensity/high-cadence sprints. You\u0027ll emerge ready to CRUSH EVERYTHING BEFORE YOU! This workout is perfect before major events, in conjunction with our Extra Shot workout, or to extend your regular session.\n\n\u200B\n\n**LEARN MORE**\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.34444444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 18,
+                "intensityFactor": 0.72
+              },
+              "workoutId": "SGds3SC613",
+              "contentId": "UXI3fmF5Hx",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Half Monty (Ramp Test)",
+              "style": null,
+              "compatibility": 100,
+              "description": "**Half Monty: The Easy One.**\n\n\u200B\n\nWe recommend this fitness test for:\n\n- Newer riders\n- Athletes with limited experience pacing maximal efforts / fitness testing.\n- Those who are mid-plan or who just want to get a sense of where their fitness is.\n\nThe _Half Monty_ 4DP fitness test is the most accurate and complete ramp test available. While it\u0027s not as comprehensive or as accurate as our main fitness test, _Full Frontal_, it\u0027s far more approachable and easier to pace for new riders. It also doesn\u0027t require any special preparation. You just need to feel relatively fresh.\n\n\u200B\n\nBased on more than a year of research (and after dozens of lab tests and thousands of online tests) and using sophisticated analysis of power and heart rate data, _Half Monty_ is far more accurate and comprehensive than standard ramp tests.\n\n\u200B\n\nIt also tells you more about who you are as an athlete. _Half Monty_ provides you with your FTP, Maximal Aerobic Power (MAP), and Cycling Threshold Heart Rate (cTHR), all of which we use to personalize your workout targets.\n\n\u200B\n\nIf you\u0027re still using the 4DP estimates when you set up your account, _Half Monty_ will also refine your AC and NM estimates (but will not do so if you\u0027ve done _Full Frontal_ or manually adjusted your estimates). If you want fully accurate AC and NM, as well as your Rider Type, Strengths, Weaknesses, and training plans adjusted to those Strengths and Weaknesses, you\u0027ll need to expose yourself to the _Full Frontal_ 4DP fitness test.\n\n\u200B\n\nReady to climb the ramp? You\u0027ll need the following before you start:\n\n- A heart rate monitor if you want the most accurate results. Don\u0027t have one? Order one [HERE](https://wahoofitness.com/devices)\n- Some kind of power device connected (trainer, power meter, virtual power, etc.)\n- Be ready to pay close attention to the instructions in the workout\n- Be sure your profile is complete and up-to-date (Profile \u003E About You). Accurate information helps us make our calculations\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 71,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "0SmbqUIZZo",
+              "contentId": "OIJSfIrGTL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Catalunya: Costa Brava Coastline",
+              "style": null,
+              "compatibility": 100,
+              "description": "Today we\u2019re going to be riding one of the most incredible roads of Spain\u0027s Catalan region, going from St Feliu de Gu\u00EDxols over to Tossa de Mar and hugging the Costa Brava coastline the whole way. Continually undulating we\u2019ll hit each of the eight rolling climbs hard, working at low cadence with high intensity to build strength. Mike will keep you focused on good form, though, and make sure you keep the power down on all the way over each summit.\n\n\u200B\n\nIt wouldn\u0027t be an On Location ride, though, if we didn\u0027t have a look at the scenic attractions along the way, though, so get ready for craggy rocks, turquoise clear waters, and a few opportunities to delve into the Costa Brava\u2019s finest as we find out more about the region along this 21km route.\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2967787441439728434)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8119444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 3,
+                  "ftp": 4
+                },
+                "tss": 69,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "XDIff4OU0E",
+              "contentId": "CPfatYSGH6",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 8,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cash Register",
+              "style": null,
+              "compatibility": 100,
+              "description": "Over/under intervals, where you alternate going just below and just above threshold, are the foundation of many classic workouts. Cash Register is an adaptation of that idea and comes in the format of a sprint/settle/surge session consisting of 4 intervals that get a little shorter (but not easier) each round.\n\n\u200B\n\nEach interval kicks off with a sprint effort that targets your Neuromuscular (NM) power. Then you settle into a controlled, below-FTP effort that will accelerate the rate at which you can clear lactate from your muscles. You\u0027ll finish each effort off with a big surge based on your Anaerobic Capacity (AC). In just 30 minutes, you\u0027ll be doing efforts targeting your sprint power, FTP, and AC for an exceptionally well-rounded workout.\n\n\u200B\n\nSupport the Wahooligan Tour by [donating to the Davis Phinney Foundation](https://secure2.convio.net/dpf/site/TR?pg=pfind\u0026fr_id=1391) and their programs to help people living with Parkinsons.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5380555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "HSb6Gc8uIZ",
+              "contentId": "6LnpmGMTMG",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Bavaria: Oberjoch",
+              "style": null,
+              "compatibility": 100,
+              "description": "Saddle up and prepare to conquer Oberjoch, the signature climb of the region, taking us through Bavaria\u2019s lush pastures towards Austria\u2019s scenic Lake Haldensee.\n\n\u200B\n\nThis workout features a series of low and high cadence drills with a progressive intensity build. We\u2019ll kick off the climb with a 4-minute low cadence interval at 80-85% FTP, followed by a 2-minute recovery. From there, each interval shortens by one minute, while the cadence and effort increase slightly, alternating between low and high cadence to maintain focus and form.\n\nOnce we reach the summit, it\u2019s time to recover briefly before diving into the second part of the session: five 60-second tempo-to-threshold builds on the flat toward Haldensee. This workout is designed to improve aerobic efficiency, strength, and your ability to recover between hard efforts. Sounds simple? Let\u2019s chat at the end\u2014good luck!\n\n\u200B\n\nThe intervals will alternate between low and high cadence requiring you to ride at an exceptionally low cadence to stress your muscular system more than your cardiovascular system and then riding at 100\u002B RPM has the exact opposite effect with less strain on your muscles, but a greater strain on your cardiovascular system. Alternating back and forth between low and high cadence will ensure both your muscular system and cardiovascular system get pushed hard.\n\nThe tempo builds will work you hard but flush out your legs making your recovery quicker so you can go hard tomorrow.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/9853644571)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9197222222222222,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 3,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 69,
+                "intensityFactor": 0.84
+              },
+              "workoutId": "xBnMN5lQMf",
+              "contentId": "CQRHzkcyOP",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 12,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo Increasing Cadence: 6 x 2",
+              "style": null,
+              "compatibility": 100,
+              "description": "This 30-minute long session is a great way to rev things up by combining six 2-minute long efforts that are split into the first half at low cadence and the second half at high cadence to build fitness and pedalling efficiency. To improve your ability, you need to work at both ends of the cadence continuum, and this session is a great one to challenge you without overdoing it.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 3,
+                  "map": 3,
+                  "ftp": 2
+                },
+                "tss": 25,
+                "intensityFactor": 0.71
+              },
+              "workoutId": "tr2cyToaEx",
+              "contentId": "VehaDQN9V4",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 15,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Costa Blanca: Puerto de la Vall de Ebo (Recharger Ride)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is an active recovery ride built with purpose. Low-intensity endurance work is paired with brief high-cadence neuromuscular activations to keep the nervous system awake without creating new fatigue. You\u2019ll stay well below threshold throughout, allowing your body to absorb previous hard sessions and prepare for what\u2019s ahead.\n\n\u200B\n\nSet on the peaceful roads leading to the summit of Port de la Vall d\u2019Ebo, this ride promotes circulation, technique, and mental reset. It\u2019s ideal after race days or big training blocks \u2014 a smart session that helps you recover better, so you can train harder tomorrow. No ego, no watts chasing \u2014 just intentional recovery done right.\n\n\u200B\n\n[**Wahoo Route**](https://www.strava.com/activities/13996505846)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.6011111111111112,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 20,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "rUrrfvb8ii",
+              "contentId": "p6E2zIaYNZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 17,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cadence Builds",
+              "style": null,
+              "compatibility": 100,
+              "description": "One of the best sessions for neuromuscular training, this drill asks you to progressively build from a cadence of 90 RPM to your MAX over 30 seconds, recover, and repeat several times. Cadence builds improve how you recruit your leg, gluteal, and core muscles throughout your pedal stroke by progressing to your maximal cadence. By reaching your highest cadence possible, you are training the \u0027on/off\u0027 switch in each muscle group to not only work faster but to have less overlap with your other muscle groups. This session trains your hamstring muscles to \u0027turn off\u0027 when your quads \u0027turn on\u0027 and vice-versa, resulting in a more efficient pedal stroke at both high and low cadences.\n\n\u200B\n\n**LEARN MORE**\n\nListen to The Knowledge podcast, by Wahoo Sports Science - The Benefits of High Cadence Training: [https://wahoosystm.com/BenefitsofHighCadence](https://wahoosystm.com/BenefitsofHighCadence)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5480555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 5,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 21,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "04BfbUGDMk",
+              "contentId": "n3WrizBr1g",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 19,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Frozen Road",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2017): From the creator: \u0022Self-shot and edited whilst cycling around the world, this film charts a winter journey into the Canadian Arctic as I completed my bike ride up the American continent. Compelled by Jack London\u2019s assertion, that \u2018any man who is a man can travel alone,\u0027 I sought an adventure of perfect solitude. Yet, as I came to realize, the harsh truths of traveling in such a formidable environment were a long way from the romantic images I\u2019d held of this land. _The Frozen Road_\u2019 is an honest reflection on my solo trip; of the wonder, terror and frustration I experienced when riding through the unforgiving emptiness of one of the world\u2019s \u2018last great wildernesses.\u0022\n\n\u200B\n\n\uD83D\uDEB4 Workout: The workout accompanying this film is a recovery session. It\u0027s a very low-intensity ride, with your power remaining at or below 50% of FTP (an RPE less than 2.5 on a scale from 1 to 10) and your heart rate in Zone 1. The intensity and cadence targets will vary throughout this session to keep it interesting, but not so much that it distracts you from the story.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.41805555555555557,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 8,
+                "intensityFactor": 0.44
+              },
+              "workoutId": "bHz6eBsicH",
+              "contentId": "fwzyQcEcGW",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 22,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tasmania: Cygnet Coast Road",
+              "style": null,
+              "compatibility": 100,
+              "description": "The setting might be one of stunning tranquility, but this workout certainly isn\u0027t. We\u0027re down in far, far Southern Tasmania for a ride along one of the most stunning - but little known - roads in the region. Starting in the hamlet of Cradoc, we head south along the peninsula to the village of Cygnet. It\u0027s a rolling road with countless little \u0027kickers\u0027 that we\u0027re going to hit at maximum intensity in order to simulate a race or hard group ride. Along the way, we\u0027ll pop in to visit some of the most interesting characters who call this area home: a winemaker, an artist, and the founder of a famous cooking school.\n\n\u200B\n\n[Route on Strava](https://www.strava.com/routes/2927502558987635926)\n\n\u200B\n\n_About your host: Who better to show you around Tasmania than Nicole Frain? Raised in the north of the island, and currently living just outside Hobart, Nicole knows all the best places to spend your time on and off the bike. Known for her aggressive racing, the Parkhotel-Valkenberg professional won the 2022 Australian Elite Road Race Championship with a late attack and also finished second overall at the 2022 Tour Down Under. Good luck staying with her as she takes you through these workouts!_\n\n\u200B\n\nFeatured in this video:\n\n[Farmhouse Kitchen](https://www.thefarmhousekitchen-tas.com/)\n\n[Sailor Seeks Horse](https://sailorseekshorse.com.au/)\n\n[Matt Calvert](https://mattcalvert.com.au/)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8305555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 2
+                },
+                "tss": 67,
+                "intensityFactor": 0.89
+              },
+              "workoutId": "70cUUDSGmd",
+              "contentId": "GrPqtWYuEp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Angels",
+              "style": null,
+              "compatibility": 100,
+              "description": "If you were eating lunch, eight minutes wouldn\u0027t seem like a lot of time. If you were on a beach, it would be cruel to only be there for eight minutes. But during the eight-minute efforts in _Angels_, you\u0027ll think that it\u0027s never going to end. The focus on lower cadences and power targets near or above FTP makes this session perfect for improving your ability to crush shorter climbs. The longer efforts are designed to target your sustained aerobic system, which is great for improving FTP. They\u0027re also just short\u2014 and difficult\u2014enough that you can drive improvements in Maximal Aerobic Power.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9141666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 78,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "10QilUgeAj",
+              "contentId": "xzCdnkKwU1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo Alternating Cadence: 2 x 20 ",
+              "style": null,
+              "compatibility": 100,
+              "description": "This one-hour session is highlighted by two twenty-minute efforts at 80-90% FTP. The first effort includes varying higher and lower cadence efforts, while the second effort is progressive in both intensity and cadence throughout. You only get 6-minutes of recovery between these two long efforts, so while not a maximal effort session - it\u0027ll challenge you!\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 62,
+                "intensityFactor": 0.79
+              },
+              "workoutId": "yshjQDiRHq",
+              "contentId": "ydWte2GHBx",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 29,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "P. Gaimon 3: Short KOM Training Session",
+              "style": null,
+              "compatibility": 100,
+              "description": "As part of his \u2018Worst Retirement Ever,\u2019 Phil made a name for himself by sniping Strava KOMs around the world. But if you\u2019re going to travel around globe stealing crowns from some of the world\u2019s fastest climbers, you need to bring your A-game.\n\n\u200B\n\nIn this short, 35-minute workout, Phil takes you through a warm-up on the famous Pacific Coast Highway before climbing into two short, maximal efforts on the way up Dekker Canyon. You\u2019ll be in the hurt box, but be sure to pay attention as Phil drops his top tips for KOM / QOM segment success.\n\n\u200B\n\nIn between efforts, Phil keeps you entertained with stories about his Cookie Fondo, life in LA, a tour of his garage, a face lick from his dog and his personal recommendation for the best cold-pressed juice in town.\n\n\u200B\n\n_Do this on: Day 3 of the 5-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5986111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.78
+              },
+              "workoutId": "rTp6HTUgAS",
+              "contentId": "H4PzHKpiwc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 31,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Gran Canaria: Serenity",
+              "style": null,
+              "compatibility": 100,
+              "description": "Starting at the islands iconic rainbow rocks at Los Azulejos de Veneguera in this session we tackle one of the most stunning climbs on the whole island, known locally as \u201CSerenity\u201D. We\u2019ll be breaking this 10km climb down into three distinct sections, kicking off with a block of 6 x 50 second high tempo efforts with a 10 second burst out of the saddle before taking a swift breather before getting back on it. As we climb through the pine forest we\u2019ll switch things up a touch, alternating between low and high cadence for 30 seconds at a time for around 7 minutes. We\u2019ll then revert back to our 50 second high tempo with 10 second burst out of the saddle efforts before we build up our effort to the summit. This is going to be a challenging workout so make sure you\u2019re ready and whatever you do don\u2019t forget to take a moment to look at the views!!\n\n\u200B\n\nThis workout combines multiple different interval types that focus on improving threshold power via over-under style efforts along with low cadence work for your muscular endurance. The first and last climbs also fire up your whole energy systems with some sprints to the summit.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8735613403)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9230555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 2,
+                  "map": 3,
+                  "ftp": 5
+                },
+                "tss": 62,
+                "intensityFactor": 0.86
+              },
+              "workoutId": "keD5MA4ABE",
+              "contentId": "sXC2D7jqYs",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 33,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Gran Canaria: Lake Chira",
+              "style": null,
+              "compatibility": 100,
+              "description": "Our first ever On Location gravel adventure and what a ride we have in store! This one may be short but it\u2019ll have you hanging onto the edge of your saddle as we explore the Pilancones Natural Park, high up on a mountain ridge overlooking the Soria valley as we head towards Chira Lake. The goal of this ride will be to work on your good form with a slightly higher cadence than normal, keeping the legs supple and spinning. We\u2019ll gently build the effort up a 3km climb to get the heart, legs and lungs working a little harder before descending to our final destination at Chira Lake. This workout is perfect for those days when you need an easier session or want to activate the body before going deeper.\n\n\u200B\n\nThis workout focusses on a progressive build through the duration of the climb helping with your pacing skills and sustained efforts.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/8773915186)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 30,
+                "intensityFactor": 0.78
+              },
+              "workoutId": "SthLxmmVDx",
+              "contentId": "IBVTpjJaXR",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 36,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Bavaria: Fischen",
+              "style": null,
+              "compatibility": 100,
+              "description": "Meandering along the scenic River Iller, it\u2019s time to break out your gravel bike for a classic cadence build and hold session. We\u2019ll kick off with 5 x 30-second cadence builds, allowing for 2 minutes of recovery between each, before moving on to 5 x 60-second cadence holds, again with 2 minutes recovery.\n\nWhile this session may be short, it\u2019s a key part of your weekly plan, designed to keep you efficient and in top form, even when the cadence ramps up. Stay smooth and steady\u2014and remember, \u201Cno bobbing!\u201D\n\n\u200B\n\n**Cadence Builds:** The name of the game here is absolute peak cadence, not peak power. To achieve this, you need to be in a small gear and have very light resistance. Starting at 90-RPM, steadily increase your cadence until you reach your absolute max with about 5-seconds left, and hold that to the end. Your limiting factor on these efforts needs to be leg speed. If resistance/power output is your limiting factor, try starting in an easier gear, or shift into an easier gear 15-seconds in. Bouncing in the saddle is okay for this drill.\n\n\u200B\n\n**Cadence Holds**: These efforts require you to maintain the highest cadence you can without starting to bounce in the saddle. For some of you that will be 100-RPM, for others, it will be 150-RPM. The key is to settle into YOUR peak sustainable cadence. Like the Builds, the goal here is not high power, so these efforts are limited to 90% of FTP. Do not be surprised if your heart rate is well into Zone 4 by the time you hit the last few holds.\n\n\nTo properly execute this session, your effort between drills needs to be low. With limited recovery time between these maximal Neuromuscular Efforts, riding above Zone 1 between efforts will only reduce your ability to max out your cadence. While the power targets between are Zone 1, do not be surprised if your heart rate does not drop below Zone 2 after the first couple builds.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/9885886076)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5863888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 5,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 27,
+                "intensityFactor": 0.64
+              },
+              "workoutId": "YqH2WM26O4",
+              "contentId": "lmSFFXOtNE",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 39,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 40,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Nine Hammers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Sometimes you\u0027re the hammer. Sometimes you\u0027re the nail. And sometimes, you\u0027re getting both hammered and nailed. With a series of nine different intervals, all at or above threshold, this is one of the best Maximal Aerobic Power / VO2 sessions in The Sufferfest library. It isn\u2019t just the total amount of time spent above threshold, though.\n\n\u200B\n\nThis workout takes the training stress up a notch by giving you barely enough time to recover from the previous hammer before the next one falls. This ensures your Anaerobic Capacity gets a little boost as well.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9702777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 4
+                },
+                "tss": 80,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "3QDoncjr5A",
+              "contentId": "TBn7DwOwEc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 43,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Cadence Builds",
+              "style": null,
+              "compatibility": 100,
+              "description": "One of the best sessions for neuromuscular training, this drill asks you to progressively build from a cadence of 90 RPM to your MAX over 30 seconds, recover, and repeat several times. Cadence builds improve how you recruit your leg, gluteal, and core muscles throughout your pedal stroke by progressing to your maximal cadence. By reaching your highest cadence possible, you are training the \u0027on/off\u0027 switch in each muscle group to not only work faster but to have less overlap with your other muscle groups. This session trains your hamstring muscles to \u0027turn off\u0027 when your quads \u0027turn on\u0027 and vice-versa, resulting in a more efficient pedal stroke at both high and low cadences.\n\n\u200B\n\n**LEARN MORE**\n\nListen to The Knowledge podcast, by Wahoo Sports Science - The Benefits of High Cadence Training: [https://wahoosystm.com/BenefitsofHighCadence](https://wahoosystm.com/BenefitsofHighCadence)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5480555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 5,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 21,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "04BfbUGDMk",
+              "contentId": "n3WrizBr1g",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 45,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP Micro Intervals: 3 Sets 40/20s",
+              "style": null,
+              "compatibility": 100,
+              "description": "For any of you who have completed Blender, Mini Blender, or the Chores, you will be familiar with the 40/20 variety of Pain Shakes that this session serves up\n\n\u200B\n\n40/20s are a go-to workout for Sir Neal Henderson when dishing out pain to the athletes he coaches. While the first few efforts in each set will feel \u0022easy,\u0022 since these blocks are stretched out to 8-minutes in length, you will be deep into the red by the end of each set.\n\nWhile the efforts aren\u0027t continuous, they are long enough that you will accumulate plenty of time near your VO2max, which is the goal of any MAP workout. The real kicker from this session is how much time you spend at 100% of MAP. Each 8-minute set gives you 5 minutes and 20-seconds of time at your 5-minute peak power. By the end, you are looking at 16 minutes of accumulated MAP efforts, so expect this one to bring some pain!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C80%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C80%\n\n30 seconds @ RPE 8 -- 100% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 8.5 -- 120% of FTP -- HR \u003E105%%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 9 -- 150% of FTP -- HR \u003E105%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 3\n\nRest between sets: 5 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\nInterval repeats per set: 8\n\n\u200B\n\n**Interval**\n\nWork: 40 seconds @ RPE 8.5 -- 120% of FTP -- HR \u003E105%\n\nRest: 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n3 minutes 45 seconds @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 66,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "GOTnQYOGld",
+              "contentId": "581ro3dlUC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 47,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Galicia: Camarinas to Muxia",
+              "style": null,
+              "compatibility": 100,
+              "description": "It\u2019s time for a wild coastal adventure with your host, Michael Cotty, across some of the stunning undulating roads of Galica, Spain. You\u2019ll start at a historic lighthouse on the \u2018Coast of Death\u2019 before working your way deep into the rugged landscape that defines this region. The road will guide your workout, with big efforts up every hill and a chance to take it a bit easier on the descents. It\u2019s not all hard work, though, Mike takes the time to show you around the fishing marina, where to find the \u2018hunger herb\u2019 and some of the sights around our finishing village, Muxia.\n\n\u200B\n\nThis is a great session for anyone who wants to get in a bit of sprint/anaerobic capacity efforts while laying down some solid aerobic time.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/7392408454)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.1294444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 91,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "qRN0Ywpez8",
+              "contentId": "k0ZyP1kZrU",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 50,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Model",
+              "style": null,
+              "compatibility": 100,
+              "description": "They say that beauty is in the eye of the beholder. And through the bleeding eyes of Sufferlandrians, what could possibly be more beautiful than the sharp, saw-tooth profile of the workout you see before you? Full of gorgeous, shapely, shimmering blocks of yellow Maximal Aerobic Power (MAP) efforts interspersed with mercifully brief and slightly inadequate recoveries, it\u0027s a real stunner.\n\n\u200B\n\nBut you know what\u0027s even better looking than this alluring workout? You (after you\u0027ve completed the workout, that is). Originally designed by our Head of Sports Science, Neal Henderson, for his professional athletes, The Model is a beautiful portrait of MAP brutality. It\u0027s one of those sessions that you think you can\u0027t finish, but always somehow do. It will leave you breathless, feeling all tingly, a bit confused and lying in a blubbering heap. It\u0027s a look. It will also deliver a nice boost to your fitness that always looks and feels good.\n\n\u200B\n\nA true love letter to the beauty of professional cycling, The Model features a banging soundtrack and thrilling footage from both the men\u0027s and women\u0027s pelotons. With its eclectic design, effects, and graphics, you\u0027ll find yourself unable to tear your eyes away from the action on screen (assuming you can lift them from your stem).\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9844444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 86,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "WQk9TYaUhj",
+              "contentId": "NkctG9Onu1",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 52,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Violator",
+              "style": null,
+              "compatibility": 100,
+              "description": "If your Neuromuscular Power (NM) and Anaerobic Capacity (AC) got together to throw a party and everybody left that party shattered but better off for it, then this would be it. _Violator_ is the perfect example of how the amount of recovery time between efforts dramatically changes the amount\u2014and type\u2014of training stress you get.\n\n\u200B\n\nYes, there are 64 sprints, but they\u0027re not all doing the same thing for your fitness. The first set of sprints has enough recovery that you\u0027ll be able to work your NM to the max. The second set still has enough recovery to allow you to hit high power numbers, but the reduced time between sprints stresses your ability to recover and repeat that high effort. That means you\u0027ll start to dip into AC. The last set\u2014with equal sprint and recovery times\u2014ensures your heart rate never gets a chance to drop down. That works your MAP like nobody\u0027s business.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0405555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 5,
+                  "map": 3,
+                  "ftp": 1
+                },
+                "tss": 85,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "csuS7eLf2m",
+              "contentId": "553lkiVNgV",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 54,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Laps Tasmania",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2019): Following Dustin Hollick and Rhian Slapp, two ordinary fathers with the survival skills of well-trained house pets, on a two-week journey around Tasmania with not much more than the clothes on their backs. No cash, no car, and no technology on an island at the bottom of the world.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8441666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.64
+              },
+              "workoutId": "Ru8FecVH6P",
+              "contentId": "5TddlumuOS",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 57,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "The Cure",
+              "style": null,
+              "compatibility": 100,
+              "description": "Do you have Couchlandrian Tendencies? This short but powerful workout will cure you of that affliction and reassert your inner Sufferlandrian. The session is based on a combination of specific micro-intervals (made famous by Japanese coach and physiologist Izumi Tabata) that we combined with classic tempo efforts. This gives you a superb mix of Anaerobic Capacity (AC), Maximal Aerobic Power (MAP), and FTP training stresses in one short workout to help you go faster and stay stronger for longer.\n\n\u200B\n\nNow, for the sports science purists among you, the \u0027Tabata\u0027 intervals should actually be named \u0027Koichi\u0027 intervals, since it was Japanese speedskating coach Irisawa Koichi who first employed the use of the 20-seconds on / 10-seconds off intervals that Dr. Izumi then confirmed via physiology lab studies to yield the best mix of maximal aerobic and anaerobic stress among the different on/off protocols that he tested.\n\n\u200B\n\nFor this workout, we have toned down the original intensity of the Tabata intervals to target MAP rather than Anaerobic Capacity in order to be able to complete the 20/10 micro-intervals and then follow the short efforts immediately with sustained 80-100% of FTP intervals to replicate the kind of attack and then settle efforts that are common in cycling races.\n\n\u200B\n\nFrom a physiological perspective, you\u2019ll produce lots of lactate during the micro-intervals. Then the goal of the tempo and FTP efforts is to stress your body\u2019s capacity to clear that lactate as quickly as possible. Effectively, we\u2019re trying to maximize lactate \u0027flux.\u0027 For each successive round of the efforts, you\u2019ll do one less micro-interval, and the tempo efforts will get shorter. But because you\u2019re a Sufferlandrian, they won\u2019t get easier, and the rest between sets will get shorter. The intensity for the tempo efforts will ramp up with each repetition. Fortunately for you, there are only 3 sets of efforts and you\u2019ll be done in just 30 minutes. If you\u2019ve set aside an hour for this workout, you\u2019ll be happy to have those additional 30 minutes for recovery after this session.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.4938888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 2
+                },
+                "tss": 36,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "84o5B4iwhe",
+              "contentId": "xoD2ONNIiB",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 59,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "AC: 6 x 45s",
+              "style": null,
+              "compatibility": 100,
+              "description": "There\u0027s no getting around the fact that this is a profoundly unpleasant session that will leave your legs feeling like jelly. This session is similar to The Trick, with a few differences. On the plus side, all of the efforts are 15-seconds shorter than those in The Trick. To make up for this, we added two more intervals to this session, bringing the total to 6. That means by the end of this session you will have plowed through 4.5-minutes of AC work.\n\nThis workout is one of the few sessions that we do NOT recommend you complete in ERG mode if you are on a smart trainer. The goal is to hold onto the highest power you can for the full 45-seconds. Inevitably in the later sets, your power will dip before you reach the end of the interval. What we want is for you to complete every effort having given everything for 45-seconds. We don\u0027t want ERG mode grinding you to a halt because you cannot maintain the (ridiculously) high power targets. Even if you drop down below FTP in the final 10-seconds of these efforts, as long as you are going flat out, you are doing it correctly.\n\nJust take this session one interval at a time, and focus on giving your all for this one effort. You can worry about the others when you get to them. If you finish this session without swearing, then you didn\u0027t go hard enough!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE -- 50% of FTP -- HR \u003C70\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C70\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C70\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C70\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C70\n\n45 seconds @ RPE 7.5 -- 100% of FTP -- HR \u003C90\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 9 -- 120% of FTP -- HR \u003E105\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n15 seconds @ RPE 10 -- 200% of FTP -- HR \u003E105\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\n\u200B\n\n**Main Effort**\n\nNumber of Sets: 6\n\nRest Between Sets: 5 minutes 15 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70\n\nInterval Repeats Per Set: N/A\n\n**Interval**\n\nEffort: 45 seconds @ RPE 9.5 -- 150% of FTP -- HR \u003E105\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n4 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.75,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 2,
+                  "map": 2,
+                  "ftp": 1
+                },
+                "tss": 61,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "rLJWul8fjz",
+              "contentId": "lsGTR48cBt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 61,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo High Cadence: 4 x 3",
+              "style": null,
+              "compatibility": 100,
+              "description": "The training benefit of this session comes down to the uncomfortably high cadence you need to hold during each effort. Even though these efforts are under FTP, the high leg speed required will leave your system working harder than usual for the required power output.\n\nBy maintaining the highest cadence possible (without bouncing in the saddle) you end up pushing your neuromuscular coordination near its limits in a similar way to Cadence Builds.\n\n\u200B\n\nWith an emphasis on low torque (high RPM) efforts this session is polar opposite to sessions like GOAT and Power Station. Even though these efforts are short and below FTP the high cadence places more of a load on your cardiovascular system, so expect your heart rate and breathing to be higher than normal for the power.\n\n\u200B\n\nSince muscles can only contract (pull) any given muscle will primarily move a joint in a single direction. When it comes to pedaling a bike, your quads and glutes can push the pedals down, while your hamstrings and hip flexors pull the pedals back up (with the help of your glutes and quads on the other leg). If you were to pedal with one leg (as you do in Cadence Drills) and your hamstrings and glutes were unable to contract, once you get to the bottom of the pedal stroke your leg would be stuck down there. No matter how hard you might try, your glutes and quads will do nothing to help you get that pedal all the way around. Suppose you do have both feet clipped in, and you are letting your opposite leg push down to bring your leg back up to 12 o\u0027clock. If your quads and glutes are still contracting (pushing the pedal down) while the glutes and quads of your other leg are starting to push their pedal down, you will end up with one leg working against the other. You must relax the glutes and quads of one leg to get all of the power out of the glutes and quads of your other leg.\n\nThis is where neuromuscular coordination comes into play. During each pedal revolution, your legs have to \u201Cswitch on\u201D and \u201Cswitch off\u201D almost all of the muscles in your legs. By maintaining your highest cadence without bouncing, you are pushing all of the muscles in each leg to contract and relax (switch on and off) as quickly as possible.\n\nWhile we give specific cadence targets in this session, everyone has a different limit to what cadence they can maintain before bouncing in the saddle. To get the intended benefit of this session you need to maintain the power targets at the highest cadence that YOU can maintain. For some that might be 105RPM, for others, it might be 150RPM. What matters is that you push YOUR neuromuscular system to its limits.\n\n\u200B\n\n**Warm Up**\n\n15 minutes @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 3\n\nRest between sets: 7 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval repeats per: NA\n\n**Interval**\n\n3 minutes @ RPE 5 -- 80% of FTP -- 100\u002B RPM -- HR \u003C95%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n5 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.61
+              },
+              "workoutId": "3ZKnb4ZrhR",
+              "contentId": "6FoPZCAj4C",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 64,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo/FTP Progressive Build",
+              "style": null,
+              "compatibility": 100,
+              "description": "This 32-minute long session is about increasing the intensity of your effort in a two steps forward, one step back approach. You can use this session to build your sustained endurance, or even use it as a long warm-up with relatively gradual increase in intensity to get ready for something even harder. Any way you ride this workout, you\u0027ll be building great endurance capacity!\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5333333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 38,
+                "intensityFactor": 0.84
+              },
+              "workoutId": "eMiDZPrp9d",
+              "contentId": "Lft9eRpHlY",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 65,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tapers",
+              "style": null,
+              "compatibility": 100,
+              "description": "When it comes to \u0022peaking\u0022, or performing at your absolute best on a given day, the key is nailing your Taper. The term \u0022Taper\u0022 refers to how you train in the week or so before your target event to ensure you deliver your best performance. Generally, tapering means reducing your total training volume but continuing to hit some high-intensity efforts. While there are individual variations in the best way to taper, this session has been used by countless professionals leading into the biggest races of their lives -- athletes like World Champions Rohan Dennis and Flora Duffy.\n\n\u200B\n\nWith 3 sets of micro-intervals (40/20s, 30/30s, and 20/40s) you will hit your system with just enough intensity to keep your legs sharp and responsive, without adding any real fatigue. Outside of those 3 sets of micro-intervals, this session is purposefully short and easy. This is a preparation session, not a training session! After all, your event is just around the corner and all of the important training is behind you. Riding harder or longer today will do absolutely nothing to increase your fitness by event day; in fact, all that would do is increase your fatigue, which will only hurt your performance. Rather, this session makes sure your body is humming along and ready to perform on the big day.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7805555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 2
+                },
+                "tss": 52,
+                "intensityFactor": 0.82
+              },
+              "workoutId": "HHWEa0SVBb",
+              "contentId": "QYxdHH9lsF",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 68,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Primers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Whether you have a 4DP\u00AE fitness test coming up, a group ride you want to smash, that event you have been training all winter for, or even just a fun route you want to have a great ride on, this is the perfect session to do the day before. Unlike other SYSTM sessions, this one should not be viewed as a stand-alone \u201Ctraining\u201D session, but rather, the ace up your sleeve you pull out when that big ride comes around. The key to this session is having you spend just enough time right around threshold, with sufficient recovery between efforts and a handful of sprints to prime all of your systems for tomorrow\u0027s event.  \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7252777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 42,
+                "intensityFactor": 0.76
+              },
+              "workoutId": "ZH40tnQwpo",
+              "contentId": "J4Qiw1pvbL",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 69,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Full Frontal (4DP Assessment)",
+              "style": null,
+              "compatibility": 100,
+              "description": "Full Frontal: The Complete One.\n\nWe recommend the Full Frontal 4DP fitness assessment for:\n\n- Experienced riders.\n- Athletes with experience pacing maximal efforts / fitness testing.\n- Those about to start\u2014or who have just finished\u2014a training plan.\n\nThis is our full 4DP fitness test and is the only test that exposes every aspect of your unique physiology in a single hour. Developed by Head of Wahoo Sports Science Coach Neal Henderson, Full Frontal uses the same lab-verified testing protocol that Coach Neal has used at the highest level for over a decade with professional and amateur athletes.\n\n\u200B\n\nThis test will provide you with a complete Four-Dimensional Power profile, identify your Rider Type, and tell you exactly what aspects of your fitness you need to focus on to become a more complete cyclist. More importantly, SYSTM will then use your results to set personalized power targets for all of your workouts based on your unique profile, resulting in the most precise, effective workouts available. Your results will also be used to tailor all of your training plans.\n\n\u200B\n\nWe recommend re-testing with Full Frontal every 8-12 weeks or as prescribed by your training plan.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[Why Fitness Testing Matters](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/testing-testing-1-2-3-why-fitness-testing-matters)\u0027 on The Knowledge Podcast by Wahoo Sports Science\n\n\u200B\n\n[Here\u0027s some more information on how to get the most from your fitness test.](https://wahoosystm.com/HelpCenterFitnessAssessment)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9819444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 5,
+                  "nm": 5,
+                  "map": 5,
+                  "ftp": 5
+                },
+                "tss": 83,
+                "intensityFactor": 0.92
+              },
+              "workoutId": "dRcyg09t6K",
+              "contentId": "XFMPELnuFo",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": [
+        {
+          "id": "QSaKYZPLwD",
+          "level": "",
+          "type": "Yoga",
+          "schedule": [
+            {
+              "day": 1,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Total Newbie Yoga",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Yoga-curious but don\u0027t know where to start? This session is a great place to dip your toes in. This easy, basic routine will introduce you to some simple foundational moves while giving you a little stretch and some light strength work at the same time. Think of it as the gateway drug to bringing yoga into your life.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2513888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "0KXmLMOepk",
+                  "contentId": "jL7ANnNqRg",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 4,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "End Of Day Stretch",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24166666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "GLN8bDnkTz",
+                  "contentId": "IhB5vyASlP",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 10,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Morning Yoga Routine",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.25305555555555553,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "3dSiDxhXEJ",
+                  "contentId": "4dDcfXlQIK",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 16,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "End Of Day Stretch",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This slow and stretchy sequence is ideal for practicing at the end of a long day at work or after travel. It focuses on opening up the chest and shoulders, stretching the neck and forearms, and releasing tension in the calves, hamstrings, hips, and lower back. These poses can also be used after a workout for a comprehensive full-body stretch.\n\n\u200B\n\nThe objectives are to stretch the neck, shoulders, triceps, chest, and forearms; release tension in the lower back, hips, hamstrings, calves, ankles, and feet; transition the body into parasympathetic \u0022rest or digest\u0022 mode after exercise; and help alleviate lower and mid back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Puppy\n- Screaming Toe\n- Neck Stretch\n- Ankle Stretch\n- Chest Stretch\n- Forearm Stretch\n- Downward Dog\n- Revolved Standing Forward Bend\n- Low Lunge Chest Opener\n- Dead Pigeon\n- Reclining Spinal Twist\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24166666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "GLN8bDnkTz",
+                  "contentId": "IhB5vyASlP",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 22,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Super Easy Stretch Routine I",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Are you looking for a simple stretching routine you can do on a regular basis? New to yoga? Designed for yoga beginners, this gentle yoga session will get you on the road to a more flexible you. You\u0027ve said for years you\u0027d start stretching. Now\u0027s your chance.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2513888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "ZyVk7r3dWj",
+                  "contentId": "OQbPuzfX7F",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 25,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "The One For Your Hips",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This classic yoga sequence is designed to enhance hip mobility by stretching the hip flexors, glutes, groin, hamstrings, and calves through a series of static poses. The routine emphasizes releasing tension with each exhalation. It is particularly effective for alleviating lower back pain and improving hip range of motion. This sequence can be practiced at any time of day.\n\n\u200B\n\nThe objectives are to improve hip mobility, stretch the hip flexors, glutes, groin, hamstrings, and calves, practice nasal breathing with movement, and potentially alleviate lower back pain.\n\n\u200B\n\n**Poses in this session:**\n\n- Mountain\n- Low Lunge\n- Downward Dog Split\n- Lizard\n- Pigeon\n- Happy Baby\n- Final Resting Pose\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24194444444444443,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "dgMZ96oEct",
+                  "contentId": "3m7Kj2oYyG",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 30,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Side Bends",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "If you\u0027re pushing yourself hard, it\u0027s likely you\u0027re getting stiff and sore all over. Side bends are one of my favorite ways to deal with general soreness. They\u0027re also perfect for cyclists who typically suffer from poor lateral flexibility.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24138888888888888,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "PvHKAMB04y",
+                  "contentId": "uxHo78097o",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 37,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Morning Yoga Routine",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.25305555555555553,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "3dSiDxhXEJ",
+                  "contentId": "4dDcfXlQIK",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 40,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Super Easy Stretch Routine II",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "You\u0027ve just finished a difficult training session. You probably just want to curl up in a ball, but to make sure your body stays limber and flexible this sequence will stretch you out and open you up. You\u0027ll be ready to hit it again in no time.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.23916666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "DDk1BF12pl",
+                  "contentId": "x3DCCIYEnV",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 47,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Post-Workout Cool-Down",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This gentle cool-down is designed to completely unwind you after your ride\u2026and potentially send you to sleep. We move systematically through the body, loosening up and stretching out tight muscles. Try to stay relaxed throughout while breathing in and out through your nose.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2525,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "BrqwnuDu68",
+                  "contentId": "vcXpMpgVXC",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 53,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Morning Yoga Routine",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.25305555555555553,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "3dSiDxhXEJ",
+                  "contentId": "4dDcfXlQIK",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 57,
+              "type": "Yoga",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Breathing to Crush Them",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.05138888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 5,
+                    "intensityFactor": 0.97
+                  },
+                  "workoutId": "XCJCw2hv7g",
+                  "contentId": "f0coAivEon",
+                  "notes": "",
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 61,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Recovery Booster",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "It may seem counterintuitive, but it\u0027s during recovery when you actually get stronger and consolidate the gains you\u0027ve made while training. Without proper recovery, you won\u0027t improve. This session helps boost your recovery time, relaxing you and ensuring you give your body the chance to grow stronger.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2427777777777778,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "gzgd8DC8J3",
+                  "contentId": "D6SEBUnjwW",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 64,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Hips and Hamstrings",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This routine is designed to open up the hips\u2014the hip flexors, rotators, and glutes\u2014and stretch the hamstrings. The session guides you through a series of lunges and finishes with Lizard and Pigeon pose. You can practice it in the morning, before or after a ride. Experiment to see what works best for you.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.23805555555555555,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 24,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "uHWcKoFx7e",
+                  "contentId": "GJP5mghoHP",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 65,
+              "type": "Yoga",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Pre-Ride Warm-Up",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This sequence is designed to activate your posterior chain\u2014the calves, hamstrings, glutes, lower, upper, and mid-back, as well as your core\u2014the abs and obliques. It\u2019s crucial that you engage these muscles before every ride to give you maximum power, speed, and endurance on the bike.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2525,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "pulwu8dOT9",
+                  "contentId": "tdaKARdZtx",
+                  "notes": "",
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 67,
+              "type": "Yoga",
+              "rank": 300,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Morning Yoga Routine",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "In this sequence, we start with a short breathing exercise to relax the body and calm the mind, then mobilize joints throughout the body. From there we move into deeper stretches for the hips and hamstrings and finish with a short meditation.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.25305555555555553,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 25,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "3dSiDxhXEJ",
+                  "contentId": "4dDcfXlQIK",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 69,
+              "type": "Yoga",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Yoga",
+                  "name": "Breathing to Crush Them",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This is the breathing technique used by Navy Seals to help them focus and find calm before major operations. Learn and use this technique before heading into your own major events and races.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.05138888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": null,
+                    "tss": 5,
+                    "intensityFactor": 0.97
+                  },
+                  "workoutId": "XCJCw2hv7g",
+                  "contentId": "f0coAivEon",
+                  "notes": "",
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6o3l9ahGho",
+          "level": "",
+          "type": "Strength",
+          "schedule": [
+            {
+              "day": 12,
+              "type": "Strength",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Strength",
+                  "name": "Full Body 01",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nThis is the first routine in the Full Body series. It introduces the most basic versions of moves that make up the majority of this program. Some of these moves may seem very basic but we encourage you to focus on perfect form and execution during these early levels so that when we turn up the heat you have things nailed. As you\u0027ll see, all the exercises at the lower levels will progress in a similar fashion going forward. We\u0027re building strength, but also fine-tuning your nervous system. As the program progresses you\u0027ll be asked to complete more difficult variations on each foundational move.\n\n\u200B\n\nAs with all the strength training routines, it helps if you\u2019ve done a warm-up before getting started. That can be one of your favorite yoga routines, riding your bike on the trainer for 5-10 minutes, or doing a personal stretching routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Goblet Squat\n- Single-Leg Squat\n- Backward Lunge\n- Hip Hinge with Reach\n- Hip Bridge with Reps\n- Push-Up on Knees\n- Back Extension\n- Quadruped with Leg Lifts\n- Plank with Leg Lifts\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.20916666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 5,
+                    "intensityFactor": 0.49
+                  },
+                  "workoutId": "QZ177ROg7C",
+                  "contentId": "pqcw0IeBqc",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 17,
+              "type": "Strength",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Strength",
+                  "name": "Full Body 02",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.19555555555555557,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 5,
+                    "intensityFactor": 0.49
+                  },
+                  "workoutId": "oysCVNFmCC",
+                  "contentId": "u9SW542leT",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 43,
+              "type": "Strength",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Strength",
+                  "name": "Full Body 02",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nIn this session, we introduce you to a few more foundational moves. Learn them well as you\u2019ll see them throughout the program as you progress. And as you progress, we\u0027ll continue to add more difficult variations on these basics - so develop good habits now for easy mastery down the road.\n\n\u200B\n\nUnsure if this is the correct strength level for you?  [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Forward Lunge\n- Lateral Lunge with Extended Hands\n- Hip Hinge\n- Squat with Wide Stance\n- Plank\n- Quadruped with Arm Raise\n- Side Plank\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.19555555555555557,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 5,
+                    "intensityFactor": 0.49
+                  },
+                  "workoutId": "oysCVNFmCC",
+                  "contentId": "u9SW542leT",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 58,
+              "type": "Strength",
+              "rank": 100,
+              "prospects": [
+                {
+                  "type": "Strength",
+                  "name": "Full Body 01",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "_Want a strength training routine that covers all the bases? Our Full Body Strength series is exactly what you\u2019re after, offering a well-rounded series of exercises that covers the lower body, core, posterior chain, and upper body. With a substantial progression, there\u2019s enough here to keep you busy -- and improving -- for a very long time._\n\n\u200B\n\nThis is the first routine in the Full Body series. It introduces the most basic versions of moves that make up the majority of this program. Some of these moves may seem very basic but we encourage you to focus on perfect form and execution during these early levels so that when we turn up the heat you have things nailed. As you\u0027ll see, all the exercises at the lower levels will progress in a similar fashion going forward. We\u0027re building strength, but also fine-tuning your nervous system. As the program progresses you\u0027ll be asked to complete more difficult variations on each foundational move.\n\n\u200B\n\nAs with all the strength training routines, it helps if you\u2019ve done a warm-up before getting started. That can be one of your favorite yoga routines, riding your bike on the trainer for 5-10 minutes, or doing a personal stretching routine.\n\n\u200B\n\nUnsure if this is the correct strength level for you? [Click here for help.](https://wahoosystm.com/HelpCenterChooseStrengthLevel)\n\n\u200B\n\n**Exercises Included:**\n\n- Kneeling Hip Drive - Hands Over Head\n- Kneeling Hip Drive - Hands Side to Side\n- Hip Bridge with Reps\n- Bent Leg Tip at the Hip\n- Goblet Squat\n- Single-Leg Squat\n- Backward Lunge\n- Hip Hinge with Reach\n- Hip Bridge with Reps\n- Push-Up on Knees\n- Back Extension\n- Quadruped with Leg Lifts\n- Plank with Leg Lifts\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.20916666666666667,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 5,
+                    "intensityFactor": 0.49
+                  },
+                  "workoutId": "QZ177ROg7C",
+                  "contentId": "pqcw0IeBqc",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 69,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "21. How Did it Go?",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Once the dust has settled and your heart rate has returned to normal levels, listen to this module. It\u0027s meant to be completed 15 minutes after the event ends. Part two of this exercise is completed the next day when you\u2019ve had time to process and reflect on everything that happened during the event day.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.1338888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 14,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "i4LQOKHyns",
+                  "contentId": "h7t11MeQFl",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "VK49Tud8ew",
+          "level": "",
+          "type": "MentalTraining",
+          "schedule": [
+            {
+              "day": 0,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "02. Identifying Your Personal Big Mountain",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "What - exactly - are you trying to accomplish? When you\u0027re ready to answer that question, this module will help you gain clarity on who you are as an athlete and identify your major goal\u2014your Personal Big Mountain.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Importance of SMART Goal Setting](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/start-now-goal-setting-basics)\u0027 and \u0027[How to use your personal outlook to set more effective goals](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/know-thyself-how-to-use-your-personal-outlook-to-set-more-effective-goals)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.27444444444444444,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 32,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "U6fXCl3UDt",
+                  "contentId": "Hei16sQ00t",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 15,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "06. Relaxing to Recover",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Here you will complete a full Progressive Muscle Relaxation session. It\u2019s part guided meditation and part focus exercise. You should listen to this module at least once per week to get in tune with your body, release tension, and maximize recovery.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.3736111111111111,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 37,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "mpUCq7UkVc",
+                  "contentId": "vilPYFsASb",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 21,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "04. Getting Positive",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Thoughts matter. To accomplish big goals you need the ability to maintain a positive mindset, regardless of what life gives you. Here\u0027s an overview of the power of maintaining a positive mindset. We\u2019ll introduce specific techniques that will help you identify negative thoughts, see obstacles as opportunities, and take a more positive path forward.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.2386111111111111,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 27,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "0BYNToDCNp",
+                  "contentId": "5j7NolaDRt",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 49,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "07. Positive Self-Talk",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Improve your confidence and performance through three types of positive self-talk: Motivational, Instructional, and Reward. Here, we\u2019ll look at the subtle and not-so-subtle effects that words have on our attitude and performance. You\u2019ll listen more closely to the way you talk to yourself so you can improve that internal dialogue and become your own biggest fan.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Fitness.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.24333333333333335,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 26,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "XUrrYkaPzg",
+                  "contentId": "7MLgmJEEHC",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 68,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "20. Preparing To Crush It",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "This pre-event visualization exercise will help you get in the zone to deliver what athletes and sports psychologists call a \u201Cpeak performance;\u201D it\u2019s when everything flows and operates at the highest level almost without any effort.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.14555555555555555,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 15,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "LhDAu8UJr9",
+                  "contentId": "Au7PJtDXCe",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            },
+            {
+              "day": 69,
+              "type": null,
+              "rank": 1000,
+              "prospects": [
+                {
+                  "type": "MentalTraining",
+                  "name": "21. How Did it Go?",
+                  "style": null,
+                  "compatibility": 100,
+                  "description": "Once the dust has settled and your heart rate has returned to normal levels, listen to this module. It\u0027s meant to be completed 15 minutes after the event ends. Part two of this exercise is completed the next day when you\u2019ve had time to process and reflect on everything that happened during the event day.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+                  "intensity": {
+                    "master": 1,
+                    "nm": null,
+                    "ac": null,
+                    "map": null,
+                    "ftp": null
+                  },
+                  "trainerSetting": {
+                    "mode": "ERG",
+                    "level": null
+                  },
+                  "plannedDuration": 0.1338888888888889,
+                  "durationType": "Time",
+                  "metrics": {
+                    "ratings": {
+                      "ac": null,
+                      "nm": null,
+                      "map": null,
+                      "ftp": null
+                    },
+                    "tss": 14,
+                    "intensityFactor": 0.99
+                  },
+                  "workoutId": "i4LQOKHyns",
+                  "contentId": "h7t11MeQFl",
+                  "notes": null,
+                  "fourDPWorkoutGraph": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

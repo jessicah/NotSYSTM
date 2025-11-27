@@ -1,0 +1,30 @@
+{
+  "uid": "DRgKDB",
+  "name": "5",
+  "description": null,
+  "stepTitle": "Strength Level 5",
+  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "T6xz4GVyQ7",
+      "name": "MultiSport - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "T6xz4GVyQ7",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

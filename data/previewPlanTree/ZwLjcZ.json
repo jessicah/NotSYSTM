@@ -1,0 +1,30 @@
+{
+  "uid": "ZwLjcZ",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "200 Mile Gravel",
+  "stepDescription": "200 Mile Gravel - Moderate Volume - 3:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "jIqrb9Hm4c",
+      "name": "Gravel 200 mile 3:1 Medium Volume w/Strength (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "jIqrb9Hm4c",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

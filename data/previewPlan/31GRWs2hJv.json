@@ -1,0 +1,239 @@
+{
+  "previewPlan": [
+    {
+      "id": "31GRWs2hJv",
+      "name": "AWW Phil G",
+      "weakness": "NoWeakness",
+      "grouping": "A Week With",
+      "category": "None",
+      "subcategory": "None",
+      "description": "Spend a week in Los Angeles training with former WorldTour pro and KOM sniper Phil Gaimon. Learn how to pace maximal efforts to prepare for your own KOM / QOM attempts while exploring LA with Phil and his friends.\n",
+      "planDescription": "Phil Gaimon",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2022-01-17T20:21:52.537Z",
+      "updatedAt": "2022-01-27T23:00:46.892Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Cycling",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "P. Gaimon 1: Introduction",
+              "style": null,
+              "compatibility": 100,
+              "description": "Well, look at that. You just got invited to spend a few days in Los Angeles with the legendary Phil Gaimon: former WorldTour pro cyclist and the star of \u2018Worst Retirement Ever\u2019, in which Phil chronicles his adventures bagging Strava KOMs from around the world.\n\n\u200B\n\nDuring your time training with Phil, he\u0027ll take you out for a few rides in the hills around LA to practice pacing maximum threshold efforts\u2013an essential skill if you want to make your own KOM or QOM attempt. But it\u0027s not all hard work. Along the way, Phil\u2019s going to share his love for LA, tell stories from his time in the pro peloton, introduce you to his crew, and maybe even make you a cookie or two.\n\n\u200B\n\n_Day 1/5: Introduction_\n\n_Day 2/5: Openers_\n\n_Day 3/5: Short KOM Training Session_\n\n_Day 4/5: Neighborhood Ride_\n\n_Day 5/5: Long KOM Training Session_\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.0775,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": 1,
+                "intensityFactor": 0.39
+              },
+              "workoutId": "70krkEYt8i",
+              "contentId": "AT9t1HnxHd",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "P. Gaimon 2: Openers",
+              "style": null,
+              "compatibility": 100,
+              "description": "Tomorrow\u2019s session is going to involve some big, maximal efforts, so it\u2019s important that your legs are feeling good and primed. To get you ready, Phil is taking us over to the iconic Griffith Park in the Santa Monica mountains for a session of \u2018Openers.\u2019 These efforts will get your body ready for the workouts you have coming up without generating any real fatigue.\n\n\u200B\n\nDuring the warm-up, Phil gives a history lesson on the park, explains how his career developed, his connection to Quentin Tarantino and points out all of the world-famous museums that he has never set foot in.\n\n\u200B\n\nIn between intervals, Phil takes you behind-the-scenes of his many side hustles and explains why and how he started his different business ventures. As we wrap up the session it\u2019s time for a little post-ride treat: some homemade cookies baked by the man himself.\n\n\u200B\n\n_Do this on: Day 2 of the 5-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8483333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 46,
+                "intensityFactor": 0.74
+              },
+              "workoutId": "XXXIQiiy4M",
+              "contentId": "qU0MnDFulc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "P. Gaimon 3: Short KOM Training Session",
+              "style": null,
+              "compatibility": 100,
+              "description": "As part of his \u2018Worst Retirement Ever,\u2019 Phil made a name for himself by sniping Strava KOMs around the world. But if you\u2019re going to travel around globe stealing crowns from some of the world\u2019s fastest climbers, you need to bring your A-game.\n\n\u200B\n\nIn this short, 35-minute workout, Phil takes you through a warm-up on the famous Pacific Coast Highway before climbing into two short, maximal efforts on the way up Dekker Canyon. You\u2019ll be in the hurt box, but be sure to pay attention as Phil drops his top tips for KOM / QOM segment success.\n\n\u200B\n\nIn between efforts, Phil keeps you entertained with stories about his Cookie Fondo, life in LA, a tour of his garage, a face lick from his dog and his personal recommendation for the best cold-pressed juice in town.\n\n\u200B\n\n_Do this on: Day 3 of the 5-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5986111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 37,
+                "intensityFactor": 0.78
+              },
+              "workoutId": "rTp6HTUgAS",
+              "contentId": "H4PzHKpiwc",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "P. Gaimon 4: Neighborhood Ride",
+              "style": null,
+              "compatibility": 100,
+              "description": "There are a thousand stories in the big city, and LA is no exception. Around every corner and on every city block there are colorful characters and a deep and fascinating history. To help uncover some of LA\u2019s hidden treasures, Phil asked his fiance, Emily, to join him to peel back the curtain on the secret history behind the streets and homes of their neighborhood. But be ready to bust out your flannel shirt and comb out that mustache. When the tarmac ends, we\u2019re going gravel grinding on the famous Mulholland Drive.\n\n\u200B\n\nAlong the way, Phil and Emily discuss murder, celebrity homes, where AA batteries were first invented, how to talk like a real gravel grinder, and the sweet victory of finding fresh oranges on the curb mid-ride. You\u0027ll finish the day off with lunch at one of their favorite local cafes and a tour of their personal Cycling Museum.\n\n\u200B\n\n_Do this on: Day 4 of the 5-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.5608333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 20,
+                "intensityFactor": 0.6
+              },
+              "workoutId": "CY3nC4cadG",
+              "contentId": "2BmGSU7oTC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "# P. Gaimon 5: Long KOM Training Session (November Groundwork Challenge)",
+              "style": null,
+              "compatibility": 100,
+              "description": "This workout is part of the Wahoo X Monthly Challenge. Click [\u002B\u002Bhere\u002B\u002B](https://wahoox.forum.wahoofitness.com/t/wahoo-november-challenge-groundwork/30430) to find out more.\n\n\u200B\n\nYou\u2019re meeting Phil at the iconic Rock Store in Cornell, California, for a solid workout that involves some big, maximal efforts\u2013each one longer than the last.\n\n\u200B\n\nAfter a steady warm-up on a quiet road away from the busy LA car traffic, you\u2019ll have the chance to apply what you learned earlier in the week about KOM pacing on a couple of shorter intervals before tackling a monster 10-minute effort (so we recommend using LEVEL mode rather than erg mode once you get to the intervals).\n\n\u200B\n\nThis session will definitely make you work up an appetite, so in between efforts Phil will introduce you to a couple of his celebrity chef friends and their restaurants before a leisurely walk in the hills. As you savor the efforts (and meals) of the day, you and Phil will sit down and reflect on the week: what you learned, what you accomplished, and what to do next to showcase your newfound skills.\n\n\u200B\n\n_Do this on: Day 5 of the 5-day plan._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9055555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 4,
+                  "ftp": 5
+                },
+                "tss": 69,
+                "intensityFactor": 0.9
+              },
+              "workoutId": "lptADJOH17",
+              "contentId": "KlzhRl4RDQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "yOhXmD",
+  "name": "Maryland Gran Fondo",
+  "description": "September 17th",
+  "stepTitle": "Maryland Gran Fondo",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5xBkzLoD2i",
+      "name": "GFNS 6",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "5xBkzLoD2i",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

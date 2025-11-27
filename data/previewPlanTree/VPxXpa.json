@@ -1,0 +1,30 @@
+{
+  "uid": "VPxXpa",
+  "name": "3 Weeks",
+  "description": null,
+  "stepTitle": "Recovery Block",
+  "stepDescription": "3 Weeks ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "veFlJUS3ha",
+      "name": "Building Block-Recovery-Low-2:1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "veFlJUS3ha",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

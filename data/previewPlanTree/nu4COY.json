@@ -1,0 +1,30 @@
+{
+  "uid": "nu4COY",
+  "name": "No",
+  "description": null,
+  "stepTitle": "200 Mile Gravel",
+  "stepDescription": "Moderate Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "xgQLBDreny",
+      "name": "Gravel 200 mile 2:1 Medium Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "xgQLBDreny",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

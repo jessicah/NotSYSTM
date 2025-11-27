@@ -1,0 +1,1264 @@
+{
+  "previewPlan": [
+    {
+      "id": "0xou3MiEnL",
+      "name": "MTP - 3:1 - 16 week",
+      "weakness": "NoWeakness",
+      "grouping": "Cross-training Add-ons",
+      "category": "AddOn",
+      "subcategory": "None",
+      "description": "\u200B  \n",
+      "planDescription": "",
+      "fixedEndDate": "",
+      "level": "Yes",
+      "type": "MentalTraining",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2021-08-23T18:41:05.435Z",
+      "updatedAt": "2021-09-25T18:32:15.406Z",
+      "version": "1.0.1",
+      "isAddOn": true,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 4,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "03. Establishing the Goal Setting Habit",
+              "style": null,
+              "compatibility": 100,
+              "description": "**GOAL SETTING**\n\nA clear plan of action is essential to any undertaking. Setting concrete, actionable goals will keep you motivated and on track; whether you\u2019re eyeing the top podium step or the summit of the local climb. We will help assess where you are today, where you want to go, and identify the steps needed to get there.\n\n\u200B\n\nIn this module, you will enable consistent progress by creating a habit of identifying monthly and weekly goals, with weekly rewards for achieving those goals.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n\u200B\n\n\u200B\n\n\u200B\n\n\u200B\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.15166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 18,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "EbgLcS3DjU",
+              "contentId": "n7Y3HQbXp5",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "04. Getting Positive",
+              "style": null,
+              "compatibility": 100,
+              "description": "Thoughts matter. To accomplish big goals you need the ability to maintain a positive mindset, regardless of what life gives you. Here\u0027s an overview of the power of maintaining a positive mindset. We\u2019ll introduce specific techniques that will help you identify negative thoughts, see obstacles as opportunities, and take a more positive path forward.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2386111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 27,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "0BYNToDCNp",
+              "contentId": "5j7NolaDRt",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 11,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "05. Remembering Why",
+              "style": null,
+              "compatibility": 100,
+              "description": "Focus is essential to high performance. Without it, you can become distracted, give in to self-doubt, and struggle to motivate yourself. Strengthen your willpower through a deep understanding of your key motivators and then develop a system to remind you of them on a daily basis.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.14583333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 15,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "Do6O1llirS",
+              "contentId": "1AGVms2Dxk",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "06. Relaxing to Recover",
+              "style": null,
+              "compatibility": 100,
+              "description": "Here you will complete a full Progressive Muscle Relaxation session. It\u2019s part guided meditation and part focus exercise. You should listen to this module at least once per week to get in tune with your body, release tension, and maximize recovery.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3736111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 37,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "mpUCq7UkVc",
+              "contentId": "vilPYFsASb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "07. Positive Self-Talk",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your confidence and performance through three types of positive self-talk: Motivational, Instructional, and Reward. Here, we\u2019ll look at the subtle and not-so-subtle effects that words have on our attitude and performance. You\u2019ll listen more closely to the way you talk to yourself so you can improve that internal dialogue and become your own biggest fan.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Fitness.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 26,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "XUrrYkaPzg",
+              "contentId": "7MLgmJEEHC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "08. Improving Focus",
+              "style": null,
+              "compatibility": 100,
+              "description": "Develop an understanding of why focused concentration is so important to your performance. We will delve into what it means to be in \u201CThe Zone,\u0022 look at the psychology and the physiology of peak performance, and what it takes to get there.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.09916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "LHRs6VM57f",
+              "contentId": "BNiDBJg2p8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "10. First Month Review \u0026 Improve",
+              "style": null,
+              "compatibility": 100,
+              "description": "You\u2019ll look back at each of your weekly goals, as well as your overall goal for the month, to see how you did. This is your chance to give yourself a pat on the back, celebrate your successes, and identify how you\u2019re going to do even better.\n\n\u200B\n\nAfter looking to see what the past month can teach you, you\u2019re going to turn your attention towards what lies ahead, setting new monthly and weekly goals.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.08638888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 8,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "doKHUDIuAg",
+              "contentId": "37ndUDQDp0",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "11. The Successful Training Habit",
+              "style": null,
+              "compatibility": 100,
+              "description": "Let\u0027s zoom in on how you actually train, day in and day out. Great training sessions don\u2019t just happen. You have to make a conscious effort, get everything together, then actually do the work. Successful athletes don\u2019t leave their training to chance\u2014they have a specific routine they go through **EVERY. SINGLE. TIME.** The more deliberate you are with your thoughts and actions before, during, and after your workouts, the better your training habit becomes and the greater your progress.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.15638888888888888,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 16,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "zyUpWfH0MH",
+              "contentId": "qjfEb9cbFb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 41,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "12. Workout Review",
+              "style": null,
+              "compatibility": 100,
+              "description": "We\u2019re going to take the techniques you\u0027ve learned during the \u201CMonthly Review and Improve\u201C module, and apply them to your training sessions. This module should be completed immediately after finishing a workout. Have your workbook with you so after the cool-down you can start the workout review exercise immediately.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.10166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "UaBKCTlf67",
+              "contentId": "m5oXc7j9jV",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 42,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "13. Kicking Ass in your Sleep Part I",
+              "style": null,
+              "compatibility": 100,
+              "description": "Pre-sleep visualization is a tool that helps build confidence and willpower. This module includes an exercise to detail what it will feel like to stand on the summit of your Big Mountain.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.12833333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 13,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "cnijRwaMdl",
+              "contentId": "0qkQsyzWLp",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 47,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "14. Future You Is Now",
+              "style": null,
+              "compatibility": 100,
+              "description": "Here you\u0027ll revisit the description of yourself that you wrote when first embarking on this journey. It is an opportunity to see how far you\u2019ve come, but also a chance to look ahead.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.17666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 20,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "fQcg7Ki8m3",
+              "contentId": "CkAfA1Hy0S",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 49,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "15. Kicking Ass in your Sleep Part II",
+              "style": null,
+              "compatibility": 100,
+              "description": "This visualization exercise is designed to be completed when you\u2019re in bed, ready to fall asleep. You\u2019ll travel from your bedroom to the summit of your Big Mountain.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.16666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 16,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "Fg1kDaKjdF",
+              "contentId": "z1rU6FrTLZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 55,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "16. Regular Monthly Review",
+              "style": null,
+              "compatibility": 100,
+              "description": "This process mirrors what you did in week five. If you feel like you\u2019re making gains, it\u2019s likely you\u2019ve been getting the work in. If you\u2019re not progressing\u2014if you feel run down\u2014look to see if there are any patterns.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.035277777777777776,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 3,
+                "intensityFactor": 0.95
+              },
+              "workoutId": "Y5bOGdKP1N",
+              "contentId": "32qGKMONP4",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 57,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "17. Overcoming Obstacles",
+              "style": null,
+              "compatibility": 100,
+              "description": "Rainbows? Puppy dogs? Not always. Sometimes things go wrong and this session will get you moving again. As a visualization exercise, this module is meant to be listened to whenever you feel stuck\u2014whether that\u2019s due to an obstacle you can\u2019t see a way around, an injury, a loss of motivation, or any other reason which makes you doubt yourself. Even if you don\u2019t have an obstacle right now, it\u2019s a good idea to go through the module so you know what it\u2019s about and when to use it. It will help you re-focus, reset, and reestablish your confidence in who you are and where you\u2019re headed.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2427777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "dMrmYQOcvH",
+              "contentId": "BHvdXb2nBN",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 63,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "07. Positive Self-Talk",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your confidence and performance through three types of positive self-talk: Motivational, Instructional, and Reward. Here, we\u2019ll look at the subtle and not-so-subtle effects that words have on our attitude and performance. You\u2019ll listen more closely to the way you talk to yourself so you can improve that internal dialogue and become your own biggest fan.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Power of Positive Mental Strategies](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/episode-29-how-to-use-positive-self-talk-to-get-through-tough-moments-on-a-ride-mental-strategies)\u0027 on The Knowledge Podcast by Wahoo Fitness.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.24333333333333335,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 26,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "XUrrYkaPzg",
+              "contentId": "7MLgmJEEHC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 69,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "08. Improving Focus",
+              "style": null,
+              "compatibility": 100,
+              "description": "Develop an understanding of why focused concentration is so important to your performance. We will delve into what it means to be in \u201CThe Zone,\u0022 look at the psychology and the physiology of peak performance, and what it takes to get there.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.09916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "LHRs6VM57f",
+              "contentId": "BNiDBJg2p8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 70,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "05. Remembering Why",
+              "style": null,
+              "compatibility": 100,
+              "description": "Focus is essential to high performance. Without it, you can become distracted, give in to self-doubt, and struggle to motivate yourself. Strengthen your willpower through a deep understanding of your key motivators and then develop a system to remind you of them on a daily basis.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.14583333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 15,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "Do6O1llirS",
+              "contentId": "1AGVms2Dxk",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 75,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "06. Relaxing to Recover",
+              "style": null,
+              "compatibility": 100,
+              "description": "Here you will complete a full Progressive Muscle Relaxation session. It\u2019s part guided meditation and part focus exercise. You should listen to this module at least once per week to get in tune with your body, release tension, and maximize recovery.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3736111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 37,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "mpUCq7UkVc",
+              "contentId": "vilPYFsASb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 105,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "18. Setting Event Goals",
+              "style": null,
+              "compatibility": 100,
+              "description": "Get clear on what an event really means to you and what your event-specific goals are.\n\n\u200B\n\n\u0022If you are going to win any battle, you have to do one thing: you have to make the mind run the body.\u0022\n\n~ George S. Patton\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.10333333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 11,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "tGTYuUtF3P",
+              "contentId": "0OjVsJUVL3",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 108,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "19. Planning For Every Event Scenario",
+              "style": null,
+              "compatibility": 100,
+              "description": "Show up prepared by identifying things that could happen during the course of the event and how to deal with them.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.17722222222222223,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 19,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "RHIcIKJGrw",
+              "contentId": "LbR1YUp0s8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 111,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "20. Preparing To Crush It",
+              "style": null,
+              "compatibility": 100,
+              "description": "This pre-event visualization exercise will help you get in the zone to deliver what athletes and sports psychologists call a \u201Cpeak performance;\u201D it\u2019s when everything flows and operates at the highest level almost without any effort.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.14555555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 15,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "LhDAu8UJr9",
+              "contentId": "Au7PJtDXCe",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 111,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "21. How Did it Go?",
+              "style": null,
+              "compatibility": 100,
+              "description": "Once the dust has settled and your heart rate has returned to normal levels, listen to this module. It\u0027s meant to be completed 15 minutes after the event ends. Part two of this exercise is completed the next day when you\u2019ve had time to process and reflect on everything that happened during the event day.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.1338888888888889,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 14,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "i4LQOKHyns",
+              "contentId": "h7t11MeQFl",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 0,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "02. Identifying Your Personal Big Mountain",
+              "style": null,
+              "compatibility": 100,
+              "description": "What - exactly - are you trying to accomplish? When you\u0027re ready to answer that question, this module will help you gain clarity on who you are as an athlete and identify your major goal\u2014your Personal Big Mountain.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n\n\u200B\n\n**LEARN MORE**\n\nListen to \u0027[The Importance of SMART Goal Setting](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/start-now-goal-setting-basics)\u0027 and \u0027[How to use your personal outlook to set more effective goals](https://the-knowledge-by-wahoo-sports-science.simplecast.com/episodes/know-thyself-how-to-use-your-personal-outlook-to-set-more-effective-goals)\u0027 on The Knowledge Podcast by Wahoo Sports Science.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.27444444444444444,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 32,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "U6fXCl3UDt",
+              "contentId": "Hei16sQ00t",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 26,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "09. Focus Exercise",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your ability to push away distractions and focus on the task at hand. This five-minute exercise will get you primed and ready to unleash your power from within. That means you should be in your kit and ready to train as soon as you complete this exercise.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.10444444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "CuJWY2GD5y",
+              "contentId": "we3cvSjdeM",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 77,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "15. Kicking Ass in your Sleep Part II",
+              "style": null,
+              "compatibility": 100,
+              "description": "This visualization exercise is designed to be completed when you\u2019re in bed, ready to fall asleep. You\u2019ll travel from your bedroom to the summit of your Big Mountain.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.16666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 16,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "Fg1kDaKjdF",
+              "contentId": "z1rU6FrTLZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 83,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "16. Regular Monthly Review",
+              "style": null,
+              "compatibility": 100,
+              "description": "This process mirrors what you did in week five. If you feel like you\u2019re making gains, it\u2019s likely you\u2019ve been getting the work in. If you\u2019re not progressing\u2014if you feel run down\u2014look to see if there are any patterns.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.035277777777777776,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 3,
+                "intensityFactor": 0.95
+              },
+              "workoutId": "Y5bOGdKP1N",
+              "contentId": "32qGKMONP4",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 84,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "08. Improving Focus",
+              "style": null,
+              "compatibility": 100,
+              "description": "Develop an understanding of why focused concentration is so important to your performance. We will delve into what it means to be in \u201CThe Zone,\u0022 look at the psychology and the physiology of peak performance, and what it takes to get there.\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.09916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "LHRs6VM57f",
+              "contentId": "BNiDBJg2p8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 87,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "09. Focus Exercise",
+              "style": null,
+              "compatibility": 100,
+              "description": "Improve your ability to push away distractions and focus on the task at hand. This five-minute exercise will get you primed and ready to unleash your power from within. That means you should be in your kit and ready to train as soon as you complete this exercise.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.10444444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 10,
+                "intensityFactor": 0.98
+              },
+              "workoutId": "CuJWY2GD5y",
+              "contentId": "we3cvSjdeM",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 95,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "06. Relaxing to Recover",
+              "style": null,
+              "compatibility": 100,
+              "description": "Here you will complete a full Progressive Muscle Relaxation session. It\u2019s part guided meditation and part focus exercise. You should listen to this module at least once per week to get in tune with your body, release tension, and maximize recovery.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.3736111111111111,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 37,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "mpUCq7UkVc",
+              "contentId": "vilPYFsASb",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 98,
+          "type": "MentalTraining",
+          "rank": 1000,
+          "prospects": [
+            {
+              "type": "MentalTraining",
+              "name": "17. Overcoming Obstacles",
+              "style": null,
+              "compatibility": 100,
+              "description": "Rainbows? Puppy dogs? Not always. Sometimes things go wrong and this session will get you moving again. As a visualization exercise, this module is meant to be listened to whenever you feel stuck\u2014whether that\u2019s due to an obstacle you can\u2019t see a way around, an injury, a loss of motivation, or any other reason which makes you doubt yourself. Even if you don\u2019t have an obstacle right now, it\u2019s a good idea to go through the module so you know what it\u2019s about and when to use it. It will help you re-focus, reset, and reestablish your confidence in who you are and where you\u2019re headed.\n\n\u200B\n\n**GET THE WORKBOOK**\n\nIf you haven\u0027t yet, download the [Mental Training Workbook](https://drive.google.com/file/d/11VIC1ZmuIwDpmv9xdeUrZ6NJ_nZraqPv/view?usp=sharing).\n\nIt\u0027s a fillable PDF, but you can print it if you prefer to work from a hard copy.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.2427777777777778,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": null,
+                  "nm": null,
+                  "map": null,
+                  "ftp": null
+                },
+                "tss": 25,
+                "intensityFactor": 0.99
+              },
+              "workoutId": "dMrmYQOcvH",
+              "contentId": "BHvdXb2nBN",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

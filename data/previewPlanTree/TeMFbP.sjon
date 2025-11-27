@@ -1,0 +1,53 @@
+{
+  "uid": "TeMFbP",
+  "name": "Completing It",
+  "description": null,
+  "stepTitle": "Which Version?",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "rRRNGP",
+      "name": "Just Get Me Through It",
+      "description": "I want each day dialed down to ensure I finish all 7",
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "H0FbOK",
+      "name": "Focused ",
+      "description": "I want the tour stages dialed into my rider profile for maximum training benefit",
+      "stepTitle": "Focused Option",
+      "stepDescription": "what happens here?",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    },
+    {
+      "uid": "znA54v",
+      "name": "Nuclear",
+      "description": "100% all day every day ",
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": []
+    }
+  ]
+}

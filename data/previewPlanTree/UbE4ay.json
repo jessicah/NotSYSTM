@@ -1,0 +1,30 @@
+{
+  "uid": "UbE4ay",
+  "name": "Yes",
+  "description": "Includes the appropriate amount of strength training",
+  "stepTitle": "Off-Road Triathlon",
+  "stepDescription": "Moderate Volume  - 2:1 - Event  Prep - Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "35yvrHq3aX",
+      "name": "SYSTM Off-Road Triathlon Plan/Mod Volume/2:1/Event/Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "35yvrHq3aX",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

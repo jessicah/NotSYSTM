@@ -1,0 +1,74 @@
+{
+  "uid": "rCe5q8",
+  "name": "3:1",
+  "description": "Three weeks hard followed by 1 rest week",
+  "stepTitle": "Strength",
+  "stepDescription": "Do you want to include multisport specific and appropriate strength training?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "YegoYq",
+      "name": "Yes",
+      "description": "Includes strength training",
+      "stepTitle": "Standard/Olympic Distance",
+      "stepDescription": "Event - Low volume - 3:1 - Strength",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "U5vw5qkJUP",
+          "name": "Duathlon Standard/Olympic Distance - Event - Low Volume  - 3:1 - Strength",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "U5vw5qkJUP",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "eSKsqX",
+      "name": "No",
+      "description": "Does not include strength training",
+      "stepTitle": "Standard/Olympic Distance",
+      "stepDescription": "Event - Low Volume - 3:1",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "zj9XRUvCQj",
+          "name": "Duathlon Standard/Olympic Distance - Event - Low Volume  - 3:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "zj9XRUvCQj",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

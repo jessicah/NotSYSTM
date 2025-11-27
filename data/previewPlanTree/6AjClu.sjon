@@ -1,0 +1,30 @@
+{
+  "uid": "6AjClu",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Criterium",
+  "stepDescription": "Criterium - High Volume - 2:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "yW8kae6cOK",
+      "name": "Criterium - High Volume - 2:1 ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "yW8kae6cOK",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

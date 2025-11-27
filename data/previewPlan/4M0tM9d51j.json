@@ -1,0 +1,536 @@
+{
+  "previewPlan": [
+    {
+      "id": "4M0tM9d51j",
+      "name": "ClimbTrial Plan ",
+      "weakness": "NoWeakness",
+      "grouping": "WSS Study",
+      "category": "None",
+      "subcategory": "None",
+      "description": "6 week protocol for Wahoo Sports Science Tilt Study.\n\nWeeks 1 and 6 both consist of our Half Monty Ramp Test, and a 5k ClimbTrial that should be completed on RGT (the back half of the \u0027X\u0027 in Wahoo X. \n\n\u200B\n\nThe plan can be completed as Monday/Wednesday or Tuesday/Thursday. \n\nMake sure the start date you select is either Monday or Tuesday depending on which option you have chosen. \n\n\u200B\n",
+      "planDescription": "Furthering the Science of Training ",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "None",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2022-09-15T19:31:26.449Z",
+      "updatedAt": "2023-03-23T18:55:05.824Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Half Monty 2: Electric Boogaloo",
+              "style": null,
+              "compatibility": null,
+              "description": "Please select this Beta only version of Half Monty from the \u0027Fitness Test\u0027 Channel ",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Cycling",
+          "rank": 190,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Warm Up: 10 Minutes",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is a short warmup ride that you can use before a hard session that may have a very short warmup built in, or you just feel like you need a little more time to warm up. Because some days, we need just a little more pedaling time in order to feel ready for the hard work that\u0027s yet to come.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.16666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 10,
+                "intensityFactor": 0.77
+              },
+              "workoutId": "3iGrmBLu2f",
+              "contentId": "GbxANr313q",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RGT Climb Trial",
+              "style": null,
+              "compatibility": null,
+              "description": "Please click this link to register and ride the RGT challenge road Alpe d\u2019hues Climb Trial. Once registered, open the RGT app and you will see it displayed in the events section:\nhttps://user.rgtcycling.com/event?code=VUF9N9\n\nUse this road if you are taking part in the TILT Study to complete your Alpe d\u0027Huez 5km climb trial.\nPlease make sure you are warmed up by completing the 10min warm-up NoVid on SYSTM. \n\nSetup reminders:\n- Make sure the SYSTM app is closed so your sensors are only on RGT\n- Make sure your sensors are connected\n- In the sensors menu, set your trainer difficulty to 50%\n\nFor the Climb Trial, make sure you race from the beginning to the end of the course. There is an inbuilt segment you will see separate timers for but make sure you go all out right to the end of the course.",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 7,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Big Gear Tempo: 5 x 4",
+              "style": null,
+              "compatibility": 100,
+              "description": "This workout is the first NoVid in a progression of big gear (low cadence, high torque) Tempo efforts to work on building muscular endurance. This workout is just a little bit easier than GOAT, but is similar in overall intended training stress - meaning that it\u0027s quality work, but you should have some gas left in the tank at the end.\n\n\u200B\n\n**Warm Up**\n\n1 minute @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C80%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n1 minute @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6 -- 90% of FTP -- HR \u003C100\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C90\n\n30 seconds @ RPE 8.5 -- 100% of FTP -- HR \u003E105%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 2 -- 150% of FTP -- HR \u003E105%\n\n45 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 2 -- 180% of FTP -- HR \u003E105%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort **\n\nNumber of Sets: 5\n\nRest Between Sets: 3 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: 6\n\n**Interval **\n\n4 minutes @ RPE 6 -- 86% of FTP -- HR \u003C95%\n\n\u200B\n\n**Extra Volume **\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n1 minute @ RPE 3 -- 55% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n2 minutes @ RPE1 -- 40% of FTP -- HR \u003C70%\n\n1 minute @ RPE 1 -- 35% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8916666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 3
+                },
+                "tss": 45,
+                "intensityFactor": 0.71
+              },
+              "workoutId": "5JMRGaCEv5",
+              "contentId": "zkgBFqpmO8",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 9,
+          "type": "Cycling",
+          "rank": 202,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Big Gear Varying Cadence: 3 x 10",
+              "style": null,
+              "compatibility": 100,
+              "description": "As you can see from the name of this workout, you\u0027ll be doing three 10-minute long efforts at low cadences. There will be variation of intensity and cadence within the 10-minute blocks, about every 1 to 2 minutes. This session is very similar to the Tempo with Varying Cadence: 5 x 6 NoVid, but a little more demanding, so if you haven\u0027t done that workout yet, we recommend starting with that one and working up to these longer blocks.\n\nThe benefit of keeping your heart rate below threshold in this session allows for more focus on your nervous system to become more efficient at switching from moderate to high force muscle recruitment quickly and frequently.\n\n\u200B\n\n**Warm Up **\n\n30 seconds @ RPE 1 -- 40% of FTP-- HR \u003C70%\n\n30 seconds @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n1 minute @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6 -- 90% of FTP -- HR \u003C100\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 8.5 -- 100% of FTP -- HR \u003E105%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 8.5 -- 150% of FTP -- HR \u003E105%\n\n1 minute @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n15 seconds @ RPE 2 -- 180% of FTP -- HR \u003E105%\n\n45 seconds @ RPE 1 -- 40% of FTP -- HR \u003C70%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort **\n\nNumber of Sets: 3\n\nRest Between Sets:\n\n1 minute @ RPE 1 -- 40% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3 -- 55% of FTP -- HR \u003C70%\n\nInterval Repeats Per Set: N/A\n\n**Interval **\n\n2 minutes @ RPE 5.5 -- 80% of FTP -- HR \u003C95%\n\n1 minute @ RPE 6.5 -- 90% of FTP -- HR \u003C95%\n\n2 minutes @ RPE 6 -- 85% of FTP -- HR \u003C95%\n\n1 minutes @ RPE 7 -- 95% of FTP -- HR \u003C95%\n\n2 minutes @ RPE 6 -- 85% of FTP -- HR \u003C95%\n\n2 minutes @ RPE 6.5 -- 90% of FTP -- HR \u003C95%\n\n\u200B\n\n**Extra Volume **\n\nN/A\n\n\u200B\n\n**Cool Down **\n\n2 minutes @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n2 minutes @ RPE 1.5 -- 45% of FTP -- HR \u003C70%\n\n1 minute @ RPE 1 -- 40% of FTP -- HR \u003C70%\n\n1 minute @ RPE 1 -- 35% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 4,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 60,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "sHQcNtCRdZ",
+              "contentId": "T7sxAb4n2t",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 14,
+          "type": "Cycling",
+          "rank": 207,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP: 2 Sets 6 x 1",
+              "style": null,
+              "compatibility": 100,
+              "description": "This session is focused on building MAP power at low cadences, which improves muscular endurance. This session includes 2 sets of 6 X 1min intervals at 100% of MAP power with 1min of recovery.\n\n\u200B\n\nWhile the efforts have a MAP target, your heart rate will not likely go over Zone 4 due to the short duration of the efforts and even more-so because of the low cadence targets.\n\n\u200B\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.7833333333333333,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 69,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "CAzHiLNo9g",
+              "contentId": "iJ0GkteizD",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 16,
+          "type": "Cycling",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Tempo Alternating: 2 x 15",
+              "style": null,
+              "compatibility": 100,
+              "description": "If you\u0027re looking for a session that will challenge and help build your aerobic fitness, this is it! With two sets of 15 minutes at tempo effort (alternating between 85 and 75% of FTP in 2-3 minute intervals), you\u0027ll end up with 45 minutes of quality aerobic work. This is a great session to help increase your endurance and bridge the gap between shorter tempo efforts and longer ones like our 2 x 25, or a 60-75 minute tempo build. In addition, this session will help build your muscular endurance as well as cardiovascular endurance as the cadence targets are set in the 80-85 RPM range, stimulating the muscular demand slightly more than the cardiovascular aspect.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8166666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 2,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 46,
+                "intensityFactor": 0.75
+              },
+              "workoutId": "Q5bu54azqk",
+              "contentId": "diN4EUWAG7",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 21,
+          "type": "Cycling",
+          "rank": 203,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "MAP Micro Intervals: 3 Sets 40/20s",
+              "style": null,
+              "compatibility": 100,
+              "description": "For any of you who have completed Blender, Mini Blender, or the Chores, you will be familiar with the 40/20 variety of Pain Shakes that this session serves up\n\n\u200B\n\n40/20s are a go-to workout for Sir Neal Henderson when dishing out pain to the athletes he coaches. While the first few efforts in each set will feel \u0022easy,\u0022 since these blocks are stretched out to 8-minutes in length, you will be deep into the red by the end of each set.\n\nWhile the efforts aren\u0027t continuous, they are long enough that you will accumulate plenty of time near your VO2max, which is the goal of any MAP workout. The real kicker from this session is how much time you spend at 100% of MAP. Each 8-minute set gives you 5 minutes and 20-seconds of time at your 5-minute peak power. By the end, you are looking at 16 minutes of accumulated MAP efforts, so expect this one to bring some pain!\n\n\u200B\n\n**Warm Up**\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n1 minute 15 seconds @ RPE 2.5 -- 55% of FTP -- HR \u003C70%\n\n1 minute @ RPE 3.5 -- 65% of FTP -- HR \u003C80%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 4.5 -- 75% of FTP -- HR \u003C90%\n\n30 seconds @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 6.5 -- 90% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 4 -- 70% of FTP -- HR \u003C80%\n\n30 seconds @ RPE 8 -- 100% of FTP -- HR \u003C100%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 8.5 -- 120% of FTP -- HR \u003E105%%\n\n30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n30 seconds @ RPE 9 -- 150% of FTP -- HR \u003E105%\n\n1 minute 30 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Effort**\n\nNumber of sets: 3\n\nRest between sets: 5 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\nInterval repeats per set: 8\n\n\u200B\n\n**Interval**\n\nWork: 40 seconds @ RPE 8.5 -- 120% of FTP -- HR \u003E105%\n\nRest: 20 seconds @ RPE 2 -- 50% of FTP -- HR \u003C70%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n3 minutes 45 seconds @ RPE 1.5 -- 45% of FTP-- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 5,
+                  "ftp": 3
+                },
+                "tss": 66,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "GOTnQYOGld",
+              "contentId": "581ro3dlUC",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 23,
+          "type": "Cycling",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "FTP Progression 1: 5 x 6",
+              "style": null,
+              "compatibility": 100,
+              "description": "As the title suggests, this is the first of a series of workouts designed to help you accumulate time at FTP. In simple terms, this session is 5 repeats of 6 minutes at or just below 100% of FTP with 4 minutes of easy recovery, making for a 60-minute session with 30 minutes of riding at FTP.\n\n\u200B\n\nBy itself, this workout is not super hard, which is the point since it is the first session of our FTP progression series. This session is great for one of your first sessions with some fresh power numbers off of completing Full Frontal to get more comfortable with your new numbers. It also makes for a great second afternoon/evening session when doing two-a-day training sessions.\n\n\u200B\n\n**Warm Up **2 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70% 2 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70% 1 minute @ RPE 6.5 -- 85% of FTP -- HR \u003C80% 1 minute @ RPE 7.5 -- 95% of FTP -- HR \u003C80% 1 minute @ RPE 7.75 -- 105% of FTP -- HR \u003E105% 3 minutes @ RPE 3 -- 60% of FTP -- HR \u003C70%\n\n**Main Effort **Number of Sets: 5 Rest Between Sets: 4 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70% Interval Repeats Per Set: NA **Interval **6 minute @ RPE 7.5 -- 100% of FTP -- HR \u003E105%\n\n**Extra Volume **N/A\n\n**Cool Down **30 seconds @ RPE 1.5 -- 45% of FTP -- HR \u003C70% 3 minutes @ RPE 2 -- 50% of FTP -- HR \u003C70% 30 seconds @ RPE 1.5 -- 40% of FTP -- HR \u003C70%\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0666666666666667,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 4
+                },
+                "tss": 72,
+                "intensityFactor": 0.85
+              },
+              "workoutId": "QtLjkEggLk",
+              "contentId": "QFm19JmVVZ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 28,
+          "type": "Cycling",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Taper 40/20s, 30/30s, 20/40s",
+              "style": null,
+              "compatibility": 100,
+              "description": "When it comes to \u0022peaking\u0022, or performing at your absolute best on a given day, the key is nailing your Taper.\nThe term \u0022Taper\u0022 refers to the time leading up to your target date, where your total volume of training is reduced, but you continue to hit several high-intensity efforts.\n\n\nWhile there are individual variations in what makes the ideal taper for you, this session has been used by countless professionals leading into the biggest races of their lives. Riders who use this session leading up to an event include world champions Rohan Dennis and Flora Duffy.\n\n\nWith 3 sets of micro-intervals (40/20s, 30/30s, and 20/40s) you will be hitting your system with just enough intensity to keep your legs sharp and responsive, without adding any real fatigue to your system.\n\n\nOutside of those 3 sets of micro-intervals, this session is purposefully short and easy. If you are doing this session your event is just around the corner, and all of the important training is behind you. Riding harder or longer today will do absolutely nothing to increase your fitness by event day; in fact, all that would do is increase your fatigue, which will only hurt your performance.\n\n\nThis is a preparation session, not a training session!\n\n\u200B\n\n**Warm-Up **\n\n4 minutes @ RPE 2 -- 45% of FTP -- HR \u003C65%\n\n1 minutes @ RPE 3 -- 55% of FTP -- HR \u003C70%\n\n1 minute @ RPE 4 -- 65% of FTP -- HR \u003C80%\n\n1 minute @ RPE 5 -- 75% of FTP -- HR \u003C85%\n\n30 seconds @ RPE 2 -- 45% of FTP -- HR \u003C75%\n\n30 seconds @ RPE 9 -- 90-95% of AC (130-190% of FTP)\n\n4 minutes @ RPE 2 -- 45% of FTP -- HR \u003C70%\n\n\u200B\n\n**Main Efforts **\n\nNumber of Sets: 3, all unique\nRest Between Sets: 10 minutes @ RPE 2 -- 45% of FTP -- HR \u003C75%\n\n**Set 1 **\n\nInterval Repeats per Set: 6\n\nInterval: Effort: 40 seconds @ RPE 9 -- 95% of MAP (110-135% of FTP)\n\nRecovery: 20 seconds @ RPE 2 -- 45% of FTP -- HR \u003C75%\n\n**Set 2 **\n\nInterval Repeats per Set: 5\n\nEffort: 30 seconds @ RPE 9.5 -- 110-130% of MAP (125-170% of FTP)\n\nRecovery: 30 seconds @ RPE 2 -- 45% of FTP -- HR \u003C75%\n\n**Set 3 **\n\nInterval Repeats per Set: 4\n\nEffort: 20 seconds @ RPE 10 -- 100% of AC (140-220% of FTP)\n\nRecovery: 40 seconds @ RPE 2 -- 45% of FTP -- HR \u003C75%\n\n\u200B\n\n**Extra Volume**\n\nN/A\n\n\u200B\n\n**Cool Down**\n\n8 minutes @ RPE 1.5 -- \u003C45% of FTP\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9166666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 2,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 3
+                },
+                "tss": 59,
+                "intensityFactor": 0.8
+              },
+              "workoutId": "J3mKNeAWFj",
+              "contentId": "bC5dNENI6X",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 30,
+          "type": "Cycling",
+          "rank": 209,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Sub-Threshold: 1 x 20",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is one of the most classic interval sessions out there. Whether you\u0027re a triathlete, a roadie, a mountain biker, or have simply flipped through cycling magazines looking at whatever workouts they might suggest in their \u00225-workouts to make you faster\u0022 articles, you\u0027ve probably heard of the venerable 1 x 20.\n\nThe reason it\u0027s so popular is that it\u0027s easy to follow, helps teach good pacing, and gives you a great threshold training stimulus.\n\n\u200B\n\nThe only way you are going to make it through any 20-minute effort is if you pace yourself properly. Everyone feels just fine for the first 5-minutes of the first effort, and most people are tempted to go harder. Do NOT be that person. 99 times out a 100, that person blows up spectacularly in the second interval, and never even makes to the last 10 minutes. Or they have to ride that second interval at lower power, turning it into a Tempo session, which is not the goal.\n\nGetting a sense of how these efforts \u0022bite\u0022 towards the end is vital to learning how to pace yourself over longer steady state efforts. Whether that is a Time Trial, local Climb, breakaway, Triathlon, or even a good old Power Test. In each of those cases, the pacing is key, seeing how your perception of how hard the effort is can steadily climb even though your power remains the same.\n\n\u200B\n\nSo how do you know if you are doing this one right? As we said, the first 5 minutes should feel relatively easy. Around that 5-minute mark, your heart rate should stop climbing, and settle into 2-5% below your LTHR. If your heart rate is climbing for the entire effort and goes above your LTHR, then you are going too hard.\n\nIf you hit the 10-minute mark, your legs feel fine, and your heart rate is still in Zone 3, then you aren\u0027t going hard enough. If you have never done a session like this before, you can consider only doing the first 20-minute effort, or even sticking to just the first 15 of each effort. There is no shame in building up to this full session, so don\u0027t be afraid to pause and fast forward as needed.\n\n\u200B\n\nNailing this session is really about getting in tune with your body, and understanding what that edge feels like, between a sustainable and an unsustainable effort. That means failing this workout is fairly common, and not at all something to get down about. As long as you learn from the experience\u2014for example, what \u0022too hard\u0022 feels like 10-minutes in\u2014then you\u0027ve become a better athlete, even if you didn\u0027t make it through the entire workout.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8333333333333334,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 5
+                },
+                "tss": 55,
+                "intensityFactor": 0.81
+              },
+              "workoutId": "csmeM7hYwf",
+              "contentId": "ZIWawAozig",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 35,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Half Monty 2: Electric Boogaloo",
+              "style": null,
+              "compatibility": null,
+              "description": "Please select this Beta-Only version of Half Monty from the \u0027Fitness Test Channel\u0027",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "type": "Cycling",
+          "rank": 190,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Warm Up: 10 Minutes",
+              "style": null,
+              "compatibility": 100,
+              "description": "This is a short warmup ride that you can use before a hard session that may have a very short warmup built in, or you just feel like you need a little more time to warm up. Because some days, we need just a little more pedaling time in order to feel ready for the hard work that\u0027s yet to come.\n\n\u200B\n\nListen to why warm-ups are so important in this episode of The Knowledge podcast by Wahoo Sports Science:\n\n[https://wahoosystm.com/WarmingupTheEngine](https://wahoosystm.com/WarmingupTheEngine)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.16666666666666666,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 1
+                },
+                "tss": 10,
+                "intensityFactor": 0.77
+              },
+              "workoutId": "3iGrmBLu2f",
+              "contentId": "GbxANr313q",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 37,
+          "type": "Event",
+          "rank": 200,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "RGT Climb Trial",
+              "style": null,
+              "compatibility": null,
+              "description": "Please click this link to register and ride the RGT challenge road Alpe d\u2019hues Climb Trial. Once registered, open the RGT app and you will see it displayed in the events section:\nhttps://user.rgtcycling.com/event?code=DV9BP4\n\nUse this road if you are taking part in the TILT Study to complete your Alpe d\u0027Huez 5km climb trial.\nPlease make sure you are warmed up by completing the 10min warm-up NoVid on SYSTM. \n\nSetup reminders:\n- Make sure the SYSTM app is closed so your sensors are only on RGT\n- Make sure your sensors are connected\n- In the sensors menu, set your trainer difficulty to 50%\n\nFor the Climb Trial, make sure you race from the beginning to the end of the course. There is an inbuilt segment you will see separate timers for but make sure you go all out right to the end of the course.",
+              "intensity": null,
+              "trainerSetting": null,
+              "plannedDuration": null,
+              "durationType": null,
+              "metrics": null,
+              "workoutId": null,
+              "contentId": null,
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

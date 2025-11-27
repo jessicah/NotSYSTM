@@ -1,0 +1,30 @@
+{
+  "uid": "42chq6",
+  "name": "Understanding Training Load",
+  "description": "Training Load",
+  "stepTitle": "Training Load",
+  "stepDescription": "Training Load",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "C0i2JB",
+      "name": "Intensity Density",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "LuSKfD503e",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

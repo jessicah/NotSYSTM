@@ -1,0 +1,74 @@
+{
+  "uid": "scf1Ch",
+  "name": "2024 Routes",
+  "description": "Wahooligan Tour Routes",
+  "stepTitle": "2024 Wahooligan Tour Routes",
+  "stepDescription": "Wahooligan Tour Routes",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ZUtgHs",
+      "name": "Wahooligan Route",
+      "description": "Wahooligan Route",
+      "stepTitle": "Wahooligan Route",
+      "stepDescription": "The Wahooligan Route is our signature route showcasing the best of our personalized 4DP workouts in SYSTM. No matter your level, this route will be challenging, but rewarding.",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "6kHg9SR4Ft",
+          "name": "TWT Route 2024",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "6kHg9SR4Ft",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "upDSiQ",
+      "name": "Sufferlandrian Route",
+      "description": "Sufferlandrian Route",
+      "stepTitle": "Sufferlandrian Route",
+      "stepDescription": "This route honors Sufferlandrian history where the Tour began in 2013. Specifically designed for seasoned riders of the Tour to test your mental and physical limits, all in the name of a great cause.",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "57mUSVAFiW",
+          "name": "TWT24 Sufferlandria Route",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "57mUSVAFiW",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

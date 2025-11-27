@@ -1,0 +1,74 @@
+{
+  "uid": "Evk24E",
+  "name": "Recovery",
+  "description": null,
+  "stepTitle": "Volume",
+  "stepDescription": "How much time do you have to train?",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "5g5vup",
+      "name": "4 Weeks",
+      "description": null,
+      "stepTitle": "Recovery Block",
+      "stepDescription": "4 Weeks",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "HUhkDreE7e",
+          "name": "Building Block-Recovery-4week",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "HUhkDreE7e",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    },
+    {
+      "uid": "VPxXpa",
+      "name": "3 Weeks",
+      "description": null,
+      "stepTitle": "Recovery Block",
+      "stepDescription": "3 Weeks ",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "veFlJUS3ha",
+          "name": "Building Block-Recovery-Low-2:1",
+          "description": null,
+          "stepTitle": null,
+          "stepDescription": null,
+          "icon": null,
+          "plan": {
+            "id": "veFlJUS3ha",
+            "typename": null
+          },
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": null
+        }
+      ]
+    }
+  ]
+}

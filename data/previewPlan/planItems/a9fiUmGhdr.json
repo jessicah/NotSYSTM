@@ -1,0 +1,276 @@
+{
+  "id": "a9fiUmGhdr",
+  "name": "AWWIB",
+  "weakness": "NoWeakness",
+  "grouping": "You brought this onto yourself ",
+  "category": "A Week With",
+  "subcategory": "None",
+  "description": "Here is the recommended order in which you should complete the week with series:\n\n- Day 1: Intro \u002B Morning Routine \n- Day 2: Tempo \u0026 Spikes\n- Day 3: Strength Endurance\n- Day 4: -- off --\n- Day 5: Creemy Ride\n- Day 6: Race Winning Efforts\n",
+  "planDescription": "AWWIB",
+  "fixedEndDate": "",
+  "level": "",
+  "type": "Cycling",
+  "uniqueToPlan": "None",
+  "volume": "None",
+  "option": "None",
+  "duration": "1 Week",
+  "progression": "None",
+  "hidden": true,
+  "createdAt": "2020-10-16T00:09:14.014Z",
+  "updatedAt": "2022-01-11T22:01:47.123Z",
+  "version": "1.0.1",
+  "isAddOn": false,
+  "deleted": true,
+  "metadata": {
+    "internalNotes": ""
+  },
+  "primary": [
+    {
+      "day": 0,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 1: Introduction",
+          "style": null,
+          "compatibility": 100,
+          "description": "It\u0027s not every day that Ian Boswell, former World Tour cyclist, and current Pro Gravel Racer, gives you a ring and invites you up to spend the week with him at Siloside, his B\u0026B in Peacham, Vermont, USA. But here you are, ready to learn from, ride with and hang out with the man himself.\n\n\u200B\n\nIn this introduction, Ian Boswell shows you around the farmhouse, tells you a little bit about himself, and then sits you down over a coffee to explain what the week ahead holds. Not only will you get in plenty of riding during the week, but Ian will also show you secret swimming holes, how to chop wood, share a few of his favorite meals and buy you one of those ice cream cones he keeps going on about. Above all, he\u0027ll share his views on how to achieve a balance between life, work, and sport - a recipe he\u0027s successfully applying in the latest chapter of his life.\n\n\u200B\n\n_Schedule for A Week with Ian Boswell:_\n\n_Day 1/7: Introduction \u0026 Morning Routine_\n\n_Day 2/7: Strength Endurance_\n\n_Day 3/7: Off_\n\n_Day 4/7: Race Winning Efforts_\n\n_Day 5/7: Creemee Ride_\n\n_Day 6/7: Off_\n\n_Day 7/7: Spikes_\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.08805555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 1,
+            "intensityFactor": 0.39
+          },
+          "workoutId": "nK0VcTl7u9",
+          "contentId": "YLpmCzeKuF",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 0,
+      "type": "Yoga",
+      "rank": 300,
+      "prospects": [
+        {
+          "type": "Yoga",
+          "name": "I. Boswell 2: Morning Routine",
+          "style": null,
+          "compatibility": 100,
+          "description": "Move over, Abi Carver. Ian\u0027s taking us up to the top of the barn for his regular morning workout -- a combination of strength, yoga, and some moves that can only be described as Boswellian. So pull out that yoga mat and get ready to move. Feel free to pause the video whenever you like if you want more time with any of the exercises.\n\n\u200B\n\nYou will need a foam roller for this workout.\n\n\u200B\n\n_Do this on: Day 1 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.6205555555555555,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 22,
+            "intensityFactor": 0.6
+          },
+          "workoutId": "nfTUwCVcMe",
+          "contentId": "6GSJgLPHH4",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 3: Strength Endurance",
+          "style": null,
+          "compatibility": 100,
+          "description": "When he\u0027s riding inside, Ian\u0027s a fan of the Sufferfest workouts Power Station and GOAT. So it\u0027s no surprise he\u0027s taking you on one of his favorite rides: big gear strength efforts on long climbs in the hills around the farmhouse. Not only that, but he\u0027s also going to teach you to cut down a tree and stack firewood! What a day!\n\n\u200B\n\n_Do this on: Day 2 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.0608333333333333,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 4,
+              "map": 2,
+              "ftp": 5
+            },
+            "tss": 56,
+            "intensityFactor": 0.73
+          },
+          "workoutId": "zegk6vzC6N",
+          "contentId": "Xiauj3wr2s",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 4: Race Winning Efforts",
+          "style": null,
+          "compatibility": 100,
+          "description": "You don\u0027t win races by just hanging out on the farm. So today, you\u0027ll head out with Ian for a quick warm-up and then through a series of intervals with big sprints and sub-threshold efforts. Off-the-bike, Ian\u0027s got some treats lined up for you, including his favorite fishing spot and maybe even ice cream if you hit all your workout targets.\n\n\u200B\n\n_Do this on: Day 4 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.7608333333333334,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 3,
+              "nm": 3,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 63,
+            "intensityFactor": 0.91
+          },
+          "workoutId": "lSw3H2Socd",
+          "contentId": "SknXrSD2HE",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "AWWIB Creamy Ride",
+          "style": null,
+          "compatibility": 100,
+          "description": null,
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 1.3666666666666667,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": null,
+              "nm": null,
+              "map": null,
+              "ftp": null
+            },
+            "tss": 98,
+            "intensityFactor": 0.85
+          },
+          "workoutId": "r4xl7AQmzt",
+          "contentId": "oWyulclYPQ",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "type": "Cycling",
+      "rank": 200,
+      "prospects": [
+        {
+          "type": "Cycling",
+          "name": "I. Boswell 6: Spikes",
+          "style": null,
+          "compatibility": 100,
+          "description": "Good morning! It\u0027s straight into the kitchen to make a hearty breakfast with Ian. Then it\u0027s outside to get ready for a workout of 3 x 10-minute sub-threshold efforts with 15-second sprints every couple of minutes. In between, you\u0027ll learn more about Ian\u0027s passion for food and coffee.\n\n\u200B\n\n_Do this on: Day 7 of the 7-day plan._\n",
+          "intensity": {
+            "master": 1,
+            "nm": null,
+            "ac": null,
+            "map": null,
+            "ftp": null
+          },
+          "trainerSetting": {
+            "mode": "ERG",
+            "level": null
+          },
+          "plannedDuration": 0.9761111111111112,
+          "durationType": "Time",
+          "metrics": {
+            "ratings": {
+              "ac": 1,
+              "nm": 3,
+              "map": 3,
+              "ftp": 5
+            },
+            "tss": 56,
+            "intensityFactor": 0.76
+          },
+          "workoutId": "Mjaf3I408C",
+          "contentId": "DlTtDIhCWr",
+          "notes": null,
+          "fourDPWorkoutGraph": null
+        }
+      ]
+    }
+  ],
+  "addOns": []
+}

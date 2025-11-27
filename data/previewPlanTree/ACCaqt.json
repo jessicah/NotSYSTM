@@ -1,0 +1,30 @@
+{
+  "uid": "ACCaqt",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Mountain Fondo",
+  "stepDescription": "Mountain Fondo - Moderate Volume - 3:1 ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "L95R4IVrvw",
+      "name": "Road Mountain Fondo Event 3:1 Med Vol ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "L95R4IVrvw",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

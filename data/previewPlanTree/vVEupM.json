@@ -1,0 +1,30 @@
+{
+  "uid": "vVEupM",
+  "name": "SYSTM Monthly Challenge",
+  "description": "November: Groundwork",
+  "stepTitle": "Groundwork",
+  "stepDescription": "Groundwork",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "17ZIl6",
+      "name": "Wahoo X March Challenge: Embrace Every Moment",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "DNGYfhJ1T2",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

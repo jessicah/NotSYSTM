@@ -1,0 +1,30 @@
+{
+  "uid": "FXFlg2",
+  "name": "2 Weeks",
+  "description": null,
+  "stepTitle": "New Routine",
+  "stepDescription": "2-Weeks",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "VjLRby",
+      "name": "Habit Forming 2 weeks ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "5Cc1S35Aaw",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

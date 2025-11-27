@@ -1,0 +1,30 @@
+{
+  "uid": "BbpYsR",
+  "name": "No",
+  "description": "Does not include strength training",
+  "stepTitle": "Tri Intro ",
+  "stepDescription": "Intro to Triathlon - 2:1 - Event Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "FEcNjD",
+      "name": "SYSTM Intro to Triathlon/2:1/Event",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "2cHUnS3uIp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

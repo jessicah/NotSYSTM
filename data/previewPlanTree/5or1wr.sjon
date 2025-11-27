@@ -1,0 +1,30 @@
+{
+  "uid": "5or1wr",
+  "name": "No",
+  "description": null,
+  "stepTitle": "eSports",
+  "stepDescription": "eSports - 2:1 - Low Volume",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "mzfKbn",
+      "name": "eSports: Sub 20-min - 2:1 - Low Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "zeEa8zUVdt",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

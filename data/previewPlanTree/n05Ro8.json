@@ -1,0 +1,30 @@
+{
+  "uid": "n05Ro8",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Posterior Chain Level 3",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "ZQIBdCCDMJ",
+      "name": "Special Focus: Post Chain Level 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "ZQIBdCCDMJ",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid": "mlb8uq",
+  "name": "3",
+  "description": null,
+  "stepTitle": "Strength Level 3",
+  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "eAI3B9roX3",
+      "name": "Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "eAI3B9roX3",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

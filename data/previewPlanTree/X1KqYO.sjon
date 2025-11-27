@@ -1,0 +1,30 @@
+{
+  "uid": "X1KqYO",
+  "name": "No",
+  "description": null,
+  "stepTitle": "Sub-60 Gravel",
+  "stepDescription": "Sub-60 Mile Gravel - Low Volume - 3:1",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "nPhsm81Hng",
+      "name": "Gravel 40-62 mile 3:1 Low Volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "nPhsm81Hng",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

@@ -1,0 +1,3673 @@
+{
+  "uid": "V5H1mU",
+  "name": "Cross-Training",
+  "description": "Stand-alone plans for yoga, mobility, strength, and mental training.",
+  "stepTitle": "Cross-Training Focus",
+  "stepDescription": "",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Q9Dlr2",
+      "name": "Mobility \u0026 Stability",
+      "description": "Improve your range of motion and build joint stability to keep your body fluid and strong",
+      "stepTitle": "Mobility \u0026 Stability",
+      "stepDescription": "Improve your range of motion and build joint stability to keep your body fluid and strong",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "kPTTb3",
+          "name": "Daily Mobility Mix",
+          "description": "One short session every day to establish clean movement patterns and good habits",
+          "stepTitle": "Daily Mobility Mix",
+          "stepDescription": "One short session every day to establish clean movement patterns and good habits",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "baquN8",
+              "name": "4 weeks",
+              "description": "A four week block of daily Mobility \u0026 Stability. This goes great with a block cycling plan",
+              "stepTitle": "Mobility \u0026 Stability 4 week - Daily",
+              "stepDescription": "A four week block of daily Mobility \u0026 Stability. This goes great with a block cycling plan",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "JZibXmii06",
+                  "name": "Mobility \u0026 Stability - 4 week-7x week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "JZibXmii06",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "9YJSjm",
+              "name": "12 weeks",
+              "description": "One short session per day for 12 wks. This is the perfect addition to a 12 wk cycling plan.",
+              "stepTitle": "Mobility \u0026 Stability 12 week - Daily",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ApkTABYpHz",
+                  "name": "Mobility \u0026 Stability - 12 week-7x week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "ApkTABYpHz",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "gYNpll",
+          "name": "Mobility Maintenance",
+          "description": "Three short sessions each week to keep your joints functioning like a well-oiled machine",
+          "stepTitle": "Mobility Maintenance",
+          "stepDescription": "Three short sessions each week to keep your joints functioning like a well-oiled machine",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "xpKBcC",
+              "name": "4 weeks",
+              "description": "3 sessions per week for 4 weeks. A great compliment to our cycling block plans",
+              "stepTitle": "Mobility Maintenance - 4 week",
+              "stepDescription": "3 sessions per week for 4 weeks. A great compliment to our cycling block plans",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "hCdqP3",
+                  "name": "Mobility \u0026 Stability - 4 week-3x week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "DrE1OFy6gt",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "9khl0q",
+              "name": "12 weeks",
+              "description": "3 sessions per wk for 12 weeks. This is the perfect compliment to a Cycling plan that includes strength. ",
+              "stepTitle": "Mobility Maintenance - 12 week",
+              "stepDescription": "3 sessions per wk for 12 weeks. This is the perfect compliment to a Cycling plan that includes strength. ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Iy7Azk0fcR",
+                  "name": "Mobility \u0026 Stability - 12 week-3x week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "Iy7Azk0fcR",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "Lx8Ekh",
+      "name": "Strength ",
+      "description": "Build functional strength to turbocharge your speed and power on the bike.",
+      "stepTitle": "Main Focus",
+      "stepDescription": "Do you have a main focus for training?",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "yG9twQ",
+          "name": "MultiSport",
+          "description": "You want to build upper and full body strength to meet the unique demands of multisport events.",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "Z2dPbR",
+              "name": "3:1",
+              "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "nyDVT5",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "J2WBgh",
+                      "name": "MultiSport - Strength - 12wk - 3:1 - Level 1 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "89vNOrSZHY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "3YaUMj",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "38Q8jDfwzU",
+                      "name": "MultiSport - Strength - 12wk - 3:1 - Level 2 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "38Q8jDfwzU",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "em8KyY",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "xsoalMIPUq",
+                      "name": "MultiSport - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "xsoalMIPUq",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "QWQ0q6",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "4TwdUi",
+                      "name": "MultiSport - Strength - 12wk - 3:1 - Level 4 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "qI2FzXmzms",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "DRgKDB",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "T6xz4GVyQ7",
+                      "name": "MultiSport - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "T6xz4GVyQ7",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "vQYdqR",
+              "name": "2:1",
+              "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "bmWyCR",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "QXdKtqkY9T",
+                      "name": "MultiSport - Strength - 12wk - 2:1 - Level 1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "QXdKtqkY9T",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "JPej6P",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 1 - Standalone MultiSport - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "0RD3PFhAxT",
+                      "name": "MultiSport - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "0RD3PFhAxT",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "COWHCH",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "F8Lv31I5Cj",
+                      "name": "MultiSport - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "F8Lv31I5Cj",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "hF1qqD",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "DPyhXAa79e",
+                      "name": "MultiSport - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "DPyhXAa79e",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "bjAkr6",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "gJIwFdHn5G",
+                      "name": "MultiSport - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "gJIwFdHn5G",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "kAc2mR",
+          "name": "Road Cycling",
+          "description": "You need more strength and stability through your core and legs to drive more watts to the pedals.",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "yhk5WX",
+              "name": "2:1",
+              "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": "",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "TGDGUh",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "XNovKHbCP2",
+                      "name": "Road Strength: Level 1 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "XNovKHbCP2",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "7YxFJ7",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "CkMlEUGcUO",
+                      "name": "Road Strength: Level 2 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "CkMlEUGcUO",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "JG4GVo",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "KD5m9dYCVU",
+                      "name": "Road Strength: Level 3 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "KD5m9dYCVU",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "oWJ3Vh",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "61H7lbOPAm",
+                      "name": "Road Strength: Level 4 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "61H7lbOPAm",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "w5PrI5",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "Road - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BGjCJ72RSh",
+                      "name": "Road Strength: Level 5 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "BGjCJ72RSh",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "zKyYIu",
+              "name": "3:1",
+              "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "0K4Crm",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "wLR2zp",
+                      "name": "Road - Strength - 12wk - 3:1 - Level 1 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "36fbmqhIxI",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "z91Wb6",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "2IpK92",
+                      "name": "Road - Strength - 12wk - 3:1 - Level 2 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "4MSDy6LkAH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "mlb8uq",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "eAI3B9roX3",
+                      "name": "Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "eAI3B9roX3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "3j7u60",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HRpNmt",
+                      "name": "Road - Strength - 12wk - 3:1 - Level 4 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8XGSJ7WQOF",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "DarJac",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "Road - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "5sHzKu",
+                      "name": "Road - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "OvcG1eg4Ru",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "W9M7v7",
+          "name": "Off-Road Cycling",
+          "description": "You\u0027re looking for overall strength, stability and focus on upper body strength to handle the demands of riding off road.",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "kjwFM6",
+              "name": "2:1",
+              "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "51cFqU",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "kEH0AAjpkY",
+                      "name": "Dirt Strength: Level 1 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "kEH0AAjpkY",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "NlGsVB",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "eqgSpyLYCr",
+                      "name": "Dirt Strength: Level 2 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "eqgSpyLYCr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "8uJnaA",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZkDXa6AhkL",
+                      "name": "Dirt Strength: Level 3 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ZkDXa6AhkL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ZXR1FZ",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "5ZdS4El2JK",
+                      "name": "Dirt Strength: Level 4 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "5ZdS4El2JK",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "Q9zhUl",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "Off-Road - Strength - 12wk - 2:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "kKtDUxA3dm",
+                      "name": "Dirt Strength: Level 5 - 2:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "kKtDUxA3dm",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "Xf2gd2",
+              "name": "3:1",
+              "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "560PSD",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Strength Level 1",
+                  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 1 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "BGV2U0pJwT",
+                      "name": "Dirt Strength: Level 1 - 3:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "BGV2U0pJwT",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "t6fz9r",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Strength Level 2",
+                  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 2 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "n2xIDrCyhl",
+                      "name": "Dirt Strength: Level 2 - 3:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "n2xIDrCyhl",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "4OdNn0",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Strength Level 3",
+                  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 3 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "b33a6AuBjl",
+                      "name": "Dirt Strength: Level 3 - 3:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "b33a6AuBjl",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "oAk9pP",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Strength Level 4",
+                  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 4 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "RfQnFymFQD",
+                      "name": "Dirt Strength: Level 4 - 3:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "RfQnFymFQD",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "EkvSqR",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Strength Level 5",
+                  "stepDescription": "Off-Road - Strength - 12wk - 3:1 - Level 5 - Standalone ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "NlDrCP9yfw",
+                      "name": "Dirt Strength: Level 5 - 3:1 -12 wks stand alone ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "NlDrCP9yfw",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "ssV79M",
+          "name": "Running",
+          "description": "You\u0027re a runner looking to prevent injuries while maintaining you training goals",
+          "stepTitle": "Progression",
+          "stepDescription": "The weekly work to rest ratio ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "FJJY9q",
+              "name": "2:1",
+              "description": "2 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "WNNwuM",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZkCBfh",
+                      "name": "Run Strength: Level 1 - 12 wks 2:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "eoSpSkBlRq",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "YHseoh",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "lmWJ5hQR4L",
+                      "name": "Run Strength: Level 2 - 12 wks 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "lmWJ5hQR4L",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "BZ5kch",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "R9opFW",
+                      "name": "Run Strength: Level 3 - 12 wks 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "SAhpA4EkHh",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ZQffDM",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "fYTHKXovoQ",
+                      "name": "Run Strength: Level 4 - 12 wks 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "fYTHKXovoQ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "0cWWs3",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "EDvly2",
+                      "name": "Run Strength: Level 5 - 12 wks 2:1 ",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "jeEVR1Dp0D",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "MaPHbl",
+              "name": "3:1",
+              "description": "3 \u0027on\u0027 weeks followed by 1 rest week",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "FCJZZy",
+                  "name": "Level 1",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "gYqGBHqAU7",
+                      "name": "Run Strength: Level 1 - 12 wks 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "gYqGBHqAU7",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "HxUAL0",
+                  "name": "Level 2",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Dduco9",
+                      "name": "Run Strength: Level 2 - 12 wks 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "TR3FwG1edP",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "KMDHCL",
+                  "name": "Level 3",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "E8FEPBrTLH",
+                      "name": "Run Strength: Level 3 - 12 wks 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "E8FEPBrTLH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "TpBGLB",
+                  "name": "Level 4",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "XILCfn7DNc",
+                      "name": "Run Strength: Level 4 - 12 wks 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "XILCfn7DNc",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "QinOhL",
+                  "name": "Level 5",
+                  "description": null,
+                  "stepTitle": "Running Strength Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "RHCm1Z6j1r",
+                      "name": "Run Strength: Level 5 - 12 wks 3:1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "RHCm1Z6j1r",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "4uxbuD",
+          "name": "Targeted Body Area",
+          "description": "You\u0027d like to focus on a more specific body area ",
+          "stepTitle": "Area",
+          "stepDescription": "You\u0027d like to focus on a more specific body region ",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "YfUomj",
+              "name": "Upper Body ",
+              "description": "As the name suggests this plan is focused on upper body strength but will challenge your core too!",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "DygQVo",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Upper Body Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "qhIL8iwTKl",
+                      "name": "Special Focus Upper Body Level 1  (clone)",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "qhIL8iwTKl",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "bvtbIN",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Upper Body Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "QRY8yRwmvx",
+                      "name": "Special Focus Upper Body Level 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "QRY8yRwmvx",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "IKNFnJ",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Upper Body Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Eum2V2GkE2",
+                      "name": "Special Focus Upper Body Level 3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Eum2V2GkE2",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "hYigkw",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Upper Body Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ilchiWj5Lv",
+                      "name": "Special Focus Upper Body Level 4",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ilchiWj5Lv",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "byZjEc",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Upper Body Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "OXepnHlWRv",
+                      "name": "Special Focus Upper Body Level 5",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "OXepnHlWRv",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "rONQOX",
+              "name": "Lower Body ",
+              "description": "Your legs need an extra challenge? Start here. Don\u0027t be fooled just because you don\u0027t have weights.",
+              "stepTitle": "Level",
+              "stepDescription": "",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "GApFTu",
+                  "name": "1",
+                  "description": "",
+                  "stepTitle": "Lower Body Level 1",
+                  "stepDescription": "Level 1 Lower body",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Tx5sMZYUSL",
+                      "name": "Special Focus Lower Body Level 1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Tx5sMZYUSL",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "QDBw4c",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Lower Body Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HuMMQodY2a",
+                      "name": "Special Focus Lower Body Level 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "HuMMQodY2a",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "YARkK7",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Lower Body Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZAYKM7024s",
+                      "name": "Special Focus Lower Body Level 3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ZAYKM7024s",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "LBoK6Y",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Lower Body Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "JwjIPRfUwA",
+                      "name": "Special Focus Lower Body Level 4",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "JwjIPRfUwA",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "rOap9g",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Lower Body Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "8ZrVtkg7Pa",
+                      "name": "Special Focus Lower Body Level 5",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "8ZrVtkg7Pa",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "s9L5fs",
+              "name": "Core",
+              "description": "Runner, Swimmer, Cyclist or all of the above, this core focus will bump up your game regardless.",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "Kf6BfK",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Core Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "qxGdx8dsQ3",
+                      "name": "Special Focus: Core Level 1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "qxGdx8dsQ3",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "uDY3E7",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Core Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "3sdgilyCyH",
+                      "name": "Special Focus: Core Level 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "3sdgilyCyH",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "m7hwZv",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Core Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "bnWGWhcdoR",
+                      "name": "Special Focus: Core Level 3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "bnWGWhcdoR",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "X3XFPx",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Core Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "CqOuONydya",
+                      "name": "Special Focus: Core Level 4",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "CqOuONydya",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "cy3sC4",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Core Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "lWxN7V9Bcx",
+                      "name": "Special Focus: Core Level 5",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "lWxN7V9Bcx",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "eWnu2O",
+              "name": "Dynamic",
+              "description": "The perfect plan if you want to challenge your nervous system, improve coordination, and add explosiveness to your routine. A must for trail runners and mountain bikers alike.",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "mM8VqP",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Dynamic Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "5WW6GTfAay",
+                      "name": "Special Focus: Dynamic Level 1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "5WW6GTfAay",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "EeZth4",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Dynamic Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "OYiYsJZgi0",
+                      "name": "Special Focus: Dynamic Level 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "OYiYsJZgi0",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "ZfxoQM",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Dynamic Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "FodxhZMzVr",
+                      "name": "Special Focus: Dynamic Level 3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "FodxhZMzVr",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "xkHJbJ",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Dynamic Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "vEcKHC96RN",
+                      "name": "Special Focus: Dynamic Level 4",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "vEcKHC96RN",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "O6ftUq",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Dynamic Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "cA1ilhcWZs",
+                      "name": "Special Focus: Dynamic Level 5",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "cA1ilhcWZs",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "yyQxUT",
+              "name": "Posterior Chain",
+              "description": "Look no further for a strong and integrated back side, from calves to glutes to shoulders.",
+              "stepTitle": "Level",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "dsHIfc",
+                  "name": "1",
+                  "description": null,
+                  "stepTitle": "Posterior Chain Level 1",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "agVjWYhhAO",
+                      "name": "Special Focus: Post Chain Level 1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "agVjWYhhAO",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "HyhDaI",
+                  "name": "2",
+                  "description": null,
+                  "stepTitle": "Posterior Chain Level 2",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Rguw6kDGz1",
+                      "name": "Special Focus: Post Chain Level 2",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "Rguw6kDGz1",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "n05Ro8",
+                  "name": "3",
+                  "description": null,
+                  "stepTitle": "Posterior Chain Level 3",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "ZQIBdCCDMJ",
+                      "name": "Special Focus: Post Chain Level 3",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ZQIBdCCDMJ",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "soCDcG",
+                  "name": "4",
+                  "description": null,
+                  "stepTitle": "Posterior Chain Level 4",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "HILG8pg5Vl",
+                      "name": "Special Focus: Post Chain Level 4",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "HILG8pg5Vl",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "0W7Psv",
+                  "name": "5",
+                  "description": null,
+                  "stepTitle": "Posterior Chain Level 5",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "z8kskqp5YV",
+                      "name": "Special Focus: Post Chain Level 5",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "z8kskqp5YV",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "AZWMKu",
+      "name": "Yoga",
+      "description": "Build strength, flexibility, and balance while helping speed recovery.",
+      "stepTitle": "Yoga Experience ",
+      "stepDescription": "",
+      "icon": null,
+      "plan": null,
+      "hidden": false,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "An7b61",
+          "name": "Excited to improve",
+          "description": null,
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "JbiZNK",
+              "name": "2 Sessions/Week",
+              "description": "About 30 minutes per week",
+              "stepTitle": "Novice Yoga - 2 sessions per week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "eYoof7",
+                  "name": "Beginner Yoga - 2 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "qyEHtYpkzR",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "7K6Udf",
+              "name": "4 Sessions/Week",
+              "description": "About 1 hour per week",
+              "stepTitle": "Novice Yoga - 4 sessions per week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "5I1njN60Pn",
+                  "name": "Beginner Yoga - 4 Sessions/week (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "5I1njN60Pn",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "hTlDaP",
+              "name": "7 Sessions/Week",
+              "description": "About 2 hours per week",
+              "stepTitle": "Novice Yoga - 7 sessions per week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "j0OEBSGMZy",
+                  "name": "Beginner Yoga - 6-7 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "j0OEBSGMZy",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "z1XLtY",
+          "name": "Enthusiast",
+          "description": null,
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "hGhdpY",
+              "name": "2 Sessions/Week",
+              "description": "About 30 minutes per week",
+              "stepTitle": "Intermediate Yoga - 2 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "VrQmCWGPXw",
+                  "name": "Intermediate Yoga - 2 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "VrQmCWGPXw",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "EuSY7e",
+              "name": "4 Sessions/Week",
+              "description": "About 1 hour per week",
+              "stepTitle": "Intermediate Yoga - 4 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "aLDBXQxE9S",
+                  "name": "Intermediate Yoga - 7 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "aLDBXQxE9S",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "BxWoEr",
+              "name": "7 Sessions/Week",
+              "description": "About 2 hours per week",
+              "stepTitle": "Intermediate Yoga - 7 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "BJsHKtp85y",
+                  "name": "Intermediate Yoga - 4 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "BJsHKtp85y",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "u5k7tw",
+          "name": "Expert",
+          "description": null,
+          "stepTitle": "Sessions per week",
+          "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "7rrFPn",
+              "name": "2 Sessions/Week",
+              "description": "About 30 minutes per week",
+              "stepTitle": "Expert Yoga - 2 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ELhPlLLynu",
+                  "name": "Advanced Yoga - 2 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "ELhPlLLynu",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "QNfJzj",
+              "name": "4 Sessions/Week",
+              "description": "About 1 hour per week",
+              "stepTitle": "Expert Yoga - 4 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "f5aKeDaf6F",
+                  "name": "Advanced Yoga - 4 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "f5aKeDaf6F",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "0GaVFy",
+              "name": "7 Sessions/Week",
+              "description": "About 2 hours per week",
+              "stepTitle": "Expert Yoga - 7 Sessions/Week",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "z4aV8ziwYP",
+                  "name": "Advanced Yoga - 7 Sessions/week",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "z4aV8ziwYP",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "6bqrkm",
+          "name": "8 weeks",
+          "description": null,
+          "stepTitle": "Recent Yoga Experience ",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "FfiWe4",
+              "name": "12 weeks ",
+              "description": null,
+              "stepTitle": "Recent Yoga Experience ",
+              "stepDescription": "How would you describe your yoga ability?",
+              "icon": null,
+              "plan": null,
+              "hidden": true,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "aVRdWV",
+                  "name": "Excited to improve",
+                  "description": "You haven\u0027t yet mastered any intermediate yoga sessions",
+                  "stepTitle": "Sessions per week",
+                  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "S9xHKP",
+                      "name": "1-2",
+                      "description": null,
+                      "stepTitle": "3-month yoga build up plan 1-2/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "ijT1oZ",
+                      "name": "2-3",
+                      "description": "",
+                      "stepTitle": "3-month yoga build up plan 23/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "Z3dN1h",
+                      "name": "3-5",
+                      "description": "",
+                      "stepTitle": "3-month yoga build up plan 3-5/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "1kzW82",
+                  "name": "Enthusiast ",
+                  "description": "You have recently completed intermediate yoga sessions",
+                  "stepTitle": "Sessions per week",
+                  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "Jfd6j9",
+                      "name": "1-2",
+                      "description": null,
+                      "stepTitle": "12 week yoga plan 1-2/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "Dgjx3W",
+                      "name": "2-4",
+                      "description": null,
+                      "stepTitle": "12 week yoga plan 2-4/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "Jd0QgP",
+                      "name": "4-6",
+                      "description": null,
+                      "stepTitle": "12 week yoga plan 4-6/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "T8Xt8L",
+                  "name": "Expert ",
+                  "description": "You have recently completed advanced yoga sessions ",
+                  "stepTitle": "Sessions per week",
+                  "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "zDkKsi",
+                      "name": "2-3",
+                      "description": null,
+                      "stepTitle": "12 week Expert Yoga Plan 1-2/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "9cpI8m",
+                      "name": "3-5",
+                      "description": null,
+                      "stepTitle": "12 week Expert Yoga Plan 2-4/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "GJmECX",
+                      "name": "5-7",
+                      "description": null,
+                      "stepTitle": "12 week Expert Yoga Plan 4-6/wk",
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": null,
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "uid": "JxmkI3",
+              "name": "4 weeks",
+              "description": "",
+              "stepTitle": "What duration of plan are you looking for?",
+              "stepDescription": "",
+              "icon": null,
+              "plan": null,
+              "hidden": true,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            },
+            {
+              "uid": "7nCBky",
+              "name": "Expert",
+              "description": "You have recently completed advanced yoga sessions ",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "lWsWUn",
+                  "name": "2-3",
+                  "description": null,
+                  "stepTitle": "8 week Expert Yoga Plan 2-3/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "GYc1h3",
+                  "name": "3-5",
+                  "description": null,
+                  "stepTitle": "8 week Expert Yoga Plan 3-5/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "lDvust",
+                  "name": "5-7",
+                  "description": null,
+                  "stepTitle": "8 week Expert Yoga Plan 5-7/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "PxmjEz",
+              "name": "Excited to improve",
+              "description": "You haven\u0027t yet mastered any intermediate yoga sessions",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "ZnrzWt",
+                  "name": "1-2",
+                  "description": null,
+                  "stepTitle": "8 week yoga build up plan 1-2/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "KHAOcP",
+                  "name": "2-3",
+                  "description": null,
+                  "stepTitle": "8 week yoga build up plan 2-3/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "xqtdIW",
+                  "name": "3-5",
+                  "description": null,
+                  "stepTitle": "8 week yoga build up plan 3-5/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "8QDA2j",
+              "name": "Enthusiast",
+              "description": "You have recently completed intermediate yoga sessions",
+              "stepTitle": "Sessions per week",
+              "stepDescription": "How many yoga activities do you want per week? (most yoga sessions are 15 minutes)  ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "mULSl7",
+                  "name": "1-2",
+                  "description": null,
+                  "stepTitle": "8 week yoga plan 1-2/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "L3yCIv",
+                  "name": "2-4",
+                  "description": null,
+                  "stepTitle": "8 week yoga plan 2-4/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "psak44",
+                  "name": "4-6",
+                  "description": null,
+                  "stepTitle": "8 week yoga plan 4-6/wk",
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "4xKTtC",
+      "name": "Mental",
+      "description": "Learn practical techniques to improve focus, set clear goals, and build a positive mindset.",
+      "stepTitle": "What are you looking for from your MT Plan?",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "FW120H",
+          "name": "Complete Program",
+          "description": "The complete 10 week program as described in the MTP booklet",
+          "stepTitle": "Complete Mental Training Program ",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "moKiHe",
+              "name": "MTP Full 10wk Plan - Booklet Plan",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "Oz3y1f5YGZ",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "DkxSvQ",
+          "name": "Event week Prep",
+          "description": "Just the event week prep session (for those who have previously completed all/most of the full program)",
+          "stepTitle": "Event Week Mental Training Sessions",
+          "stepDescription": "Get ready to crush!",
+          "icon": null,
+          "plan": null,
+          "hidden": false,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "GyKoe6",
+              "name": "MTP Event Week ",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "M9rE29CNNO",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "SlXfnP",
+      "name": "Running",
+      "description": "Build towards your upcoming run event ",
+      "stepTitle": "Event Distance? ",
+      "stepDescription": null,
+      "icon": null,
+      "plan": null,
+      "hidden": true,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "hsWpIE",
+          "name": "5k",
+          "description": "",
+          "stepTitle": "What is your experience with the marathon distance?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "86gXf7",
+              "name": "New/my first 5k ",
+              "description": "Never done a 5K before? This plan is designed to help you complete the distance.",
+              "stepTitle": "First 5K",
+              "stepDescription": "8 week plan 2-3 run per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "5kqTzQ",
+                  "name": "5k Beginner ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "xGgxH7ehpo",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "0jidmu",
+              "name": "Beginner",
+              "description": "You\u2019ve run a 5K before but are still new to running. Build consistency and confidence.",
+              "stepTitle": "Beginner 5k",
+              "stepDescription": "12 week plan 3 runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "PKXk9Z",
+                  "name": "Couch to 5k",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "lLO7t2oHKl",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "gP52e9",
+              "name": "Intermediate",
+              "description": "Completed a few 5Ks? This plan focuses on improving your time and endurance.",
+              "stepTitle": "Intermediate 5k",
+              "stepDescription": "12 week plan 3 runs per week with 1 intense run per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": false,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "7gS3J0FHZb",
+                  "name": "Int 5k ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "7gS3J0FHZb",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "OV8l74",
+              "name": "Advanced",
+              "description": "Experienced runner? Push your limits and achieve peak performance.",
+              "stepTitle": "Advanced 5k",
+              "stepDescription": "12 week plan 3 runs per week with 1-3 intense runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "5OSHAFUqMN",
+                  "name": "Adv 5k  (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "5OSHAFUqMN",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "qphvGf",
+          "name": "10k",
+          "description": null,
+          "stepTitle": "What is your experience with the marathon distance?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "0SmcbG",
+              "name": "Beginner ",
+              "description": "You\u2019ve run a 5K before or maybe even a 10K but are still new to running. Build consistency and confidence.",
+              "stepTitle": "Beginner 10k",
+              "stepDescription": "12 week plan 3-4 runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": true,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": []
+            },
+            {
+              "uid": "6wHxjr",
+              "name": "Intermediate",
+              "description": "Completed a few 10Ks? This plan focuses on improving your time and endurance.",
+              "stepTitle": "Intermediate 10k",
+              "stepDescription": "12 week plan 3-4 runs per week with 1 intense run per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "W3H3r2qNTG",
+                  "name": "Int 10k  (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "W3H3r2qNTG",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "uISF2B",
+              "name": "Advanced",
+              "description": "Experienced runner? Push your limits and achieve peak performance.",
+              "stepTitle": "Advanced 10k",
+              "stepDescription": "12 week plan 4 runs per week with 1-3 intense runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "GBcmFrsDdb",
+                  "name": "Adv 10k  (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "GBcmFrsDdb",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "GlwwLZ",
+          "name": "Half Marathon",
+          "description": null,
+          "stepTitle": "What is your experience with the half marathon distance?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "JqMVSG",
+              "name": "Intermediate",
+              "description": "Completed a few 10Ks or maybe a half marathon? This plan focuses on improving your time and endurance.",
+              "stepTitle": "Intermediate Half Marathon",
+              "stepDescription": "12 week plan 4-5 runs per week with 1 intense run per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "4VzVD7rBe0",
+                  "name": "Int Half  (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "4VzVD7rBe0",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "Ud7wXt",
+              "name": "Advanced",
+              "description": "Experienced runner? Push your limits and achieve peak performance.",
+              "stepTitle": "Advanced Half Marathon",
+              "stepDescription": "12 week plan 5 runs per week with 1-3 intense runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "z9zpGdNC00",
+                  "name": "Adv Half (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "z9zpGdNC00",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "35eeAT",
+          "name": "Marathon",
+          "description": null,
+          "stepTitle": "What is your experience with the marathon distance?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "O7dvHa",
+              "name": "Intermediate",
+              "description": "Completed a few half marathons or maybe even a marathon? This plan focuses on improving your time and endurance.",
+              "stepTitle": "Intermediate Marathon",
+              "stepDescription": "12 week plan 5 runs per week with 1-3 intense runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "h6ZoKCM9Q2",
+                  "name": "Int Full (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "h6ZoKCM9Q2",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            },
+            {
+              "uid": "kgmecQ",
+              "name": "Advanced",
+              "description": "Experienced runner? Push your limits and achieve peak performance.",
+              "stepTitle": "Advanced Marathon",
+              "stepDescription": "12 week plan 5 runs per week with 1-3 intense runs per week ",
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "gUAQqFWhYq",
+                  "name": "Adv Full  (clone)",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": {
+                    "id": "gUAQqFWhYq",
+                    "typename": null
+                  },
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "uid": "h1xvfJ",
+          "name": "An Event",
+          "description": null,
+          "stepTitle": "Event Distance?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": []
+        },
+        {
+          "uid": "hxHaGc",
+          "name": "Goal ",
+          "description": "",
+          "stepTitle": "What are you training for?",
+          "stepDescription": null,
+          "icon": null,
+          "plan": null,
+          "hidden": true,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "8naHd8",
+              "name": "Building Miles",
+              "description": null,
+              "stepTitle": "What is your current weekly mileage?",
+              "stepDescription": null,
+              "icon": null,
+              "plan": null,
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": [
+                {
+                  "uid": "hLnRvr",
+                  "name": "0 ",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": [
+                    {
+                      "uid": "mPaK8G",
+                      "name": "Mileage Builder 1",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "LBfbMPKOpK",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    },
+                    {
+                      "uid": "ZmGL9GcmcW",
+                      "name": "Mileage Builder (run/walks",
+                      "description": null,
+                      "stepTitle": null,
+                      "stepDescription": null,
+                      "icon": null,
+                      "plan": {
+                        "id": "ZmGL9GcmcW",
+                        "typename": null
+                      },
+                      "hidden": null,
+                      "hideFitnessTestAlertMessage": null,
+                      "typename": null,
+                      "children": null
+                    }
+                  ]
+                },
+                {
+                  "uid": "1S9kZy",
+                  "name": "1-7",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "owHQYW",
+                  "name": "8-15",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "Cgl837",
+                  "name": "16-23",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                },
+                {
+                  "uid": "QFlzA9",
+                  "name": "24\u002B",
+                  "description": null,
+                  "stepTitle": null,
+                  "stepDescription": null,
+                  "icon": null,
+                  "plan": null,
+                  "hidden": null,
+                  "hideFitnessTestAlertMessage": null,
+                  "typename": null,
+                  "children": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

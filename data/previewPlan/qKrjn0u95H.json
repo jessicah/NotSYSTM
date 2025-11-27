@@ -1,0 +1,280 @@
+{
+  "previewPlan": [
+    {
+      "id": "qKrjn0u95H",
+      "name": "Onboarding Ride Further",
+      "weakness": "NoWeakness",
+      "grouping": "Ride Further",
+      "category": "",
+      "subcategory": "None",
+      "description": "Welcome to SYSTM, we have hand picked these workouts for you to showcase the variety of what the platform has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the Wahoo X library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy)\n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ)\n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ)\n",
+      "planDescription": "Onboarding Plan",
+      "fixedEndDate": "",
+      "level": "",
+      "type": "Cycling",
+      "uniqueToPlan": "None",
+      "volume": "None",
+      "option": "None",
+      "duration": "1 Week",
+      "progression": "None",
+      "hidden": false,
+      "createdAt": "2023-04-17T20:26:20.023Z",
+      "updatedAt": "2025-11-13T11:00:00.522Z",
+      "version": "1.0.1",
+      "isAddOn": false,
+      "deleted": null,
+      "metadata": {
+        "internalNotes": ""
+      },
+      "primary": [
+        {
+          "day": 0,
+          "type": "Event",
+          "rank": 204,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "Welcome to SYSTM!",
+              "style": null,
+              "compatibility": 100,
+              "description": "Welcome, we have hand picked these workouts for you to showcase the variety of what SYSTM has to offer, we hope you enjoy them!\n\n\u200B\n\nAll of our workouts are designed by our dedicated Sports Science team and each one has a unique purpose. The targets in these workouts are based on estimated values unless you have completed one of our fitness assessments so if the targets don\u2019t feel quite right, complete the Half Monty fitness assessment to determine your FTP and MAP.\n\n\u200B\n\nOn top of cycling workouts, the library also includes other categories of content. If you would like to try some of these, here are some of of our recommendations:\n\n1. [Shoulder \u0026 Upper Back Mobility A](https://systm.wahoofitness.com/content-details/WSQ9YJ4yRy) \n2. [Basic Yoga Poses](https://systm.wahoofitness.com/content-details/qxs6YvzsoQ) \n3. [Intro to the SYSTM Mental Training Program](https://systm.wahoofitness.com/content-details/YtFOky53SZ) \n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "wfIciOSiEy",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "type": "Cycling",
+          "rank": 209,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Phil wins the Tour",
+              "style": null,
+              "compatibility": 100,
+              "description": "Join Phil Gaimon in his bid to \u201Cwin the Tour\u201D as he takes on France\u2019s most iconic mountains\u2014The Tourmalet, Mont Ventoux, Alpe d\u2019Huez and Galibier. This session captures the feel of those legendary ascents with 4 x 10-minute descending threshold intervals. Each one starting above threshold before easing down, forcing you to pace smart, clear the burn, and stay locked in until the summit.\n\n\u200B\n\nBetween climbs, you\u2019ll get some recovery\u2014time to spin the legs and imagine soaking in the views (or raiding a French bakery, Phil-style).\n\n\u200B\n\nPhysiologically, you\u2019ll build muscular endurance, improve your ability to process oxygen, and train your body to go deep without breaking. Mentally, you\u2019ll sharpen pacing skills and resilience\u2014the hallmarks of any great climber.\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9830555555555556,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 5
+                },
+                "tss": 81,
+                "intensityFactor": 0.91
+              },
+              "workoutId": "BqNqT59BWH",
+              "contentId": "wvpZ4nx37B",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "type": "Cycling",
+          "rank": 208,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "N. Henderson 5: At the Velodrome",
+              "style": null,
+              "compatibility": 100,
+              "description": "On a day like today -- warm with clear blue skies -- there\u0027s only one place to go: the Velodrome. As a National Champion on the track himself, and having coached countless track athletes, Neal\u0027s happy to introduce you to the boards with a series of challenges. You\u0027ll start with a little paceline work to ease into things (yes, you\u0027ll have to take your pulls). It gets more difficult from there, as you\u0027ll need to try to lap the group before hitching a ride with a multiple National and World Champion. You\u0027ll finish it off, of course, with a massive Kilometer effort.\n\n\u200B\n\nIn between, you\u0027ll learn a bit more about how Neal spends his recovery time, from gardening to family walks to time spent in his very own chill-out room.\n\n\u200B\n\n**When to ride: Do this on day 5 of the 7-day plan.**\n\n\u200B\n\n_About: Neal Henderson is one of the most accomplished coaches in cycling and multi-sport. His athletes have won more than 50 World Championships, set numerous world and national records, captured Olympic medals, worn leaders jerseys, and won stages in races like the Tour de France. Neal, a former professional triathlete, has won numerous Coach of the Year awards throughout his career from organizations like the US Olympic Committee, USA Cycling and USA Triathlon. Watch the Introduction to this series to learn more._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.8455555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 4,
+                  "nm": 2,
+                  "map": 4,
+                  "ftp": 4
+                },
+                "tss": 61,
+                "intensityFactor": 0.87
+              },
+              "workoutId": "xaM1116Z5B",
+              "contentId": "nrD6MNsPuQ",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "type": "Cycling",
+          "rank": 210,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Wahoo Frontiers 2020",
+              "style": null,
+              "compatibility": 100,
+              "description": "\uD83C\uDFAC Film (2020): 2020 was one heck of a year. We released several episodes about Wahoo athletes pushing themselves and those around them into new frontiers. Here, we compile those videos for your viewing pleasure -- from the transformation and triumph of Ian Boswell to the downhill determination of Tahn\u00E9e Seagrave and several stories in-between, there\u0027s something here to inspire everyone.\n\n\u200B\n\n\uD83D\uDEB4 Workout: This is a great way to watch a compelling documentary while developing your baseline aerobic fitness. The intensity of this workout will vary mostly between 60-70% of FTP, with heart rate remaining entirely in zone 2. This session will add minimal fatigue to your system, while still giving your aerobic engine the workload it needs to continue progressing.\n\n\u200B\n\n[Here\u0027s how to turn off on-screen graphics for the best viewing experience.](https://wahoosystm.com/HelpCenterInspiration)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 1.0769444444444445,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 1,
+                  "nm": 1,
+                  "map": 1,
+                  "ftp": 2
+                },
+                "tss": 45,
+                "intensityFactor": 0.62
+              },
+              "workoutId": "7vlFdjcJ1u",
+              "contentId": "dZ1YIXMPBS",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Cycling",
+          "rank": 201,
+          "prospects": [
+            {
+              "type": "Cycling",
+              "name": "Provence: Gorges de la Nesque",
+              "style": null,
+              "compatibility": 100,
+              "description": "We\u0027re in Provence, France for a stunning 24k ride - and workout - along the Gorges de la Nesque. As you learn all about the local lavender, craft beer, how to make nougat, and why there are all those holes in the ground, Mike will take you through a series of sub-threshold cadence changes and big sprints before cooling down on the run-in to Monieux.\n\n\u200B\n\n[**Route on Strava**](https://www.strava.com/activities/3930255146)\n\n\u200B\n\n_Your Host: There are few people who know the mountains and roads of Europe better than Wahoo Ambassador Michael Cotty. As founder of The Col Collective, Mike has made a career out of riding, filming, and telling the story of epic rides and mountains across the continent. As your On Location co-creator and host, Mike\u0027s engaging character, curious mind, and friendly nature will have you cueing up your next ride with him before you\u0027ve even finished the cool-down._\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0.9080555555555555,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 3,
+                  "nm": 1,
+                  "map": 2,
+                  "ftp": 4
+                },
+                "tss": 56,
+                "intensityFactor": 0.79
+              },
+              "workoutId": "0z9fi8rlKE",
+              "contentId": "wjFNEGiSCO",
+              "notes": "",
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        },
+        {
+          "day": 6,
+          "type": "Event",
+          "rank": 205,
+          "prospects": [
+            {
+              "type": "Event",
+              "name": "What\u0027s Next?",
+              "style": null,
+              "compatibility": 100,
+              "description": "We hope you enjoyed these workouts and spend more time with us on SYSTM.\n\n\u200B\n\nThe Sports Science team uses 4DP to make each workout a customized and unique experience which is most beneficial to you. To make sure you are training with the most accurate targets and to ensure the best results, we highly recommend taking the Half Monty or Full Frontal fitness assessment. Here is a plan to help you take the test: [\u002B\u002Bhttps://wahoosystm.com/CyclingFitnessTestPrep\u002B\u002B](https://wahoosystm.com/CyclingFitnessTestPrep)\n",
+              "intensity": {
+                "master": 1,
+                "nm": null,
+                "ac": null,
+                "map": null,
+                "ftp": null
+              },
+              "trainerSetting": {
+                "mode": "ERG",
+                "level": null
+              },
+              "plannedDuration": 0,
+              "durationType": "Time",
+              "metrics": {
+                "ratings": {
+                  "ac": 0,
+                  "nm": 0,
+                  "map": 0,
+                  "ftp": 0
+                },
+                "tss": null,
+                "intensityFactor": null
+              },
+              "workoutId": "",
+              "contentId": "5v7pVWbwe5",
+              "notes": null,
+              "fourDPWorkoutGraph": null
+            }
+          ]
+        }
+      ],
+      "addOns": []
+    }
+  ]
+}

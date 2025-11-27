@@ -1,0 +1,30 @@
+{
+  "uid": "ugFoKw",
+  "name": "Moderate",
+  "description": "7-10 hours/week",
+  "stepTitle": "KoS Prep",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "T0BrXfv2cI",
+      "name": "KoS 6 week moderate volume",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "T0BrXfv2cI",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

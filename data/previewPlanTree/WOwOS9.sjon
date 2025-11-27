@@ -1,0 +1,162 @@
+{
+  "uid": "WOwOS9",
+  "name": "Low",
+  "description": "4-8 hours/week",
+  "stepTitle": "Progression",
+  "stepDescription": "Weekly work to rest ratio",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "c4nMqf",
+      "name": "2:1",
+      "description": "Two weeks hard followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "yO6lLb",
+          "name": "Yes",
+          "description": "Includes the appropriate amount of strength training",
+          "stepTitle": "Off-Road Triathlon",
+          "stepDescription": "Season Prep - Low Volume - 2:1 - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "bCyEHDwsct",
+              "name": "SYSTM Xterra Triathlon Plan/Low Volume/2:1/Season Prep/Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "bCyEHDwsct",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "5ngx86",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Off Road Triathlon",
+          "stepDescription": "Season Prep - Low Volume - 2:1 ",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "uRB2flc417",
+              "name": "SYSTM Xterra Triathlon Plan/2:1/Low Volume/Season Prep",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "uRB2flc417",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "uid": "aotsXy",
+      "name": "3:1",
+      "description": "Three weeks hard followed by 1 rest week",
+      "stepTitle": "Strength",
+      "stepDescription": "Do you want to include triathlon specific and appropriate strength training?",
+      "icon": null,
+      "plan": null,
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": [
+        {
+          "uid": "MAMkx1",
+          "name": "Yes",
+          "description": "Includes the appropriate amount of strength training",
+          "stepTitle": "Off-Road Triathlon",
+          "stepDescription": "Season Prep - Low Volume - 3:1 - Strength",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "xaP2q36qPh",
+              "name": "SYSTM Xterra Triathlon Plan/Low Volume/3:1/Season Prep/Strength",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "xaP2q36qPh",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        },
+        {
+          "uid": "OLpUwM",
+          "name": "No",
+          "description": "Does not include strength training",
+          "stepTitle": "Off-Road Triathlon",
+          "stepDescription": "Season Prep - Low Volume - 3:1",
+          "icon": null,
+          "plan": null,
+          "hidden": null,
+          "hideFitnessTestAlertMessage": null,
+          "typename": null,
+          "children": [
+            {
+              "uid": "A4LCdXGIhG",
+              "name": "SYSTM Xterra Triathlon Plan/3:1/Low Volume/Season Prep",
+              "description": null,
+              "stepTitle": null,
+              "stepDescription": null,
+              "icon": null,
+              "plan": {
+                "id": "A4LCdXGIhG",
+                "typename": null
+              },
+              "hidden": null,
+              "hideFitnessTestAlertMessage": null,
+              "typename": null,
+              "children": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

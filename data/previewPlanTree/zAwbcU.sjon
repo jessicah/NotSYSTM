@@ -1,0 +1,30 @@
+{
+  "uid": "zAwbcU",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Cyclocross",
+  "stepDescription": "Cyclocross - High Volume - 2:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "GjcrKfDka6",
+      "name": "Off-Road CX: In-Season 2:1 Med Volume w/Strength (Sun Race) (clone)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "GjcrKfDka6",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

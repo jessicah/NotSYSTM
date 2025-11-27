@@ -1,0 +1,30 @@
+{
+  "uid": "Y7FAgK",
+  "name": "Gran Fondo Asheville",
+  "description": "July 16th",
+  "stepTitle": "Gran Fondo Asheville",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "T2mwVfGh6V",
+      "name": "GFNS 3",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "T2mwVfGh6V",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

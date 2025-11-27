@@ -1,0 +1,30 @@
+{
+  "uid": "dsHIfc",
+  "name": "1",
+  "description": null,
+  "stepTitle": "Posterior Chain Level 1",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "agVjWYhhAO",
+      "name": "Special Focus: Post Chain Level 1",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "agVjWYhhAO",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

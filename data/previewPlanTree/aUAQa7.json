@@ -1,0 +1,30 @@
+{
+  "uid": "aUAQa7",
+  "name": "Full Frontal Prep",
+  "description": "Get your complete 4DP\u00AE profile, Rider Type and primary strength / weakness by completing Full Frontal. ",
+  "stepTitle": "Full Frontal Prep Plan",
+  "stepDescription": "FF Only ",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": true,
+  "typename": null,
+  "children": [
+    {
+      "uid": "mAKD0W",
+      "name": "SYSTM Full Frontal prep week ",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Md0F9jeUxq",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": true,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

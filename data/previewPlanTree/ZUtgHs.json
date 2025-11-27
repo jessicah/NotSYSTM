@@ -1,0 +1,30 @@
+{
+  "uid": "ZUtgHs",
+  "name": "Wahooligan Route",
+  "description": "Wahooligan Route",
+  "stepTitle": "Wahooligan Route",
+  "stepDescription": "The Wahooligan Route is our signature route showcasing the best of our personalized 4DP workouts in SYSTM. No matter your level, this route will be challenging, but rewarding.",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "6kHg9SR4Ft",
+      "name": "TWT Route 2024",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "6kHg9SR4Ft",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

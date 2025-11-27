@@ -1,0 +1,30 @@
+{
+  "uid": "oJO2M7",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Century",
+  "stepDescription": "Century - Moderate Volume - 3:1 - with Strength",
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "euAP4E2Ylp",
+      "name": "Century - Moderate Volume - 3:1 - with Strength",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "euAP4E2Ylp",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

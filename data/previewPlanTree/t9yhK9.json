@@ -1,0 +1,30 @@
+{
+  "uid": "t9yhK9",
+  "name": "Yes",
+  "description": null,
+  "stepTitle": "Rapha Hilly",
+  "stepDescription": null,
+  "icon": null,
+  "plan": null,
+  "hidden": null,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "Nn09DeHc1j",
+      "name": "RAPHA HILLY (no strength)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "Nn09DeHc1j",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

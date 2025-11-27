@@ -1,0 +1,30 @@
+{
+  "uid": "lcHJIc",
+  "name": "Fitness Testing",
+  "description": "1 week plan - Assess your fitness for one or more disciplines.",
+  "stepTitle": "Full Test Week ",
+  "stepDescription": "Pre-Triathlon (3-Sport) Test Week Prep",
+  "icon": null,
+  "plan": null,
+  "hidden": false,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "g5AMGq",
+      "name": "SYSTM Pre-Tri Plan Test Week (all 3 sports)",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "WWYWwVkXI4",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}

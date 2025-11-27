@@ -1,0 +1,30 @@
+{
+  "uid": "fTIjFu",
+  "name": "March 23 - Gran Fondo FL",
+  "description": "Gran Fondo FL",
+  "stepTitle": "Gran Fondo FL",
+  "stepDescription": "6 Week Training Plan",
+  "icon": null,
+  "plan": null,
+  "hidden": true,
+  "hideFitnessTestAlertMessage": null,
+  "typename": null,
+  "children": [
+    {
+      "uid": "1sOi4NhzXr",
+      "name": "GFNS 2025 - Gran Fondo FL 3/23/25",
+      "description": null,
+      "stepTitle": null,
+      "stepDescription": null,
+      "icon": null,
+      "plan": {
+        "id": "1sOi4NhzXr",
+        "typename": null
+      },
+      "hidden": null,
+      "hideFitnessTestAlertMessage": null,
+      "typename": null,
+      "children": null
+    }
+  ]
+}
